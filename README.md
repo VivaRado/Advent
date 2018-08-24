@@ -156,75 +156,74 @@ An exact timeline of events has been compiled during production.
 
 **Timeline with Commentary:**
 
->	05-08-2018_14:00    Encoding files based on Adobe Glyph list
-    05-08-2018_20:00    Operational Illustrator Adobe script to create layers from encoding file.
-    06-08-2018_01:20    Installed python 2.7 x32 for Fontlab
-    06-08-2018_05:00    svg export with proportional resize - ✕ (marks the spot) to be written
-    07-08-2018_03:00    svg export with proportional resize and ✕ (marks the spot)
-    07-08-2018_06:30    fontlab script to import EPS and fontlab script to import EPS for Multiple Master then create Multiple Master.
-    08-08-2018_03:00    Started Transferring the Advent Pro Thin Weight
-    08-08-2018_06:00    Started Transferring the Advent Pro Thin Weight - Transferred  13/40 
-    08-08-2018_13:00    Script to rename FL exported EPSs to illustrator importable and FL importable (errors copy misses files )
-    09-08-2018_07:00    fontlab Script to export glyphs to EPSs with point for later ✕ (marks the spot)
-    09-08-2018_09:30    JSX Script to replace EPS point with ✕ (marks the spot) group and circle
-    09-08-2018_14:30    JSX to import EPSs to positions with  ✕ (marks the spot) group and circle (warnings align the glyphs to baseline)
-    09-08-2018_17:00    Import FL exported EPS glyphs to Illustrator, Import Illustrator export EPS glyphs to FL (Bidirectional Import Export)
-    10-08-2018_05:30    Started Testing all scripts and procedure
-    11-08-2018_15:00    Illustrator script to export anchor count info, Glyph Audit CSV files, and python script to compare.
-    12-08-2018_00:00    Started Componentizing Advent
-    12-08-2018_02:00    46 / 414 Comp. Progress = 2 hours Passed : 18 hours to componentize
-    12-08-2018_03:00    75 / 414 Comp. Progress = 3 hours Passed : 16.56 hours to componentize
-    13-08-2018_01:50    Testing for #S002 smart object placement script
-    13-08-2018_02:40    Started Componentizing Advent at 75 / 414
-    13-08-2018_02:50    Continuing #S002 smart object placement script
-    13-08-2018_04:35    #S002 works for all weight smart object replacement
-    13-08-2018_04:35    Restarted Componentizing Advent at 75 / 414
-    13-08-2018_05:35    103 / 414 Comp. Progress = 4 hours Passed : ( ( 414 / 103 ) * 3 ) 12 hours to componentize
-    13-08-2018_07:35    138 / 414 Comp. Progress = 6 hours Passed : ( ( 414 / 138 ) * 3 ) 9 hours to componentize
-    13-08-2018_08:35    161 / 414 Comp. Progress = 6 hours Passed : ( ( 414 / 161 ) * 3 ) 7 hours to componentize
-    13-08-2018_09:11    169 / 414 Comp. Paused 245 left
-    13-08-2018_15:20    Started Componentizing Advent at 169 / 414
-    13-08-2018_16:50    207 / 414 Comp. Paused 207 left ~ 6 hours left
-    14-08-2018_07:30    Started Componentizing Advent at 207 / 414
-    14-08-2018_12:25    281 / 414 Comp. Progress = 5 hours Passed : ( ( 414 / 281 ) * 3 ) 4 hours to componentize
-    14-08-2018_13:25    289 / 414 Comp. Progress = 1 hours Passed : ( ( 414 / 289 ) * 3 ) 4 hours to componentize
-    14-08-2018_14:30    309 / 414 Comp.
-    15-08-2018_04:00    Started Componentizing Advent at 309 / 414
-    15-08-2018_04:47    Paused Componentizing Advent
-    15-08-2018_05:30    Started Componentizing Advent at ~315 / 414
-    15-08-2018_06:50    289 / 414 Comp. Progress = 1hours Passed : ( ( 414 / 351 ) * 3 ) 3.5 hours to componentize
-    15-08-2018_10:30    Started Componentizing Advent at 368 / 414
-    15-08-2018_13:20    Letters done about 50 glyphs left mostly punctuation and componentization of letters bearing punctuation (just the punctuation)
-    16-08-2018_13:00    Installed OSX Lion on Virtualbox and Glyphs App Legacy
-    17-08-2018_14:00    Started Componentizing Advent at 368 / 414 - 50 Punctuation and Ligatures
-    17-08-2018_16:10    Paused Componentizing Advent at 368 / 414 - 13 / 50 Punctuation and Ligatures
-    18-08-2018_08:00    Started Componentizing Advent at 368 / 414 - 5 / 50 Punctuation and Ligatures
-    18-08-2018_08:50    Finished Componentizing 50 Punctuation and Ligatures
-    18-08-2018_08:55    Started Aligning Punctuated Glyphs 0 / 170
-    18-08-2018_10:30    Paused Aligning Punctuated Glyphs 108 / 170
-    18-08-2018_12:00    Started Aligning Punctuated Glyphs 108 / 170
-    18-08-2018_15:30    Finished all Componentizing 414
-    18-08-2018_15:50    Started Export / Import Tests Illustrator File to EPS, EPS to Fontlab
-    18-08-2018_16:20    Export and Import Single weight working fine (AI_EPS_Exporter_tpg,FL_import_EPS_files_to_glyphs), now testing import of multiple masters. (FL_import_EPS_files_to_glyphs_to_master)
-    18-08-2018_16:25    Working and masters are correct for partial export - lets see for the whole font.
-    19-08-2018_08:15    Entire font imported. Fontlab has issues when importing EPS, it sort of does some optimization over the paths and ruins the contours. Probably solvable with "Add anchor points when exporting".
-    19-08-2018_16:30    Fontlab produces inconsistent result in terms of path count, as it seems like its running a simplification algorithm. Some work to balance the glyphs will be needed. Probably Componentization in Fontlab as well. Idiotic Optimization idea to Optimize imported glyphs. Already Optimized in Illustrator.
-    19-08-2018_16:45    Started re-componentizing in fontlab - Fontlab has to move out of the way.
-    19-08-2018_18:00    Re Componentizing on the simplified glyphs is non viable i need to merge the fonts to master.
-    19-08-2018_01:05    Possible solution with resetting the direction and the start of the paths for the blend to work.
-    19-08-2018_01:44    First Successful Light to Regular Multiple Master with exact glyphs from illustrator.
-    20-08-2018_09:30    Started Blending Thin Regular
-    20-08-2018_11:00    Blended Master "advent_thin_reg_blend_02.vfb" Result of: "advent_reg_04_revd_01_contdir_01_reloc_01.vfb", "advent_thn_04_revd_01_contdir_01_reloc_01.vfb"
-    20-08-2018_12:00    AdventPro Variable ( Thin - Regular Master Derivative ). Variable Font and Derivatives. Reblendable TTFs.
-    20-08-2018_13:30    First Kerning results look promising - typefacet autokern.
-    20-08-2018_22:40    After some issues with fontmake, it seems like the typefacet autokern is to blame for some sort of inconsistent kerning results. Investigating.
-    20-08-2018_23:40    fontmake merger.py was failing so i commented out this line 146 #assert all(sorted(vs, key=sortKey) == vs for vs in lst) and i have export with kerning.
-    21-08-2018_02:00    Final Working thnbold variant ready
-    21-08-2018_16:50    Crossblended thn,reg,bld VFBs
-    21-08-2018_19:50    Cross Blended thn,reg,bld fontmake UFOs, build success
-    21-08-2018_21:25    Variable Advent Pro with Italics ready - Issue if Italics is kerned its not compiling.
-    22-08-2018_09:40    Compiled a list for each weight, with the characters included, and passed only that to typefacet autokern. That solved the problem, now the whole font is kerned and perfect.    22-08-2018_09:40    Compiled a list for each weight, with the characters included, and passed only that to typefacet autokern. That solved the problem, now the whole font is kerned and perfect.
-
+> 05-08-2018_14:00    Encoding files based on Adobe Glyph list \
+05-08-2018_20:00    Operational Illustrator Adobe script to create layers from encoding file. \
+06-08-2018_01:20    Installed python 2.7 x32 for Fontlab \
+06-08-2018_05:00    svg export with proportional resize - ✕ (marks the spot) to be written \
+07-08-2018_03:00    svg export with proportional resize and ✕ (marks the spot) \
+07-08-2018_06:30    fontlab script to import EPS and fontlab script to import EPS for Multiple Master then create Multiple Master. \
+08-08-2018_03:00    Started Transferring the Advent Pro Thin Weight \
+08-08-2018_06:00    Started Transferring the Advent Pro Thin Weight - Transferred  13/40 pages \
+08-08-2018_13:00    Script to rename FL exported EPSs to illustrator importable and FL importable (errors copy misses files ) \
+09-08-2018_07:00    fontlab Script to export glyphs to EPSs with point for later ✕ (marks the spot) \
+09-08-2018_09:30    JSX Script to replace EPS point with ✕ (marks the spot) group and circle \
+09-08-2018_14:30    JSX to import EPSs to positions with  ✕ (marks the spot) group and circle (warnings align the glyphs to baseline) \
+09-08-2018_17:00    Import FL exported EPS glyphs to Illustrator, Import Illustrator export EPS glyphs to FL (Bidirectional Import Export) \
+10-08-2018_05:30    Started Testing all scripts and procedure \
+11-08-2018_15:00    Illustrator script to export anchor count info, Glyph Audit CSV files, and python script to compare.// \
+12-08-2018_00:00    Started Componentizing Advent \
+12-08-2018_02:00    46 / 414 Comp. Progress = 2 hours Passed : 18 hours to componentize \
+12-08-2018_03:00    75 / 414 Comp. Progress = 3 hours Passed : 16.56 hours to componentize \
+13-08-2018_01:50    Testing for #S002 smart object placement script \
+13-08-2018_02:40    Started Componentizing Advent at 75 / 414 \
+13-08-2018_02:50    Continuing #S002 smart object placement script \
+13-08-2018_04:35    #S002 works for all weight smart object replacement \
+13-08-2018_04:35    Restarted Componentizing Advent at 75 / 414 \
+13-08-2018_05:35    103 / 414 Comp. Progress = 4 hours Passed : ( ( 414 / 103 ) * 3 ) 12 hours to componentize \
+13-08-2018_07:35    138 / 414 Comp. Progress = 6 hours Passed : ( ( 414 / 138 ) * 3 ) 9 hours to componentize \
+13-08-2018_08:35    161 / 414 Comp. Progress = 6 hours Passed : ( ( 414 / 161 ) * 3 ) 7 hours to componentize \
+13-08-2018_09:11    169 / 414 Comp. Paused 245 left \
+13-08-2018_15:20    Started Componentizing Advent at 169 / 414 \
+13-08-2018_16:50    207 / 414 Comp. Paused 207 left ~ 6 hours left \
+14-08-2018_07:30    Started Componentizing Advent at 207 / 414 \
+14-08-2018_12:25    281 / 414 Comp. Progress = 5 hours Passed : ( ( 414 / 281 ) * 3 ) 4 hours to componentize \
+14-08-2018_13:25    289 / 414 Comp. Progress = 1 hours Passed : ( ( 414 / 289 ) * 3 ) 4 hours to componentize \
+14-08-2018_14:30    309 / 414 Comp. \
+15-08-2018_04:00    Started Componentizing Advent at 309 / 414 \
+15-08-2018_04:47    Paused Componentizing Advent \
+15-08-2018_05:30    Started Componentizing Advent at ~315 / 414 \
+15-08-2018_06:50    289 / 414 Comp. Progress = 1hours Passed : ( ( 414 / 351 ) * 3 ) 3.5 hours to componentize \
+15-08-2018_10:30    Started Componentizing Advent at 368 / 414 \
+15-08-2018_13:20    Letters done about 50 glyphs left mostly punctuation and componentization of letters bearing punctuation (just the punctuation) \
+16-08-2018_13:00    Installed OSX Lion on Virtualbox and Glyphs App Legacy \
+17-08-2018_14:00    Started Componentizing Advent at 368 / 414 - 50 Punctuation and Ligatures \
+17-08-2018_16:10    Paused Componentizing Advent at 368 / 414 - 13 / 50 Punctuation and Ligatures \
+18-08-2018_08:00    Started Componentizing Advent at 368 / 414 - 5 / 50 Punctuation and Ligatures \
+18-08-2018_08:50    Finished Componentizing 50 Punctuation and Ligatures \
+18-08-2018_08:55    Started Aligning Punctuated Glyphs 0 / 170 \
+18-08-2018_10:30    Paused Aligning Punctuated Glyphs 108 / 170 \
+18-08-2018_12:00    Started Aligning Punctuated Glyphs 108 / 170 \
+18-08-2018_15:30    Finished all Componentizing 414 \
+18-08-2018_15:50    Started Export / Import Tests Illustrator File to EPS, EPS to Fontlab \
+18-08-2018_16:20    Export and Import Single weight working fine (AI_EPS_Exporter_tpg,FL_import_EPS_files_to_glyphs), now testing import of multiple masters. (FL_import_EPS_files_to_glyphs_to_master) \
+18-08-2018_16:25    Working and masters are correct for partial export - lets see for the whole font. \
+19-08-2018_08:15    Entire font imported. Fontlab has issues when importing EPS, it sort of does some optimization over the paths and ruins the contours. Probably solvable with "Add anchor points when exporting". \
+19-08-2018_16:30    Fontlab produces inconsistent result in terms of path count, as it seems like its running a simplification algorithm. Some work to balance the glyphs will be needed. Probably Componentization in Fontlab as well. Idiotic Optimization idea to Optimize imported glyphs. Already Optimized in Illustrator. \
+19-08-2018_16:45    Started re-componentizing in fontlab - Fontlab has to move out of the way. \
+19-08-2018_18:00    Re Componentizing on the simplified glyphs is non viable i need to merge the fonts to master. \
+19-08-2018_01:05    Possible solution with resetting the direction and the start of the paths for the blend to work. \
+19-08-2018_01:44    First Successful Light to Regular Multiple Master with exact glyphs from illustrator. \
+20-08-2018_09:30    Started Blending Thin Regular \
+20-08-2018_11:00    Blended Master "advent_thin_reg_blend_02.vfb" Result of: "advent_reg_04_revd_01_contdir_01_reloc_01.vfb", "advent_thn_04_revd_01_contdir_01_reloc_01.vfb" \
+20-08-2018_12:00    AdventPro Variable ( Thin - Regular Master Derivative ). Variable Font and Derivatives. Reblendable TTFs. \
+20-08-2018_13:30    First Kerning results look promising - typefacet autokern. \
+20-08-2018_22:40    After some issues with fontmake, it seems like the typefacet autokern is to blame for some sort of inconsistent kerning results. Investigating. \
+20-08-2018_23:40    fontmake merger.py was failing so i commented out this line 146 #assert all(sorted(vs, key=sortKey) == vs for vs in lst) and i have export with kerning. \
+21-08-2018_02:00    Final Working thnbold variant ready \
+21-08-2018_16:50    Crossblended thn,reg,bld VFBs \
+21-08-2018_19:50    Cross Blended thn,reg,bld fontmake UFOs, build success \
+21-08-2018_21:25    Variable Advent Pro with Italics ready - Issue if Italics is kerned its not compiling. \
+22-08-2018_09:40    Compiled a list for each weight, with the characters included, and passed only that to typefacet autokern. That solved the problem, now the whole font is kerned and perfect. \
 1. **Research:**
 
 Encoding files based on Adobe Glyph list,  Operational Illustrator Adobe script to create layers from encoding file. Installed python 2.7 x32 for Fontlab, EPS export with proportional resize and proper positioning, fontlab script to import EPS.
