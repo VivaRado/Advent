@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guilsinglright" format="1">
+  <advance width="246"/>
+  <unicode hex="203A"/>
+  <outline>
+    <contour>
+      <point x="37" y="72" type="line"/>
+      <point x="236" y="242" type="line"/>
+      <point x="97" y="412" type="line"/>
+      <point x="57" y="378" type="line"/>
+      <point x="169" y="242" type="line"/>
+      <point x="11" y="103" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>0.6</real>
+    <real>1</real>
+    <real>0.713</real>
+    <real>1</real>
+  </array>
+  </dict>
+  </lib>
+</glyph>

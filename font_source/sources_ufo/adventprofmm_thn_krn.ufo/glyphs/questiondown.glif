@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="questiondown" format="1">
+  <advance width="354"/>
+  <unicode hex="00BF"/>
+  <outline>
+    <contour>
+      <point x="337" y="147" type="curve"/>
+      <point x="319" y="147" type="line"/>
+      <point x="319" y="48"/>
+      <point x="246" y="3"/>
+      <point x="176" y="3" type="curve" smooth="yes"/>
+      <point x="89" y="3"/>
+      <point x="32" y="69"/>
+      <point x="32" y="143" type="curve" smooth="yes"/>
+      <point x="32" y="191"/>
+      <point x="49" y="224"/>
+      <point x="89" y="272" type="curve" smooth="yes"/>
+      <point x="153" y="347"/>
+      <point x="195" y="362"/>
+      <point x="195" y="459" type="curve" smooth="yes"/>
+      <point x="195" y="521" type="line"/>
+      <point x="178" y="521" type="line"/>
+      <point x="178" y="521"/>
+      <point x="178" y="475"/>
+      <point x="178" y="454" type="curve" smooth="yes"/>
+      <point x="178" y="383"/>
+      <point x="156" y="367"/>
+      <point x="83" y="290" type="curve" smooth="yes"/>
+      <point x="44" y="248"/>
+      <point x="16" y="208"/>
+      <point x="16" y="142" type="curve" smooth="yes"/>
+      <point x="16" y="42"/>
+      <point x="96" y="-12"/>
+      <point x="176" y="-14" type="curve" smooth="yes"/>
+      <point x="256" y="-16"/>
+      <point x="337" y="36"/>
+    </contour>
+    <contour>
+      <point x="186" y="632" type="curve" smooth="yes"/>
+      <point x="178" y="632"/>
+      <point x="171" y="626"/>
+      <point x="171" y="617" type="curve" smooth="yes"/>
+      <point x="171" y="609"/>
+      <point x="178" y="602"/>
+      <point x="186" y="602" type="curve" smooth="yes"/>
+      <point x="195" y="602"/>
+      <point x="202" y="609"/>
+      <point x="202" y="617" type="curve" smooth="yes"/>
+      <point x="202" y="626"/>
+      <point x="195" y="632"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>0.6</real>
+    <real>1</real>
+    <real>0.713</real>
+    <real>1</real>
+  </array>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,234 @@
+body {
+	margin-top: 0;
+}
+html, body {
+	font-family: "sans-serif"
+}
+#main {
+	margin: 0 auto;
+	padding: 2%;
+	overflow-x: hidden;
+}
+a:link, a:visited {
+	text-decoration: underline;
+}
+a:visited {}
+a:hover, a:active {}
+input::-moz-focus-inner {
+	border: 0;
+}
+*:focus {
+	outline: 0 none !important;
+}
+*::-moz-focus-inner {
+	border: 0;
+}
+header {
+	border-bottom: 1px solid #F06;
+	padding-bottom: calc(1em + 2%);
+}
+header a:link {
+	text-decoration: none;
+}
+h1, h2, h3 {}
+h2, h3 {
+	font-variation-settings: 'wght' 500;
+}
+h3 {
+	margin-top: 2em;
+	color: #F06;
+}
+p {
+	max-width: 68ex;
+}
+table {
+	width: 100%;
+}
+th, td {
+	vertical-align: top;
+}
+tr+tr th, tr+tr td {
+	padding-top: 0.5em;
+}
+th {
+	padding-right: 0.5em;
+	width: 6rem;
+}
+strong {
+	font-weight: bold;
+}
+cite, em {
+	font-style: italic;
+}
+.controls {
+	white-space: nowrap;
+	font-family: "monospace";
+}
+.controls th, .controls td {
+	vertical-align: middle;
+	white-space: nowrap;
+}
+.min_val {
+	text-align: right;
+}
+.slider {
+	padding: 0;
+}
+input[type='range'] {
+	margin: 0;
+	vertical-align: middle;
+	padding: 0;
+	outline: none;
+}
+figure {
+	float: left;
+	width: 100%;
+	position: relative;
+	margin: 0;
+}
+figure>div {
+	position: relative;
+	width: 100%;
+	float: left;
+	display: inline;
+	word-break: break-all;
+}
+figure span {
+	display: inline;
+	word-break: break-all;
+}
+h2 {
+	line-height: 0.8em;
+	font-family: 'AdventProVar';
+	font-size: 3em;
+	letter-spacing: 0.05em;
+}
+h2 small {
+	text-transform: uppercase;
+	font-weight: 100;
+}
+.description {
+	font-family: 'AdventProVar';
+	font-size: 2em;
+	letter-spacing: 0.04em;
+	font-kerning: normal;
+}
+.sample, .no_sample {
+	font-size: 2em;
+	line-height: 1;
+	margin-top: 0;
+}
+.XS {
+	font-size: 1em
+}
+.S {
+	font-size: 1.4em
+}
+.M {
+	font-size: 2em
+}
+.L {
+	font-size: 3em
+}
+.XL {
+	font-size: 4em
+}
+.XXL {
+	font-size: 5.4em
+}
+.XXXL {
+	font-size: 7em
+}
+input[type=range] {
+	-webkit-appearance: none;
+	width: 100%;
+	margin: 11.5px 0;
+	height: 3rem;
+}
+input[type=range]:focus {
+	outline: none;
+	border: 0;
+}
+input[type=range]::-webkit-slider-runnable-track {
+	width: 100%;
+	height: 1px;
+	cursor: pointer;
+	box-shadow: 0px 0px 0px #000000, 0px 0px 0px #0d0d0d;
+	background: #3397d9;
+	border-radius: 0px;
+	border: 0px solid #ffffff;
+}
+input[type=range]::-webkit-slider-thumb {
+	box-shadow: 0px 0px 5px #ffffff, 0px 0px 0px #ffffff;
+	border: 0px solid #ffffff;
+	height: 24px;
+	width: 16px;
+	border-radius: 3px;
+	background: #ff007a;
+	cursor: pointer;
+	-webkit-appearance: none;
+	margin-top: -11.5px;
+}
+input[type=range]:focus::-webkit-slider-runnable-track {
+	background: #48a2dd;
+}
+input[type=range]::-moz-range-track {
+	width: 100%;
+	cursor: pointer;
+	box-shadow: 0px 0px 0px #000000, 0px 0px 0px #0d0d0d;
+	background: #888;
+	border-radius: 0px;
+	border: 0px solid #ffffff;
+}
+input[type=range]::-moz-range-thumb {
+	box-shadow: 0px 0px 5px #ffffff, 0px 0px 0px #ffffff;
+	border: 0px solid #ffffff;
+	height: 16px;
+	width: 16px;
+	border-radius: 100%;
+	background: #000;
+	cursor: pointer;
+}
+input[type=range]::-ms-track {
+	width: 100%;
+	height: 1px;
+	cursor: pointer;
+	background: transparent;
+	border-color: transparent;
+	color: transparent;
+}
+input[type=range]::-ms-fill-lower {
+	background: #268acc;
+	border: 0px solid #ffffff;
+	border-radius: 0px;
+	box-shadow: 0px 0px 0px #000000, 0px 0px 0px #0d0d0d;
+}
+input[type=range]::-ms-fill-upper {
+	background: #3397d9;
+	border: 0px solid #ffffff;
+	border-radius: 0px;
+	box-shadow: 0px 0px 0px #000000, 0px 0px 0px #0d0d0d;
+}
+input[type=range]::-ms-thumb {
+	box-shadow: 0px 0px 5px #ffffff, 0px 0px 0px #ffffff;
+	border: 0px solid #ffffff;
+	height: 24px;
+	width: 16px;
+	border-radius: 3px;
+	background: #ff007a;
+	cursor: pointer;
+	height: 1px;
+}
+input[type=range]:focus::-ms-fill-lower {
+	background: #3397d9;
+}
+input[type=range]:focus::-ms-fill-upper {
+	background: #48a2dd;
+}
+.fonts {
+	margin-top: 2rem;
+	position: relative;
+	float: left;
+	display: block;
+	width: 100%;
+}

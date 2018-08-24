@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="igrave" format="1">
+  <advance width="100"/>
+  <unicode hex="00EC"/>
+  <outline>
+    <contour>
+      <point x="82" y="454" type="line"/>
+      <point x="64" y="454" type="line"/>
+      <point x="64" y="0" type="line"/>
+      <point x="82" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="6" y="586" type="curve"/>
+      <point x="56" y="494" type="line"/>
+      <point x="75" y="494" type="line"/>
+      <point x="29" y="598" type="line"/>
+      <point x="26" y="606"/>
+      <point x="17" y="611"/>
+      <point x="9" y="607" type="curve"/>
+      <point x="2" y="602"/>
+      <point x="1" y="593"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>0.6</real>
+    <real>1</real>
+    <real>0.713</real>
+    <real>1</real>
+  </array>
+  </dict>
+  </lib>
+</glyph>

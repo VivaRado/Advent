@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="upsilondieresis" format="1">
+  <advance width="362"/>
+  <unicode hex="03CB"/>
+  <outline>
+    <contour>
+      <point x="348" y="167" type="curve" smooth="yes"/>
+      <point x="348" y="454" type="line"/>
+      <point x="332" y="454" type="line"/>
+      <point x="332" y="167" type="line" smooth="yes"/>
+      <point x="332" y="76"/>
+      <point x="287" y="7"/>
+      <point x="183" y="7" type="curve" smooth="yes"/>
+      <point x="82" y="7"/>
+      <point x="30" y="77"/>
+      <point x="30" y="167" type="curve" smooth="yes"/>
+      <point x="30" y="454" type="line"/>
+      <point x="12" y="454" type="line"/>
+      <point x="12" y="167" type="line" smooth="yes"/>
+      <point x="12" y="70"/>
+      <point x="66" y="-9"/>
+      <point x="182" y="-9" type="curve" smooth="yes"/>
+      <point x="294" y="-9"/>
+      <point x="348" y="65"/>
+    </contour>
+    <contour>
+      <point x="267" y="547" type="curve" smooth="yes"/>
+      <point x="267" y="555"/>
+      <point x="260" y="562"/>
+      <point x="252" y="562" type="curve" smooth="yes"/>
+      <point x="243" y="562"/>
+      <point x="236" y="555"/>
+      <point x="236" y="547" type="curve" smooth="yes"/>
+      <point x="236" y="538"/>
+      <point x="243" y="532"/>
+      <point x="252" y="532" type="curve" smooth="yes"/>
+      <point x="260" y="532"/>
+      <point x="267" y="538"/>
+    </contour>
+    <contour>
+      <point x="123" y="547" type="curve" smooth="yes"/>
+      <point x="123" y="555"/>
+      <point x="117" y="562"/>
+      <point x="108" y="562" type="curve" smooth="yes"/>
+      <point x="100" y="562"/>
+      <point x="93" y="555"/>
+      <point x="93" y="547" type="curve" smooth="yes"/>
+      <point x="93" y="538"/>
+      <point x="100" y="532"/>
+      <point x="108" y="532" type="curve" smooth="yes"/>
+      <point x="117" y="532"/>
+      <point x="123" y="538"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>0.6</real>
+    <real>1</real>
+    <real>0.713</real>
+    <real>1</real>
+  </array>
+  </dict>
+  </lib>
+</glyph>
