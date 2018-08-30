@@ -15,17 +15,22 @@ we assume underscore to separate the name and the weight
 '''
 import os
 import re
+#
+import plistlib
+#
 from argparse import ArgumentParser
+#
+
 
 parser = ArgumentParser()
 parser.add_argument("-d", "--dir", dest="directory",
-                    help="Directory of UFOs to extract kerning pairs", metavar="FILE")
+					help="Directory of UFOs to extract kerning pairs", metavar="FILE")
 parser.add_argument("-f", "--fontfile", dest="fontfiles", 
-                    help="The font filename of the UFOs without the weights, example filename: fontname_bld (we assume underscore)")
+					help="The font filename of the UFOs without the weights, example filename: fontname_bld (we assume underscore)")
 parser.add_argument("-w", "--weights", dest="weights", 
-                    help="The weights comma separated, example filename: fontname_bld (we assume underscore)")
+					help="The weights comma separated, example filename: fontname_bld (we assume underscore)")
 parser.add_argument("-o", "--output", dest="outputdir", 
-                    help="Directory to output the textfiles with kern pairs")
+					help="Directory to output the textfiles with kern pairs")
 #
 args = parser.parse_args()
 #
@@ -35,15 +40,16 @@ def extract_pairs(dir_path, fontfilename, weights, outputdir):
 	#
 	weights= weights.split(',')
 	#
-	weights_perm= {"thn":[],"reg":[],"bld":[]}
+	weights_perm = {}
+	#
+	for z in range(len(weights)):
+		#
+		weights_perm[weights[z]] = []
+		#
 	#
 	x = 0
 	#
-	move_by = 20
-	#
-	inner = ''
-	#
-	all_letters = []
+	total_permut = ''
 	#
 	for w in weights:	
 		#
@@ -52,62 +58,24 @@ def extract_pairs(dir_path, fontfilename, weights, outputdir):
 		result_lines = ''
 		result_keys = []
 		#
+		w = w + '_it'
+		#
 		out_fnt=_dir+'/'+fontfilename+"_"+w+"_krn.ufo"+'/'+'kerning.plist'
 		#
-		with open(out_fnt) as f:
-	 		#
-			lines = f.readlines()
+		pl = plistlib.readPlist(out_fnt)
+		#
+		for x,v in pl.items():
 			#
-			for x in lines:
+			for z,y in v.items():
 				#
-				if '<?xml' in x or '<!DOCTYPE' in x or '<plist' in x or '</plist' in x:
-					pass
-				else:
-					#
-					result_lines = result_lines + x
-					#
-		#
-		the_dict = [x.strip() for x in re.findall('<dict.*?>(.*)</dict>', result_lines, re.MULTILINE | re.DOTALL)][0]
-		#
-		the_keys_text = the_dict.split('''\t</dict>\n\t''')
-		#
-		total_permut = ''
-		#
-		for u in the_keys_text:
-			#
-			the_keys = [x.strip() for x in re.findall('<key.*?>(.*)</key>', u)]
-			#
-			num_of_glyphs = 0
-			not_found = []
-			all_results = []
-			orig_results = []
-			#
-			for y in the_keys:
-				#
-				orig_results.append(y)
+				total_permut = total_permut +'"'+x+'","'+z+'"'+'\n'
 				#
 			#
-			permut_str = ''
-			#
-			iter_res = iter(orig_results)
-			next(iter_res)
-			#
-			for z in iter_res:
-				#
-				permut_str = permut_str + "'"+orig_results[0]+"','"+z+"',"+'\n'
-				#
-			#
-			total_permut = total_permut + permut_str
-			#
-			weights_perm[orig_w].append(permut_str)
-			#
 		#
-		file = open(outputdir+'/'+fontfilename+"_"+w+"_krn_fix_list", 'w')
+		file = open(_dir+'/'+fontfilename+"_"+w+"_krn_fix_list", 'w')
 		file.write(total_permut)
 		file.close()
-		#
-		print(fontfilename+"_"+w+' '+'Done!')
-	#
+		
 #
 faults = False
 #

@@ -1,90 +1,108 @@
-import glob
+
 import os
+from argparse import ArgumentParser
 #
 from Autokern import Autokern
 from AutokernSettings import AutokernSettings
 import tfs.common.TFSProject as TFSProject
 from tfs.common.TFSMap import TFSMap
 #
-PIDDIR="/media/root/Malysh1/winshm/all_advent/Advent_Pro_Local_Copy/new_advent/KERN/charlesmchen-typefacet-8c6db26/python/src-main-reord/Autokern.py"
-_dir = '/media/root/Malysh1/_code/advent_variable/variable_fonts_test/procedure_fonts/thn_reg/varfontfiles/sources_ufo/'
-
+parser = ArgumentParser()
+parser.add_argument("-d", "--dir", dest="directory",
+                    help="Directory of UFOs to kern", metavar="FILE")
+parser.add_argument("-f", "--fontfile", dest="fontfiles", 
+                    help="The font filename of the UFOs without the weights, example filename: fontname_bld (we assume underscore)")
+parser.add_argument("-w", "--weights", dest="weights", 
+                    help="The weights comma separated, example filename: fontname_bld (we assume underscore)")
 #
-fontfilename = "adventprofmm"
+args = parser.parse_args()
 #
-#weights=["thn","thn_it","reg","reg_it","bld","bld_it"]
-weights=["thn_it","reg_it","bld_it"]
+dir_path = os.path.dirname(os.path.realpath(__file__))
 #
-x = 0
+PIDDIR=dir_path+"/src-main-reord/Autokern.py"
 #
-for w in weights:	
+#
+def do_kern_for_pairs(dir_path, fontfilename, weights_str):
+	x = 0
 	#
-	print("________________________")
-	print(_dir+fontfilename+"_"+w+".ufo")
+	_dir = dir_path+'/'
 	#
-	in_fnt=_dir+fontfilename+"_"+w+"_krn.ufo"
-	out_fnt=_dir+fontfilename+"_"+w+"_krn_fix.ufo"
+	weights = weights_str.split(',')
 	#
-	pseudo_argv = ('--ufo-src-path',
-					in_fnt,
-					'--ufo-dst-path',
-					out_fnt,
-					'--min-distance-ems',
-					'0.04',
-					'--max-distance-ems',
-					'0.05',
-					'--max-x-extrema-overlap-ems',
-					'0.1',
-					'--intrusion-tolerance-ems',
-					'0.04',
-					'--precision-ems',
-					'0.005'
-	               )
+	#
+	for w in weights:	
+		#
+		print(_dir+fontfilename+"_"+w+".ufo")
+		#
+		in_fnt=_dir+fontfilename+"_"+w+"_krn.ufo"
+		out_fnt=_dir+fontfilename+"_"+w+"_krn_fix_all.ufo"
+		#
+		pseudo_argv = ('--ufo-src-path',
+						in_fnt,
+						'--ufo-dst-path',
+						out_fnt,
+						'--min-distance-ems',
+						'0.04',
+						'--max-distance-ems',
+						'0.05',
+						'--max-x-extrema-overlap-ems',
+						'0.1',
+						'--intrusion-tolerance-ems',
+						'0.04',
+						'--precision-ems',
+						'0.005',
+						'--log-path',
+						'/media/root/Malysh1/winshm/advent_variable/scripts/compare_svg/test_2/log',
+						#'--log-basic-pairs',
+						'--write-kerning-pair-logs'
+						)
 
-	print ('pseudo_argv', ' '.join([str(arg) for arg in pseudo_argv]))
+		print ('pseudo_argv', ' '.join([str(arg) for arg in pseudo_argv]))
+		
+		autokernArgs = TFSMap()
+		AutokernSettings(autokernArgs).getCommandLineSettings(*pseudo_argv)
+		autokern = Autokern(autokernArgs)
+		autokern.process()
+		#
+		x = x + 1
+		#
+		print ('Completed:'+w+' '+str(x)+'/'+str(len(weights))+'\n'+' Produced Kerned UFO:'+out_fnt)
+		#
+		print ('Replace the kern.plist at your leasure')
+		#
+faults = False
+#
+if  args.directory is None:
+	#
+	faults = True
+	#
+	print('=\n=> Please Provide Valid Directory: -d "/font_ufo_directory"\n=')	
+	#
+else:
+	#
+	if os.path.isdir(args.directory) == False:
+		#
+		faults = True
+		#
+		print('=\n=> Please Provide Valid Directory: -d "/font_ufo_directory"\n=')	
+		#
+if args.fontfiles is None:
+	#
+	faults = True
+	#
+	print('=\n=> Please Provide Font Family File Name: -f "fontname"\n=')
+	#
+#
+if args.weights is None:
+	#
+	faults = True
+	#
+	print('=\n=> Please Provide Comma Separated Font Weights String: -w "thn,reg,bld"\n=')
+	#
+#
+if faults == False:
+	#
+	do_kern_for_pairs(args.directory, args.fontfiles, args.weights)
+	#
+#
 
-	autokernArgs = TFSMap()
-	AutokernSettings(autokernArgs).getCommandLineSettings(*pseudo_argv)
-	autokern = Autokern(autokernArgs)
-	autokern.process()
-	#
-	x = x + 1
-	#
-	print ('Completed:'+w+' '+str(x)+'/'+str(len(weights)))
-	#
-
-	#italics
-	'''pseudo_argv = ('--ufo-src-path',
-					in_fnt,
-					'--ufo-dst-path',
-					out_fnt,
-					'--min-distance-ems',
-					'0.08',
-					'--max-distance-ems',
-					'0.09',
-					'--max-x-extrema-overlap-ems',
-					'0.4',
-					'--intrusion-tolerance-ems',
-					'0.08',#for reg'0.04',
-					'--precision-ems',
-					'0.005'
-	               )'''
-	#
-	# reg
-	'''
-	('--ufo-src-path',
-					in_fnt,
-					'--ufo-dst-path',
-					out_fnt,
-					'--min-distance-ems',
-					'0.04',
-					'--max-distance-ems',
-					'0.05',
-					'--max-x-extrema-overlap-ems',
-					'0.2',
-					'--intrusion-tolerance-ems',
-					'0.04',
-					'--precision-ems',
-					'0.005'
-	               )
-	               '''

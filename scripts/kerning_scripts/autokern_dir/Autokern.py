@@ -99,6 +99,8 @@ import tfs.common.TFSIntersection as TFSIntersection
 import tfs.common.UnicodeCharacterNames as UnicodeCharacterNames
 #from collections import defaultdict
 
+dir_path = os.path.dirname(os.path.realpath(__file__))
+
 
 TFSMath.setFloatRoundingTolerance(0.1)
 TFSMath.setDefaultPrecisionDigits(1)
@@ -332,7 +334,12 @@ class Autokern(TFSMap):
         self.css_folder = makeLogSubfolder(self.html_folder, 'stylesheets')
 
         import tfs.common.TFSProject as TFSProject
-        srcCssFile = os.path.abspath(os.path.join(TFSProject.findProjectRootFolder(), 'data', 'styles.css'))
+
+        
+
+        #print(dir_path)
+
+        srcCssFile = os.path.abspath(os.path.join(dir_path, 'data', 'styles.css'))
         dstCssFile = os.path.abspath(os.path.join(self.css_folder, os.path.basename(srcCssFile)))
         shutil.copy(srcCssFile, dstCssFile)
 
@@ -1331,8 +1338,8 @@ class Autokern(TFSMap):
 
 
         import tfs.common.TFSProject as TFSProject
-#        dataFolder = os.path.abspath(os.path.join(TFSProject.findProjectRootFolder(), 'data'))
-        mustache_template_file = os.path.abspath(os.path.join(TFSProject.findProjectRootFolder(), 'data', 'ilovetypography kerning pairs.txt'))
+#        dataFolder = os.path.abspath(os.path.join(dir_path, 'data'))
+        mustache_template_file = os.path.abspath(os.path.join(dir_path, 'data', 'ilovetypography kerning pairs.txt'))
         with open(mustache_template_file, 'rt') as f:
             text = f.read().decode('utf8')
 
@@ -2331,7 +2338,7 @@ class Autokern(TFSMap):
 
         if USE_CACHED_KERNING_MAP:
             import tfs.common.TFSProject as TFSProject
-            tmpFolder = os.path.abspath(os.path.join(TFSProject.findProjectRootFolder(), 'tmp'))
+            tmpFolder = os.path.abspath(os.path.join(dir_path, 'tmp'))
             advanceMapYamlFile = os.path.abspath(os.path.join(tmpFolder, 'advanceMap.yaml'))
             if os.path.exists(advanceMapYamlFile):
                 with open(advanceMapYamlFile, 'rt') as f:
@@ -2415,7 +2422,7 @@ class Autokern(TFSMap):
         if USE_CACHED_KERNING_MAP:
             yamldata = yaml.dump(self.advanceMap)
             import tfs.common.TFSProject as TFSProject
-            tmpFolder = os.path.abspath(os.path.join(TFSProject.findProjectRootFolder(), 'tmp'))
+            tmpFolder = os.path.abspath(os.path.join(dir_path, 'tmp'))
             if not os.path.exists(tmpFolder):
                 os.mkdir(tmpFolder)
             advanceMapYamlFile = os.path.abspath(os.path.join(tmpFolder, 'advanceMap.yaml'))
@@ -3152,8 +3159,8 @@ class Autokern(TFSMap):
                      logIndexName, mustacheMap):
 
         import tfs.common.TFSProject as TFSProject
-#        dataFolder = os.path.abspath(os.path.join(TFSProject.findProjectRootFolder(), 'data'))
-        mustache_template_file = os.path.abspath(os.path.join(TFSProject.findProjectRootFolder(), 'data', templateFilename))
+#        dataFolder = os.path.abspath(os.path.join(dir_path, 'data'))
+        mustache_template_file = os.path.abspath(os.path.join(dir_path, 'data', templateFilename))
         with open(mustache_template_file, 'rt') as f:
             mustache_template = f.read()
 
