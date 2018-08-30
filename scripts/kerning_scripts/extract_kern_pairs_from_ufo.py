@@ -68,14 +68,24 @@ def extract_pairs(dir_path, fontfilename, weights, outputdir):
 			#
 			for z,y in v.items():
 				#
-				total_permut = total_permut +'"'+x+'","'+z+'"'+'\n'
+				permu_list = [x,z]
+				permut_str = '"'+x+'","'+z+'"'+'\n'
+				#
+				total_permut = total_permut + permut_str
+				#
+				weights_perm[orig_w].append(permu_list)
 				#
 			#
 		#
 		file = open(_dir+'/'+fontfilename+"_"+w+"_krn_fix_list", 'w')
 		file.write(total_permut)
 		file.close()
-		
+	#
+	print(weights_perm)
+	#
+	print("Done!")
+	print("Files at:",dir_path)
+	#
 #
 faults = False
 #
