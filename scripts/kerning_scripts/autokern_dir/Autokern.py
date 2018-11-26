@@ -612,6 +612,8 @@ class Autokern(TFSMap):
         #
 
         def isValidGlyphCategories(key, value):
+            print(type(value))
+            print(value)
             if type(value) not in ( types.StringType,
                                     types.UnicodeType, ):
                 raise Exception('Invalid %s value: %s' % (key, value,))
@@ -2627,12 +2629,20 @@ class Autokern(TFSMap):
                 continue
             kerningTuples.append( ( name0, name1, kerningValue, ) )
 
+        #print (name0)
+        #print (name1)
         def cmpKerningTuples(value0, value1):
+            #print (value0, value1 )
+            #print (value0[-1], value1[-1] )
+            #print (abs(value0[-1]), abs(value1[-1]))
             return cmp(abs(value0[-1]), abs(value1[-1]))
+        #
+        print(cmpKerningTuples)
+        #
         kerningTuples.sort(cmpKerningTuples, reverse=True)
 
-#        print 'kerningTuples', kerningTuples[0]
-#        print 'kerningTuples[-1]', kerningTuples[-1]
+        print 'kerningTuples', kerningTuples[0]
+        print 'kerningTuples[-1]', kerningTuples[-1]
 
         self.kerned_pairs_count = len(self.advanceMap)
         self.valid_kerned_pairs_count = len(kerningTuples)

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="colon" format="1">
+  <advance width="109"/>
+  <unicode hex="003A"/>
+  <outline>
+    <contour>
+      <point x="112" y="143" type="curve" smooth="yes"/>
+      <point x="115" y="162"/>
+      <point x="102" y="176"/>
+      <point x="85" y="176" type="curve" smooth="yes"/>
+      <point x="66" y="176"/>
+      <point x="48" y="162"/>
+      <point x="45" y="143" type="curve" smooth="yes"/>
+      <point x="41" y="124"/>
+      <point x="54" y="110"/>
+      <point x="73" y="110" type="curve" smooth="yes"/>
+      <point x="90" y="110"/>
+      <point x="108" y="124"/>
+    </contour>
+    <contour>
+      <point x="154" y="384" type="curve" smooth="yes"/>
+      <point x="158" y="403"/>
+      <point x="144" y="417"/>
+      <point x="127" y="417" type="curve" smooth="yes"/>
+      <point x="108" y="417"/>
+      <point x="91" y="403"/>
+      <point x="87" y="384" type="curve" smooth="yes"/>
+      <point x="84" y="365"/>
+      <point x="96" y="351"/>
+      <point x="115" y="351" type="curve" smooth="yes"/>
+      <point x="132" y="351"/>
+      <point x="151" y="365"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>0.6</real>
+    <real>1</real>
+    <real>0.713</real>
+    <real>1</real>
+  </array>
+  </dict>
+  </lib>
+</glyph>

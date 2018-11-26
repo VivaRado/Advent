@@ -102,6 +102,11 @@ h2 {
 	font-family: 'AdventProVar';
 	font-size: 3em;
 	letter-spacing: 0.05em;
+	font-feature-settings: "kern" 1;
+}
+.sample,
+.sample *{
+	font-feature-settings: "kern" 1;
 }
 h2 small {
 	text-transform: uppercase;
@@ -109,6 +114,7 @@ h2 small {
 }
 .description {
 	font-family: 'AdventProVar';
+	font-feature-settings: "kern" 1;
 	font-size: 2em;
 	letter-spacing: 0.04em;
 	font-kerning: normal;

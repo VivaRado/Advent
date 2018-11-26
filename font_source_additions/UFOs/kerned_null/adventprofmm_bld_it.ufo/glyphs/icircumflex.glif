@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="icircumflex" format="1">
+  <advance width="266"/>
+  <unicode hex="00EE"/>
+  <outline>
+    <contour>
+      <point x="274" y="499" type="line"/>
+      <point x="164" y="499" type="line"/>
+      <point x="77" y="0" type="line"/>
+      <point x="187" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="244" y="627" type="line"/>
+      <point x="305" y="546" type="line"/>
+      <point x="367" y="598" type="line"/>
+      <point x="261" y="724" type="line"/>
+      <point x="107" y="597" type="line"/>
+      <point x="149" y="544" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>0.6</real>
+    <real>1</real>
+    <real>0.713</real>
+    <real>1</real>
+  </array>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>angle</key>
+      <real>90</real>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>-449</real>
+      <key>y</key>
+      <real>0</real>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

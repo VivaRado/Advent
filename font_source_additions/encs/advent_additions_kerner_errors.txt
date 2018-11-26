@@ -1,0 +1,6 @@
+Glyphs with unknown unicode category: cedillacomb, commaturnedabovecomb, ft, ogonekcomb
+Missing glyph category: ogonekcomb
+Missing glyph category: ft
+Missing glyph category: commaturnedabovecomb
+Missing glyph category: cedillacomb
+

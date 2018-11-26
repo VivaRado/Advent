@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="chi" format="1">
+  <advance width="506"/>
+  <unicode hex="03C7"/>
+  <outline>
+    <contour>
+      <point x="413" y="-61" type="curve"/>
+      <point x="332" y="204" type="line"/>
+      <point x="545" y="499" type="line"/>
+      <point x="421" y="499" type="line"/>
+      <point x="297" y="319" type="line"/>
+      <point x="241" y="499" type="line"/>
+      <point x="122" y="499" type="line"/>
+      <point x="219" y="207" type="line"/>
+      <point x="-36" y="-161" type="line"/>
+      <point x="52" y="-204" type="line"/>
+      <point x="255" y="92" type="line"/>
+      <point x="320" y="-117" type="line" smooth="yes"/>
+      <point x="341" y="-182"/>
+      <point x="380" y="-212"/>
+      <point x="434" y="-212" type="curve"/>
+      <point x="499" y="-140" type="line"/>
+      <point x="454" y="-140"/>
+      <point x="424" y="-113"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>0.6</real>
+    <real>1</real>
+    <real>0.713</real>
+    <real>1</real>
+  </array>
+  </dict>
+  </lib>
+</glyph>

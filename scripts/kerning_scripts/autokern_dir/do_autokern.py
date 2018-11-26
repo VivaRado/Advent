@@ -34,27 +34,27 @@ def do_kern_for_pairs(dir_path, fontfilename, weights_str):
 		#
 		print(_dir+fontfilename+"_"+w+".ufo")
 		#
-		in_fnt=_dir+fontfilename+"_"+w+"_krn.ufo"
-		out_fnt=_dir+fontfilename+"_"+w+"_krn_fix_all.ufo"
+		in_fnt=_dir+fontfilename+"_"+w+".ufo"
+		out_fnt=_dir+fontfilename+"_"+w+"_krn.ufo"
 		#
 		pseudo_argv = ('--ufo-src-path',
 						in_fnt,
 						'--ufo-dst-path',
 						out_fnt,
 						'--min-distance-ems',
-						'0.04',
+						'0.08',
 						'--max-distance-ems',
-						'0.05',
+						'0.10',
 						'--max-x-extrema-overlap-ems',
-						'0.1',
+						'0.10',
 						'--intrusion-tolerance-ems',
-						'0.04',
+						'0.02',
 						'--precision-ems',
 						'0.005',
-						'--log-path',
-						'/media/root/Malysh1/winshm/advent_variable/scripts/compare_svg/test_2/log',
+						#'--log-path',
+						#'/media/root/Malysh1/winshm/advent_repo/Advent/scripts/kerning_scripts/kern_log/log',
 						#'--log-basic-pairs',
-						'--write-kerning-pair-logs'
+						#'--write-kerning-pair-logs'
 						)
 
 		print ('pseudo_argv', ' '.join([str(arg) for arg in pseudo_argv]))

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Edotaccent" format="1">
+  <advance width="367"/>
+  <unicode hex="0116"/>
+  <outline>
+    <contour>
+      <point x="360" y="50" type="line"/>
+      <point x="85" y="50" type="line"/>
+      <point x="139" y="356" type="line"/>
+      <point x="311" y="356" type="line"/>
+      <point x="339" y="411" type="line"/>
+      <point x="149" y="411" type="line"/>
+      <point x="190" y="646" type="line"/>
+      <point x="467" y="646" type="line"/>
+      <point x="477" y="698" type="line"/>
+      <point x="144" y="698" type="line"/>
+      <point x="21" y="0" type="line"/>
+      <point x="352" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="346" y="836" type="curve" smooth="yes"/>
+      <point x="327" y="836"/>
+      <point x="310" y="821"/>
+      <point x="307" y="802" type="curve" smooth="yes"/>
+      <point x="304" y="784"/>
+      <point x="315" y="769"/>
+      <point x="334" y="769" type="curve" smooth="yes"/>
+      <point x="353" y="769"/>
+      <point x="371" y="784"/>
+      <point x="374" y="802" type="curve" smooth="yes"/>
+      <point x="377" y="821"/>
+      <point x="365" y="836"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>0.6</real>
+    <real>1</real>
+    <real>0.713</real>
+    <real>1</real>
+  </array>
+  </dict>
+  </lib>
+</glyph>

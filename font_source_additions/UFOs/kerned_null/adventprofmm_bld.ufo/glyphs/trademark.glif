@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="trademark" format="1">
+  <advance width="405"/>
+  <unicode hex="2122"/>
+  <outline>
+    <contour>
+      <point x="182" y="513" type="line"/>
+      <point x="229" y="513" type="line"/>
+      <point x="229" y="631" type="line"/>
+      <point x="269" y="513" type="line"/>
+      <point x="301" y="513" type="line"/>
+      <point x="342" y="631" type="line"/>
+      <point x="342" y="513" type="line"/>
+      <point x="385" y="513" type="line"/>
+      <point x="385" y="698" type="line"/>
+      <point x="323" y="698" type="line"/>
+      <point x="285" y="591" type="line"/>
+      <point x="246" y="698" type="line"/>
+      <point x="16" y="698" type="line"/>
+      <point x="16" y="653" type="line"/>
+      <point x="79" y="653" type="line"/>
+      <point x="79" y="513" type="line"/>
+      <point x="127" y="513" type="line"/>
+      <point x="127" y="653" type="line"/>
+      <point x="182" y="653" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>0.6</real>
+    <real>1</real>
+    <real>0.713</real>
+    <real>1</real>
+  </array>
+  </dict>
+  </lib>
+</glyph>
