@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresistonos" format="1">
+  <advance width="249"/>
+  <unicode hex="0385"/>
+  <outline>
+    <component base="dieresiscomb.alt"/>
+    <component base="tonos" xOffset="69" yOffset="58"/>
+    <contour>
+      <point x="125" y="501" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

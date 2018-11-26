@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="E" format="1">
+  <advance width="405"/>
+  <unicode hex="0045"/>
+  <outline>
+    <contour>
+      <point x="41" y="0" type="line"/>
+      <point x="372" y="0" type="line"/>
+      <point x="372" y="50" type="line"/>
+      <point x="97" y="50" type="line"/>
+      <point x="97" y="356" type="line"/>
+      <point x="269" y="356" type="line"/>
+      <point x="287" y="411" type="line"/>
+      <point x="97" y="411" type="line"/>
+      <point x="97" y="646" type="line"/>
+      <point x="374" y="646" type="line"/>
+      <point x="374" y="698" type="line"/>
+      <point x="41" y="698" type="line"/>
+    </contour>
+  <contour>
+      <point x="202" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="202" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="202" y="735" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="67" y="700" type="move" name="tonos"/>
+    </contour>
+    <contour>
+      <point x="202" y="300" type="move" name="center"/>
+    </contour></outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>0.6</real>
+    <real>1</real>
+    <real>0.694</real>
+    <real>1</real>
+  </array>
+  </dict>
+  </lib>
+</glyph>

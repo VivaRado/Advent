@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idieresis" format="1">
+  <advance width="191"/>
+  <unicode hex="00CF"/>
+  <outline>
+    <contour>
+      <point x="91" y="0" type="line"/>
+      <point x="141" y="0" type="line"/>
+      <point x="141" y="635" type="line"/>
+      <point x="29" y="635" type="line"/>
+      <point x="29" y="590" type="line"/>
+      <point x="91" y="588" type="line"/>
+    </contour>
+    <contour>
+      <point x="160" y="758" type="curve" smooth="yes" name="hr01"/>
+      <point x="143" y="758"/>
+      <point x="130" y="744"/>
+      <point x="130" y="727" type="curve" smooth="yes"/>
+      <point x="130" y="711"/>
+      <point x="143" y="697"/>
+      <point x="160" y="697" type="curve" smooth="yes"/>
+      <point x="177" y="697"/>
+      <point x="191" y="711"/>
+      <point x="191" y="727" type="curve" smooth="yes"/>
+      <point x="191" y="744"/>
+      <point x="177" y="758"/>
+    </contour>
+    <contour>
+      <point x="17" y="758" type="curve" smooth="yes"/>
+      <point x="0" y="758"/>
+      <point x="-14" y="744"/>
+      <point x="-14" y="727" type="curve" smooth="yes"/>
+      <point x="-14" y="711"/>
+      <point x="0" y="697"/>
+      <point x="17" y="697" type="curve" smooth="yes"/>
+      <point x="33" y="697"/>
+      <point x="47" y="711"/>
+      <point x="47" y="727" type="curve" smooth="yes"/>
+      <point x="47" y="744"/>
+      <point x="33" y="758"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr01">
+      <hstem pos="21" width="-21" />
+      <hstem pos="589" width="46" />
+      <hstem pos="697" width="61" />
+      <vstem pos="-14" width="61" />
+      <vstem pos="130" width="61" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

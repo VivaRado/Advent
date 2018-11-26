@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaaccentcomb" format="1">
+  <advance width="148"/>
+  <unicode hex="0326"/>
+  <outline>
+    <component base="comma" xOffset="1" yOffset="-100"/>
+    <contour>
+      <point x="82" y="0" type="move" name="_bottom"/>
+    </contour>
+    <contour>
+      <point x="82" y="-184" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>0</integer>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

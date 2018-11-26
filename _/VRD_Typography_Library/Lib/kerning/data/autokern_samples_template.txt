@@ -1,0 +1,153 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+    
+    <title>{{pageTitle}}</title>
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+
+
+<style type="text/css">
+<!--
+
+section div,
+section ul {
+	padding-top: 10px;
+}
+
+section h3 {
+	padding-top: 25px;
+}
+
+section div.back_link_top {
+	padding-bottom: 25px;
+}
+section div.back_link_bottom {
+	padding-top: 25px;
+}
+
+-->
+</style>
+
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>TypeFacet Autokern</h1>
+        <p>
+          <a href="http://charlesmchen.github.com/typefacet/topics/autokern/index.html">Autokern Documentation</a>
+        </p>
+        <h3>Results</h3>
+        <ul>
+
+{{#sidebarVars}}
+        	<li>
+    	    	<b>{{sidebarVarName}}: {{sidebarVarValue}}</b>
+        	</li>
+{{/sidebarVars}}
+        </ul>
+        
+        <h3>Arguments</h3>
+        <ul>
+
+{{#sidebarArgs}}
+        	<li>
+    	    	<b>{{sidebarVarName}} {{sidebarVarValue}}</b>
+        	</li>
+{{/sidebarArgs}}
+        	
+        </ul>
+        
+      </header>
+      <section>
+
+<div class="back_link_top">
+	Back to <a href="index.html">Log Index</a>
+</div>
+      
+        <h2>{{{pageTitle}}}</h2>
+
+<div>
+	Labels are x-extrema offsets (in font units), <u>not kerning values</u>.
+	Kerning values can't be directly compared because the side bearings are likely to have changed.
+</div>
+<div>
+	Large changes to the x-extrema offsets are <span style="color: #920000">highlighted in red</span>.
+</div>
+<div>
+	Kerning pairs which were ignored (due to the <b>--glyph-pairs-to-kern</b> or <b>--glyphs-to-kern</b> arguments) are <span style="color: #007f7f">highlighted in blue</span>.
+</div>
+<div>
+	<u>Make sure to force reload this page</u>.
+	Chrome doesn't seem to be honoring this page's no-cache meta tag.
+</div>
+
+
+<h3>Index</h3>
+
+<ul>
+{{#sampleTextsMaps}}
+{{#indexMap}}
+<li>
+	<a href="#{{index}}">{{{indexName}}}</a>
+</li>
+{{/indexMap}}
+{{/sampleTextsMaps}}
+</ul>
+
+
+
+
+
+
+{{#sampleTextsMaps}}
+
+{{#indexMap}}
+<a name="{{index}}">
+{{/indexMap}}
+
+{{#errorMap}}
+<h3>{{source}}: {{{text}}}</h3>
+<div>
+	<b>Error:</b> {{message}}
+</div>
+{{/errorMap}}
+
+{{#renderMap}}
+<h3>{{source}}: {{{text}}}</h3>
+
+<div>
+	{{{svg}}}
+</div>
+{{/renderMap}}
+
+</a>
+
+{{/sampleTextsMaps}}
+
+<!--
+-->
+<div class="back_link_bottom">
+	Back to <a href="index.html">Log Index</a>
+</div>
+
+      </section>
+      <footer>
+<!--
+        <p>This project is maintained by <a href="https://github.com/charlesmchen">charlesmchen</a></p>
+-->
+      </footer>
+    </div>
+    <script src="javascripts/scale.fix.js"></script>
+    
+  </body>
+</html>

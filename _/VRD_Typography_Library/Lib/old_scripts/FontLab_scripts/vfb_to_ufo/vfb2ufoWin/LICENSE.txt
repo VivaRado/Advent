@@ -1,0 +1,96 @@
+FONTLAB SOFTWARE LICENSE AGREEMENT
+
+
+
+Revised 17 November 2007
+
+
+
+By opening this package or using this software, you are agreeing to be bound by the terms of this agreement. Do not use this software until you have carefully read and agree to the following terms and conditions. If you do not agree to the terms of this agreement, promptly return the software to the place that you obtained it for a refund. lf you open this package or use this software, you are bound to the terms of this agreement.
+
+
+
+LICENSE
+
+   
+Fontlab Ltd. Inc. ("Fontlab") grants you the right to use the enclosed program (the "software"). You may not use, copy, modify, rent, sell or transfer the software or any portion thereof except as provided for in this agreement.
+
+You may:
+
+Use the software on a single microcomputer.
+
+Copy the software solely for archival or backup purposes.
+
+Modify the program and/or merge it into another program for your use on a single machine. Any portion of this program merged into another program will continue to be subject to the terms and conditions of this licensing agreement.
+
+Transfer the program and license to another party if the other party agrees to accept the terms and conditions of this license agreement. If you transfer the program you must at the same time transfer the software manual and either transfer all copies (whether imprinted or machine readable form) to the same party or destroy any copies not transferred. This includes all modifications and portions of the program contained or merged into other programs.
+
+You may not:
+
+Use the software or cause the software to be used on more than one computer at the same time, including using the software across a network system.
+
+Sub-license the software.
+
+Reverse engineer, decompile, or disassemble the software.
+
+Rent, loan, lease, modify, distribute, or create derivative works from the software.
+
+Copy the software or manual except as provided in this agreement.
+
+Permit simultaneous use of the software by more than one user.
+
+Reveal the serial number of your license to any other person.
+
+SAMPLE CODE
+
+
+   With regard to any JavaScript, CSS and ActionScript routines produced by the software ("web sample code"), the font hinting code and the advanced typographic layout feature code automatically produced by the software and any sample fonts bundled with the software ("font sample code"), and other portions of the software that are identified as sample code, Fontlab
+Ltd. Inc. grants you additional rights: unless otherwise set forth in the documentation relating to such code or in a separate license agreement, you may modify, copy and distribute the sample code (modified or unmodified) only if all of the following conditions are met: (i) you do not include the web sample code in any product or application designed for website development; (ii) you do not include the font sample code in any product or application designed for font development; and (iii) you do not use the Fontlab name, logos or other Fontlab trademarks to market your products or software. You agree to indemnify, hold harmless and defend Fontlab from and against any loss, damage, claims or lawsuits, including attorney's fees, that arise
+or result from the use or distribution of sample code, your products or software.
+
+
+
+COPYRIGHT
+   
+
+Title to the software and all copies thereof remains with Fontlab Ltd. Inc. or its vendors. The software and manual are copyrighted and are protected by United States copyright laws and international treaty provisions. You may not remove the copyright notice from the software. You agree to prevent any unauthorized copying of the software.
+
+
+
+WARRANTY
+
+
+   The software is provided as is without warranty of any kind, either expressed or implied, including but not limited to the implied warranties of merchantability and fitness for a particular purpose. Neither Fontlab Ltd. Inc. nor its vendors shall be liable for any loss of profits, loss of use, interruption of business, nor for indirect, special, incidental or consequential damages of any kind whether under this agreement or otherwise. In no event shall Fontlab's liability for all damages exceed the amount paid for this license to the software.
+
+Fontlab warrants that the media on which the software is furnished will be free from defects in materials and workmanship under normal use for a period of ninety (90) days from the date of purchase. Fontlab's entire liability and your exclusive remedy shall be the replacement of the software if the media on which the software is furnished proves to be defective. This warranty is void if the media defect has resulted from accident, abuse, or misapplication. Any replacement of media will be warranted for the remainder of the original warranty period or thirty (30) days.
+
+
+
+EXPORT LAW ASSURANCES
+   
+
+You may not use or otherwise export or reexport the software except as authorized by United States law and the laws of the jurisdiction in which the software was obtained. The software may not be used or otherwise exported or reexported (i) into (or to a national or resident of) a United States embargoed country or (ii) to anyone on the Treasury Department's list of Specially Designated Nationals or the U.S. Department of commerce's Table of Denial Orders. By using the software you represent and warrant that you are not located in, under control of, or a national or resident of any such country or on any such list.
+
+AUDIT
+
+Fontlab reserves the right to conduct or have conducted audits to verify your compliance with this agreement.
+
+
+
+TERMINATION OF THIS LICENSE
+
+
+   Fontlab may terminate this license at any time if you are in breach of any of its terms or conditions. Upon termination, you will immediately destroy the software and manual or return all copies of the software and manual to Fontlab along with any copies you have made.
+
+
+
+COMPLETE AGREEMENT
+
+
+   This license constitutes the complete agreement between the parties with respect to the use of the software and supercedes all prior or contemporaneous understandings. No amendment to or modification of this license will be binding unless in writing and signed by Fontlab Ltd. Inc.
+
+
+APPLICABLE LAWS
+   
+
+This agreement is governed by the laws of the State of Washington of the United States, including patent and copyright laws. Any claim arising out of this agreement will be brought in Seattle, Washington, USA.

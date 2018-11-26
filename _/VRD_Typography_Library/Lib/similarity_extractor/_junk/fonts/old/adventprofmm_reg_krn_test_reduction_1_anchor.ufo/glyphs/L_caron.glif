@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcaron" format="1">
+  <advance width="406"/>
+  <unicode hex="013D"/>
+  <outline>
+    <contour>
+      <point x="401" y="45" type="line" name="hr00"/>
+      <point x="124" y="45" type="line"/>
+      <point x="124" y="635" type="line"/>
+      <point x="73" y="635" type="line"/>
+      <point x="73" y="0" type="line"/>
+      <point x="401" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-18" y="797" type="line"/>
+      <point x="99" y="683" type="line"/>
+      <point x="218" y="799" type="line"/>
+      <point x="183" y="833" type="line"/>
+      <point x="99" y="752" type="line"/>
+      <point x="17" y="832" type="line"/>
+    </contour>
+  </outline>
+</glyph>

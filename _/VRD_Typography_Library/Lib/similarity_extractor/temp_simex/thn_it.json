@@ -1,0 +1,36 @@
+{
+    "Alphatonos": {
+        "Alphatonos": [
+            1.0,
+            "right"
+        ],
+        "A": [
+            1.0,
+            "right"
+        ],
+        "Abreve": [
+            1.0,
+            "right"
+        ]
+    },
+    "Omicron": {
+        "Omicron": [
+            1.0,
+            "center"
+        ],
+        "O": [
+            1.0,
+            "center"
+        ]
+    },
+    "L": {
+        "L": [
+            1.0,
+            "center"
+        ],
+        "Lacute": [
+            1.0,
+            "center"
+        ]
+    }
+}

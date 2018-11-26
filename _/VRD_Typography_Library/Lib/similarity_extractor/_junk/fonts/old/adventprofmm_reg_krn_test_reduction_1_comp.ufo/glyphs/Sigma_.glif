@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Sigma" format="1">
+  <advance width="443"/>
+  <unicode hex="03A3"/>
+  <outline>
+    <contour>
+      <point x="296" y="45" type="curve" name="hr00"/>
+      <point x="91" y="45" type="line"/>
+      <point x="273" y="351" type="line"/>
+      <point x="113" y="586" type="line"/>
+      <point x="393" y="586" type="line"/>
+      <point x="410" y="635" type="line"/>
+      <point x="22" y="635" type="line"/>
+      <point x="212" y="349" type="line"/>
+      <point x="7" y="0" type="line"/>
+      <point x="300" y="0" type="line" smooth="yes"/>
+      <point x="372" y="0"/>
+      <point x="412" y="28"/>
+      <point x="431" y="96" type="curve"/>
+      <point x="392" y="110" type="line"/>
+      <point x="378" y="69"/>
+      <point x="343" y="45"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="0" width="45" />
+      <hstem pos="586" width="49" />
+      <vstem pos="7" width="424" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

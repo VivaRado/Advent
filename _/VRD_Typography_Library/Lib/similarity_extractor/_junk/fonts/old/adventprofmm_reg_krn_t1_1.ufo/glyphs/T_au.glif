@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tau" format="1">
+  <advance width="345"/>
+  <unicode hex="03A4"/>
+  <outline>
+    <contour>
+      <point x="354" y="635" type="line"/>
+      <point x="-11" y="635" type="line"/>
+      <point x="-11" y="589" type="line"/>
+      <point x="143" y="589" type="line"/>
+      <point x="143" y="0" type="line"/>
+      <point x="194" y="0" type="line"/>
+      <point x="194" y="589" type="line"/>
+      <point x="354" y="589" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.59999999999999998</real>
+        <real>1</real>
+        <real>0.71299999999999997</real>
+        <real>1</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

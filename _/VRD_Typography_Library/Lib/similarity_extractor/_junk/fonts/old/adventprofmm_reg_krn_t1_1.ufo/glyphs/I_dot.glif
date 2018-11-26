@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idot" format="1">
+  <advance width="138"/>
+  <unicode hex="0130"/>
+  <outline>
+    <contour>
+      <point x="63" y="0" type="line"/>
+      <point x="114" y="0" type="line"/>
+      <point x="114" y="635" type="line"/>
+      <point x="2" y="635" type="line"/>
+      <point x="2" y="590" type="line"/>
+      <point x="63" y="588" type="line"/>
+    </contour>
+    <contour>
+      <point x="90" y="758" type="curve" smooth="yes"/>
+      <point x="73" y="758"/>
+      <point x="59" y="744"/>
+      <point x="59" y="727" type="curve" smooth="yes"/>
+      <point x="59" y="710"/>
+      <point x="73" y="697"/>
+      <point x="90" y="697" type="curve" smooth="yes"/>
+      <point x="106" y="697"/>
+      <point x="120" y="710"/>
+      <point x="120" y="727" type="curve" smooth="yes"/>
+      <point x="120" y="744"/>
+      <point x="106" y="758"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.59999999999999998</real>
+        <real>1</real>
+        <real>0.71299999999999997</real>
+        <real>1</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

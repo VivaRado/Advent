@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="overscore" format="1">
+  <advance width="374"/>
+  <unicode hex="00AF"/>
+  <outline>
+    <contour>
+      <point x="296" y="675" type="line"/>
+      <point x="76" y="675" type="line"/>
+      <point x="76" y="617" type="line"/>
+      <point x="296" y="617" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>1.0</real>
+        <real>0.713</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

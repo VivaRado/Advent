@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Xi" format="1">
+  <advance width="476"/>
+  <unicode hex="039E"/>
+  <outline>
+    <contour>
+      <point x="3" y="539" type="curve"/>
+      <point x="42" y="525" type="line"/>
+      <point x="57" y="568"/>
+      <point x="87" y="589"/>
+      <point x="135" y="589" type="curve" smooth="yes"/>
+      <point x="410" y="589" type="line"/>
+      <point x="429" y="635" type="line"/>
+      <point x="135" y="635" type="line" smooth="yes"/>
+      <point x="63" y="635"/>
+      <point x="22" y="607"/>
+    </contour>
+    <contour>
+      <point x="117" y="329" type="line"/>
+      <point x="117" y="278" type="line"/>
+      <point x="359" y="278" type="line"/>
+      <point x="359" y="329" type="line"/>
+    </contour>
+    <contour>
+      <point x="333" y="48" type="curve" smooth="yes"/>
+      <point x="58" y="48" type="line"/>
+      <point x="39" y="0" type="line"/>
+      <point x="333" y="0" type="line" smooth="yes"/>
+      <point x="405" y="0"/>
+      <point x="446" y="28"/>
+      <point x="465" y="96" type="curve"/>
+      <point x="426" y="111" type="line"/>
+      <point x="411" y="69"/>
+      <point x="380" y="48"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.59999999999999998</real>
+        <real>1</real>
+        <real>0.71299999999999997</real>
+        <real>1</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,395 @@
+{
+    "Abreve": {
+        "Abreve": [1.0,"center"],
+        "Alphatonos": [1.0,"center"],
+        "Alpha": [1.0,"center"],
+        "Adieresis": [1.0,"center"],
+        "A": [1.0,"center"],
+        "Agrave": [1.0,"center"],
+        "Atilde": [1.0,"center"],
+        "Amacron": [1.0,"center"],
+        "Aacute": [1.0,"center"],
+        "Aogonek": [1.0,"center"],
+        "Lambda": [0.8203,"center"],
+        "Acircumflex": [1.0,"center"]
+    },
+    "Gcircumflex": {
+        "Gcircumflex": [1.0,"left"],
+        "Gdotaccent": [1.0,"left"],
+        "Gbreve": [1.0,"left"],
+        "Gcommaaccent": [1.0,"left"],
+        "G": [1.0,"left"]
+    },
+    "q": {
+        "q": [1.0,"right"],
+        "gbreve": [0.8282,"right"],
+        "g": [0.8319,"right"],
+        "gcommaaccent": [0.8282,"right"],
+        "gdotaccent": [0.8282,"right"],
+        "gcircumflex": [0.8282,"right"]
+    },
+    "quotedblleft": {
+        "quotedblleft": [1.0,"left"],
+        "quoteleft": [1.0,"left"]
+    },
+    "Mu": {
+        "Mu": [1.0,"center"],
+        "M": [1.0,"center"]
+    },
+    "Uhungarumlaut": {
+        "Uhungarumlaut": [1.0,"center"],
+        "Utilde": [1.0,"center"],
+        "Ucircumflex": [1.0,"center"],
+        "Ugrave": [1.0,"center"],
+        "Ubreve": [1.0,"center"],
+        "Uogonek": [1.0,"center"],
+        "Udieresis": [1.0,"center"],
+        "Uacute": [1.0,"center"],
+        "Umacron": [1.0,"center"],
+        "U": [1.0,"center"]
+    },
+    "Rho": {
+        "Rho": [1.0,"left"],
+        "R": [0.8908,"left"],
+        "P": [1.0,"left"]
+    },
+    "guillemotright": {
+        "guillemotright": [1.0,"left"],
+        "guilsinglright": [0.9224,"left"]
+    },
+    "cdotaccent": {
+        "cdotaccent": [1.0,"left"],
+        "cacute": [1.0,"left"],
+        "cent": [1.0,"left"],
+        "ccircumflex": [1.0,"left"],
+        "c": [0.9596,"left"],
+        "ccaron": [1.0,"left"],
+        "ccedilla": [0.9596,"left"]
+    },
+    "Idot": {
+        "Idot": [1.0,"left"],
+        "Iacute": [0.9709,"left"],
+        "Icircumflex": [1.0,"left"],
+        "Iota": [0.9709,"left"],
+        "Itilde": [1.0,"left"],
+        "Idieresis": [0.92,"left"],
+        "Igrave": [1.0,"left"],
+        "Iotadieresis": [1.0,"left"],
+        "I": [0.92,"left"],
+        "Imacron": [1.0,"left"],
+        "Iogonek": [0.9709,"left"],
+        "Iotatonos": [0.92,"left"]
+    },
+    "upsilon": {
+        "upsilon": [1.0,"circle"],
+        "upsilondieresistonos": [1.0,"circle"],
+        "upsilondieresis": [1.0,"circle"],
+        "upsilontonos": [1.0,"circle"]
+    },
+    "dotaccent": {
+        "dotaccent": [1.0,"right"],
+        "ellipsis": [1.0,"right"]
+    },
+    "scommaaccent": {
+        "scommaaccent": [1.0,"right"],
+        "sacute": [0.9114,"right"],
+        "scaron": [0.9707,"right"],
+        "scedilla": [1.0,"right"],
+        "scircumflex": [0.9707,"right"],
+        "s": [0.8368,"right"]
+    },
+    "Omacron": {
+        "Omacron": [1.0,"circle"],
+        "Oslash": [1.0,"circle"],
+        "Omicron": [1.0,"circle"],
+        "Otilde": [1.0,"circle"],
+        "Q": [1.0,"circle"],
+        "Odieresis": [1.0,"circle"],
+        "Omicrontonos": [1.0,"circle"],
+        "O": [1.0,"circle"],
+        "Ohungarumlaut": [1.0,"circle"],
+        "Oacute": [1.0,"circle"],
+        "Ograve": [1.0,"circle"],
+        "zero": [1.0,"circle"],
+        "Ocircumflex": [1.0,"circle"]
+    },
+    "yacute": {
+        "yacute": [1.0,"right"],
+        "y": [1.0,"right"],
+        "ydieresis": [1.0,"right"]
+    },
+    "ecaron": {
+        "ecaron": [1.0,"left"],
+        "e": [1.0,"left"],
+        "edieresis": [1.0,"left"],
+        "egrave": [1.0,"left"],
+        "edotaccent": [1.0,"left"],
+        "ecircumflex": [1.0,"left"],
+        "eogonek": [1.0,"left"],
+        "emacron": [1.0,"left"],
+        "eacute": [1.0,"left"]
+    },
+    "Eogonek": {
+        "Eogonek": [1.0,"left"],
+        "Epsilon": [1.0,"left"],
+        "Eacute": [1.0,"left"],
+        "Egrave": [1.0,"left"],
+        "Edotaccent": [1.0,"left"],
+        "E": [1.0,"left"],
+        "Emacron": [1.0,"left"],
+        "Ecircumflex": [1.0,"left"],
+        "Edieresis": [1.0,"left"],
+        "Ecaron": [1.0,"left"]
+    },
+    "icircumflex": {
+        "icircumflex": [1.0,"right"],
+        "igrave": [0.8793,"right"],
+        "imacron": [0.8793,"right"],
+        "idieresis": [1.0,"right"],
+        "iotadieresistonos": [1.0,"right"],
+        "iogonek": [1.0,"right"],
+        "iotadieresis": [1.0,"right"],
+        "i": [1.0,"right"],
+        "iacute": [1.0,"right"],
+        "dotlessi": [1.0,"right"],
+        "itilde": [1.0,"right"],
+        "iota": [1.0,"right"],
+        "iotatonos": [0.8793,"right"]
+    },
+    "Ntilde": {
+        "Ntilde": [1.0,"center"],
+        "Nacute": [1.0,"center"],
+        "Ncommaaccent": [1.0,"center"],
+        "Ncaron": [1.0,"center"],
+        "N": [1.0,"center"],
+        "Nu": [1.0,"center"]
+    },
+    "parenright": {
+        "parenright": [1.0,"center"],
+        "Racute": [0.9518,"center"],
+        "Rcommaaccent": [0.9398,"center"]
+    },
+    "slash": {
+        "slash": [1.0,"center"],
+        "fraction": [1.0,"center"]
+    },
+    "registered": {
+        "registered": [1.0,"center"],
+        "copyright": [1.0,"center"]
+    },
+    "aogonek": {
+        "aogonek": [1.0,"right"],
+        "acircumflex": [1.0,"right"],
+        "atilde": [1.0,"right"],
+        "agrave": [1.0,"right"],
+        "amacron": [1.0,"right"],
+        "aacute": [1.0,"right"],
+        "adieresis": [1.0,"right"],
+        "a": [1.0,"right"],
+        "abreve": [1.0,"right"]
+    },
+    "Sacute": {
+        "Sacute": [1.0,"right"],
+        "Scommaaccent": [0.8264,"right"],
+        "Scaron": [0.8264,"right"],
+        "Scircumflex": [0.8264,"right"],
+        "dollar": [0.8382,"right"]
+    },
+    "Scommaaccent": {
+        "Sacute": [0.8264,"right"],
+        "Scommaaccent": [1.0,"right"],
+        "Scaron": [1.0,"right"],
+        "S": [0.8017,"right"],
+        "Scircumflex": [1.0,"right"],
+        "dollar": [0.805,"right"]
+    },
+    "alpha": {
+        "alpha": [1.0,"right"],
+        "alphatonos": [1.0,"right"]
+    },
+    "Ydieresis": {
+        "Ydieresis": [1.0,"right"],
+        "Yacute": [1.0,"right"],
+        "Y": [1.0,"right"],
+        "Upsilontonos": [1.0,"right"],
+        "Upsilon": [1.0,"right"]
+    },
+    "Tau": {
+        "Tau": [1.0,"right"],
+        "T": [1.0,"right"],
+        "Tcaron": [1.0,"right"],
+        "Tcommaaccent": [1.0,"right"]
+    },
+    "H": {
+        "H": [1.0,"center"],
+        "Eta": [1.0,"center"],
+        "Hcircumflex": [1.0,"center"]
+    },
+    "Rcaron": {
+        "Rcaron": [1.0,"center"],
+        "Racute": [0.837,"center"]
+    },
+    "Cacute": {
+        "Cacute": [1.0,"left"],
+        "Ccircumflex": [1.0,"left"],
+        "Ccedilla": [1.0,"left"],
+        "Ccaron": [1.0,"left"],
+        "Cdotaccent": [1.0,"left"],
+        "C": [1.0,"left"]
+    },
+    "Gamma": {
+        "Gamma": [1.0,"left"],
+        "F": [0.9275,"left"]
+    },
+    "Z": {
+        "Z": [1.0,"center"],
+        "Zacute": [1.0,"center"],
+        "Zcaron": [1.0,"center"],
+        "Zdotaccent": [1.0,"center"]
+    },
+    "rcaron": {
+        "rcaron": [1.0,"left"],
+        "rcommaaccent": [1.0,"left"],
+        "r": [1.0,"left"],
+        "racute": [1.0,"left"]
+    },
+    "omega": {
+        "omega": [1.0,"center"],
+        "omegatonos": [1.0,"center"]
+    },
+    "Chi": {
+        "Chi": [1.0,"right"],
+        "X": [1.0,"right"]
+    },
+    "tcaron": {
+        "tcaron": [1.0,"right"],
+        "t": [1.0,"right"],
+        "tcommaaccent": [1.0,"right"]
+    },
+    "u": {
+        "u": [1.0,"right"],
+        "ucircumflex": [1.0,"right"],
+        "uogonek": [1.0,"right"],
+        "umacron": [1.0,"right"],
+        "utilde": [1.0,"right"],
+        "uacute": [1.0,"right"],
+        "udieresis": [1.0,"right"],
+        "ugrave": [1.0,"right"],
+        "uhungarumlaut": [1.0,"right"],
+        "ubreve": [1.0,"right"]
+    },
+    "J": {
+        "J": [1.0,"left"],
+        "Jcircumflex": [1.0,"left"]
+    },
+    "B": {
+        "B": [1.0,"left"],
+        "Beta": [1.0,"left"]
+    },
+    "Lacute": {
+        "Lacute": [1.0,"left"],
+        "L": [1.0,"left"],
+        "Lcaron": [0.9802,"left"]
+    },
+    "ohungarumlaut": {
+        "ohungarumlaut": [1.0,"right"],
+        "ocircumflex": [1.0,"right"],
+        "o": [0.8908,"right"],
+        "omacron": [1.0,"right"],
+        "oacute": [1.0,"right"],
+        "otilde": [1.0,"right"],
+        "ograve": [1.0,"right"],
+        "odieresis": [1.0,"right"],
+        "omicrontonos": [1.0,"right"],
+        "omicron": [1.0,"right"]
+    },
+    "eta": {
+        "eta": [1.0,"right"],
+        "etatonos": [1.0,"right"]
+    },
+    "mugreek": {
+        "mugreek": [1.0,"left"],
+        "mu": [0.9268,"left"]
+    },
+    "p": {
+        "p": [1.0,"left"],
+        "rho": [0.8444,"left"]
+    },
+    "nacute": {
+        "nacute": [1.0,"left"],
+        "ncaron": [1.0,"left"],
+        "ncommaaccent": [1.0,"left"],
+        "n": [0.9401,"left"],
+        "ntilde": [1.0,"left"]
+    },
+    "Kappa": {
+        "Kappa": [1.0,"left"],
+        "K": [1.0,"left"],
+        "Kcommaaccent": [1.0,"left"]
+    },
+    "zdotaccent": {
+        "zdotaccent": [1.0,"left"],
+        "z": [1.0,"left"],
+        "zcaron": [1.0,"left"],
+        "zacute": [1.0,"left"]
+    },
+    "Dcaron": {
+        "Dcaron": [1.0,"left"],
+        "Dcroat": [1.0,"left"],
+        "D": [1.0,"left"],
+        "Eth": [0.9496,"left"]
+    },
+    "quotesinglbase": {
+        "quotesinglbase": [1.0,"right"],
+        "comma": [0.9558,"right"],
+        "semicolon": [0.9339,"right"],
+        "quotedblbase": [0.9558,"right"]
+    },
+    "nu": {
+        "nu": [1.0,"circle"],
+        "v": [1.0,"circle"]
+    },
+    "hcircumflex": {
+        "hcircumflex": [1.0,"left"],
+        "h": [1.0,"left"]
+    },
+    "dotlessj": {
+        "dotlessj": [1.0,"left"],
+        "j": [0.8225,"left"],
+        "jcircumflex": [0.887,"left"]
+    },
+    "k": {
+        "k": [1.0,"left"],
+        "kcommaaccent": [1.0,"left"]
+    },
+    "epsilontonos": {
+        "epsilontonos": [1.0,"left"],
+        "epsilon": [1.0,"left"]
+    },
+    "kappa": {
+        "kappa": [1.0,"left"],
+        "kgreenlandic": [1.0,"left"]
+    },
+    "hyphen": {
+        "hyphen": [1.0,"center"],
+        "underscore": [0.8966,"center"],
+        "sfthyphen": [1.0,"center"],
+        "equal": [0.8103,"center"]
+    },
+    "overscore": {
+        "overscore": [1.0,"center"],
+        "underscore": [0.8,"center"]
+    },
+    "d": {
+        "d": [1.0,"right"],
+        "dcaron": [0.9279,"right"]
+    },
+    "dieresistonos": {
+        "dieresistonos": [1.0,"right"],
+        "colon": [1.0,"right"]
+    },
+    "quoteright": {
+        "quoteright": [1.0,"right"],
+        "quotedblright": [0.8326,"right"]
+    }
+}

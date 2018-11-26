@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="z" format="1">
+  <advance width="427"/>
+  <unicode hex="007A"/>
+  <outline>
+    <contour>
+      <point x="377" y="499" type="line"/>
+      <point x="40" y="499" type="line"/>
+      <point x="40" y="449" type="line"/>
+      <point x="305" y="449" type="line"/>
+      <point x="31" y="50" type="line"/>
+      <point x="31" y="0" type="line"/>
+      <point x="398" y="0" type="line"/>
+      <point x="398" y="51" type="line"/>
+      <point x="100" y="51" type="line"/>
+      <point x="377" y="450" type="line"/>
+    </contour>
+  <contour>
+      <point x="213" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="213" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="213" y="525" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="170" y="525" type="move" name="tonos_cap"/>
+    </contour></outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>0.6</real>
+    <real>1</real>
+    <real>0.694</real>
+    <real>1</real>
+  </array>
+  </dict>
+  </lib>
+</glyph>

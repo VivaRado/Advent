@@ -1,0 +1,1212 @@
+{
+    "Ydieresis": {
+        "Ydieresis": [
+            1.0,
+            "right"
+        ],
+        "Y": [
+            1.0,
+            "right"
+        ],
+        "Ycircumflex": [
+            1.0,
+            "right"
+        ],
+        "Yacute": [
+            1.0,
+            "right"
+        ],
+        "Upsilontonos": [
+            1.0,
+            "right"
+        ],
+        "Ygrave": [
+            1.0,
+            "right"
+        ]
+    },
+    "otilde": {
+        "otilde": [
+            1.0,
+            "center"
+        ],
+        "odieresis": [
+            1.0,
+            "center"
+        ],
+        "omacron": [
+            1.0,
+            "center"
+        ],
+        "ograve": [
+            1.0,
+            "center"
+        ]
+    },
+    "upsilontonos": {
+        "upsilontonos": [
+            1.0,
+            "left"
+        ],
+        "upsilondieresis": [
+            1.0,
+            "left"
+        ],
+        "upsilondieresistonos": [
+            1.0,
+            "left"
+        ]
+    },
+    "dieresistonos": {
+        "dieresistonos": [
+            1.0,
+            "center"
+        ],
+        "dieresistonoscomb": [
+            1.0,
+            "center"
+        ]
+    },
+    "Ccircumflex": {
+        "Ccircumflex": [
+            1.0,
+            "left"
+        ],
+        "Cacute": [
+            1.0,
+            "left"
+        ],
+        "C": [
+            1.0,
+            "left"
+        ],
+        "Cdotaccent": [
+            1.0,
+            "left"
+        ],
+        "Ccedilla": [
+            1.0,
+            "left"
+        ],
+        "Ccaron": [
+            1.0,
+            "left"
+        ]
+    },
+    "ccedilla": {
+        "ccedilla": [
+            1.0,
+            "left"
+        ],
+        "cacute": [
+            1.0,
+            "left"
+        ],
+        "cdotaccent": [
+            1.0,
+            "left"
+        ],
+        "ccircumflex": [
+            1.0,
+            "left"
+        ]
+    },
+    "Ohungarumlaut": {
+        "Ohungarumlaut": [
+            1.0,
+            "center"
+        ],
+        "Oslash": [
+            1.0,
+            "center"
+        ],
+        "Ograve": [
+            1.0,
+            "center"
+        ],
+        "Q": [
+            1.0,
+            "center"
+        ],
+        "Ocircumflex": [
+            1.0,
+            "center"
+        ],
+        "Otilde": [
+            1.0,
+            "center"
+        ],
+        "Omicron": [
+            1.0,
+            "center"
+        ],
+        "Omacron": [
+            1.0,
+            "center"
+        ],
+        "zero": [
+            1.0,
+            "center"
+        ],
+        "Omicrontonos": [
+            1.0,
+            "center"
+        ],
+        "Oacute": [
+            1.0,
+            "center"
+        ],
+        "Odieresis": [
+            1.0,
+            "center"
+        ],
+        "O": [
+            1.0,
+            "center"
+        ]
+    },
+    "dieresis": {
+        "dieresis": [
+            1.0,
+            "right"
+        ],
+        "dieresiscomb": [
+            1.0,
+            "right"
+        ]
+    },
+    "Idotaccent": {
+        "Idotaccent": [
+            1.0,
+            "right"
+        ],
+        "Igrave": [
+            1.0,
+            "right"
+        ],
+        "Iogonek": [
+            1.0,
+            "right"
+        ],
+        "Imacron": [
+            1.0,
+            "right"
+        ],
+        "I": [
+            1.0,
+            "right"
+        ],
+        "Iotatonos": [
+            1.0,
+            "right"
+        ],
+        "Iacute": [
+            1.0,
+            "right"
+        ]
+    },
+    "Abreve": {
+        "Abreve": [
+            1.0,
+            "center"
+        ],
+        "Aogonek": [
+            1.0,
+            "center"
+        ],
+        "Agrave": [
+            1.0,
+            "center"
+        ],
+        "Acircumflex": [
+            1.0,
+            "center"
+        ],
+        "Amacron": [
+            1.0,
+            "center"
+        ],
+        "Aacute": [
+            1.0,
+            "center"
+        ],
+        "Adieresis": [
+            1.0,
+            "center"
+        ],
+        "Alpha": [
+            1.0,
+            "center"
+        ],
+        "Alphatonos": [
+            1.0,
+            "center"
+        ],
+        "A": [
+            1.0,
+            "center"
+        ],
+        "Atilde": [
+            1.0,
+            "center"
+        ]
+    },
+    "Uacute": {
+        "Uacute": [
+            1.0,
+            "right"
+        ],
+        "Uogonek": [
+            1.0,
+            "right"
+        ],
+        "Ubreve": [
+            1.0,
+            "right"
+        ],
+        "Umacron": [
+            1.0,
+            "right"
+        ],
+        "Udieresis": [
+            1.0,
+            "right"
+        ],
+        "Ucircumflex": [
+            1.0,
+            "right"
+        ],
+        "Utilde": [
+            1.0,
+            "right"
+        ],
+        "Ugrave": [
+            1.0,
+            "right"
+        ],
+        "Uhungarumlaut": [
+            1.0,
+            "right"
+        ],
+        "U": [
+            1.0,
+            "right"
+        ]
+    },
+    "udieresis": {
+        "udieresis": [
+            1.0,
+            "right"
+        ],
+        "ucircumflex": [
+            1.0,
+            "right"
+        ],
+        "ubreve": [
+            1.0,
+            "right"
+        ],
+        "u": [
+            1.0,
+            "right"
+        ],
+        "uacute": [
+            1.0,
+            "right"
+        ],
+        "umacron": [
+            1.0,
+            "right"
+        ],
+        "uhungarumlaut": [
+            1.0,
+            "right"
+        ],
+        "utilde": [
+            1.0,
+            "right"
+        ],
+        "ugrave": [
+            1.0,
+            "right"
+        ],
+        "uogonek": [
+            1.0,
+            "right"
+        ]
+    },
+    "K": {
+        "K": [
+            1.0,
+            "left"
+        ],
+        "Kcommaaccent": [
+            1.0,
+            "left"
+        ],
+        "Kappa": [
+            1.0,
+            "left"
+        ]
+    },
+    "Wcircumflex": {
+        "Wcircumflex": [
+            1.0,
+            "circle"
+        ],
+        "Wdieresis": [
+            1.0,
+            "circle"
+        ],
+        "W": [
+            1.0,
+            "circle"
+        ],
+        "Wgrave": [
+            1.0,
+            "circle"
+        ],
+        "Wacute": [
+            1.0,
+            "circle"
+        ]
+    },
+    "Z": {
+        "Z": [
+            1.0,
+            "center"
+        ],
+        "Zcaron": [
+            1.0,
+            "center"
+        ],
+        "Zacute": [
+            1.0,
+            "center"
+        ],
+        "Zdotaccent": [
+            1.0,
+            "center"
+        ]
+    },
+    "iotatonos": {
+        "iotatonos": [
+            1.0,
+            "center"
+        ],
+        "iotadieresis": [
+            1.0,
+            "center"
+        ],
+        "dotlessi": [
+            1.0,
+            "center"
+        ],
+        "iogonek": [
+            1.0,
+            "center"
+        ],
+        "iacute": [
+            1.0,
+            "center"
+        ],
+        "icircumflex": [
+            1.0,
+            "center"
+        ],
+        "iota": [
+            1.0,
+            "center"
+        ],
+        "idieresis": [
+            1.0,
+            "center"
+        ]
+    },
+    "edieresis": {
+        "edieresis": [
+            1.0,
+            "left"
+        ],
+        "eogonek": [
+            1.0,
+            "left"
+        ],
+        "edotaccent": [
+            1.0,
+            "left"
+        ],
+        "e": [
+            1.0,
+            "left"
+        ],
+        "eacute": [
+            1.0,
+            "left"
+        ]
+    },
+    "Epsilon": {
+        "Epsilon": [
+            1.0,
+            "left"
+        ],
+        "E": [
+            1.0,
+            "left"
+        ],
+        "Eogonek": [
+            1.0,
+            "left"
+        ],
+        "Edieresis": [
+            1.0,
+            "left"
+        ],
+        "Edotaccent": [
+            1.0,
+            "left"
+        ],
+        "Ecircumflex": [
+            1.0,
+            "left"
+        ],
+        "Emacron": [
+            1.0,
+            "left"
+        ],
+        "Eacute": [
+            1.0,
+            "left"
+        ],
+        "Ecaron": [
+            1.0,
+            "left"
+        ],
+        "Egrave": [
+            1.0,
+            "left"
+        ]
+    },
+    "T": {
+        "T": [
+            1.0,
+            "center"
+        ],
+        "Tcedilla": [
+            1.0,
+            "center"
+        ],
+        "uni021A": [
+            1.0,
+            "center"
+        ],
+        "Tcaron": [
+            1.0,
+            "center"
+        ]
+    },
+    "igrave": {
+        "igrave": [
+            1.0,
+            "left"
+        ],
+        "imacron": [
+            1.0,
+            "left"
+        ],
+        "iotadieresistonos": [
+            1.0,
+            "left"
+        ],
+        "i": [
+            1.0,
+            "left"
+        ],
+        "itilde": [
+            1.0,
+            "left"
+        ]
+    },
+    "Iota": {
+        "Iota": [
+            1.0,
+            "right"
+        ],
+        "Itilde": [
+            1.0,
+            "right"
+        ],
+        "Icircumflex": [
+            1.0,
+            "right"
+        ],
+        "Iotadieresis": [
+            1.0,
+            "right"
+        ],
+        "Idieresis": [
+            1.0,
+            "right"
+        ]
+    },
+    "r": {
+        "r": [
+            1.0,
+            "left"
+        ],
+        "racute": [
+            1.0,
+            "left"
+        ],
+        "rcaron": [
+            1.0,
+            "left"
+        ],
+        "rcommaaccent": [
+            1.0,
+            "left"
+        ]
+    },
+    "commaturnedabovecomb": {
+        "commaturnedabovecomb": [
+            1.0,
+            "right"
+        ],
+        "commaturnedabove": [
+            1.0,
+            "right"
+        ]
+    },
+    "a": {
+        "a": [
+            1.0,
+            "right"
+        ],
+        "adieresis": [
+            1.0,
+            "right"
+        ],
+        "abreve": [
+            1.0,
+            "right"
+        ],
+        "agrave": [
+            1.0,
+            "right"
+        ],
+        "aacute": [
+            1.0,
+            "right"
+        ],
+        "atilde": [
+            1.0,
+            "right"
+        ],
+        "acircumflex": [
+            1.0,
+            "right"
+        ],
+        "aogonek": [
+            1.0,
+            "right"
+        ],
+        "amacron": [
+            1.0,
+            "right"
+        ]
+    },
+    "omega": {
+        "omega": [
+            1.0,
+            "center"
+        ],
+        "omegatonos": [
+            1.0,
+            "center"
+        ]
+    },
+    "gcommaaccent": {
+        "gcommaaccent": [
+            1.0,
+            "right"
+        ],
+        "gdotaccent": [
+            1.0,
+            "right"
+        ],
+        "g": [
+            1.0,
+            "right"
+        ]
+    },
+    "ygrave": {
+        "ygrave": [
+            1.0,
+            "right"
+        ],
+        "ycircumflex": [
+            1.0,
+            "right"
+        ],
+        "ydieresis": [
+            1.0,
+            "right"
+        ],
+        "yacute": [
+            1.0,
+            "right"
+        ],
+        "y": [
+            1.0,
+            "right"
+        ]
+    },
+    "scircumflex": {
+        "scircumflex": [
+            1.0,
+            "center"
+        ],
+        "scaron": [
+            1.0,
+            "center"
+        ]
+    },
+    "Hcircumflex": {
+        "Hcircumflex": [
+            1.0,
+            "center"
+        ],
+        "Eta": [
+            1.0,
+            "center"
+        ],
+        "H": [
+            1.0,
+            "center"
+        ],
+        "Etatonos": [
+            1.0,
+            "center"
+        ]
+    },
+    "fraction": {
+        "fraction": [
+            1.0,
+            "center"
+        ],
+        "slash": [
+            1.0,
+            "center"
+        ]
+    },
+    "quotesinglbase": {
+        "quotesinglbase": [
+            1.0,
+            "left"
+        ],
+        "quotedblbase": [
+            1.0,
+            "left"
+        ]
+    },
+    "B": {
+        "B": [
+            1.0,
+            "left"
+        ],
+        "Beta": [
+            1.0,
+            "left"
+        ]
+    },
+    "brevecomb": {
+        "brevecomb": [
+            1.0,
+            "left"
+        ],
+        "breve": [
+            1.0,
+            "left"
+        ]
+    },
+    "Scircumflex": {
+        "Scircumflex": [
+            1.0,
+            "circle"
+        ],
+        "Scaron": [
+            1.0,
+            "circle"
+        ],
+        "Scommaaccent": [
+            1.0,
+            "circle"
+        ]
+    },
+    "registered": {
+        "registered": [
+            1.0,
+            "center"
+        ],
+        "copyright": [
+            1.0,
+            "center"
+        ]
+    },
+    "ecircumflex": {
+        "ecircumflex": [
+            1.0,
+            "left"
+        ],
+        "egrave": [
+            1.0,
+            "left"
+        ],
+        "emacron": [
+            1.0,
+            "left"
+        ],
+        "ecaron": [
+            1.0,
+            "left"
+        ]
+    },
+    "v": {
+        "v": [
+            1.0,
+            "center"
+        ],
+        "nu": [
+            1.0,
+            "center"
+        ]
+    },
+    "omicrontonos": {
+        "omicrontonos": [
+            1.0,
+            "center"
+        ],
+        "omicron": [
+            1.0,
+            "center"
+        ],
+        "ohungarumlaut": [
+            1.0,
+            "center"
+        ],
+        "oacute": [
+            1.0,
+            "center"
+        ]
+    },
+    "hungarumlautcomb": {
+        "hungarumlautcomb": [
+            1.0,
+            "right"
+        ],
+        "hungarumlaut": [
+            1.0,
+            "right"
+        ]
+    },
+    "L": {
+        "L": [
+            1.0,
+            "left"
+        ],
+        "Lacute": [
+            1.0,
+            "left"
+        ],
+        "Ldot": [
+            1.0,
+            "left"
+        ]
+    },
+    "Rho": {
+        "Rho": [
+            1.0,
+            "left"
+        ],
+        "P": [
+            1.0,
+            "left"
+        ]
+    },
+    "macroncomb": {
+        "macroncomb": [
+            1.0,
+            "center"
+        ],
+        "overscore": [
+            1.0,
+            "center"
+        ]
+    },
+    "dotlessj": {
+        "dotlessj": [
+            1.0,
+            "right"
+        ],
+        "j": [
+            1.0,
+            "right"
+        ]
+    },
+    "lacute": {
+        "lacute": [
+            1.0,
+            "left"
+        ],
+        "lcommaaccent": [
+            1.0,
+            "left"
+        ]
+    },
+    "caroncomb": {
+        "caroncomb": [
+            1.0,
+            "uncategorized"
+        ],
+        "caron": [
+            1.0,
+            "uncategorized"
+        ]
+    },
+    "cedillacomb": {
+        "cedillacomb": [
+            1.0,
+            "right"
+        ],
+        "cedilla": [
+            1.0,
+            "right"
+        ]
+    },
+    "Dcroat": {
+        "Dcroat": [
+            1.0,
+            "left"
+        ],
+        "D": [
+            1.0,
+            "left"
+        ],
+        "Dcaron": [
+            1.0,
+            "left"
+        ]
+    },
+    "kcommaaccent": {
+        "kcommaaccent": [
+            1.0,
+            "left"
+        ],
+        "k": [
+            1.0,
+            "left"
+        ]
+    },
+    "ogonekcomb": {
+        "ogonekcomb": [
+            1.0,
+            "left"
+        ],
+        "ogonek": [
+            1.0,
+            "left"
+        ]
+    },
+    "tonos": {
+        "tonos": [
+            1.0,
+            "center"
+        ],
+        "acutecomb": [
+            1.0,
+            "center"
+        ],
+        "tonoscomb": [
+            1.0,
+            "center"
+        ],
+        "acute": [
+            1.0,
+            "center"
+        ]
+    },
+    "tildecomb": {
+        "tildecomb": [
+            1.0,
+            "uncategorized"
+        ],
+        "tilde": [
+            1.0,
+            "uncategorized"
+        ]
+    },
+    "Gcommaaccent": {
+        "Gcommaaccent": [
+            1.0,
+            "left"
+        ],
+        "Gdotaccent": [
+            1.0,
+            "left"
+        ],
+        "G": [
+            1.0,
+            "left"
+        ],
+        "Gcircumflex": [
+            1.0,
+            "left"
+        ],
+        "Gbreve": [
+            1.0,
+            "left"
+        ]
+    },
+    "grave": {
+        "grave": [
+            1.0,
+            "uncategorized"
+        ],
+        "gravecomb": [
+            1.0,
+            "uncategorized"
+        ]
+    },
+    "epsilon": {
+        "epsilon": [
+            1.0,
+            "left"
+        ],
+        "epsilontonos": [
+            1.0,
+            "left"
+        ]
+    },
+    "M": {
+        "M": [
+            1.0,
+            "center"
+        ],
+        "Mu": [
+            1.0,
+            "center"
+        ]
+    },
+    "Scedilla": {
+        "Scedilla": [
+            1.0,
+            "center"
+        ],
+        "S": [
+            1.0,
+            "center"
+        ]
+    },
+    "zcaron": {
+        "zcaron": [
+            1.0,
+            "left"
+        ],
+        "z": [
+            1.0,
+            "left"
+        ],
+        "zacute": [
+            1.0,
+            "left"
+        ],
+        "zdotaccent": [
+            1.0,
+            "left"
+        ]
+    },
+    "sfthyphen": {
+        "sfthyphen": [
+            1.0,
+            "center"
+        ],
+        "underscore": [
+            1.0,
+            "center"
+        ],
+        "hyphen": [
+            1.0,
+            "center"
+        ]
+    },
+    "Ncommaaccent": {
+        "Ncommaaccent": [
+            1.0,
+            "center"
+        ],
+        "Nacute": [
+            1.0,
+            "center"
+        ],
+        "N": [
+            1.0,
+            "center"
+        ],
+        "Nu": [
+            1.0,
+            "center"
+        ],
+        "Ncaron": [
+            1.0,
+            "center"
+        ],
+        "Ntilde": [
+            1.0,
+            "center"
+        ]
+    },
+    "circumflexcomb": {
+        "circumflexcomb": [
+            1.0,
+            "center"
+        ],
+        "circumflex": [
+            1.0,
+            "center"
+        ]
+    },
+    "alpha": {
+        "alpha": [
+            1.0,
+            "right"
+        ],
+        "alphatonos": [
+            1.0,
+            "right"
+        ]
+    },
+    "comma": {
+        "comma": [
+            1.0,
+            "left"
+        ],
+        "commaturnedbelowcomb": [
+            1.0,
+            "left"
+        ],
+        "commaaccent": [
+            1.0,
+            "left"
+        ]
+    },
+    "w": {
+        "w": [
+            1.0,
+            "uncategorized"
+        ],
+        "wgrave": [
+            1.0,
+            "uncategorized"
+        ],
+        "wcircumflex": [
+            1.0,
+            "uncategorized"
+        ],
+        "wacute": [
+            1.0,
+            "uncategorized"
+        ],
+        "wdieresis": [
+            1.0,
+            "uncategorized"
+        ]
+    },
+    "lcaron": {
+        "lcaron": [
+            1.0,
+            "left"
+        ],
+        "l": [
+            1.0,
+            "left"
+        ],
+        "ldot": [
+            1.0,
+            "left"
+        ]
+    },
+    "tcedilla": {
+        "tcedilla": [
+            1.0,
+            "left"
+        ],
+        "t": [
+            1.0,
+            "left"
+        ],
+        "uni021B": [
+            1.0,
+            "left"
+        ]
+    },
+    "X": {
+        "X": [
+            1.0,
+            "left"
+        ],
+        "Chi": [
+            1.0,
+            "left"
+        ]
+    },
+    "kgreenlandic": {
+        "kgreenlandic": [
+            1.0,
+            "left"
+        ],
+        "kappa": [
+            1.0,
+            "left"
+        ]
+    },
+    "dotaccentcomb": {
+        "dotaccentcomb": [
+            1.0,
+            "right"
+        ],
+        "dotaccent": [
+            1.0,
+            "right"
+        ]
+    },
+    "ringcomb": {
+        "ringcomb": [
+            1.0,
+            "center"
+        ],
+        "ring": [
+            1.0,
+            "center"
+        ]
+    },
+    "scedilla": {
+        "scedilla": [
+            1.0,
+            "center"
+        ],
+        "scommaaccent": [
+            1.0,
+            "center"
+        ]
+    },
+    "V_alt": {
+        "V_alt": [
+            1.0,
+            "center"
+        ],
+        "V": [
+            1.0,
+            "center"
+        ]
+    }
+}

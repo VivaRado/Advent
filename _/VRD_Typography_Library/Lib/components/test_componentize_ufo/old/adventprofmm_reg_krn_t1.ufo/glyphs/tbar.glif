@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tbar" format="1">
+  <advance width="286"/>
+  <unicode hex="0167"/>
+  <outline>
+    <contour>
+      <point x="136" y="132" type="curve" smooth="yes"/>
+      <point x="136" y="302" type="line"/>
+      <point x="255" y="302" type="line"/>
+      <point x="255" y="355" type="line"/>
+      <point x="136" y="355" type="line"/>
+      <point x="136" y="447" type="line"/>
+      <point x="232" y="447" type="line"/>
+      <point x="256" y="499" type="line"/>
+      <point x="136" y="499" type="line"/>
+      <point x="136" y="698" type="line"/>
+      <point x="80" y="698" type="line"/>
+      <point x="80" y="355" type="line"/>
+      <point x="25" y="355" type="line"/>
+      <point x="25" y="302" type="line"/>
+      <point x="80" y="302" type="line"/>
+      <point x="80" y="132" type="line" smooth="yes"/>
+      <point x="80" y="53"/>
+      <point x="111" y="8"/>
+      <point x="185" y="-13" type="curve"/>
+      <point x="202" y="30" type="line"/>
+      <point x="158" y="45"/>
+      <point x="136" y="79"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>0.6</real>
+    <real>1</real>
+    <real>0.704</real>
+    <real>1</real>
+  </array>
+  </dict>
+  </lib>
+</glyph>

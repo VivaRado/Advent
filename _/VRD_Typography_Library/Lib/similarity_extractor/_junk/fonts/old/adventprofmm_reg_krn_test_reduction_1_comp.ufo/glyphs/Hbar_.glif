@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hbar" format="1">
+  <advance width="496"/>
+  <unicode hex="0126"/>
+  <outline>
+    <contour>
+      <point x="392" y="0" type="line" name="hr00"/>
+      <point x="443" y="0" type="line"/>
+      <point x="443" y="453" type="line"/>
+      <point x="485" y="453" type="line"/>
+      <point x="485" y="502" type="line"/>
+      <point x="443" y="502" type="line"/>
+      <point x="443" y="635" type="line"/>
+      <point x="392" y="635" type="line"/>
+      <point x="392" y="502" type="line"/>
+      <point x="104" y="502" type="line"/>
+      <point x="104" y="635" type="line"/>
+      <point x="53" y="635" type="line"/>
+      <point x="53" y="502" type="line"/>
+      <point x="8" y="502" type="line"/>
+      <point x="8" y="453" type="line"/>
+      <point x="53" y="453" type="line"/>
+      <point x="53" y="0" type="line"/>
+      <point x="104" y="0" type="line"/>
+      <point x="104" y="324" type="line"/>
+      <point x="392" y="324" type="line"/>
+    </contour>
+    <contour>
+      <point x="104" y="374" type="line"/>
+      <point x="104" y="453" type="line"/>
+      <point x="392" y="453" type="line"/>
+      <point x="392" y="374" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="21" width="-21" />
+      <hstem pos="324" width="50" />
+      <hstem pos="453" width="49" />
+      <vstem pos="53" width="51" />
+      <vstem pos="392" width="51" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>
