@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="zcaron" format="2">
+  <advance width="435"/>
+  <unicode hex="017E"/>
+  <outline>
+    <contour>
+      <point x="392" y="499" type="line"/>
+      <point x="43" y="499" type="line"/>
+      <point x="43" y="397" type="line"/>
+      <point x="244" y="397" type="line"/>
+      <point x="34" y="105" type="line"/>
+      <point x="34" y="0" type="line"/>
+      <point x="402" y="0" type="line"/>
+      <point x="402" y="105" type="line"/>
+      <point x="182" y="105" type="line"/>
+      <point x="392" y="400" type="line"/>
+    </contour>
+    <contour>
+      <point x="216" y="641" type="line"/>
+      <point x="141" y="722" type="line"/>
+      <point x="87" y="670" type="line"/>
+      <point x="216" y="543" type="line"/>
+      <point x="348" y="671" type="line"/>
+      <point x="295" y="723" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typemytype.robofont.mark</key>
+	<array>
+		<real>0.6</real>
+		<real>1.0</real>
+		<real>0.694</real>
+		<real>1.0</real>
+	</array>
+</dict>
+  </lib>
+</glyph>

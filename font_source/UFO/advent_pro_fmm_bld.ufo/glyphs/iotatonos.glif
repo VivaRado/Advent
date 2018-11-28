@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="iotatonos" format="2">
+  <advance width="217"/>
+  <unicode hex="03AF"/>
+  <outline>
+    <contour>
+      <point x="38" y="0" type="line"/>
+      <point x="148" y="0" type="line"/>
+      <point x="148" y="499" type="line"/>
+      <point x="38" y="499" type="line"/>
+    </contour>
+    <contour>
+      <point x="98" y="661" type="curve" smooth="yes"/>
+      <point x="66" y="544" type="line"/>
+      <point x="110" y="544" type="line"/>
+      <point x="170" y="620" type="line" smooth="yes"/>
+      <point x="188" y="642"/>
+      <point x="190" y="675"/>
+      <point x="163" y="691" type="curve" smooth="yes"/>
+      <point x="137" y="706"/>
+      <point x="105" y="686"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typemytype.robofont.mark</key>
+	<array>
+		<real>0.6</real>
+		<real>1.0</real>
+		<real>0.694</real>
+		<real>1.0</real>
+	</array>
+</dict>
+  </lib>
+</glyph>

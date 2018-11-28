@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="Idotaccent" format="2">
+  <advance width="243"/>
+  <unicode hex="0130"/>
+  <outline>
+    <contour>
+      <point x="23" y="593" type="line"/>
+      <point x="86" y="591" type="line"/>
+      <point x="86" y="0" type="line"/>
+      <point x="196" y="0" type="line"/>
+      <point x="196" y="698" type="line"/>
+      <point x="23" y="698" type="line"/>
+    </contour>
+    <contour>
+      <point x="145" y="861" type="curve" smooth="yes"/>
+      <point x="112" y="861"/>
+      <point x="85" y="834"/>
+      <point x="85" y="801" type="curve" smooth="yes"/>
+      <point x="85" y="768"/>
+      <point x="112" y="741"/>
+      <point x="145" y="741" type="curve" smooth="yes"/>
+      <point x="177" y="741"/>
+      <point x="204" y="768"/>
+      <point x="204" y="801" type="curve" smooth="yes"/>
+      <point x="204" y="834"/>
+      <point x="177" y="861"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typemytype.robofont.mark</key>
+	<array>
+		<real>0.6</real>
+		<real>1.0</real>
+		<real>0.732</real>
+		<real>1.0</real>
+	</array>
+</dict>
+  </lib>
+</glyph>

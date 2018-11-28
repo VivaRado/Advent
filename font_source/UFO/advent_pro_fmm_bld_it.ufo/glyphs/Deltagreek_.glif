@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="Deltagreek" format="2">
+  <advance width="523"/>
+  <unicode hex="0394"/>
+  <outline>
+    <contour>
+      <point x="493" y="0" type="line"/>
+      <point x="411" y="698" type="line"/>
+      <point x="301" y="698" type="line"/>
+      <point x="-12" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="153" y="100" type="line"/>
+      <point x="322" y="480" type="line"/>
+      <point x="360" y="100" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typemytype.robofont.mark</key>
+	<array>
+		<real>0.6</real>
+		<real>1.0</real>
+		<real>0.732</real>
+		<real>1.0</real>
+	</array>
+</dict>
+  </lib>
+</glyph>

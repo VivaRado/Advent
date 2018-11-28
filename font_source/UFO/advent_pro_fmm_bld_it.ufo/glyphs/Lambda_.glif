@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="Lambda" format="2">
+  <advance width="523"/>
+  <unicode hex="039B"/>
+  <outline>
+    <contour>
+      <point x="316" y="453" type="line"/>
+      <point x="366" y="0" type="line"/>
+      <point x="493" y="0" type="line"/>
+      <point x="412" y="698" type="line"/>
+      <point x="311" y="698" type="line"/>
+      <point x="-12" y="0" type="line"/>
+      <point x="112" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typemytype.robofont.mark</key>
+	<array>
+		<real>0.6</real>
+		<real>1.0</real>
+		<real>0.732</real>
+		<real>1.0</real>
+	</array>
+</dict>
+  </lib>
+</glyph>

@@ -1,6 +1,0 @@
-brevecomb caroncomb circumflexcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb cedillacomb ogonekcomb
-
-eth IJ ij Ldot ldot Wacute wacute Wcircumflex wcircumflex Wdieresis wdieresis Wgrave wgrave Ycircumflex ycircumflex Ygrave ygrave 
-Scedilla Tcedilla tcedilla 
-Idotaccent idotaccent
-

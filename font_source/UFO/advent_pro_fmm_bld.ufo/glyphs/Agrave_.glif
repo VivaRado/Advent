@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="Agrave" format="2">
+  <advance width="543"/>
+  <unicode hex="00C0"/>
+  <outline>
+    <contour>
+      <point x="520" y="0" type="line"/>
+      <point x="348" y="698" type="line"/>
+      <point x="193" y="698" type="line"/>
+      <point x="24" y="0" type="line"/>
+      <point x="148" y="0" type="line"/>
+      <point x="188" y="183" type="line"/>
+      <point x="349" y="183" type="line"/>
+      <point x="389" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="215" y="300" type="line"/>
+      <point x="269" y="515" type="line"/>
+      <point x="324" y="300" type="line"/>
+    </contour>
+    <contour>
+      <point x="189" y="817" type="curve"/>
+      <point x="247" y="741" type="line"/>
+      <point x="292" y="741" type="line"/>
+      <point x="261" y="858" type="line" smooth="yes"/>
+      <point x="253" y="887"/>
+      <point x="219" y="904"/>
+      <point x="197" y="889" type="curve"/>
+      <point x="168" y="875"/>
+      <point x="172" y="837"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typemytype.robofont.mark</key>
+	<array>
+		<real>0.6</real>
+		<real>1.0</real>
+		<real>0.694</real>
+		<real>1.0</real>
+	</array>
+</dict>
+  </lib>
+</glyph>
