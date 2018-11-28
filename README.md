@@ -241,4 +241,5 @@ Here is what VivaRado wants to add to Advent font!
 
 **Thank You**
 
-Thanks goes to Dave Crossland for his initiative to regenerate Advent and quite frankly the desire to make quality typography once again. If all goes well new fonts, updates, releases and news will be public through all the VivaRado accounts.
+Thanks goes to Dave Crossland for his initiative to regenerate Advent and quite frankly the desire to make quality typography once again and Michael LaGattuta for all his attention to detail and great ideas.
+Releases and news will be public through all the VivaRado accounts.
