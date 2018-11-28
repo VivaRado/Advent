@@ -68,7 +68,7 @@ Advent was designed in 2007 by Andreas Kalpakidis, It features as originally int
 
 To produce the font, Illustrator and Fontlab was used originally in 2007, updating to Advent  Pro Variable in 2018, a set of scripts for Adobe Illustrator (JSX) and Fontlab (Python) where written, additionally python scripts and bash, for the composition and kerning. Later on VRD Typography Library was introduced allowing for easier modifications to the font by utilizing a new format - a container for UFO, called the EFO. VRD TYPL for kerning - and compression and Googles fontmake to compile the final variable font. 
 
-Work was done on a Linux box with VirtualBox running Windows 8 and Mac OSX Lion / and Windows 8.
+Work was done on a Linux box with VirtualBox running Windows 8 and Mac OSX Lion.
 
 **  **
 
