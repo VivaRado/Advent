@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="omicron" format="2">
+  <advance width="434"/>
+  <unicode hex="03BF"/>
+  <outline>
+    <contour>
+      <point x="384" y="184" type="curve" smooth="yes"/>
+      <point x="407" y="315" type="line" smooth="yes"/>
+      <point x="428" y="436"/>
+      <point x="377" y="510"/>
+      <point x="258" y="510" type="curve" smooth="yes"/>
+      <point x="139" y="510"/>
+      <point x="60" y="442"/>
+      <point x="38" y="315" type="curve" smooth="yes"/>
+      <point x="15" y="184" type="line" smooth="yes"/>
+      <point x="-4" y="75"/>
+      <point x="45" y="-10"/>
+      <point x="169" y="-10" type="curve" smooth="yes"/>
+      <point x="292" y="-10"/>
+      <point x="364" y="71"/>
+    </contour>
+    <contour>
+      <point x="350" y="315" type="curve" smooth="yes"/>
+      <point x="325" y="174" type="line" smooth="yes"/>
+      <point x="311" y="92"/>
+      <point x="261" y="40"/>
+      <point x="178" y="40" type="curve" smooth="yes"/>
+      <point x="97" y="40"/>
+      <point x="55" y="94"/>
+      <point x="69" y="174" type="curve" smooth="yes"/>
+      <point x="94" y="315" type="line" smooth="yes"/>
+      <point x="111" y="411"/>
+      <point x="164" y="460"/>
+      <point x="252" y="460" type="curve" smooth="yes"/>
+      <point x="338" y="460"/>
+      <point x="367" y="411"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typemytype.robofont.mark</key>
+	<array>
+		<real>0.6</real>
+		<real>1.0</real>
+		<real>0.694</real>
+		<real>1.0</real>
+	</array>
+</dict>
+  </lib>
+</glyph>

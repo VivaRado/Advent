@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="Imacron" format="2">
+  <advance width="232"/>
+  <unicode hex="012A"/>
+  <outline>
+    <contour>
+      <point x="25" y="679" type="line"/>
+      <point x="111" y="676" type="line"/>
+      <point x="111" y="0" type="line"/>
+      <point x="129" y="0" type="line"/>
+      <point x="129" y="698" type="line"/>
+      <point x="25" y="698" type="line"/>
+    </contour>
+    <contour>
+      <point x="9" y="779" type="line"/>
+      <point x="229" y="779" type="line"/>
+      <point x="229" y="799" type="line"/>
+      <point x="9" y="799" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typemytype.robofont.mark</key>
+	<array>
+		<real>0.6</real>
+		<real>1.0</real>
+		<real>0.694</real>
+		<real>1.0</real>
+	</array>
+</dict>
+  </lib>
+</glyph>

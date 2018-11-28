@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="iota" format="2">
+  <advance width="95"/>
+  <unicode hex="03B9"/>
+  <outline>
+    <contour>
+      <point x="38" y="0" type="line"/>
+      <point x="56" y="0" type="line"/>
+      <point x="56" y="499" type="line"/>
+      <point x="38" y="499" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typemytype.robofont.mark</key>
+	<array>
+		<real>0.6</real>
+		<real>1.0</real>
+		<real>0.694</real>
+		<real>1.0</real>
+	</array>
+</dict>
+  </lib>
+</glyph>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="iotadieresis" format="2">
+  <advance width="211"/>
+  <unicode hex="03CA"/>
+  <outline>
+    <contour>
+      <point x="15" y="-1" type="line"/>
+      <point x="33" y="-1" type="line"/>
+      <point x="121" y="498" type="line"/>
+      <point x="103" y="498" type="line"/>
+    </contour>
+    <contour>
+      <point x="213" y="619" type="curve" smooth="yes"/>
+      <point x="204" y="619"/>
+      <point x="194" y="612"/>
+      <point x="193" y="602" type="curve"/>
+      <point x="191" y="593"/>
+      <point x="198" y="585"/>
+      <point x="207" y="585" type="curve" smooth="yes"/>
+      <point x="215" y="585"/>
+      <point x="224" y="593"/>
+      <point x="226" y="602" type="curve"/>
+      <point x="227" y="612"/>
+      <point x="221" y="619"/>
+    </contour>
+    <contour>
+      <point x="54" y="619" type="curve" smooth="yes"/>
+      <point x="45" y="619"/>
+      <point x="36" y="612"/>
+      <point x="35" y="602" type="curve"/>
+      <point x="33" y="593"/>
+      <point x="39" y="585"/>
+      <point x="48" y="585" type="curve" smooth="yes"/>
+      <point x="58" y="585"/>
+      <point x="67" y="593"/>
+      <point x="69" y="602" type="curve"/>
+      <point x="70" y="612"/>
+      <point x="64" y="619"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typemytype.robofont.mark</key>
+	<array>
+		<real>0.6</real>
+		<real>1.0</real>
+		<real>0.694</real>
+		<real>1.0</real>
+	</array>
+</dict>
+  </lib>
+</glyph>

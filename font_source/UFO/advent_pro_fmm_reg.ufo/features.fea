@@ -1,0 +1,302 @@
+# Prefix: Languagesystems
+# Languagesystems Start
+languagesystem DFLT dflt;
+languagesystem grek dflt;
+languagesystem latn dflt;
+# Languagesystems End
+# Classes Start
+# Classes End
+# Kerning Start
+
+@e = [ e eacute ecaron ecircumflex edieresis edotaccent egrave emacron eogonek ];
+
+@e1 = [ e eacute ecaron ecircumflex edieresis edotaccent egrave emacron eogonek ];
+
+@D = [ D Dcaron Dcroat Eth ];
+
+@D1 = [ D Dcaron Dcroat Eth ];
+
+@L = [ L Lacute Lcaron Lcommaaccent Ldot Q ];
+
+@L1 = [ L Lacute Lcaron Lcommaaccent Ldot Q ];
+
+@O = [ O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Omicron Omicrontonos Oslash Otilde zero ];
+
+@O1 = [ O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Omicron Omicrontonos Oslash Otilde zero ];
+
+@Upsilon = [ Upsilon Upsilontonos Y Yacute Ycircumflex Ydieresis Ygrave ];
+
+@Upsilon1 = [ Upsilon Upsilontonos Y Yacute Ycircumflex Ydieresis Ygrave ];
+
+@a = [ a aacute abreve acircumflex adieresis agrave amacron aogonek atilde ];
+
+@a1 = [ a aacute abreve acircumflex adieresis agrave amacron aogonek atilde ];
+
+@ring = [ ring ringcomb ];
+
+@ring1 = [ ring ringcomb ];
+
+@hungarumlaut = [ hungarumlaut hungarumlautcomb ];
+
+@hungarumlaut1 = [ hungarumlaut hungarumlautcomb ];
+
+@caron = [ caron caroncomb ];
+
+@caron1 = [ caron caroncomb ];
+
+@s = [ s sacute scaron scedilla scircumflex scommaaccent ];
+
+@s1 = [ s sacute scaron scedilla scircumflex scommaaccent ];
+
+@S = [ S Sacute Scaron Scedilla Scircumflex Scommaaccent ];
+
+@S1 = [ S Sacute Scaron Scedilla Scircumflex Scommaaccent ];
+
+@quotedblleft = [ quotedblleft quoteleft ];
+
+@quotedblleft1 = [ quotedblleft quoteleft ];
+
+@A = [ A Aacute Abreve Acircumflex Adieresis Agrave Alpha Alphatonos Amacron Aogonek Atilde ];
+
+@A1 = [ A Aacute Abreve Acircumflex Adieresis Agrave Alpha Alphatonos Amacron Aogonek Atilde ];
+
+@cent = [ cent l lacute lcaron lcommaaccent ldot ];
+
+@cent1 = [ cent l lacute lcaron lcommaaccent ldot ];
+
+@E = [ E Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Epsilon Epsilontonos F Gamma ];
+
+@E1 = [ E Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek Epsilon Epsilontonos F Gamma ];
+
+@comma = [ comma commaaccent commaturnedbelowcomb quotedblbase quoteright quotesinglbase semicolon ];
+
+@comma1 = [ comma commaaccent commaturnedbelowcomb quotedblbase quoteright quotesinglbase semicolon ];
+
+@r = [ r racute rcaron rcommaaccent ];
+
+@r1 = [ r racute rcaron rcommaaccent ];
+
+@I = [ I Iacute Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Iota Iotadieresis Iotatonos Itilde ];
+
+@I1 = [ I Iacute Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek Iota Iotadieresis Iotatonos Itilde ];
+
+@Z = [ Z Zacute Zcaron Zdotaccent Zeta ];
+
+@Z1 = [ Z Zacute Zcaron Zdotaccent Zeta ];
+
+@Chi = [ Chi X ];
+
+@Chi1 = [ Chi X ];
+
+@epsilon = [ epsilon epsilontonos ];
+
+@epsilon1 = [ epsilon epsilontonos ];
+
+@B = [ B Beta ];
+
+@B1 = [ B Beta ];
+
+@eta = [ eta etatonos ];
+
+@eta1 = [ eta etatonos ];
+
+@V = [ V V_alt ];
+
+@V1 = [ V V_alt ];
+
+@y = [ y yacute ycircumflex ydieresis ygrave ];
+
+@y1 = [ y yacute ycircumflex ydieresis ygrave ];
+
+@i = [ i ij ];
+
+@i1 = [ i ij ];
+
+@ogonek = [ ogonek ogonekcomb ];
+
+@ogonek1 = [ ogonek ogonekcomb ];
+
+@mu = [ mu mugreek ];
+
+@mu1 = [ mu mugreek ];
+
+@dotlessi = [ dotlessi iacute icircumflex idieresis igrave imacron iogonek iota iotadieresis iotadieresistonos iotatonos itilde ];
+
+@dotlessi1 = [ dotlessi iacute icircumflex idieresis igrave imacron iogonek iota iotadieresis iotadieresistonos iotatonos itilde ];
+
+@commaturnedabove = [ commaturnedabove commaturnedabovecomb ];
+
+@commaturnedabove1 = [ commaturnedabove commaturnedabovecomb ];
+
+@C = [ C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent ];
+
+@C1 = [ C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent ];
+
+@acute = [ acute acutecomb tonos tonoscomb ];
+
+@acute1 = [ acute acutecomb tonos tonoscomb ];
+
+@u = [ u uacute ubreve ucircumflex udieresis ugrave uhungarumlaut umacron uogonek utilde ];
+
+@u1 = [ u uacute ubreve ucircumflex udieresis ugrave uhungarumlaut umacron uogonek utilde ];
+
+@J = [ J Jcircumflex ];
+
+@J1 = [ J Jcircumflex ];
+
+@N = [ N Nacute Ncaron Ncommaaccent Ntilde Nu ];
+
+@N1 = [ N Nacute Ncaron Ncommaaccent Ntilde Nu ];
+
+@nu = [ nu v ];
+
+@nu1 = [ nu v ];
+
+@U = [ U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Utilde ];
+
+@U1 = [ U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Utilde ];
+
+@w = [ w wacute wcircumflex wdieresis wgrave ];
+
+@w1 = [ w wacute wcircumflex wdieresis wgrave ];
+
+@tilde = [ tilde tildecomb ];
+
+@tilde1 = [ tilde tildecomb ];
+
+@breve = [ breve brevecomb ];
+
+@breve1 = [ breve brevecomb ];
+
+@o = [ o oacute ocircumflex odieresis ograve ohungarumlaut omacron omicron omicrontonos otilde ];
+
+@o1 = [ o oacute ocircumflex odieresis ograve ohungarumlaut omacron omicron omicrontonos otilde ];
+
+@g = [ g gbreve gcircumflex gcommaaccent gdotaccent ];
+
+@g1 = [ g gbreve gcircumflex gcommaaccent gdotaccent ];
+
+@T = [ T Tau Tcaron Tcedilla uni021A ];
+
+@T1 = [ T Tau Tcaron Tcedilla uni021A ];
+
+@k = [ k kcommaaccent ];
+
+@k1 = [ k kcommaaccent ];
+
+@fraction = [ fraction slash ];
+
+@fraction1 = [ fraction slash ];
+
+@alpha = [ alpha alphatonos ];
+
+@alpha1 = [ alpha alphatonos ];
+
+@grave = [ grave gravecomb ];
+
+@grave1 = [ grave gravecomb ];
+
+@d = [ d dcaron ];
+
+@d1 = [ d dcaron ];
+
+@circumflex = [ circumflex circumflexcomb ];
+
+@circumflex1 = [ circumflex circumflexcomb ];
+
+@quotedblright = [ quotedblright quoteright ];
+
+@quotedblright1 = [ quotedblright quoteright ];
+
+@upsilon = [ upsilon upsilondieresis upsilondieresistonos upsilontonos ];
+
+@upsilon1 = [ upsilon upsilondieresis upsilondieresistonos upsilontonos ];
+
+@Eta = [ Eta Etatonos H Hcircumflex ];
+
+@Eta1 = [ Eta Etatonos H Hcircumflex ];
+
+@divide = [ divide macroncomb overscore underscore ];
+
+@divide1 = [ divide macroncomb overscore underscore ];
+
+@dieresistonos = [ dieresistonos dieresistonoscomb ];
+
+@dieresistonos1 = [ dieresistonos dieresistonoscomb ];
+
+@equal = [ equal hyphen sfthyphen ];
+
+@equal1 = [ equal hyphen sfthyphen ];
+
+@W = [ W Wacute Wcircumflex Wdieresis Wgrave ];
+
+@W1 = [ W Wacute Wcircumflex Wdieresis Wgrave ];
+
+@n = [ n nacute ncaron ncommaaccent ntilde ];
+
+@n1 = [ n nacute ncaron ncommaaccent ntilde ];
+
+@dotlessj = [ dotlessj j jcircumflex ];
+
+@dotlessj1 = [ dotlessj j jcircumflex ];
+
+@dotaccent = [ dotaccent dotaccentcomb ellipsis ];
+
+@dotaccent1 = [ dotaccent dotaccentcomb ellipsis ];
+
+@G = [ G Gbreve Gcircumflex Gcommaaccent Gdotaccent ];
+
+@G1 = [ G Gbreve Gcircumflex Gcommaaccent Gdotaccent ];
+
+@Omegagreek = [ Omegagreek Omegatonos ];
+
+@Omegagreek1 = [ Omegagreek Omegatonos ];
+
+@guillemotright = [ guillemotright guilsinglright ];
+
+@guillemotright1 = [ guillemotright guilsinglright ];
+
+@kappa = [ kappa kgreenlandic ];
+
+@kappa1 = [ kappa kgreenlandic ];
+
+@c = [ c cacute ccaron ccedilla ccircumflex cdotaccent ];
+
+@c1 = [ c cacute ccaron ccedilla ccircumflex cdotaccent ];
+
+@t = [ t tcaron tcedilla uni021B ];
+
+@t1 = [ t tcaron tcedilla uni021B ];
+
+@P = [ P R Racute Rcaron Rcommaaccent Rho ];
+
+@P1 = [ P R Racute Rcaron Rcommaaccent Rho ];
+
+@K = [ K Kappa Kcommaaccent ];
+
+@K1 = [ K Kappa Kcommaaccent ];
+
+@M = [ M Mu ];
+
+@M1 = [ M Mu ];
+
+@dieresis = [ dieresis dieresiscomb ];
+
+@dieresis1 = [ dieresis dieresiscomb ];
+
+@h = [ h hcircumflex ];
+
+@h1 = [ h hcircumflex ];
+
+@omega = [ omega omegatonos ];
+
+@omega1 = [ omega omegatonos ];
+
+@cedilla = [ cedilla cedillacomb ];
+
+@cedilla1 = [ cedilla cedillacomb ];
+
+@z = [ z zacute zcaron zdotaccent ];
+
+@z1 = [ z zacute zcaron zdotaccent ];
+

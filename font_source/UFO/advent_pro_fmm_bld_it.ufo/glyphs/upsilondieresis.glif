@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="upsilondieresis" format="2">
+  <advance width="449"/>
+  <unicode hex="03CB"/>
+  <outline>
+    <contour>
+      <point x="388" y="184" type="curve" smooth="yes"/>
+      <point x="443" y="499" type="line"/>
+      <point x="333" y="499" type="line"/>
+      <point x="277" y="176" type="line" smooth="yes"/>
+      <point x="269" y="131"/>
+      <point x="242" y="98"/>
+      <point x="193" y="98" type="curve" smooth="yes"/>
+      <point x="140" y="98"/>
+      <point x="123" y="135"/>
+      <point x="131" y="176" type="curve" smooth="yes"/>
+      <point x="187" y="499" type="line"/>
+      <point x="73" y="499" type="line"/>
+      <point x="18" y="184" type="line" smooth="yes"/>
+      <point x="0" y="82"/>
+      <point x="41" y="-10"/>
+      <point x="173" y="-10" type="curve" smooth="yes"/>
+      <point x="297" y="-10"/>
+      <point x="368" y="71"/>
+    </contour>
+    <contour>
+      <point x="417" y="603" type="curve" smooth="yes"/>
+      <point x="423" y="636"/>
+      <point x="399" y="662"/>
+      <point x="366" y="662" type="curve" smooth="yes"/>
+      <point x="334" y="662"/>
+      <point x="303" y="636"/>
+      <point x="297" y="603" type="curve" smooth="yes"/>
+      <point x="291" y="570"/>
+      <point x="313" y="543"/>
+      <point x="345" y="543" type="curve" smooth="yes"/>
+      <point x="378" y="543"/>
+      <point x="411" y="570"/>
+    </contour>
+    <contour>
+      <point x="259" y="603" type="curve" smooth="yes"/>
+      <point x="265" y="636"/>
+      <point x="241" y="662"/>
+      <point x="208" y="662" type="curve" smooth="yes"/>
+      <point x="175" y="662"/>
+      <point x="145" y="636"/>
+      <point x="139" y="603" type="curve" smooth="yes"/>
+      <point x="133" y="570"/>
+      <point x="154" y="543"/>
+      <point x="187" y="543" type="curve" smooth="yes"/>
+      <point x="220" y="543"/>
+      <point x="253" y="570"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typemytype.robofont.mark</key>
+	<array>
+		<real>0.6</real>
+		<real>1.0</real>
+		<real>0.732</real>
+		<real>1.0</real>
+	</array>
+</dict>
+  </lib>
+</glyph>

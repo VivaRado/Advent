@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="Etatonos" format="2">
+  <advance width="557"/>
+  <unicode hex="0389"/>
+  <outline>
+    <contour>
+      <point x="453" y="411" type="line"/>
+      <point x="135" y="411" type="line"/>
+      <point x="186" y="698" type="line"/>
+      <point x="131" y="698" type="line"/>
+      <point x="8" y="0" type="line"/>
+      <point x="63" y="0" type="line"/>
+      <point x="125" y="356" type="line"/>
+      <point x="443" y="356" type="line"/>
+      <point x="381" y="0" type="line"/>
+      <point x="437" y="0" type="line"/>
+      <point x="560" y="698" type="line"/>
+      <point x="504" y="698" type="line"/>
+    </contour>
+    <contour>
+      <point x="125" y="805" type="curve" smooth="yes"/>
+      <point x="68" y="697" type="line"/>
+      <point x="103" y="697" type="line"/>
+      <point x="172" y="777" type="line" smooth="yes"/>
+      <point x="186" y="792"/>
+      <point x="189" y="815"/>
+      <point x="173" y="825" type="curve" smooth="yes"/>
+      <point x="157" y="834"/>
+      <point x="135" y="823"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typemytype.robofont.mark</key>
+	<array>
+		<real>0.6</real>
+		<real>1.0</real>
+		<real>0.694</real>
+		<real>1.0</real>
+	</array>
+</dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="lcaron" format="2">
+  <advance width="246"/>
+  <unicode hex="013E"/>
+  <outline>
+    <contour>
+      <point x="3" y="0" type="line"/>
+      <point x="23" y="0" type="line"/>
+      <point x="146" y="698" type="line"/>
+      <point x="126" y="698" type="line"/>
+    </contour>
+    <contour>
+      <point x="147" y="771" type="line"/>
+      <point x="61" y="876" type="line"/>
+      <point x="43" y="860" type="line"/>
+      <point x="143" y="743" type="line"/>
+      <point x="285" y="860" type="line"/>
+      <point x="274" y="875" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typemytype.robofont.mark</key>
+	<array>
+		<real>0.6</real>
+		<real>1.0</real>
+		<real>0.694</real>
+		<real>1.0</real>
+	</array>
+</dict>
+  </lib>
+</glyph>

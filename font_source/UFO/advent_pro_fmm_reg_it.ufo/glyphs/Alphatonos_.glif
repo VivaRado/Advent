@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="Alphatonos" format="2">
+  <advance width="519"/>
+  <unicode hex="0386"/>
+  <outline>
+    <contour>
+      <point x="491" y="0" type="line"/>
+      <point x="387" y="698" type="line"/>
+      <point x="334" y="698" type="line"/>
+      <point x="-12" y="0" type="line"/>
+      <point x="47" y="0" type="line"/>
+      <point x="168" y="244" type="line"/>
+      <point x="395" y="244" type="line"/>
+      <point x="432" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="192" y="299" type="line"/>
+      <point x="344" y="612" type="line"/>
+      <point x="389" y="299" type="line"/>
+    </contour>
+    <contour>
+      <point x="290" y="805" type="curve" smooth="yes"/>
+      <point x="235" y="698" type="line"/>
+      <point x="270" y="698" type="line"/>
+      <point x="337" y="777" type="line"/>
+      <point x="352" y="792"/>
+      <point x="354" y="815"/>
+      <point x="338" y="825" type="curve" smooth="yes"/>
+      <point x="323" y="835"/>
+      <point x="301" y="824"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typemytype.robofont.mark</key>
+	<array>
+		<real>0.6</real>
+		<real>1.0</real>
+		<real>0.694</real>
+		<real>1.0</real>
+	</array>
+</dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="caroncomb" format="2">
+  <advance width="266"/>
+  <outline>
+    <contour>
+      <point x="2" y="713" type="line"/>
+      <point x="108" y="587" type="line"/>
+      <point x="263" y="715" type="line"/>
+      <point x="230" y="752" type="line"/>
+      <point x="121" y="663" type="line"/>
+      <point x="48" y="751" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typemytype.robofont.mark</key>
+	<array>
+		<real>0.6</real>
+		<real>0.609</real>
+		<real>1.0</real>
+		<real>1.0</real>
+	</array>
+</dict>
+  </lib>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="tcaron" format="2">
+  <advance width="316"/>
+  <unicode hex="0165"/>
+  <outline>
+    <contour>
+      <point x="131" y="132" type="curve" smooth="yes"/>
+      <point x="178" y="398" type="line"/>
+      <point x="248" y="398" type="line"/>
+      <point x="290" y="499" type="line"/>
+      <point x="195" y="499" type="line"/>
+      <point x="231" y="698" type="line"/>
+      <point x="119" y="698" type="line"/>
+      <point x="19" y="132" type="line" smooth="yes"/>
+      <point x="2" y="37"/>
+      <point x="44" y="-11"/>
+      <point x="145" y="-13" type="curve"/>
+      <point x="194" y="75" type="line"/>
+      <point x="146" y="75"/>
+      <point x="123" y="87"/>
+    </contour>
+    <contour>
+      <point x="198" y="831" type="line"/>
+      <point x="136" y="912" type="line"/>
+      <point x="73" y="860" type="line"/>
+      <point x="181" y="734" type="line"/>
+      <point x="335" y="861" type="line"/>
+      <point x="290" y="913" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typemytype.robofont.mark</key>
+	<array>
+		<real>0.6</real>
+		<real>1.0</real>
+		<real>0.732</real>
+		<real>1.0</real>
+	</array>
+</dict>
+  </lib>
+</glyph>

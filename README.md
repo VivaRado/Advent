@@ -25,12 +25,6 @@
     1.  Design Methods
         1.  Introduction
         1.  Method Structure
-        1.  Command Procedure
-            1.  Font Reconstruction
-            1.  Font Design / Retouch
-            1.  Kerning
-            1.  Create Variable font
-    1.  Expansion
 1.  Script extension
     1.  Future Script Support
     1.  Future Opentype Feature Support
@@ -114,9 +108,8 @@ Work was done on a Linux box with VirtualBox running Windows 8 and Mac OSX Lion.
 
 **Kerning**
 
-Kerning was done by utilizing Typefacets Autokern Python script: [https://github.com/charlesmchen/typefacet ](https://github.com/charlesmchen/typefacet)
+Kerning was done by utilizing Typefacets Autokern Python3 Updated Script by using VRD TYPL/kerning_autokern.py: [VRD-Typography-Library](https://github.com/VivaRado/VRD-Typography-Library)
 
-After the initial kerning result, Typefacet Autokern produces unclassified data.
 see. Design / Design Methods / Command Procedure / Kerning
 
 **  **
@@ -167,17 +160,7 @@ Started Componentizing Advent, smart object placement scripts.
 
 1. **Post Production:**
 
-Export / Import Tests Illustrator File to EPS, EPS to Fontlab, Multiple Masters, Multiple Master Blending, Kerning, Crossblends, Variable font compile.
-
-1. **Total Hours / Days:**
-
-*   05-08-2018 - 11-08-2018 = **51 Hours**
-*   12-08-2018 - 18-08-2018 = **44 Hours**
-*   18-08-2018 - 19-08-2018 = **19 Hours**
-*   19-08-2018 - 20-08-2018 = **12 Hours**
-*   20-08-2018 - 22-08-2018 = **41 Hours**
-
-    Total Hours: **167 Hours**
+VRD TYPL for kerning - kerning compression and componentization
 
 **  **
 
@@ -193,125 +176,15 @@ All the above files are available on VivaRado Github Account.
 
 **Design / Design Methods / Introduction**
 
-The circular logic we try to achieve, is the generation logic. Where the information is brought from its components right down to its final deliverable stage, by utilizing specific structures and methods of design and development to achieve rapid delivery or at least… not slow delivery.
+VRD created EFO (Extraordinary Font Object) and utilises VRD Typography Library Functions to design, kern and prepare the fonts for export.
 
 **  **
 
 **Design / Design Methods / Method Structure**
 
-Just like in a UFO, all glyphs should be visible and editable through any vector editor. Even if the original design is made using Adobe Illustrator CC. To achieve this, we export all glyphs from Adobe Illustrator layers to SVGs / EPSs by maintaining a naming format that will later allow us to package the font to its final state. With those files we have sets of encodings files that will promise language / script support and will allow tracking of influenced, added, removed or updated glyphs. The fonts Multiple Master is another important component that will allow further design decisions for the endpoint user of the font. Kerning is also generated and embedded to the font by means of automation.
+Just like in a UFO, all glyphs should be visible and editable through any vector editor. Even if the original design is made using Adobe Illustrator CC. To achieve this, we export all glyphs from the UFOs
+that are located in the EFO, to SVG and later when design is finished we import them back to the EFO and we can export our UFOs.
 
-
-**Design / Design Methods / Command Procedure**
-
-
-**  **
-
-**Font Reconstruction**
-
-
-1.  Convert all Glyphs to PostScript for Export.
-1.  Export the glyph vectors to EPS files for each weight.
-    
-    	Script: _FL_export_font_glyphs_to_EPS_files.py_
-
-1.  Rename each glyph set to include UNICODE.
-
-        Script: _do_ufo.bat_
-		Pitfalls: Runs vfb2ufoWin provided from FontLab on the directory of the fonts. Edit the bat for directories of VFBs
-
-1.  Rename each glyph set to include UNICODE.
-
-        Script: _encoding_to_eps_rename.py_
-
-**  **
-
-**Font Design / Retouch**
-
-
-1.  Import weights back to New Font Files in Fontlab for each weight.
-
-        Script: _FL_import_EPS_files_to_glyphs.py_
-
-1.  Use Fontlabs Tools/Blend.
-
-        Pitfalls: If the paths don't match up blend until they do. Try to keep the paths as they were designed in illustrator and make sure to not allow any simplification or optimization of the paths or it creates too much noise to handle between similar glyphs and will result to problems when using fontmake to create the variable font.
-
-
-1.  Import the exported from Fontlab EPS Glyphs to Illustrator
-	
-    	Script: _AI_import_eps_positions_tpg.jsx
-		Pitfalls: The script imports to layers that need different grouping for the export and componentization to occur, needs update that groups appropriately. There is a sizing process when importing from FontLab or any editor the font is too big for illustrator design plane to fit all the letters. The percentage downscale has to be scaled up on export.
-
-1. Componentize by using Illustrator Symbols.
-
-        Scripts:
-          	1.  _AI_replace_with_symbol_all_weights.jsx:
-			By selecting the layer with appropriately grouped PathObject. You can run the script and give the appropriate Symbol, it replaces the path with the appropriately weight named symbol, for all weight layers.
-    		2.  _AI_replace_with_symbol.jsx: 
-			Replaces only selected object with given symbol.
-        Pitfalls: A specific structure is required for Symbol helper scripts to work.
-1.  Manual Editing of each weight layer
-1.  Export each weight layer to EPSs:
-		
-        Script: _AI_EPS_Exporter_tpg.jsx
-        
-1.  Import exported from Illustrator EPS Glyphs, back to FontLab \
-		
-        ( Font Construction #6 )
-
-
-**  **
-
-**Kerning**
-
-
-1.  Kern only the non Italics.
-
-        Scripts: do_autokern.py
-        Pitfalls: Edit the file with proper names and weights and directories.
-
-1.  Extract the kerning pairs for each weight so as to kern the Italic equivalent \
-Scripts: extract_pairs.py
-
-        Pitfalls: Run the script in the directory of the non Italic UFOs
-
-1.  Run the kerning on the Italics using the Fix Pairs from step 2
-
-        Scripts: do_autokern_per_weight.py
-        Pitfalls: Edit the file with proper names and weights and directories.
-
-1.  Replace the kerning with the newly generated Italics kerning.plists
-        
-1.  Classify the Unclassified Kerning using the originally autokerned UFOs
-
-        Scripts: find_similar.py
-        Pitfalls: Settings are required inside the script so visual weight gets properly identified.
-
-1.  Compress the generated from find_similar.py class_loc/kern_class.json to a groups.plist file
-
-        Scripts: compress_kerning.py
-        Pitfalls: Before starting, check the json for unidentified direction values or other direction issues.
-
-1.  Transfer the kern values from the original Unclassified to a new kerning.plist based on the generated kern_class_group_loc/groups.plist
-
-        Scripts: abduct_kern_vals.py
-        Pitfalls: Values that don't match the classes, will be appended at the end of the file.
-
-
-
-**  **
-
-**Create Variable font**
-
-
-1.  Create a designspace file and run fontmake
-
-        Scripts: fontmake
-
-        Pitfalls: Pray
-
-**  **
 
 **Script Extension**
 

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="dieresistonos" format="2">
+  <advance width="266"/>
+  <unicode hex="0385"/>
+  <outline>
+    <contour>
+      <point x="87" y="690" type="curve" smooth="yes"/>
+      <point x="90" y="708"/>
+      <point x="78" y="723"/>
+      <point x="60" y="723" type="curve" smooth="yes"/>
+      <point x="41" y="723"/>
+      <point x="23" y="708"/>
+      <point x="20" y="690" type="curve" smooth="yes"/>
+      <point x="17" y="671"/>
+      <point x="29" y="657"/>
+      <point x="48" y="657" type="curve" smooth="yes"/>
+      <point x="66" y="657"/>
+      <point x="84" y="671"/>
+    </contour>
+    <contour>
+      <point x="245" y="690" type="curve" smooth="yes"/>
+      <point x="248" y="708"/>
+      <point x="236" y="723"/>
+      <point x="217" y="723" type="curve" smooth="yes"/>
+      <point x="199" y="723"/>
+      <point x="181" y="708"/>
+      <point x="178" y="690" type="curve" smooth="yes"/>
+      <point x="175" y="671"/>
+      <point x="187" y="657"/>
+      <point x="205" y="657" type="curve" smooth="yes"/>
+      <point x="224" y="657"/>
+      <point x="242" y="671"/>
+    </contour>
+    <contour>
+      <point x="217" y="813" type="line" smooth="yes"/>
+      <point x="231" y="827"/>
+      <point x="234" y="850"/>
+      <point x="218" y="860" type="curve" smooth="yes"/>
+      <point x="203" y="870"/>
+      <point x="180" y="859"/>
+      <point x="171" y="840" type="curve" smooth="yes"/>
+      <point x="114" y="734" type="line"/>
+      <point x="150" y="734" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typemytype.robofont.mark</key>
+	<array>
+		<real>0.6</real>
+		<real>0.609</real>
+		<real>1.0</real>
+		<real>1.0</real>
+	</array>
+</dict>
+  </lib>
+</glyph>

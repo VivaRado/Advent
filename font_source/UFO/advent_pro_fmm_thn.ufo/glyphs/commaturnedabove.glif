@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="commaturnedabove" format="2">
+  <advance width="266"/>
+  <outline>
+    <contour>
+      <point x="157" y="679" type="curve"/>
+      <point x="148" y="685" type="line"/>
+      <point x="148" y="685"/>
+      <point x="109" y="661"/>
+      <point x="109" y="608" type="curve" smooth="yes"/>
+      <point x="109" y="598"/>
+      <point x="116" y="592"/>
+      <point x="126" y="592" type="curve" smooth="yes"/>
+      <point x="135" y="592"/>
+      <point x="142" y="598"/>
+      <point x="142" y="608" type="curve" smooth="yes"/>
+      <point x="142" y="616"/>
+      <point x="138" y="621"/>
+      <point x="131" y="624" type="curve"/>
+      <point x="133" y="639"/>
+      <point x="138" y="660"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typemytype.robofont.mark</key>
+	<array>
+		<real>0.6</real>
+		<real>0.609</real>
+		<real>1.0</real>
+		<real>1.0</real>
+	</array>
+</dict>
+  </lib>
+</glyph>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="rcaron" format="2">
+  <advance width="375"/>
+  <unicode hex="0159"/>
+  <outline>
+    <contour>
+      <point x="346" y="459" type="curve"/>
+      <point x="359" y="507" type="line"/>
+      <point x="359" y="507"/>
+      <point x="340" y="512"/>
+      <point x="314" y="510" type="curve" smooth="yes"/>
+      <point x="242" y="507"/>
+      <point x="190" y="488"/>
+      <point x="137" y="466" type="curve"/>
+      <point x="142" y="499" type="line"/>
+      <point x="86" y="499" type="line"/>
+      <point x="-1" y="0" type="line"/>
+      <point x="55" y="0" type="line"/>
+      <point x="126" y="408" type="line"/>
+      <point x="168" y="433"/>
+      <point x="247" y="457"/>
+      <point x="305" y="460" type="curve" smooth="yes"/>
+      <point x="326" y="461"/>
+      <point x="346" y="459"/>
+    </contour>
+    <contour>
+      <point x="242" y="618" type="line"/>
+      <point x="169" y="706" type="line"/>
+      <point x="124" y="669" type="line"/>
+      <point x="229" y="542" type="line"/>
+      <point x="384" y="670" type="line"/>
+      <point x="352" y="708" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typemytype.robofont.mark</key>
+	<array>
+		<real>0.6</real>
+		<real>1.0</real>
+		<real>0.694</real>
+		<real>1.0</real>
+	</array>
+</dict>
+  </lib>
+</glyph>
