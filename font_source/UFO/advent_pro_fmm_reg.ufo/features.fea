@@ -13329,4 +13329,5 @@ lookup kern1;
 script latn; # Latin
 lookup kern1;
 } kern;
+
 # Kerning End

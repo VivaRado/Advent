@@ -114,7 +114,8 @@ languagesystem latn dflt;
 # Classes End
 
 # Kerning Start
- # Kerning
+
+feature kern { # Kerning
 # DEFAULT
 lookup kern1 {
     pos AE AE -19;
@@ -13849,4 +13850,5 @@ lookup kern1;
 script latn; # Latin
 lookup kern1;
 } kern;
+
 # Kerning End
