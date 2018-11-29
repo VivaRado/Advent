@@ -143,7 +143,7 @@
 		<string>X</string>
 		<string>Xi</string>
 		<string>Y</string>
-		<string>Y_alt</string>
+		<string>Y_upper_alt</string>
 		<string>Yacute</string>
 		<string>Ydieresis</string>
 		<string>Z</string>
@@ -383,7 +383,7 @@
 		<string>x</string>
 		<string>xi</string>
 		<string>y</string>
-		<string>y_alt</string>
+		<string>y_lower_alt</string>
 		<string>yacute</string>
 		<string>ydieresis</string>
 		<string>yen</string>

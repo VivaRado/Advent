@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>com.schriftgestaltung.fontMasterID</key>
-	<string>7D5020A3-C800-472F-8553-CD09F2BDE109</string>
-	<key>com.schriftgestaltung.useNiceNames</key>
-	<false/>
 	<key>public.glyphOrder</key>
 	<array>
 		<string>.notdef</string>
@@ -147,6 +143,7 @@
 		<string>X</string>
 		<string>Xi</string>
 		<string>Y</string>
+		<string>Y_upper_alt</string>
 		<string>Yacute</string>
 		<string>Ydieresis</string>
 		<string>Z</string>
@@ -386,7 +383,7 @@
 		<string>x</string>
 		<string>xi</string>
 		<string>y</string>
-		<string>y_alt</string>
+		<string>y_lower_alt</string>
 		<string>yacute</string>
 		<string>ydieresis</string>
 		<string>yen</string>

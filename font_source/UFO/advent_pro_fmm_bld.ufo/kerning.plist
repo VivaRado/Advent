@@ -80,8 +80,6 @@
 		<integer>-79</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>-26</integer>
-		<key>@MMK_R_quotedblright</key>
-		<integer>-24</integer>
 		<key>@MMK_R_r</key>
 		<integer>18</integer>
 		<key>@MMK_R_s</key>
@@ -159,8 +157,6 @@
 		<integer>17</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>-22</integer>
-		<key>@MMK_R_quotedblright</key>
-		<integer>-31</integer>
 		<key>@MMK_R_r</key>
 		<integer>10</integer>
 		<key>@MMK_R_u</key>
@@ -410,8 +406,6 @@
 		<integer>13</integer>
 		<key>@MMK_R_omega</key>
 		<integer>14</integer>
-		<key>@MMK_R_quotedblright</key>
-		<integer>-12</integer>
 		<key>@MMK_R_r</key>
 		<integer>18</integer>
 		<key>@MMK_R_t</key>
@@ -463,8 +457,6 @@
 		<integer>-86</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>21</integer>
-		<key>@MMK_R_quotedblright</key>
-		<integer>19</integer>
 		<key>@MMK_R_s</key>
 		<integer>16</integer>
 		<key>@MMK_R_w</key>
@@ -552,8 +544,6 @@
 		<integer>14</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>22</integer>
-		<key>@MMK_R_quotedblright</key>
-		<integer>18</integer>
 		<key>@MMK_R_r</key>
 		<integer>18</integer>
 		<key>@MMK_R_s</key>
@@ -629,8 +619,6 @@
 		<integer>15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>-36</integer>
-		<key>@MMK_R_quotedblright</key>
-		<integer>-34</integer>
 		<key>@MMK_R_s</key>
 		<integer>20</integer>
 		<key>@MMK_R_u</key>
@@ -724,8 +712,6 @@
 		<integer>14</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>22</integer>
-		<key>@MMK_R_quotedblright</key>
-		<integer>18</integer>
 		<key>@MMK_R_r</key>
 		<integer>18</integer>
 		<key>@MMK_R_s</key>
@@ -823,8 +809,6 @@
 		<integer>14</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>24</integer>
-		<key>@MMK_R_quotedblright</key>
-		<integer>20</integer>
 		<key>@MMK_R_r</key>
 		<integer>17</integer>
 		<key>@MMK_R_t</key>
@@ -930,8 +914,6 @@
 		<integer>-20</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>-25</integer>
-		<key>@MMK_R_quotedblright</key>
-		<integer>-12</integer>
 		<key>@MMK_R_r</key>
 		<integer>19</integer>
 		<key>@MMK_R_t</key>
@@ -1037,8 +1019,6 @@
 		<integer>14</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>-29</integer>
-		<key>@MMK_R_quotedblright</key>
-		<integer>-27</integer>
 		<key>@MMK_R_r</key>
 		<integer>15</integer>
 		<key>@MMK_R_s</key>
@@ -1134,8 +1114,6 @@
 		<integer>14</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>22</integer>
-		<key>@MMK_R_quotedblright</key>
-		<integer>18</integer>
 		<key>@MMK_R_r</key>
 		<integer>18</integer>
 		<key>@MMK_R_s</key>
@@ -1231,8 +1209,6 @@
 		<integer>14</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>22</integer>
-		<key>@MMK_R_quotedblright</key>
-		<integer>18</integer>
 		<key>@MMK_R_r</key>
 		<integer>18</integer>
 		<key>@MMK_R_s</key>
@@ -1387,8 +1363,6 @@
 		<integer>15</integer>
 		<key>@MMK_R_nu</key>
 		<integer>11</integer>
-		<key>@MMK_R_quotedblright</key>
-		<integer>-14</integer>
 		<key>@MMK_R_r</key>
 		<integer>15</integer>
 		<key>@MMK_R_u</key>
@@ -1559,8 +1533,6 @@
 		<integer>19</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>-32</integer>
-		<key>@MMK_R_quotedblright</key>
-		<integer>-30</integer>
 		<key>@MMK_R_r</key>
 		<integer>12</integer>
 		<key>@MMK_R_t</key>
@@ -1668,8 +1640,6 @@
 		<integer>-112</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>43</integer>
-		<key>@MMK_R_quotedblright</key>
-		<integer>41</integer>
 		<key>@MMK_R_r</key>
 		<integer>-99</integer>
 		<key>@MMK_R_s</key>
@@ -1773,8 +1743,6 @@
 		<integer>11</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>25</integer>
-		<key>@MMK_R_quotedblright</key>
-		<integer>21</integer>
 		<key>@MMK_R_r</key>
 		<integer>15</integer>
 		<key>@MMK_R_t</key>
@@ -1870,8 +1838,6 @@
 		<integer>13</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>24</integer>
-		<key>@MMK_R_quotedblright</key>
-		<integer>20</integer>
 		<key>@MMK_R_r</key>
 		<integer>17</integer>
 		<key>@MMK_R_t</key>
@@ -1985,8 +1951,6 @@
 		<integer>-55</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>26</integer>
-		<key>@MMK_R_quotedblright</key>
-		<integer>31</integer>
 		<key>@MMK_R_r</key>
 		<integer>-26</integer>
 		<key>@MMK_R_s</key>
@@ -2094,8 +2058,6 @@
 		<integer>-42</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>27</integer>
-		<key>@MMK_R_quotedblright</key>
-		<integer>27</integer>
 		<key>@MMK_R_r</key>
 		<integer>-19</integer>
 		<key>@MMK_R_s</key>
@@ -2153,8 +2115,6 @@
 		<integer>-27</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>19</integer>
-		<key>@MMK_R_quotedblright</key>
-		<integer>16</integer>
 		<key>@MMK_R_s</key>
 		<integer>17</integer>
 		<key>@MMK_R_w</key>
@@ -2258,8 +2218,6 @@
 		<integer>16</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>-39</integer>
-		<key>@MMK_R_quotedblright</key>
-		<integer>-37</integer>
 		<key>@MMK_R_r</key>
 		<integer>19</integer>
 		<key>@MMK_R_s</key>
@@ -2365,8 +2323,6 @@
 		<integer>14</integer>
 		<key>@MMK_R_omega</key>
 		<integer>15</integer>
-		<key>@MMK_R_quotedblright</key>
-		<integer>-14</integer>
 		<key>@MMK_R_r</key>
 		<integer>19</integer>
 		<key>@MMK_R_s</key>
@@ -2434,8 +2390,6 @@
 		<integer>-12</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>-12</integer>
-		<key>@MMK_R_quotedblright</key>
-		<integer>-20</integer>
 		<key>@MMK_R_r</key>
 		<integer>10</integer>
 		<key>@MMK_R_s</key>
@@ -2491,8 +2445,6 @@
 		<integer>22</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>-18</integer>
-		<key>@MMK_R_quotedblright</key>
-		<integer>-30</integer>
 		<key>@MMK_R_upsilon</key>
 		<integer>10</integer>
 		<key>@MMK_R_w</key>
@@ -2572,8 +2524,6 @@
 		<integer>-31</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>17</integer>
-		<key>@MMK_R_quotedblright</key>
-		<integer>19</integer>
 		<key>@MMK_R_r</key>
 		<integer>22</integer>
 		<key>@MMK_R_s</key>
@@ -2663,8 +2613,6 @@
 		<integer>14</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>22</integer>
-		<key>@MMK_R_quotedblright</key>
-		<integer>18</integer>
 		<key>@MMK_R_r</key>
 		<integer>18</integer>
 		<key>@MMK_R_s</key>
@@ -2748,8 +2696,6 @@
 		<integer>16</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>-34</integer>
-		<key>@MMK_R_quotedblright</key>
-		<integer>-32</integer>
 		<key>@MMK_R_r</key>
 		<integer>10</integer>
 		<key>@MMK_R_u</key>
@@ -3065,8 +3011,6 @@
 		<integer>16</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>-35</integer>
-		<key>@MMK_R_quotedblright</key>
-		<integer>-33</integer>
 		<key>@MMK_R_r</key>
 		<integer>14</integer>
 		<key>@MMK_R_t</key>
@@ -3156,8 +3100,6 @@
 		<integer>-36</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>-27</integer>
-		<key>@MMK_R_quotedblright</key>
-		<integer>-25</integer>
 		<key>@MMK_R_r</key>
 		<integer>17</integer>
 		<key>@MMK_R_s</key>
@@ -3267,8 +3209,6 @@
 		<integer>25</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>-33</integer>
-		<key>@MMK_R_quotedblright</key>
-		<integer>-39</integer>
 		<key>@MMK_R_r</key>
 		<integer>20</integer>
 		<key>@MMK_R_t</key>
@@ -3380,8 +3320,6 @@
 		<integer>16</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>-41</integer>
-		<key>@MMK_R_quotedblright</key>
-		<integer>-39</integer>
 		<key>@MMK_R_r</key>
 		<integer>19</integer>
 		<key>@MMK_R_s</key>
@@ -3691,8 +3629,6 @@
 		<integer>18</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>-33</integer>
-		<key>@MMK_R_quotedblright</key>
-		<integer>-31</integer>
 		<key>@MMK_R_r</key>
 		<integer>11</integer>
 		<key>@MMK_R_s</key>
@@ -3782,8 +3718,6 @@
 		<integer>20</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>-37</integer>
-		<key>@MMK_R_quotedblright</key>
-		<integer>-35</integer>
 		<key>@MMK_R_r</key>
 		<integer>22</integer>
 		<key>@MMK_R_s</key>
@@ -3873,8 +3807,6 @@
 		<integer>11</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>16</integer>
-		<key>@MMK_R_quotedblright</key>
-		<integer>21</integer>
 		<key>@MMK_R_r</key>
 		<integer>15</integer>
 		<key>@MMK_R_t</key>
@@ -3986,8 +3918,6 @@
 		<integer>-18</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>-22</integer>
-		<key>@MMK_R_quotedblright</key>
-		<integer>-20</integer>
 		<key>@MMK_R_r</key>
 		<integer>22</integer>
 		<key>@MMK_R_t</key>
@@ -4086,8 +4016,6 @@
 		<integer>-14</integer>
 		<key>@MMK_R_n</key>
 		<integer>10</integer>
-		<key>@MMK_R_quotedblright</key>
-		<integer>-17</integer>
 		<key>@MMK_R_r</key>
 		<integer>10</integer>
 		<key>@MMK_R_z</key>
@@ -4189,8 +4117,6 @@
 		<integer>17</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>-40</integer>
-		<key>@MMK_R_quotedblright</key>
-		<integer>-38</integer>
 		<key>@MMK_R_r</key>
 		<integer>20</integer>
 		<key>@MMK_R_s</key>
@@ -4401,8 +4327,6 @@
 		<integer>16</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>-35</integer>
-		<key>@MMK_R_quotedblright</key>
-		<integer>-33</integer>
 		<key>@MMK_R_r</key>
 		<integer>17</integer>
 		<key>@MMK_R_t</key>
@@ -4504,8 +4428,6 @@
 		<integer>15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>-36</integer>
-		<key>@MMK_R_quotedblright</key>
-		<integer>-34</integer>
 		<key>@MMK_R_r</key>
 		<integer>17</integer>
 		<key>@MMK_R_t</key>
@@ -4601,127 +4523,12 @@
 		<integer>-36</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>23</integer>
-		<key>@MMK_R_quotedblright</key>
-		<integer>17</integer>
 		<key>@MMK_R_s</key>
 		<integer>-31</integer>
 		<key>@MMK_R_t</key>
 		<integer>20</integer>
 		<key>@MMK_R_w</key>
 		<integer>19</integer>
-	</dict>
-	<key>@MMK_L_quotedblright</key>
-	<dict>
-		<key>@MMK_R_A</key>
-		<integer>-27</integer>
-		<key>@MMK_R_B</key>
-		<integer>20</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>10</integer>
-		<key>@MMK_R_D</key>
-		<integer>20</integer>
-		<key>@MMK_R_E</key>
-		<integer>20</integer>
-		<key>@MMK_R_Eta</key>
-		<integer>20</integer>
-		<key>@MMK_R_I</key>
-		<integer>33</integer>
-		<key>@MMK_R_J</key>
-		<integer>-16</integer>
-		<key>@MMK_R_K</key>
-		<integer>20</integer>
-		<key>@MMK_R_L</key>
-		<integer>20</integer>
-		<key>@MMK_R_M</key>
-		<integer>20</integer>
-		<key>@MMK_R_N</key>
-		<integer>20</integer>
-		<key>@MMK_R_Omegagreek</key>
-		<integer>-12</integer>
-		<key>@MMK_R_P</key>
-		<integer>20</integer>
-		<key>@MMK_R_S</key>
-		<integer>-25</integer>
-		<key>@MMK_R_T</key>
-		<integer>43</integer>
-		<key>@MMK_R_U</key>
-		<integer>22</integer>
-		<key>@MMK_R_Upsilon</key>
-		<integer>29</integer>
-		<key>@MMK_R_V</key>
-		<integer>31</integer>
-		<key>@MMK_R_W</key>
-		<integer>29</integer>
-		<key>@MMK_R_a</key>
-		<integer>-32</integer>
-		<key>@MMK_R_alpha</key>
-		<integer>-36</integer>
-		<key>@MMK_R_c</key>
-		<integer>-34</integer>
-		<key>@MMK_R_cent</key>
-		<integer>-35</integer>
-		<key>@MMK_R_comma</key>
-		<integer>18</integer>
-		<key>@MMK_R_d</key>
-		<integer>-34</integer>
-		<key>@MMK_R_divide</key>
-		<integer>-32</integer>
-		<key>@MMK_R_dotlessi</key>
-		<integer>-28</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-17</integer>
-		<key>@MMK_R_e</key>
-		<integer>-36</integer>
-		<key>@MMK_R_epsilon</key>
-		<integer>-32</integer>
-		<key>@MMK_R_equal</key>
-		<integer>-39</integer>
-		<key>@MMK_R_eta</key>
-		<integer>-28</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>-21</integer>
-		<key>@MMK_R_g</key>
-		<integer>-35</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>-35</integer>
-		<key>@MMK_R_h</key>
-		<integer>20</integer>
-		<key>@MMK_R_i</key>
-		<integer>23</integer>
-		<key>@MMK_R_k</key>
-		<integer>20</integer>
-		<key>@MMK_R_kappa</key>
-		<integer>-18</integer>
-		<key>@MMK_R_mu</key>
-		<integer>-29</integer>
-		<key>@MMK_R_n</key>
-		<integer>-28</integer>
-		<key>@MMK_R_nu</key>
-		<integer>-10</integer>
-		<key>@MMK_R_o</key>
-		<integer>-34</integer>
-		<key>@MMK_R_omega</key>
-		<integer>-35</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>22</integer>
-		<key>@MMK_R_quotedblright</key>
-		<integer>26</integer>
-		<key>@MMK_R_r</key>
-		<integer>-28</integer>
-		<key>@MMK_R_s</key>
-		<integer>-30</integer>
-		<key>@MMK_R_t</key>
-		<integer>21</integer>
-		<key>@MMK_R_u</key>
-		<integer>-22</integer>
-		<key>@MMK_R_upsilon</key>
-		<integer>-25</integer>
-		<key>@MMK_R_w</key>
-		<integer>-10</integer>
-		<key>@MMK_R_y</key>
-		<integer>-21</integer>
-		<key>@MMK_R_z</key>
-		<integer>-31</integer>
 	</dict>
 	<key>@MMK_L_r</key>
 	<dict>
@@ -4912,8 +4719,6 @@
 		<integer>18</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>-32</integer>
-		<key>@MMK_R_quotedblright</key>
-		<integer>-30</integer>
 		<key>@MMK_R_r</key>
 		<integer>12</integer>
 		<key>@MMK_R_s</key>
@@ -5009,8 +4814,6 @@
 		<integer>-13</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>-11</integer>
-		<key>@MMK_R_quotedblright</key>
-		<integer>-20</integer>
 		<key>@MMK_R_r</key>
 		<integer>12</integer>
 		<key>@MMK_R_t</key>
@@ -5427,8 +5230,6 @@
 		<integer>14</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>-13</integer>
-		<key>@MMK_R_quotedblright</key>
-		<integer>-25</integer>
 		<key>@MMK_R_r</key>
 		<integer>12</integer>
 		<key>@MMK_R_t</key>
@@ -5541,7 +5342,7 @@
 		<integer>13</integer>
 		<key>Xi</key>
 		<integer>25</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>35</integer>
 		<key>asciitilde</key>
 		<integer>-41</integer>
@@ -5595,6 +5396,8 @@
 		<integer>14</integer>
 		<key>quotedbl</key>
 		<integer>32</integer>
+		<key>quotedblright</key>
+		<integer>19</integer>
 		<key>quotesingle</key>
 		<integer>32</integer>
 		<key>seven</key>
@@ -5613,7 +5416,7 @@
 		<integer>11</integer>
 		<key>x</key>
 		<integer>12</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>-76</integer>
 		<key>yen</key>
 		<integer>24</integer>
@@ -5734,7 +5537,7 @@
 		<integer>16</integer>
 		<key>Uring</key>
 		<integer>-16</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-103</integer>
 		<key>asciitilde</key>
 		<integer>-29</integer>
@@ -5836,6 +5639,8 @@
 		<integer>-24</integer>
 		<key>quotedbl</key>
 		<integer>-26</integer>
+		<key>quotedblright</key>
+		<integer>-24</integer>
 		<key>quotesingle</key>
 		<integer>-26</integer>
 		<key>rho</key>
@@ -5864,7 +5669,7 @@
 		<integer>25</integer>
 		<key>x</key>
 		<integer>26</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>-83</integer>
 		<key>yen</key>
 		<integer>-19</integer>
@@ -5987,7 +5792,7 @@
 		<integer>18</integer>
 		<key>Uring</key>
 		<integer>-19</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-130</integer>
 		<key>asciitilde</key>
 		<integer>-27</integer>
@@ -6097,6 +5902,8 @@
 		<integer>-22</integer>
 		<key>quotedbl</key>
 		<integer>-24</integer>
+		<key>quotedblright</key>
+		<integer>-22</integer>
 		<key>quotesingle</key>
 		<integer>-24</integer>
 		<key>registered</key>
@@ -6127,7 +5934,7 @@
 		<integer>27</integer>
 		<key>x</key>
 		<integer>28</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>-99</integer>
 		<key>yen</key>
 		<integer>-17</integer>
@@ -6222,7 +6029,7 @@
 		<integer>14</integer>
 		<key>Xi</key>
 		<integer>19</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>27</integer>
 		<key>asciitilde</key>
 		<integer>17</integer>
@@ -6310,6 +6117,8 @@
 		<integer>11</integer>
 		<key>quotedbl</key>
 		<integer>24</integer>
+		<key>quotedblright</key>
+		<integer>18</integer>
 		<key>quotesingle</key>
 		<integer>24</integer>
 		<key>rho</key>
@@ -6326,7 +6135,7 @@
 		<integer>16</integer>
 		<key>trademark</key>
 		<integer>13</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>17</integer>
 		<key>yen</key>
 		<integer>16</integer>
@@ -6385,7 +6194,7 @@
 		<integer>-11</integer>
 		<key>Xi</key>
 		<integer>-11</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>10</integer>
 		<key>asciitilde</key>
 		<integer>-30</integer>
@@ -6473,7 +6282,7 @@
 		<integer>17</integer>
 		<key>x</key>
 		<integer>15</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>-26</integer>
 	</dict>
 	<key>Hbar</key>
@@ -6674,6 +6483,8 @@
 		<integer>-26</integer>
 		<key>quotedbl</key>
 		<integer>16</integer>
+		<key>quotedblright</key>
+		<integer>13</integer>
 		<key>quotesingle</key>
 		<integer>16</integer>
 		<key>registered</key>
@@ -6698,7 +6509,7 @@
 		<integer>18</integer>
 		<key>xi</key>
 		<integer>-27</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>29</integer>
 		<key>zeta</key>
 		<integer>-25</integer>
@@ -6787,7 +6598,7 @@
 		<integer>15</integer>
 		<key>Xi</key>
 		<integer>21</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>29</integer>
 		<key>ae</key>
 		<integer>11</integer>
@@ -6883,6 +6694,8 @@
 		<integer>10</integer>
 		<key>quotedbl</key>
 		<integer>26</integer>
+		<key>quotedblright</key>
+		<integer>20</integer>
 		<key>quotesingle</key>
 		<integer>26</integer>
 		<key>rho</key>
@@ -6899,7 +6712,7 @@
 		<integer>16</integer>
 		<key>trademark</key>
 		<integer>15</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>19</integer>
 		<key>yen</key>
 		<integer>18</integer>
@@ -7024,7 +6837,7 @@
 		<integer>18</integer>
 		<key>Uring</key>
 		<integer>-19</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-130</integer>
 		<key>asciitilde</key>
 		<integer>-27</integer>
@@ -7134,6 +6947,8 @@
 		<integer>-22</integer>
 		<key>quotedbl</key>
 		<integer>-24</integer>
+		<key>quotedblright</key>
+		<integer>-22</integer>
 		<key>quotesingle</key>
 		<integer>-24</integer>
 		<key>registered</key>
@@ -7164,7 +6979,7 @@
 		<integer>27</integer>
 		<key>x</key>
 		<integer>28</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>-100</integer>
 		<key>yen</key>
 		<integer>-17</integer>
@@ -7289,7 +7104,7 @@
 		<integer>12</integer>
 		<key>Xi</key>
 		<integer>-11</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-136</integer>
 		<key>ae</key>
 		<integer>19</integer>
@@ -7415,6 +7230,8 @@
 		<integer>16</integer>
 		<key>quotedbl</key>
 		<integer>-30</integer>
+		<key>quotedblright</key>
+		<integer>-28</integer>
 		<key>quotesingle</key>
 		<integer>-30</integer>
 		<key>registered</key>
@@ -7447,7 +7264,7 @@
 		<integer>22</integer>
 		<key>xi</key>
 		<integer>18</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>-111</integer>
 		<key>yen</key>
 		<integer>-23</integer>
@@ -7510,7 +7327,7 @@
 		<integer>13</integer>
 		<key>Xi</key>
 		<integer>25</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>35</integer>
 		<key>asciitilde</key>
 		<integer>-41</integer>
@@ -7564,6 +7381,8 @@
 		<integer>14</integer>
 		<key>quotedbl</key>
 		<integer>32</integer>
+		<key>quotedblright</key>
+		<integer>19</integer>
 		<key>quotesingle</key>
 		<integer>32</integer>
 		<key>seven</key>
@@ -7582,7 +7401,7 @@
 		<integer>11</integer>
 		<key>x</key>
 		<integer>12</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>-89</integer>
 		<key>yen</key>
 		<integer>24</integer>
@@ -7691,7 +7510,7 @@
 		<integer>11</integer>
 		<key>Xi</key>
 		<integer>10</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-18</integer>
 		<key>ae</key>
 		<integer>16</integer>
@@ -7829,7 +7648,7 @@
 		<integer>13</integer>
 		<key>xi</key>
 		<integer>14</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>24</integer>
 		<key>yen</key>
 		<integer>-30</integer>
@@ -7922,7 +7741,7 @@
 		<integer>14</integer>
 		<key>Xi</key>
 		<integer>19</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>27</integer>
 		<key>asciitilde</key>
 		<integer>17</integer>
@@ -8008,6 +7827,8 @@
 		<integer>11</integer>
 		<key>quotedbl</key>
 		<integer>24</integer>
+		<key>quotedblright</key>
+		<integer>18</integer>
 		<key>quotesingle</key>
 		<integer>24</integer>
 		<key>rho</key>
@@ -8024,7 +7845,7 @@
 		<integer>16</integer>
 		<key>trademark</key>
 		<integer>13</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>17</integer>
 		<key>yen</key>
 		<integer>16</integer>
@@ -8175,6 +7996,8 @@
 		<integer>-38</integer>
 		<key>quotedbl</key>
 		<integer>18</integer>
+		<key>quotedblright</key>
+		<integer>15</integer>
 		<key>quotesingle</key>
 		<integer>18</integer>
 		<key>registered</key>
@@ -8197,7 +8020,7 @@
 		<integer>12</integer>
 		<key>x</key>
 		<integer>15</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>26</integer>
 		<key>zeta</key>
 		<integer>-18</integer>
@@ -8260,7 +8083,7 @@
 		<integer>-15</integer>
 		<key>Xi</key>
 		<integer>-16</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>16</integer>
 		<key>ae</key>
 		<integer>16</integer>
@@ -8374,7 +8197,7 @@
 		<integer>-23</integer>
 		<key>xi</key>
 		<integer>14</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>-113</integer>
 		<key>zeta</key>
 		<integer>11</integer>
@@ -8439,7 +8262,7 @@
 		<integer>13</integer>
 		<key>Xi</key>
 		<integer>25</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>35</integer>
 		<key>asciitilde</key>
 		<integer>12</integer>
@@ -8507,6 +8330,8 @@
 		<integer>-37</integer>
 		<key>quotedbl</key>
 		<integer>32</integer>
+		<key>quotedblright</key>
+		<integer>21</integer>
 		<key>quotesingle</key>
 		<integer>32</integer>
 		<key>registered</key>
@@ -8630,7 +8455,7 @@
 		<integer>13</integer>
 		<key>Uring</key>
 		<integer>11</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-20</integer>
 		<key>ae</key>
 		<integer>15</integer>
@@ -8766,7 +8591,7 @@
 		<integer>12</integer>
 		<key>xi</key>
 		<integer>13</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>23</integer>
 		<key>yen</key>
 		<integer>-31</integer>
@@ -8867,7 +8692,7 @@
 		<integer>11</integer>
 		<key>Xi</key>
 		<integer>-19</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-52</integer>
 		<key>ae</key>
 		<integer>20</integer>
@@ -8971,6 +8796,8 @@
 		<integer>17</integer>
 		<key>quotedbl</key>
 		<integer>-33</integer>
+		<key>quotedblright</key>
+		<integer>-27</integer>
 		<key>quotesingle</key>
 		<integer>-33</integer>
 		<key>registered</key>
@@ -9003,7 +8830,7 @@
 		<integer>11</integer>
 		<key>xi</key>
 		<integer>18</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>22</integer>
 		<key>yen</key>
 		<integer>-27</integer>
@@ -9096,7 +8923,7 @@
 		<integer>10</integer>
 		<key>Xi</key>
 		<integer>22</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>30</integer>
 		<key>ae</key>
 		<integer>12</integer>
@@ -9196,6 +9023,8 @@
 		<integer>11</integer>
 		<key>quotedbl</key>
 		<integer>27</integer>
+		<key>quotedblright</key>
+		<integer>21</integer>
 		<key>quotesingle</key>
 		<integer>27</integer>
 		<key>rho</key>
@@ -9214,7 +9043,7 @@
 		<integer>16</integer>
 		<key>xi</key>
 		<integer>10</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>20</integer>
 		<key>yen</key>
 		<integer>19</integer>
@@ -9443,6 +9272,8 @@
 		<integer>13</integer>
 		<key>quotedbl</key>
 		<integer>-11</integer>
+		<key>quotedblright</key>
+		<integer>-20</integer>
 		<key>quotesingle</key>
 		<integer>-11</integer>
 		<key>registered</key>
@@ -9473,14 +9304,14 @@
 		<integer>-17</integer>
 		<key>xi</key>
 		<integer>14</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>-60</integer>
 		<key>yen</key>
 		<integer>-12</integer>
 		<key>zeta</key>
 		<integer>11</integer>
 	</dict>
-	<key>Y_alt</key>
+	<key>Y_upper_alt</key>
 	<dict>
 		<key>@MMK_R_A</key>
 		<integer>-123</integer>
@@ -9618,7 +9449,7 @@
 		<integer>30</integer>
 		<key>Xi</key>
 		<integer>19</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>58</integer>
 		<key>ae</key>
 		<integer>-135</integer>
@@ -9750,6 +9581,8 @@
 		<integer>-16</integer>
 		<key>quotedbl</key>
 		<integer>40</integer>
+		<key>quotedblright</key>
+		<integer>38</integer>
 		<key>quotesingle</key>
 		<integer>40</integer>
 		<key>registered</key>
@@ -9784,7 +9617,7 @@
 		<integer>-47</integer>
 		<key>xi</key>
 		<integer>-66</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>-36</integer>
 		<key>yen</key>
 		<integer>47</integer>
@@ -9905,7 +9738,7 @@
 		<integer>10</integer>
 		<key>Xi</key>
 		<integer>-49</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-100</integer>
 		<key>ae</key>
 		<integer>20</integer>
@@ -10019,6 +9852,8 @@
 		<integer>19</integer>
 		<key>quotedbl</key>
 		<integer>-35</integer>
+		<key>quotedblright</key>
+		<integer>-33</integer>
 		<key>quotesingle</key>
 		<integer>-35</integer>
 		<key>registered</key>
@@ -10051,7 +9886,7 @@
 		<integer>-16</integer>
 		<key>xi</key>
 		<integer>18</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>-12</integer>
 		<key>yen</key>
 		<integer>-28</integer>
@@ -10138,7 +9973,7 @@
 		<integer>11</integer>
 		<key>Xi</key>
 		<integer>-30</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-16</integer>
 		<key>asterisk</key>
 		<integer>-32</integer>
@@ -10228,6 +10063,8 @@
 		<integer>-17</integer>
 		<key>quotedbl</key>
 		<integer>-34</integer>
+		<key>quotedblright</key>
+		<integer>-32</integer>
 		<key>quotesingle</key>
 		<integer>-34</integer>
 		<key>registered</key>
@@ -10351,7 +10188,7 @@
 		<integer>10</integer>
 		<key>Xi</key>
 		<integer>-18</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-103</integer>
 		<key>ae</key>
 		<integer>18</integer>
@@ -10455,6 +10292,8 @@
 		<integer>17</integer>
 		<key>quotedbl</key>
 		<integer>-37</integer>
+		<key>quotedblright</key>
+		<integer>-35</integer>
 		<key>quotesingle</key>
 		<integer>-37</integer>
 		<key>registered</key>
@@ -10489,7 +10328,7 @@
 		<integer>15</integer>
 		<key>xi</key>
 		<integer>16</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>-16</integer>
 		<key>yen</key>
 		<integer>-30</integer>
@@ -10632,7 +10471,7 @@
 		<integer>19</integer>
 		<key>Xi</key>
 		<integer>-34</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-20</integer>
 		<key>ae</key>
 		<integer>21</integer>
@@ -10754,6 +10593,8 @@
 		<integer>-18</integer>
 		<key>quotedbl</key>
 		<integer>17</integer>
+		<key>quotedblright</key>
+		<integer>19</integer>
 		<key>quotesingle</key>
 		<integer>17</integer>
 		<key>registered</key>
@@ -10786,7 +10627,7 @@
 		<integer>-41</integer>
 		<key>xi</key>
 		<integer>21</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>-30</integer>
 		<key>yen</key>
 		<integer>-31</integer>
@@ -10899,7 +10740,7 @@
 		<integer>14</integer>
 		<key>Xi</key>
 		<integer>17</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-13</integer>
 		<key>ae</key>
 		<integer>-31</integer>
@@ -11033,7 +10874,7 @@
 		<integer>-29</integer>
 		<key>xi</key>
 		<integer>-33</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>16</integer>
 		<key>yen</key>
 		<integer>-24</integer>
@@ -11152,7 +10993,7 @@
 		<integer>13</integer>
 		<key>Xi</key>
 		<integer>-28</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-14</integer>
 		<key>ae</key>
 		<integer>-21</integer>
@@ -11260,6 +11101,8 @@
 		<integer>-22</integer>
 		<key>quotedbl</key>
 		<integer>-32</integer>
+		<key>quotedblright</key>
+		<integer>-30</integer>
 		<key>quotesingle</key>
 		<integer>-32</integer>
 		<key>seven</key>
@@ -11381,7 +11224,7 @@
 		<integer>10</integer>
 		<key>Xi</key>
 		<integer>-41</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-93</integer>
 		<key>ae</key>
 		<integer>20</integer>
@@ -11479,6 +11322,8 @@
 		<integer>19</integer>
 		<key>quotedbl</key>
 		<integer>-35</integer>
+		<key>quotedblright</key>
+		<integer>-33</integer>
 		<key>quotesingle</key>
 		<integer>-35</integer>
 		<key>registered</key>
@@ -11750,6 +11595,8 @@
 		<integer>-21</integer>
 		<key>quotedbl</key>
 		<integer>-20</integer>
+		<key>quotedblright</key>
+		<integer>-18</integer>
 		<key>quotesingle</key>
 		<integer>-20</integer>
 		<key>registered</key>
@@ -11778,7 +11625,7 @@
 		<integer>-26</integer>
 		<key>xi</key>
 		<integer>-22</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>-12</integer>
 		<key>yen</key>
 		<integer>-13</integer>
@@ -11865,7 +11712,7 @@
 		<integer>12</integer>
 		<key>Xi</key>
 		<integer>19</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>27</integer>
 		<key>asciitilde</key>
 		<integer>17</integer>
@@ -11953,6 +11800,8 @@
 		<integer>11</integer>
 		<key>quotedbl</key>
 		<integer>24</integer>
+		<key>quotedblright</key>
+		<integer>18</integer>
 		<key>quotesingle</key>
 		<integer>24</integer>
 		<key>rho</key>
@@ -11969,7 +11818,7 @@
 		<integer>16</integer>
 		<key>trademark</key>
 		<integer>13</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>17</integer>
 		<key>yen</key>
 		<integer>16</integer>
@@ -12060,7 +11909,7 @@
 		<integer>11</integer>
 		<key>Xi</key>
 		<integer>-38</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-63</integer>
 		<key>ae</key>
 		<integer>21</integer>
@@ -12164,6 +12013,8 @@
 		<integer>19</integer>
 		<key>quotedbl</key>
 		<integer>-34</integer>
+		<key>quotedblright</key>
+		<integer>-32</integer>
 		<key>quotesingle</key>
 		<integer>-34</integer>
 		<key>registered</key>
@@ -12196,7 +12047,7 @@
 		<integer>-28</integer>
 		<key>xi</key>
 		<integer>19</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>-39</integer>
 		<key>yen</key>
 		<integer>-27</integer>
@@ -12295,7 +12146,7 @@
 		<integer>-26</integer>
 		<key>Xi</key>
 		<integer>-11</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>34</integer>
 		<key>ae</key>
 		<integer>-24</integer>
@@ -12437,7 +12288,7 @@
 		<integer>16</integer>
 		<key>xi</key>
 		<integer>-26</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>-16</integer>
 		<key>yen</key>
 		<integer>23</integer>
@@ -12540,7 +12391,7 @@
 		<integer>12</integer>
 		<key>Xi</key>
 		<integer>-29</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-15</integer>
 		<key>asciitilde</key>
 		<integer>13</integer>
@@ -12658,6 +12509,8 @@
 		<integer>-34</integer>
 		<key>quotedbl</key>
 		<integer>-33</integer>
+		<key>quotedblright</key>
+		<integer>-31</integer>
 		<key>quotesingle</key>
 		<integer>-33</integer>
 		<key>registered</key>
@@ -12690,7 +12543,7 @@
 		<integer>16</integer>
 		<key>x</key>
 		<integer>-36</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>-19</integer>
 		<key>yen</key>
 		<integer>-26</integer>
@@ -12831,7 +12684,7 @@
 		<integer>10</integer>
 		<key>Uring</key>
 		<integer>13</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>40</integer>
 		<key>ae</key>
 		<integer>-28</integer>
@@ -12953,6 +12806,8 @@
 		<integer>-29</integer>
 		<key>quotedbl</key>
 		<integer>22</integer>
+		<key>quotedblright</key>
+		<integer>17</integer>
 		<key>quotesingle</key>
 		<integer>22</integer>
 		<key>registered</key>
@@ -12989,7 +12844,7 @@
 		<integer>20</integer>
 		<key>xi</key>
 		<integer>-30</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>-20</integer>
 		<key>yen</key>
 		<integer>29</integer>
@@ -13076,7 +12931,7 @@
 		<integer>12</integer>
 		<key>Xi</key>
 		<integer>19</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>27</integer>
 		<key>asciitilde</key>
 		<integer>17</integer>
@@ -13164,6 +13019,8 @@
 		<integer>11</integer>
 		<key>quotedbl</key>
 		<integer>24</integer>
+		<key>quotedblright</key>
+		<integer>18</integer>
 		<key>quotesingle</key>
 		<integer>24</integer>
 		<key>rho</key>
@@ -13180,7 +13037,7 @@
 		<integer>16</integer>
 		<key>trademark</key>
 		<integer>13</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>17</integer>
 		<key>yen</key>
 		<integer>16</integer>
@@ -13281,7 +13138,7 @@
 		<integer>11</integer>
 		<key>Xi</key>
 		<integer>-30</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-16</integer>
 		<key>ae</key>
 		<integer>14</integer>
@@ -13381,6 +13238,8 @@
 		<integer>-14</integer>
 		<key>quotedbl</key>
 		<integer>-34</integer>
+		<key>quotedblright</key>
+		<integer>-32</integer>
 		<key>quotesingle</key>
 		<integer>-34</integer>
 		<key>registered</key>
@@ -13413,7 +13272,7 @@
 		<integer>-37</integer>
 		<key>xi</key>
 		<integer>13</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>-15</integer>
 		<key>yen</key>
 		<integer>-27</integer>
@@ -13554,7 +13413,7 @@
 		<integer>-24</integer>
 		<key>Xi</key>
 		<integer>-46</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-80</integer>
 		<key>ae</key>
 		<integer>-109</integer>
@@ -13795,7 +13654,7 @@
 		<integer>17</integer>
 		<key>Xi</key>
 		<integer>-38</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-24</integer>
 		<key>ae</key>
 		<integer>25</integer>
@@ -13911,6 +13770,8 @@
 		<integer>23</integer>
 		<key>quotedbl</key>
 		<integer>13</integer>
+		<key>quotedblright</key>
+		<integer>15</integer>
 		<key>quotesingle</key>
 		<integer>13</integer>
 		<key>registered</key>
@@ -14040,7 +13901,7 @@
 		<integer>11</integer>
 		<key>Xi</key>
 		<integer>-32</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-18</integer>
 		<key>ae</key>
 		<integer>19</integer>
@@ -14136,6 +13997,8 @@
 		<integer>18</integer>
 		<key>quotedbl</key>
 		<integer>-36</integer>
+		<key>quotedblright</key>
+		<integer>-34</integer>
 		<key>quotesingle</key>
 		<integer>-36</integer>
 		<key>registered</key>
@@ -14166,7 +14029,7 @@
 		<integer>-26</integer>
 		<key>xi</key>
 		<integer>17</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>-12</integer>
 		<key>yen</key>
 		<integer>-29</integer>
@@ -14257,7 +14120,7 @@
 		<integer>11</integer>
 		<key>Xi</key>
 		<integer>-32</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-18</integer>
 		<key>ae</key>
 		<integer>17</integer>
@@ -14351,6 +14214,8 @@
 		<integer>15</integer>
 		<key>quotedbl</key>
 		<integer>19</integer>
+		<key>quotedblright</key>
+		<integer>-34</integer>
 		<key>quotesingle</key>
 		<integer>19</integer>
 		<key>registered</key>
@@ -14598,6 +14463,8 @@
 		<integer>-34</integer>
 		<key>quotedbl</key>
 		<integer>17</integer>
+		<key>quotedblright</key>
+		<integer>14</integer>
 		<key>quotesingle</key>
 		<integer>17</integer>
 		<key>registered</key>
@@ -14620,7 +14487,7 @@
 		<integer>-24</integer>
 		<key>xi</key>
 		<integer>-35</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>21</integer>
 		<key>zeta</key>
 		<integer>-33</integer>
@@ -14803,6 +14670,8 @@
 		<integer>-34</integer>
 		<key>questiondown</key>
 		<integer>18</integer>
+		<key>quotedblright</key>
+		<integer>-18</integer>
 		<key>registered</key>
 		<integer>15</integer>
 		<key>rho</key>
@@ -14827,7 +14696,7 @@
 		<integer>-34</integer>
 		<key>xi</key>
 		<integer>17</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>-30</integer>
 		<key>zeta</key>
 		<integer>19</integer>
@@ -14930,7 +14799,7 @@
 		<integer>11</integer>
 		<key>Xi</key>
 		<integer>-30</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-16</integer>
 		<key>ae</key>
 		<integer>21</integer>
@@ -15036,6 +14905,8 @@
 		<integer>19</integer>
 		<key>quotedbl</key>
 		<integer>-34</integer>
+		<key>quotedblright</key>
+		<integer>-32</integer>
 		<key>quotesingle</key>
 		<integer>-34</integer>
 		<key>registered</key>
@@ -15064,7 +14935,7 @@
 		<integer>-37</integer>
 		<key>xi</key>
 		<integer>19</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>-26</integer>
 		<key>yen</key>
 		<integer>-27</integer>
@@ -15157,7 +15028,7 @@
 		<integer>12</integer>
 		<key>Xi</key>
 		<integer>27</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>22</integer>
 		<key>ae</key>
 		<integer>-26</integer>
@@ -15273,6 +15144,8 @@
 		<integer>-27</integer>
 		<key>quotedbl</key>
 		<integer>28</integer>
+		<key>quotedblright</key>
+		<integer>25</integer>
 		<key>quotesingle</key>
 		<integer>28</integer>
 		<key>registered</key>
@@ -15297,7 +15170,7 @@
 		<integer>11</integer>
 		<key>xi</key>
 		<integer>-28</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>22</integer>
 		<key>yen</key>
 		<integer>11</integer>
@@ -15396,7 +15269,7 @@
 		<integer>11</integer>
 		<key>Xi</key>
 		<integer>-18</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-47</integer>
 		<key>ae</key>
 		<integer>21</integer>
@@ -15504,6 +15377,8 @@
 		<integer>19</integer>
 		<key>quotedbl</key>
 		<integer>-30</integer>
+		<key>quotedblright</key>
+		<integer>-32</integer>
 		<key>quotesingle</key>
 		<integer>-30</integer>
 		<key>registered</key>
@@ -15667,7 +15542,7 @@
 		<integer>14</integer>
 		<key>Xi</key>
 		<integer>-20</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-99</integer>
 		<key>ae</key>
 		<integer>15</integer>
@@ -15789,6 +15664,8 @@
 		<integer>14</integer>
 		<key>quotedbl</key>
 		<integer>-40</integer>
+		<key>quotedblright</key>
+		<integer>-38</integer>
 		<key>quotesingle</key>
 		<integer>-40</integer>
 		<key>registered</key>
@@ -15823,7 +15700,7 @@
 		<integer>12</integer>
 		<key>xi</key>
 		<integer>13</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>-12</integer>
 		<key>yen</key>
 		<integer>-33</integer>
@@ -15900,7 +15777,7 @@
 		<integer>-63</integer>
 		<key>Tbar</key>
 		<integer>13</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-27</integer>
 		<key>ae</key>
 		<integer>17</integer>
@@ -15996,6 +15873,8 @@
 		<integer>12</integer>
 		<key>quotedbl</key>
 		<integer>-10</integer>
+		<key>quotedblright</key>
+		<integer>-10</integer>
 		<key>quotesingle</key>
 		<integer>-10</integer>
 		<key>registered</key>
@@ -16026,7 +15905,7 @@
 		<integer>14</integer>
 		<key>xi</key>
 		<integer>15</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>25</integer>
 		<key>yen</key>
 		<integer>-31</integer>
@@ -16099,7 +15978,7 @@
 		<integer>10</integer>
 		<key>Xi</key>
 		<integer>21</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>24</integer>
 		<key>asterisk</key>
 		<integer>11</integer>
@@ -16133,6 +16012,8 @@
 		<integer>10</integer>
 		<key>quotedbl</key>
 		<integer>24</integer>
+		<key>quotedblright</key>
+		<integer>19</integer>
 		<key>quotesingle</key>
 		<integer>24</integer>
 		<key>tau</key>
@@ -16143,7 +16024,7 @@
 		<integer>17</integer>
 		<key>two</key>
 		<integer>10</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>15</integer>
 		<key>yen</key>
 		<integer>13</integer>
@@ -16206,7 +16087,7 @@
 		<integer>10</integer>
 		<key>Xi</key>
 		<integer>12</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>28</integer>
 		<key>asciitilde</key>
 		<integer>11</integer>
@@ -16242,6 +16123,8 @@
 		<integer>12</integer>
 		<key>quotedbl</key>
 		<integer>15</integer>
+		<key>quotedblright</key>
+		<integer>16</integer>
 		<key>quotesingle</key>
 		<integer>15</integer>
 		<key>rho</key>
@@ -16353,7 +16236,7 @@
 		<integer>13</integer>
 		<key>Xi</key>
 		<integer>16</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>41</integer>
 		<key>ae</key>
 		<integer>-49</integer>
@@ -16435,6 +16318,8 @@
 		<integer>-33</integer>
 		<key>quotedbl</key>
 		<integer>30</integer>
+		<key>quotedblright</key>
+		<integer>20</integer>
 		<key>quotesingle</key>
 		<integer>30</integer>
 		<key>registered</key>
@@ -16461,7 +16346,7 @@
 		<integer>11</integer>
 		<key>xi</key>
 		<integer>-47</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>22</integer>
 		<key>yen</key>
 		<integer>30</integer>
@@ -16570,7 +16455,7 @@
 		<integer>17</integer>
 		<key>Xi</key>
 		<integer>18</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>45</integer>
 		<key>ae</key>
 		<integer>-59</integer>
@@ -16658,6 +16543,8 @@
 		<integer>-29</integer>
 		<key>quotedbl</key>
 		<integer>33</integer>
+		<key>quotedblright</key>
+		<integer>27</integer>
 		<key>quotesingle</key>
 		<integer>33</integer>
 		<key>registered</key>
@@ -16684,7 +16571,7 @@
 		<integer>-18</integer>
 		<key>xi</key>
 		<integer>-57</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>13</integer>
 		<key>yen</key>
 		<integer>34</integer>
@@ -16777,7 +16664,7 @@
 		<integer>14</integer>
 		<key>Xi</key>
 		<integer>19</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>26</integer>
 		<key>asciitilde</key>
 		<integer>17</integer>
@@ -16863,6 +16750,8 @@
 		<integer>11</integer>
 		<key>quotedbl</key>
 		<integer>23</integer>
+		<key>quotedblright</key>
+		<integer>18</integer>
 		<key>quotesingle</key>
 		<integer>23</integer>
 		<key>rho</key>
@@ -16879,7 +16768,7 @@
 		<integer>16</integer>
 		<key>trademark</key>
 		<integer>13</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>17</integer>
 		<key>yen</key>
 		<integer>15</integer>
@@ -17070,7 +16959,7 @@
 		<integer>11</integer>
 		<key>xi</key>
 		<integer>10</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>20</integer>
 		<key>yen</key>
 		<integer>-19</integer>
@@ -17177,7 +17066,7 @@
 		<integer>12</integer>
 		<key>Xi</key>
 		<integer>-26</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-16</integer>
 		<key>ae</key>
 		<integer>22</integer>
@@ -17297,6 +17186,8 @@
 		<integer>20</integer>
 		<key>quotedbl</key>
 		<integer>-19</integer>
+		<key>quotedblright</key>
+		<integer>-31</integer>
 		<key>quotesingle</key>
 		<integer>-19</integer>
 		<key>registered</key>
@@ -17325,7 +17216,7 @@
 		<integer>-54</integer>
 		<key>xi</key>
 		<integer>20</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>-60</integer>
 		<key>yen</key>
 		<integer>-26</integer>
@@ -17418,7 +17309,7 @@
 		<integer>14</integer>
 		<key>Xi</key>
 		<integer>19</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>26</integer>
 		<key>asciitilde</key>
 		<integer>17</integer>
@@ -17500,6 +17391,8 @@
 		<integer>11</integer>
 		<key>quotedbl</key>
 		<integer>23</integer>
+		<key>quotedblright</key>
+		<integer>18</integer>
 		<key>quotesingle</key>
 		<integer>23</integer>
 		<key>rho</key>
@@ -17516,7 +17409,7 @@
 		<integer>16</integer>
 		<key>trademark</key>
 		<integer>13</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>17</integer>
 		<key>yen</key>
 		<integer>15</integer>
@@ -17641,7 +17534,7 @@
 		<integer>14</integer>
 		<key>Xi</key>
 		<integer>-35</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-27</integer>
 		<key>asciitilde</key>
 		<integer>12</integer>
@@ -17759,6 +17652,8 @@
 		<integer>-32</integer>
 		<key>quotedbl</key>
 		<integer>-30</integer>
+		<key>quotedblright</key>
+		<integer>-29</integer>
 		<key>quotesingle</key>
 		<integer>-30</integer>
 		<key>registered</key>
@@ -17904,7 +17799,7 @@
 		<integer>13</integer>
 		<key>Xi</key>
 		<integer>-49</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-43</integer>
 		<key>ae</key>
 		<integer>-11</integer>
@@ -18000,6 +17895,8 @@
 		<integer>-17</integer>
 		<key>quotedbl</key>
 		<integer>-32</integer>
+		<key>quotedblright</key>
+		<integer>-20</integer>
 		<key>quotesingle</key>
 		<integer>-32</integer>
 		<key>registered</key>
@@ -18024,7 +17921,7 @@
 		<integer>20</integer>
 		<key>xi</key>
 		<integer>-12</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>31</integer>
 		<key>yen</key>
 		<integer>-25</integer>
@@ -18159,7 +18056,7 @@
 		<integer>18</integer>
 		<key>Xi</key>
 		<integer>-36</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-54</integer>
 		<key>ae</key>
 		<integer>-73</integer>
@@ -18267,6 +18164,8 @@
 		<integer>-28</integer>
 		<key>quotedbl</key>
 		<integer>-27</integer>
+		<key>quotedblright</key>
+		<integer>-18</integer>
 		<key>quotesingle</key>
 		<integer>-27</integer>
 		<key>rho</key>
@@ -18295,7 +18194,7 @@
 		<integer>18</integer>
 		<key>xi</key>
 		<integer>-49</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>30</integer>
 		<key>yen</key>
 		<integer>-20</integer>
@@ -18428,7 +18327,7 @@
 		<integer>13</integer>
 		<key>Xi</key>
 		<integer>-36</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-123</integer>
 		<key>ae</key>
 		<integer>24</integer>
@@ -18556,6 +18455,8 @@
 		<integer>22</integer>
 		<key>quotedbl</key>
 		<integer>-31</integer>
+		<key>quotedblright</key>
+		<integer>-29</integer>
 		<key>quotesingle</key>
 		<integer>-31</integer>
 		<key>registered</key>
@@ -18590,7 +18491,7 @@
 		<integer>-29</integer>
 		<key>xi</key>
 		<integer>22</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>-82</integer>
 		<key>yen</key>
 		<integer>-24</integer>
@@ -18693,7 +18594,7 @@
 		<integer>12</integer>
 		<key>Xi</key>
 		<integer>-29</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-15</integer>
 		<key>asciitilde</key>
 		<integer>11</integer>
@@ -18807,6 +18708,8 @@
 		<integer>-34</integer>
 		<key>quotedbl</key>
 		<integer>-33</integer>
+		<key>quotedblright</key>
+		<integer>-31</integer>
 		<key>quotesingle</key>
 		<integer>-33</integer>
 		<key>registered</key>
@@ -18837,7 +18740,7 @@
 		<integer>16</integer>
 		<key>x</key>
 		<integer>-36</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>-17</integer>
 		<key>yen</key>
 		<integer>-26</integer>
@@ -18928,7 +18831,7 @@
 		<integer>11</integer>
 		<key>Xi</key>
 		<integer>-32</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-18</integer>
 		<key>ae</key>
 		<integer>18</integer>
@@ -19020,6 +18923,8 @@
 		<integer>16</integer>
 		<key>quotedbl</key>
 		<integer>19</integer>
+		<key>quotedblright</key>
+		<integer>-34</integer>
 		<key>quotesingle</key>
 		<integer>19</integer>
 		<key>registered</key>
@@ -19052,7 +18957,7 @@
 		<integer>-39</integer>
 		<key>xi</key>
 		<integer>16</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>-11</integer>
 		<key>yen</key>
 		<integer>-29</integer>
@@ -19151,7 +19056,7 @@
 		<integer>10</integer>
 		<key>Xi</key>
 		<integer>-18</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-96</integer>
 		<key>ae</key>
 		<integer>18</integer>
@@ -19251,6 +19156,8 @@
 		<integer>17</integer>
 		<key>quotedbl</key>
 		<integer>-37</integer>
+		<key>quotedblright</key>
+		<integer>-35</integer>
 		<key>quotesingle</key>
 		<integer>-37</integer>
 		<key>registered</key>
@@ -19408,7 +19315,7 @@
 		<integer>-20</integer>
 		<key>Xi</key>
 		<integer>-11</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-130</integer>
 		<key>asciitilde</key>
 		<integer>-27</integer>
@@ -19516,6 +19423,8 @@
 		<integer>-22</integer>
 		<key>quotedbl</key>
 		<integer>-24</integer>
+		<key>quotedblright</key>
+		<integer>-22</integer>
 		<key>quotesingle</key>
 		<integer>-24</integer>
 		<key>rho</key>
@@ -19544,7 +19453,7 @@
 		<integer>27</integer>
 		<key>x</key>
 		<integer>22</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>-132</integer>
 		<key>yen</key>
 		<integer>-17</integer>
@@ -19617,7 +19526,7 @@
 		<integer>12</integer>
 		<key>Xi</key>
 		<integer>24</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-16</integer>
 		<key>ae</key>
 		<integer>16</integer>
@@ -19856,7 +19765,7 @@
 		<integer>16</integer>
 		<key>Xi</key>
 		<integer>-77</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-72</integer>
 		<key>ae</key>
 		<integer>-22</integer>
@@ -19982,6 +19891,8 @@
 		<integer>-30</integer>
 		<key>quotedbl</key>
 		<integer>-29</integer>
+		<key>quotedblright</key>
+		<integer>-27</integer>
 		<key>quotesingle</key>
 		<integer>-29</integer>
 		<key>registered</key>
@@ -20151,7 +20062,7 @@
 		<integer>14</integer>
 		<key>Xi</key>
 		<integer>-21</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-100</integer>
 		<key>ae</key>
 		<integer>15</integer>
@@ -20273,6 +20184,8 @@
 		<integer>14</integer>
 		<key>quotedbl</key>
 		<integer>-40</integer>
+		<key>quotedblright</key>
+		<integer>-38</integer>
 		<key>quotesingle</key>
 		<integer>-40</integer>
 		<key>registered</key>
@@ -20307,7 +20220,7 @@
 		<integer>12</integer>
 		<key>xi</key>
 		<integer>13</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>-13</integer>
 		<key>yen</key>
 		<integer>-33</integer>
@@ -20412,7 +20325,7 @@
 		<integer>11</integer>
 		<key>Xi</key>
 		<integer>-30</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-16</integer>
 		<key>ae</key>
 		<integer>20</integer>
@@ -20518,6 +20431,8 @@
 		<integer>14</integer>
 		<key>quotedbl</key>
 		<integer>-34</integer>
+		<key>quotedblright</key>
+		<integer>-32</integer>
 		<key>quotesingle</key>
 		<integer>-34</integer>
 		<key>registered</key>
@@ -20550,7 +20465,7 @@
 		<integer>15</integer>
 		<key>xi</key>
 		<integer>18</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>16</integer>
 		<key>yen</key>
 		<integer>-27</integer>
@@ -20627,7 +20542,7 @@
 		<integer>-63</integer>
 		<key>Tbar</key>
 		<integer>13</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-27</integer>
 		<key>ae</key>
 		<integer>17</integer>
@@ -20723,6 +20638,8 @@
 		<integer>12</integer>
 		<key>quotedbl</key>
 		<integer>-10</integer>
+		<key>quotedblright</key>
+		<integer>-10</integer>
 		<key>quotesingle</key>
 		<integer>-10</integer>
 		<key>registered</key>
@@ -20753,7 +20670,7 @@
 		<integer>14</integer>
 		<key>xi</key>
 		<integer>15</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>25</integer>
 		<key>yen</key>
 		<integer>-31</integer>
@@ -20824,7 +20741,7 @@
 		<integer>13</integer>
 		<key>Xi</key>
 		<integer>-11</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>14</integer>
 		<key>ae</key>
 		<integer>17</integer>
@@ -20932,7 +20849,7 @@
 		<integer>11</integer>
 		<key>xi</key>
 		<integer>15</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>20</integer>
 		<key>zeta</key>
 		<integer>17</integer>
@@ -21051,7 +20968,7 @@
 		<integer>10</integer>
 		<key>Xi</key>
 		<integer>-48</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-100</integer>
 		<key>ae</key>
 		<integer>20</integer>
@@ -21165,6 +21082,8 @@
 		<integer>19</integer>
 		<key>quotedbl</key>
 		<integer>-35</integer>
+		<key>quotedblright</key>
+		<integer>-33</integer>
 		<key>quotesingle</key>
 		<integer>-35</integer>
 		<key>registered</key>
@@ -21197,7 +21116,7 @@
 		<integer>-16</integer>
 		<key>xi</key>
 		<integer>18</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>-11</integer>
 		<key>yen</key>
 		<integer>-28</integer>
@@ -21290,7 +21209,7 @@
 		<integer>14</integer>
 		<key>Xi</key>
 		<integer>19</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>27</integer>
 		<key>asciitilde</key>
 		<integer>17</integer>
@@ -21376,6 +21295,8 @@
 		<integer>11</integer>
 		<key>quotedbl</key>
 		<integer>24</integer>
+		<key>quotedblright</key>
+		<integer>18</integer>
 		<key>quotesingle</key>
 		<integer>24</integer>
 		<key>rho</key>
@@ -21392,7 +21313,7 @@
 		<integer>16</integer>
 		<key>trademark</key>
 		<integer>13</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>17</integer>
 		<key>yen</key>
 		<integer>16</integer>
@@ -21573,6 +21494,8 @@
 		<integer>-38</integer>
 		<key>quotedbl</key>
 		<integer>18</integer>
+		<key>quotedblright</key>
+		<integer>16</integer>
 		<key>quotesingle</key>
 		<integer>18</integer>
 		<key>sigma1</key>
@@ -21676,6 +21599,8 @@
 		<integer>19</integer>
 		<key>quotedbl</key>
 		<integer>28</integer>
+		<key>quotedblright</key>
+		<integer>11</integer>
 		<key>quotesingle</key>
 		<integer>28</integer>
 		<key>three</key>
@@ -21809,7 +21734,7 @@
 		<integer>13</integer>
 		<key>Xi</key>
 		<integer>-41</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-96</integer>
 		<key>ae</key>
 		<integer>18</integer>
@@ -21931,6 +21856,8 @@
 		<integer>17</integer>
 		<key>quotedbl</key>
 		<integer>-37</integer>
+		<key>quotedblright</key>
+		<integer>-35</integer>
 		<key>quotesingle</key>
 		<integer>-37</integer>
 		<key>registered</key>
@@ -21963,7 +21890,7 @@
 		<integer>-28</integer>
 		<key>xi</key>
 		<integer>16</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>-10</integer>
 		<key>yen</key>
 		<integer>-30</integer>
@@ -22056,7 +21983,7 @@
 		<integer>14</integer>
 		<key>Xi</key>
 		<integer>19</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>27</integer>
 		<key>asciitilde</key>
 		<integer>17</integer>
@@ -22142,6 +22069,8 @@
 		<integer>11</integer>
 		<key>quotedbl</key>
 		<integer>24</integer>
+		<key>quotedblright</key>
+		<integer>18</integer>
 		<key>quotesingle</key>
 		<integer>24</integer>
 		<key>rho</key>
@@ -22158,7 +22087,7 @@
 		<integer>16</integer>
 		<key>trademark</key>
 		<integer>13</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>17</integer>
 		<key>yen</key>
 		<integer>16</integer>
@@ -22261,7 +22190,7 @@
 		<integer>11</integer>
 		<key>Xi</key>
 		<integer>-17</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>39</integer>
 		<key>ae</key>
 		<integer>-28</integer>
@@ -22367,6 +22296,8 @@
 		<integer>-29</integer>
 		<key>quotedbl</key>
 		<integer>22</integer>
+		<key>quotedblright</key>
+		<integer>13</integer>
 		<key>quotesingle</key>
 		<integer>22</integer>
 		<key>registered</key>
@@ -22401,7 +22332,7 @@
 		<integer>16</integer>
 		<key>xi</key>
 		<integer>-30</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>-20</integer>
 		<key>yen</key>
 		<integer>28</integer>
@@ -22476,7 +22407,7 @@
 		<integer>17</integer>
 		<key>Xi</key>
 		<integer>19</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>18</integer>
 		<key>ae</key>
 		<integer>11</integer>
@@ -22574,6 +22505,8 @@
 		<integer>10</integer>
 		<key>quotedbl</key>
 		<integer>19</integer>
+		<key>quotedblright</key>
+		<integer>15</integer>
 		<key>quotesingle</key>
 		<integer>19</integer>
 		<key>rho</key>
@@ -22592,7 +22525,7 @@
 		<integer>10</integer>
 		<key>trademark</key>
 		<integer>12</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>19</integer>
 		<key>zeta</key>
 		<integer>11</integer>
@@ -22649,7 +22582,7 @@
 		<integer>14</integer>
 		<key>Xi</key>
 		<integer>-15</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>36</integer>
 		<key>ae</key>
 		<integer>15</integer>
@@ -22721,6 +22654,8 @@
 		<integer>13</integer>
 		<key>quotedbl</key>
 		<integer>18</integer>
+		<key>quotedblright</key>
+		<integer>16</integer>
 		<key>quotesingle</key>
 		<integer>18</integer>
 		<key>sigma</key>
@@ -22737,7 +22672,7 @@
 		<integer>-30</integer>
 		<key>xi</key>
 		<integer>13</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>-29</integer>
 		<key>yen</key>
 		<integer>25</integer>
@@ -22848,7 +22783,7 @@
 		<integer>-11</integer>
 		<key>Xi</key>
 		<integer>-15</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-19</integer>
 		<key>asciitilde</key>
 		<integer>15</integer>
@@ -22940,6 +22875,8 @@
 		<integer>-35</integer>
 		<key>quotedbl</key>
 		<integer>18</integer>
+		<key>quotedblright</key>
+		<integer>20</integer>
 		<key>quotesingle</key>
 		<integer>18</integer>
 		<key>rho</key>
@@ -22966,7 +22903,7 @@
 		<integer>30</integer>
 		<key>x</key>
 		<integer>10</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>-29</integer>
 		<key>yen</key>
 		<integer>-30</integer>
@@ -23057,7 +22994,7 @@
 		<integer>10</integer>
 		<key>Xi</key>
 		<integer>-30</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-16</integer>
 		<key>ae</key>
 		<integer>20</integer>
@@ -23167,6 +23104,8 @@
 		<integer>18</integer>
 		<key>quotedbl</key>
 		<integer>-34</integer>
+		<key>quotedblright</key>
+		<integer>-32</integer>
 		<key>quotesingle</key>
 		<integer>-34</integer>
 		<key>registered</key>
@@ -23199,7 +23138,7 @@
 		<integer>-26</integer>
 		<key>xi</key>
 		<integer>18</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>-26</integer>
 		<key>yen</key>
 		<integer>-27</integer>
@@ -23332,7 +23271,7 @@
 		<integer>10</integer>
 		<key>Xi</key>
 		<integer>-45</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-111</integer>
 		<key>ae</key>
 		<integer>20</integer>
@@ -23458,6 +23397,8 @@
 		<integer>18</integer>
 		<key>quotedbl</key>
 		<integer>-35</integer>
+		<key>quotedblright</key>
+		<integer>-33</integer>
 		<key>quotesingle</key>
 		<integer>-35</integer>
 		<key>registered</key>
@@ -23490,7 +23431,7 @@
 		<integer>-37</integer>
 		<key>xi</key>
 		<integer>18</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>-21</integer>
 		<key>yen</key>
 		<integer>-28</integer>
@@ -23549,7 +23490,7 @@
 		<integer>-12</integer>
 		<key>Xi</key>
 		<integer>-30</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-74</integer>
 		<key>asterisk</key>
 		<integer>-18</integer>
@@ -23615,6 +23556,8 @@
 		<integer>-12</integer>
 		<key>quotedbl</key>
 		<integer>22</integer>
+		<key>quotedblright</key>
+		<integer>-26</integer>
 		<key>quotesingle</key>
 		<integer>22</integer>
 		<key>rho</key>
@@ -23716,7 +23659,7 @@
 		<integer>10</integer>
 		<key>Xi</key>
 		<integer>-31</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-17</integer>
 		<key>ae</key>
 		<integer>15</integer>
@@ -23808,6 +23751,8 @@
 		<integer>-26</integer>
 		<key>quotedbl</key>
 		<integer>-35</integer>
+		<key>quotedblright</key>
+		<integer>-33</integer>
 		<key>quotesingle</key>
 		<integer>-35</integer>
 		<key>registered</key>
@@ -23969,7 +23914,7 @@
 		<integer>13</integer>
 		<key>Xi</key>
 		<integer>-34</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-20</integer>
 		<key>ae</key>
 		<integer>16</integer>
@@ -24093,6 +24038,8 @@
 		<integer>15</integer>
 		<key>quotedbl</key>
 		<integer>-38</integer>
+		<key>quotedblright</key>
+		<integer>-36</integer>
 		<key>quotesingle</key>
 		<integer>-38</integer>
 		<key>registered</key>
@@ -24123,7 +24070,7 @@
 		<integer>15</integer>
 		<key>xi</key>
 		<integer>14</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>14</integer>
 		<key>yen</key>
 		<integer>-31</integer>
@@ -24260,7 +24207,7 @@
 		<integer>14</integer>
 		<key>Xi</key>
 		<integer>-39</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-74</integer>
 		<key>ae</key>
 		<integer>17</integer>
@@ -24384,6 +24331,8 @@
 		<integer>15</integer>
 		<key>quotedbl</key>
 		<integer>-38</integer>
+		<key>quotedblright</key>
+		<integer>-29</integer>
 		<key>quotesingle</key>
 		<integer>-38</integer>
 		<key>registered</key>
@@ -24412,7 +24361,7 @@
 		<integer>20</integer>
 		<key>xi</key>
 		<integer>15</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>10</integer>
 		<key>yen</key>
 		<integer>-31</integer>
@@ -24541,7 +24490,7 @@
 		<integer>16</integer>
 		<key>Xi</key>
 		<integer>-19</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-54</integer>
 		<key>ae</key>
 		<integer>12</integer>
@@ -24691,7 +24640,7 @@
 		<integer>22</integer>
 		<key>xi</key>
 		<integer>11</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>20</integer>
 		<key>yen</key>
 		<integer>-36</integer>
@@ -24796,7 +24745,7 @@
 		<integer>12</integer>
 		<key>Xi</key>
 		<integer>17</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-13</integer>
 		<key>ae</key>
 		<integer>-33</integer>
@@ -24926,7 +24875,7 @@
 		<integer>18</integer>
 		<key>xi</key>
 		<integer>-35</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>29</integer>
 		<key>yen</key>
 		<integer>-24</integer>
@@ -25019,7 +24968,7 @@
 		<integer>10</integer>
 		<key>Xi</key>
 		<integer>-30</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-16</integer>
 		<key>ae</key>
 		<integer>21</integer>
@@ -25129,6 +25078,8 @@
 		<integer>20</integer>
 		<key>quotedbl</key>
 		<integer>-34</integer>
+		<key>quotedblright</key>
+		<integer>-32</integer>
 		<key>quotesingle</key>
 		<integer>-34</integer>
 		<key>registered</key>
@@ -25159,7 +25110,7 @@
 		<integer>-31</integer>
 		<key>xi</key>
 		<integer>19</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>-26</integer>
 		<key>yen</key>
 		<integer>-27</integer>
@@ -25292,7 +25243,7 @@
 		<integer>27</integer>
 		<key>Xi</key>
 		<integer>25</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>41</integer>
 		<key>ae</key>
 		<integer>-33</integer>
@@ -25400,6 +25351,8 @@
 		<integer>-34</integer>
 		<key>quotedbl</key>
 		<integer>32</integer>
+		<key>quotedblright</key>
+		<integer>31</integer>
 		<key>quotesingle</key>
 		<integer>32</integer>
 		<key>registered</key>
@@ -25430,12 +25383,279 @@
 		<integer>19</integer>
 		<key>xi</key>
 		<integer>-35</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>30</integer>
 		<key>yen</key>
 		<integer>30</integer>
 		<key>zeta</key>
 		<integer>-32</integer>
+	</dict>
+	<key>quotedblright</key>
+	<dict>
+		<key>@MMK_R_A</key>
+		<integer>-27</integer>
+		<key>@MMK_R_B</key>
+		<integer>20</integer>
+		<key>@MMK_R_Chi</key>
+		<integer>10</integer>
+		<key>@MMK_R_D</key>
+		<integer>20</integer>
+		<key>@MMK_R_E</key>
+		<integer>20</integer>
+		<key>@MMK_R_Eta</key>
+		<integer>20</integer>
+		<key>@MMK_R_J</key>
+		<integer>-16</integer>
+		<key>@MMK_R_K</key>
+		<integer>20</integer>
+		<key>@MMK_R_M</key>
+		<integer>20</integer>
+		<key>@MMK_R_N</key>
+		<integer>20</integer>
+		<key>@MMK_R_Omegagreek</key>
+		<integer>-12</integer>
+		<key>@MMK_R_P</key>
+		<integer>20</integer>
+		<key>@MMK_R_S</key>
+		<integer>-25</integer>
+		<key>@MMK_R_T</key>
+		<integer>43</integer>
+		<key>@MMK_R_U</key>
+		<integer>22</integer>
+		<key>@MMK_R_Upsilon</key>
+		<integer>29</integer>
+		<key>@MMK_R_W</key>
+		<integer>29</integer>
+		<key>@MMK_R_a</key>
+		<integer>-32</integer>
+		<key>@MMK_R_alpha</key>
+		<integer>-36</integer>
+		<key>@MMK_R_c</key>
+		<integer>-34</integer>
+		<key>@MMK_R_cent</key>
+		<integer>-35</integer>
+		<key>@MMK_R_d</key>
+		<integer>-34</integer>
+		<key>@MMK_R_dotlessi</key>
+		<integer>-28</integer>
+		<key>@MMK_R_dotlessj</key>
+		<integer>-17</integer>
+		<key>@MMK_R_e</key>
+		<integer>-36</integer>
+		<key>@MMK_R_epsilon</key>
+		<integer>-32</integer>
+		<key>@MMK_R_eta</key>
+		<integer>-28</integer>
+		<key>@MMK_R_fraction</key>
+		<integer>-21</integer>
+		<key>@MMK_R_g</key>
+		<integer>-35</integer>
+		<key>@MMK_R_guillemotright</key>
+		<integer>-35</integer>
+		<key>@MMK_R_h</key>
+		<integer>20</integer>
+		<key>@MMK_R_i</key>
+		<integer>23</integer>
+		<key>@MMK_R_k</key>
+		<integer>20</integer>
+		<key>@MMK_R_kappa</key>
+		<integer>-18</integer>
+		<key>@MMK_R_mu</key>
+		<integer>-29</integer>
+		<key>@MMK_R_n</key>
+		<integer>-28</integer>
+		<key>@MMK_R_nu</key>
+		<integer>-10</integer>
+		<key>@MMK_R_o</key>
+		<integer>-34</integer>
+		<key>@MMK_R_omega</key>
+		<integer>-35</integer>
+		<key>@MMK_R_quotedblleft</key>
+		<integer>22</integer>
+		<key>@MMK_R_s</key>
+		<integer>-30</integer>
+		<key>@MMK_R_u</key>
+		<integer>-22</integer>
+		<key>@MMK_R_upsilon</key>
+		<integer>-25</integer>
+		<key>@MMK_R_w</key>
+		<integer>-10</integer>
+		<key>@MMK_R_y</key>
+		<integer>-21</integer>
+		<key>@MMK_R_z</key>
+		<integer>-31</integer>
+		<key>AE</key>
+		<integer>-24</integer>
+		<key>Aring</key>
+		<integer>-27</integer>
+		<key>Deltagreek</key>
+		<integer>-26</integer>
+		<key>Eng</key>
+		<integer>20</integer>
+		<key>Euro</key>
+		<integer>-34</integer>
+		<key>Hbar</key>
+		<integer>17</integer>
+		<key>IJ</key>
+		<integer>33</integer>
+		<key>Lambda</key>
+		<integer>-25</integer>
+		<key>Lslash</key>
+		<integer>-24</integer>
+		<key>Pi</key>
+		<integer>20</integer>
+		<key>Psi</key>
+		<integer>29</integer>
+		<key>Tbar</key>
+		<integer>24</integer>
+		<key>Thorn</key>
+		<integer>20</integer>
+		<key>Uring</key>
+		<integer>23</integer>
+		<key>Xi</key>
+		<integer>25</integer>
+		<key>Y_upper_alt</key>
+		<integer>38</integer>
+		<key>ae</key>
+		<integer>-31</integer>
+		<key>ampersand</key>
+		<integer>-34</integer>
+		<key>aring</key>
+		<integer>-32</integer>
+		<key>asciitilde</key>
+		<integer>21</integer>
+		<key>asterisk</key>
+		<integer>12</integer>
+		<key>at</key>
+		<integer>-36</integer>
+		<key>b</key>
+		<integer>20</integer>
+		<key>backslash</key>
+		<integer>-10</integer>
+		<key>bar</key>
+		<integer>19</integer>
+		<key>braceleft</key>
+		<integer>-29</integer>
+		<key>bracketleft</key>
+		<integer>19</integer>
+		<key>bracketright</key>
+		<integer>13</integer>
+		<key>bullet</key>
+		<integer>-31</integer>
+		<key>chi</key>
+		<integer>-12</integer>
+		<key>colon</key>
+		<integer>14</integer>
+		<key>copyright</key>
+		<integer>-35</integer>
+		<key>currency</key>
+		<integer>-36</integer>
+		<key>degree</key>
+		<integer>18</integer>
+		<key>delta</key>
+		<integer>-33</integer>
+		<key>dollar</key>
+		<integer>-31</integer>
+		<key>dslash</key>
+		<integer>-34</integer>
+		<key>eight</key>
+		<integer>-32</integer>
+		<key>eng</key>
+		<integer>-28</integer>
+		<key>exclam</key>
+		<integer>20</integer>
+		<key>exclamdown</key>
+		<integer>14</integer>
+		<key>five</key>
+		<integer>-22</integer>
+		<key>four</key>
+		<integer>-22</integer>
+		<key>gamma</key>
+		<integer>-11</integer>
+		<key>guilsinglleft</key>
+		<integer>-30</integer>
+		<key>hbar</key>
+		<integer>27</integer>
+		<key>lambda</key>
+		<integer>-27</integer>
+		<key>less</key>
+		<integer>-29</integer>
+		<key>lslash</key>
+		<integer>-25</integer>
+		<key>m</key>
+		<integer>-28</integer>
+		<key>multiply</key>
+		<integer>-33</integer>
+		<key>numbersign</key>
+		<integer>-36</integer>
+		<key>oe</key>
+		<integer>-34</integer>
+		<key>one</key>
+		<integer>31</integer>
+		<key>oslash</key>
+		<integer>-34</integer>
+		<key>p</key>
+		<integer>-29</integer>
+		<key>parenleft</key>
+		<integer>17</integer>
+		<key>parenright</key>
+		<integer>10</integer>
+		<key>period</key>
+		<integer>17</integer>
+		<key>phi</key>
+		<integer>-34</integer>
+		<key>pi</key>
+		<integer>-28</integer>
+		<key>plus</key>
+		<integer>-32</integer>
+		<key>plusminus</key>
+		<integer>-37</integer>
+		<key>psi</key>
+		<integer>-24</integer>
+		<key>q</key>
+		<integer>-35</integer>
+		<key>question</key>
+		<integer>12</integer>
+		<key>questiondown</key>
+		<integer>-32</integer>
+		<key>quotedbl</key>
+		<integer>33</integer>
+		<key>quotedblright</key>
+		<integer>26</integer>
+		<key>quotesingle</key>
+		<integer>33</integer>
+		<key>registered</key>
+		<integer>-35</integer>
+		<key>rho</key>
+		<integer>-39</integer>
+		<key>sigma</key>
+		<integer>-33</integer>
+		<key>sigma1</key>
+		<integer>-31</integer>
+		<key>six</key>
+		<integer>-20</integer>
+		<key>sterling</key>
+		<integer>-17</integer>
+		<key>tau</key>
+		<integer>-14</integer>
+		<key>tbar</key>
+		<integer>-20</integer>
+		<key>thorn</key>
+		<integer>20</integer>
+		<key>three</key>
+		<integer>-18</integer>
+		<key>trademark</key>
+		<integer>28</integer>
+		<key>uring</key>
+		<integer>-37</integer>
+		<key>x</key>
+		<integer>-20</integer>
+		<key>xi</key>
+		<integer>-33</integer>
+		<key>yen</key>
+		<integer>27</integer>
+		<key>zeta</key>
+		<integer>-31</integer>
 	</dict>
 	<key>quotesingle</key>
 	<dict>
@@ -25563,7 +25783,7 @@
 		<integer>27</integer>
 		<key>Xi</key>
 		<integer>24</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>41</integer>
 		<key>ae</key>
 		<integer>-33</integer>
@@ -25671,6 +25891,8 @@
 		<integer>-34</integer>
 		<key>quotedbl</key>
 		<integer>32</integer>
+		<key>quotedblright</key>
+		<integer>30</integer>
 		<key>quotesingle</key>
 		<integer>32</integer>
 		<key>registered</key>
@@ -25701,7 +25923,7 @@
 		<integer>19</integer>
 		<key>xi</key>
 		<integer>-35</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>30</integer>
 		<key>yen</key>
 		<integer>29</integer>
@@ -25800,7 +26022,7 @@
 		<integer>11</integer>
 		<key>Xi</key>
 		<integer>-32</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-18</integer>
 		<key>ae</key>
 		<integer>19</integer>
@@ -25896,6 +26118,8 @@
 		<integer>18</integer>
 		<key>quotedbl</key>
 		<integer>-36</integer>
+		<key>quotedblright</key>
+		<integer>-34</integer>
 		<key>quotesingle</key>
 		<integer>-36</integer>
 		<key>registered</key>
@@ -25926,7 +26150,7 @@
 		<integer>-26</integer>
 		<key>xi</key>
 		<integer>17</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>-12</integer>
 		<key>yen</key>
 		<integer>-29</integer>
@@ -26055,7 +26279,7 @@
 		<integer>12</integer>
 		<key>Xi</key>
 		<integer>-39</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-108</integer>
 		<key>ae</key>
 		<integer>19</integer>
@@ -26179,6 +26403,8 @@
 		<integer>18</integer>
 		<key>quotedbl</key>
 		<integer>-36</integer>
+		<key>quotedblright</key>
+		<integer>-34</integer>
 		<key>quotesingle</key>
 		<integer>-36</integer>
 		<key>registered</key>
@@ -26213,7 +26439,7 @@
 		<integer>-27</integer>
 		<key>xi</key>
 		<integer>17</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>-19</integer>
 		<key>yen</key>
 		<integer>-29</integer>
@@ -26354,7 +26580,7 @@
 		<integer>19</integer>
 		<key>Xi</key>
 		<integer>37</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>47</integer>
 		<key>ae</key>
 		<integer>-104</integer>
@@ -26484,6 +26710,8 @@
 		<integer>-27</integer>
 		<key>quotedbl</key>
 		<integer>44</integer>
+		<key>quotedblright</key>
+		<integer>36</integer>
 		<key>quotesingle</key>
 		<integer>44</integer>
 		<key>registered</key>
@@ -26635,7 +26863,7 @@
 		<integer>17</integer>
 		<key>Xi</key>
 		<integer>-19</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-55</integer>
 		<key>ae</key>
 		<integer>-42</integer>
@@ -26747,6 +26975,8 @@
 		<integer>-29</integer>
 		<key>quotedbl</key>
 		<integer>-28</integer>
+		<key>quotedblright</key>
+		<integer>-18</integer>
 		<key>quotesingle</key>
 		<integer>-28</integer>
 		<key>rho</key>
@@ -26775,7 +27005,7 @@
 		<integer>17</integer>
 		<key>xi</key>
 		<integer>-40</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>29</integer>
 		<key>yen</key>
 		<integer>-21</integer>
@@ -26892,7 +27122,7 @@
 		<integer>14</integer>
 		<key>Xi</key>
 		<integer>-47</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-56</integer>
 		<key>ae</key>
 		<integer>-41</integer>
@@ -26998,6 +27228,8 @@
 		<integer>-32</integer>
 		<key>quotedbl</key>
 		<integer>-31</integer>
+		<key>quotedblright</key>
+		<integer>-18</integer>
 		<key>quotesingle</key>
 		<integer>-31</integer>
 		<key>rho</key>
@@ -27028,7 +27260,7 @@
 		<integer>16</integer>
 		<key>xi</key>
 		<integer>-40</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>27</integer>
 		<key>yen</key>
 		<integer>-24</integer>
@@ -27165,7 +27397,7 @@
 		<integer>14</integer>
 		<key>Xi</key>
 		<integer>-55</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-104</integer>
 		<key>ae</key>
 		<integer>24</integer>
@@ -27293,6 +27525,8 @@
 		<integer>22</integer>
 		<key>quotedbl</key>
 		<integer>-31</integer>
+		<key>quotedblright</key>
+		<integer>-29</integer>
 		<key>quotesingle</key>
 		<integer>-31</integer>
 		<key>registered</key>
@@ -27323,7 +27557,7 @@
 		<integer>-54</integer>
 		<key>xi</key>
 		<integer>22</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>-59</integer>
 		<key>yen</key>
 		<integer>-24</integer>
@@ -27480,6 +27714,8 @@
 		<integer>-37</integer>
 		<key>quotedbl</key>
 		<integer>-14</integer>
+		<key>quotedblright</key>
+		<integer>-16</integer>
 		<key>quotesingle</key>
 		<integer>-14</integer>
 		<key>registered</key>
@@ -27599,7 +27835,7 @@
 		<integer>11</integer>
 		<key>Xi</key>
 		<integer>-11</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-45</integer>
 		<key>ae</key>
 		<integer>-18</integer>
@@ -27727,7 +27963,7 @@
 		<integer>18</integer>
 		<key>xi</key>
 		<integer>-16</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>29</integer>
 		<key>yen</key>
 		<integer>-27</integer>
@@ -27836,7 +28072,7 @@
 		<integer>13</integer>
 		<key>Xi</key>
 		<integer>-49</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-43</integer>
 		<key>ampersand</key>
 		<integer>-12</integer>
@@ -27918,6 +28154,8 @@
 		<integer>-17</integer>
 		<key>quotedbl</key>
 		<integer>-32</integer>
+		<key>quotedblright</key>
+		<integer>-20</integer>
 		<key>quotesingle</key>
 		<integer>-32</integer>
 		<key>registered</key>
@@ -27940,7 +28178,7 @@
 		<integer>20</integer>
 		<key>xi</key>
 		<integer>-11</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>31</integer>
 		<key>yen</key>
 		<integer>-25</integer>
@@ -28049,7 +28287,7 @@
 		<integer>12</integer>
 		<key>Xi</key>
 		<integer>10</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-18</integer>
 		<key>ae</key>
 		<integer>15</integer>
@@ -28187,7 +28425,7 @@
 		<integer>12</integer>
 		<key>xi</key>
 		<integer>13</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>23</integer>
 		<key>yen</key>
 		<integer>-29</integer>
@@ -28322,7 +28560,7 @@
 		<integer>15</integer>
 		<key>Xi</key>
 		<integer>-97</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-102</integer>
 		<key>ae</key>
 		<integer>22</integer>
@@ -28442,6 +28680,8 @@
 		<integer>-28</integer>
 		<key>quotedbl</key>
 		<integer>-30</integer>
+		<key>quotedblright</key>
+		<integer>-28</integer>
 		<key>quotesingle</key>
 		<integer>-30</integer>
 		<key>registered</key>
@@ -28476,7 +28716,7 @@
 		<integer>-36</integer>
 		<key>xi</key>
 		<integer>21</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>-13</integer>
 		<key>yen</key>
 		<integer>-23</integer>
@@ -28583,7 +28823,7 @@
 		<integer>12</integer>
 		<key>Xi</key>
 		<integer>-26</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-16</integer>
 		<key>ae</key>
 		<integer>22</integer>
@@ -28703,6 +28943,8 @@
 		<integer>20</integer>
 		<key>quotedbl</key>
 		<integer>-19</integer>
+		<key>quotedblright</key>
+		<integer>-28</integer>
 		<key>quotesingle</key>
 		<integer>-19</integer>
 		<key>registered</key>
@@ -28731,7 +28973,7 @@
 		<integer>-54</integer>
 		<key>xi</key>
 		<integer>20</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>-62</integer>
 		<key>yen</key>
 		<integer>-26</integer>
@@ -28854,7 +29096,7 @@
 		<integer>26</integer>
 		<key>Xi</key>
 		<integer>26</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>34</integer>
 		<key>ae</key>
 		<integer>-39</integer>
@@ -28978,6 +29220,8 @@
 		<integer>-40</integer>
 		<key>quotedbl</key>
 		<integer>31</integer>
+		<key>quotedblright</key>
+		<integer>25</integer>
 		<key>quotesingle</key>
 		<integer>31</integer>
 		<key>registered</key>
@@ -29004,7 +29248,7 @@
 		<integer>32</integer>
 		<key>xi</key>
 		<integer>-39</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>43</integer>
 		<key>yen</key>
 		<integer>23</integer>
@@ -29053,7 +29297,7 @@
 		<integer>19</integer>
 		<key>Xi</key>
 		<integer>11</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-15</integer>
 		<key>ae</key>
 		<integer>10</integer>
@@ -29125,7 +29369,7 @@
 		<integer>12</integer>
 		<key>x</key>
 		<integer>13</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>19</integer>
 		<key>yen</key>
 		<integer>-26</integer>
@@ -29236,7 +29480,7 @@
 		<integer>10</integer>
 		<key>Xi</key>
 		<integer>-21</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-50</integer>
 		<key>ae</key>
 		<integer>15</integer>
@@ -29334,6 +29578,8 @@
 		<integer>14</integer>
 		<key>quotedbl</key>
 		<integer>-40</integer>
+		<key>quotedblright</key>
+		<integer>-27</integer>
 		<key>quotesingle</key>
 		<integer>-40</integer>
 		<key>registered</key>
@@ -29362,7 +29608,7 @@
 		<integer>12</integer>
 		<key>xi</key>
 		<integer>13</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>23</integer>
 		<key>yen</key>
 		<integer>-33</integer>
@@ -29495,7 +29741,7 @@
 		<integer>10</integer>
 		<key>Uring</key>
 		<integer>13</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-43</integer>
 		<key>ae</key>
 		<integer>-33</integer>
@@ -29639,7 +29885,7 @@
 		<integer>20</integer>
 		<key>xi</key>
 		<integer>-32</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>31</integer>
 		<key>yen</key>
 		<integer>-25</integer>
@@ -29692,7 +29938,7 @@
 		<integer>-19</integer>
 		<key>Sigma</key>
 		<integer>19</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>26</integer>
 		<key>ae</key>
 		<integer>10</integer>
@@ -29776,12 +30022,12 @@
 		<integer>12</integer>
 		<key>x</key>
 		<integer>13</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>-46</integer>
 		<key>yen</key>
 		<integer>15</integer>
 	</dict>
-	<key>y_alt</key>
+	<key>y_lower_alt</key>
 	<dict>
 		<key>@MMK_R_A</key>
 		<integer>-86</integer>
@@ -29913,7 +30159,7 @@
 		<integer>15</integer>
 		<key>Uring</key>
 		<integer>18</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>-38</integer>
 		<key>ae</key>
 		<integer>-48</integer>
@@ -30029,6 +30275,8 @@
 		<integer>-28</integer>
 		<key>quotedbl</key>
 		<integer>28</integer>
+		<key>quotedblright</key>
+		<integer>10</integer>
 		<key>quotesingle</key>
 		<integer>28</integer>
 		<key>registered</key>
@@ -30059,7 +30307,7 @@
 		<integer>25</integer>
 		<key>xi</key>
 		<integer>-40</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>36</integer>
 		<key>yen</key>
 		<integer>-20</integer>
@@ -30198,7 +30446,7 @@
 		<integer>16</integer>
 		<key>Uring</key>
 		<integer>19</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>47</integer>
 		<key>ae</key>
 		<integer>-26</integer>
@@ -30328,6 +30576,8 @@
 		<integer>-27</integer>
 		<key>quotedbl</key>
 		<integer>29</integer>
+		<key>quotedblright</key>
+		<integer>27</integer>
 		<key>quotesingle</key>
 		<integer>29</integer>
 		<key>registered</key>
@@ -30362,7 +30612,7 @@
 		<integer>-29</integer>
 		<key>xi</key>
 		<integer>-28</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>-18</integer>
 		<key>yen</key>
 		<integer>36</integer>
@@ -30503,7 +30753,7 @@
 		<integer>19</integer>
 		<key>Xi</key>
 		<integer>33</integer>
-		<key>Y_alt</key>
+		<key>Y_upper_alt</key>
 		<integer>10</integer>
 		<key>ae</key>
 		<integer>-32</integer>
@@ -30629,6 +30879,8 @@
 		<integer>-27</integer>
 		<key>quotedbl</key>
 		<integer>28</integer>
+		<key>quotedblright</key>
+		<integer>19</integer>
 		<key>quotesingle</key>
 		<integer>28</integer>
 		<key>registered</key>
@@ -30655,7 +30907,7 @@
 		<integer>-32</integer>
 		<key>xi</key>
 		<integer>-33</integer>
-		<key>y_alt</key>
+		<key>y_lower_alt</key>
 		<integer>-35</integer>
 		<key>zeta</key>
 		<integer>-35</integer>

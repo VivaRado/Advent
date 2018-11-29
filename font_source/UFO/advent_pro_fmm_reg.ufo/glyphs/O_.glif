@@ -35,11 +35,11 @@
       <point x="155" y="42"/>
       <point x="90" y="90"/>
     </contour>
-    <contour>
-      <point x="245" y="300" type="move" name="center"/>
+  <contour>
+      <point x="244" y="0" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="244" y="0" type="move" name="ogonek"/>
+      <point x="245" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
       <point x="245" y="735" type="move" name="top"/>
@@ -48,18 +48,17 @@
       <point x="81" y="700" type="move" name="tonos"/>
     </contour>
     <contour>
-      <point x="245" y="0" type="move" name="bottom"/>
-    </contour>
-  </outline>
+      <point x="245" y="300" type="move" name="center"/>
+    </contour></outline>
   <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.59999999999999998</real>
-        <real>1</real>
-        <real>0.69399999999999995</real>
-        <real>1</real>
-      </array>
-    </dict>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>0.6</real>
+    <real>1</real>
+    <real>0.694</real>
+    <real>1</real>
+  </array>
+  </dict>
   </lib>
 </glyph>

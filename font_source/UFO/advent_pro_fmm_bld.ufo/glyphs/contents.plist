@@ -280,8 +280,8 @@
 	<string>Xi_.glif</string>
 	<key>Y</key>
 	<string>Y_.glif</string>
-	<key>Y_alt</key>
-	<string>Y__alt.glif</string>
+	<key>Y_upper_alt</key>
+	<string>Y__upper__alt.glif</string>
 	<key>Yacute</key>
 	<string>Yacute_.glif</string>
 	<key>Ydieresis</key>
@@ -760,8 +760,8 @@
 	<string>xi.glif</string>
 	<key>y</key>
 	<string>y.glif</string>
-	<key>y_alt</key>
-	<string>y__alt.glif</string>
+	<key>y_lower_alt</key>
+	<string>y__lower__alt.glif</string>
 	<key>yacute</key>
 	<string>yacute.glif</string>
 	<key>ydieresis</key>
