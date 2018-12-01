@@ -58,6 +58,6 @@ VRD Typography Library TODO list
 | 01002 | Ignored   | Please Elaborate                                                                                                   | Mike LaGattuta |
 | 01003 | Ignored   | Duplicate of #01001                                                                                                | Mike LaGattuta |
 | 01100 | Postponed | Very good idea - should be real italics atleast on the part of widths.                                             | Mike LaGattuta |
-| 01101 | Postponed | Duplicate of 01100sa                                                                                               | Mike LaGattuta |
+| 01101 | Postponed | Duplicate of 01100                                                                                                 | Mike LaGattuta |
 
 **VivaRado is thankful for all your observations :+1: please submit any issues at support@vivarado.com - with Subject: ISSUE:Topic**
