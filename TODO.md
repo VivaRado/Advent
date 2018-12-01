@@ -3,9 +3,9 @@ VRD Typography Library TODO list
 
 **Development Suggestions**
 
- * <issue 00100/> EFO Componentize Integration
- * <issue 00200/> Create Tests for all functions
- * <issue 00300/> Test Python3 Type Facet Library Update on functionality other than Autokerning.
+ * ```<issue 00100/>``` EFO Componentize Integration
+ * ```<issue 00200/>``` Create Tests for all functions
+ * ```<issue 00300/>``` Test Python3 Type Facet Library Update on functionality other than Autokerning.
 
 **Suggestions and Observations by Contributors**
 
@@ -36,3 +36,6 @@ VRD Typography Library TODO list
  * <issue 01100/> The italics appear to be mechanically slanted Romans without few or no optical compensations
 
      * <issue 01101/> The most notable are glyphs with diagonal strokes which appear very heavy when slanted. I think fixing these diagonals would be a small time investment that would really help the texture of the Italic
+
+
+**Known Issues**
