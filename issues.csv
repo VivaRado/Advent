@@ -1,5 +1,5 @@
 Issue,	State,	Notes, Observer
-00100,	Addressing,	Componentization script. VRD TYPL., VivaRado
+00101,	Postponed,	Finetune Anchor position and necessity., VivaRado
 00400,	Addressing,	Componentization script. VRD TYPL., Mike LaGattuta
 00500,	Addressing,	Componentization script. VRD TYPL., Mike LaGattuta
 00600,	Postponed,	N/A, Mike LaGattuta
@@ -14,3 +14,4 @@ Issue,	State,	Notes, Observer
 01003,	Ignored,	Duplicate of #01001, Mike LaGattuta
 01100,	Postponed,	Very good idea - should be real italics atleast on the part of widths., Mike LaGattuta
 01101,	Postponed,	Duplicate of 01100, Mike LaGattuta
+00100,	Resolved,	Componentization script. VRD TYPL., VivaRado

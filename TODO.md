@@ -3,7 +3,7 @@ VRD Typography Library TODO list
 
 **Development Suggestions:**
 
- * ```<issue 00100/>``` Componentize (VRD TYPL Componentization Script)
+ * ```<issue 00101/>``` Finetune Anchor position and necessity.
 
 **Suggestions and Observations by Contributors:**
 
