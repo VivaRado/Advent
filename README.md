@@ -34,21 +34,7 @@
 
 To make a variable font:
 
-*   Match every weight in terms of glyph list
-    *   Match every path / shape anchor count
-        *   Match every start point and enumeration of path items in glyph \
-Keep main glyph as #1 so kerning reads that instead of punctuation.
-*   Run Fontlab/Tools/Blend and run it again until all paths across all weights are corrected.
-*   Export edge cases back for more blending
-*   Blend again and again and some more
-*   Save and convert VFBs to UFOs
-*   Test convert to variable with fontmake
-*   Kern the non Italics with typeface
-*   Get the glyph list from each non Italic UFO's kern.plist
-*   Pass the permutation of that Kern.plist to typeface on the Italics or fontmake will fail
-*   Done.
-*   Advent has no opentype features, they have been cleared for the initial variable font release.
-*   Advent needs your support for VivaRado and Andreas Kalpakidis to develop language support and all the opentype features people want!
+*   Use VRD TYPL
 
 **  **
 
