@@ -138,7 +138,7 @@ Advent has NO features. The plan is to create all the features available in popu
 
 **Timeline**
 
-Timeline was reducted
+July 2018 to December 1 - assuming final will be released in about 7 - 14 days. Hopefully before the New Year
 
 **  **
 
