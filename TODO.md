@@ -40,22 +40,24 @@ VRD Typography Library TODO list
 
 **Known Issues**
 
-| Issue | State     | Notes                                                                                                               |
-|-------|-----------|---------------------------------------------------------------------------------------------------------------------|
-| 00100 | Adressing | Componentization script. VRD TYPL.                                                                                  |
-| 00200 | Postponed | N/A                                                                                                                 |
-| 00300 | Postponed | N/A                                                                                                                 |
-| 00400 | Adressing | Componentization script. VRD TYPL.                                                                                  |
-| 00500 | Adressing | Componentization script. VRD TYPL.                                                                                  |
-| 00600 | Postponed | N/A                                                                                                                 |
-| 00700 | Postponed | N/A                                                                                                                 |
-| 00701 | Postponed | N/A                                                                                                                 |
-| 00800 | Postponed | N/A                                                                                                                 |
-| 00801 | Postponed | N/A                                                                                                                 |
-| 00900 | Ignored   | Looks ok to me - According to current UFOs in sources.                                                              |
-| 01000 | N/A       | N/A                                                                                                                 |
-| 01001 | Postponed | Differrence of 700 - 696 = 4px height difference - under 5px not significant. According to current UFOs in sources. |
-| 01002 | Ignored   | Please Elaborate                                                                                                    |
-| 01003 | Ignored   | Duplicate of #01001                                                                                                 |
-| 01100 | Postponed | Very good idea - should be real italics atleast on the part of widths.                                              |
-| 01101 | Postponed | Duplicate of 01100sa                                                                                                |
+| Issue | State     | Notes                                                                                                              | Observer       |
+|-------|-----------|--------------------------------------------------------------------------------------------------------------------|----------------|
+| 00100 | Adressing | Componentization script. VRD TYPL.                                                                                 | Mike LaGattuta |
+| 00200 | Postponed | N/A                                                                                                                | Mike LaGattuta |
+| 00300 | Postponed | N/A                                                                                                                | Mike LaGattuta |
+| 00400 | Adressing | Componentization script. VRD TYPL.                                                                                 | Mike LaGattuta |
+| 00500 | Adressing | Componentization script. VRD TYPL.                                                                                 | Mike LaGattuta |
+| 00600 | Postponed | N/A                                                                                                                | Mike LaGattuta |
+| 00700 | Postponed | N/A                                                                                                                | Mike LaGattuta |
+| 00701 | Postponed | N/A                                                                                                                | Mike LaGattuta |
+| 00800 | Postponed | N/A                                                                                                                | Mike LaGattuta |
+| 00801 | Postponed | N/A                                                                                                                | Mike LaGattuta |
+| 00900 | Ignored   | Looks ok to me - According to current UFOs in sources.                                                             | Mike LaGattuta |
+| 01000 | N/A       | N/A                                                                                                                | Mike LaGattuta |
+| 01001 | Postponed | Differrence of 700 - 696 = 4px height difference - will resize by 0.573066%. According to current UFOs in sources. | Mike LaGattuta |
+| 01002 | Ignored   | Please Elaborate                                                                                                   | Mike LaGattuta |
+| 01003 | Ignored   | Duplicate of #01001                                                                                                | Mike LaGattuta |
+| 01100 | Postponed | Very good idea - should be real italics atleast on the part of widths.                                             | Mike LaGattuta |
+| 01101 | Postponed | Duplicate of 01100sa                                                                                               | Mike LaGattuta |
+
+**VivaRado is thankful for all your observations :+1:- please submit any issues at support@vivarado.com - with Subject: ISSUE:Topic**
