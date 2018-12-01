@@ -3,14 +3,7 @@
   <advance width="266"/>
   <unicode hex="02C7"/>
   <outline>
-    <contour>
-      <point x="263" y="715" type="line"/>
-      <point x="230" y="752" type="line"/>
-      <point x="121" y="663" type="line"/>
-      <point x="48" y="751" type="line"/>
-      <point x="2" y="713" type="line"/>
-      <point x="108" y="587" type="line"/>
-    </contour>
+    <component base="caroncomb"/>
   </outline>
   <lib>
     <dict>

@@ -1,3 +1,7 @@
 /_planning
 /_scripts
 /_old
+__pycache__*
+__pycache__/
+*.pyc
+*.pyo

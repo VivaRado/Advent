@@ -3,13 +3,7 @@
   <advance width="483"/>
   <unicode hex="00AD"/>
   <outline>
-    <contour>
-      <point x="361" y="413" type="line"/>
-      <point x="42" y="413" type="line"/>
-      <point x="42" y="393" type="line"/>
-      <point x="361" y="393" type="line"/>
-    </contour>
-  </outline>
+    <component base="hyphen"/></outline>
   <lib>
     <dict>
 	<key>com.typemytype.robofont.mark</key>

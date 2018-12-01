@@ -196,18 +196,16 @@
     <string>Aogonek</string>
     <string>Atilde</string>
   </array>
-  <key>@MMK_L_cent</key>
+  <key>@MMK_L_l</key>
   <array>
-    <string>cent</string>
     <string>l</string>
     <string>lacute</string>
     <string>lcaron</string>
     <string>lcommaaccent</string>
     <string>ldot</string>
   </array>
-  <key>@MMK_R_cent</key>
+  <key>@MMK_R_l</key>
   <array>
-    <string>cent</string>
     <string>l</string>
     <string>lacute</string>
     <string>lcaron</string>
@@ -304,15 +302,15 @@
     <string>Zcaron</string>
     <string>Zdotaccent</string>
   </array>
-  <key>@MMK_L_Chi</key>
+  <key>@MMK_L_X</key>
   <array>
-    <string>Chi</string>
     <string>X</string>
+    <string>Chi</string>
   </array>
-  <key>@MMK_R_Chi</key>
+  <key>@MMK_R_X</key>
   <array>
-    <string>Chi</string>
     <string>X</string>
+    <string>Chi</string>
   </array>
   <key>@MMK_L_epsilon</key>
   <array>
@@ -370,16 +368,6 @@
     <string>ydieresis</string>
     <string>ygrave</string>
   </array>
-  <key>@MMK_L_i</key>
-  <array>
-    <string>i</string>
-    <string>ij</string>
-  </array>
-  <key>@MMK_R_i</key>
-  <array>
-    <string>i</string>
-    <string>ij</string>
-  </array>
   <key>@MMK_L_mu</key>
   <array>
     <string>mu</string>
@@ -390,8 +378,9 @@
     <string>mu</string>
     <string>mugreek</string>
   </array>
-  <key>@MMK_L_dotlessi</key>
+  <key>@MMK_L_i</key>
   <array>
+    <string>i</string>
     <string>dotlessi</string>
     <string>iacute</string>
     <string>icircumflex</string>
@@ -404,9 +393,11 @@
     <string>iotadieresistonos</string>
     <string>iotatonos</string>
     <string>itilde</string>
+    <string>ij</string>
   </array>
-  <key>@MMK_R_dotlessi</key>
+  <key>@MMK_R_i</key>
   <array>
+    <string>i</string>
     <string>dotlessi</string>
     <string>iacute</string>
     <string>icircumflex</string>
@@ -419,6 +410,7 @@
     <string>iotadieresistonos</string>
     <string>iotatonos</string>
     <string>itilde</string>
+    <string>ij</string>
   </array>
   <key>@MMK_L_C</key>
   <array>
@@ -646,18 +638,18 @@
     <string>upsilondieresistonos</string>
     <string>upsilontonos</string>
   </array>
-  <key>@MMK_L_Eta</key>
+  <key>@MMK_L_H</key>
   <array>
+    <string>H</string>
     <string>Eta</string>
     <string>Etatonos</string>
-    <string>H</string>
     <string>Hcircumflex</string>
   </array>
-  <key>@MMK_R_Eta</key>
+  <key>@MMK_R_H</key>
   <array>
+    <string>H</string>
     <string>Eta</string>
     <string>Etatonos</string>
-    <string>H</string>
     <string>Hcircumflex</string>
   </array>
   <key>@MMK_L_W</key>
@@ -692,16 +684,16 @@
     <string>ncommaaccent</string>
     <string>ntilde</string>
   </array>
-  <key>@MMK_L_dotlessj</key>
+  <key>@MMK_L_j</key>
   <array>
-    <string>dotlessj</string>
     <string>j</string>
+    <string>dotlessj</string>
     <string>jcircumflex</string>
   </array>
-  <key>@MMK_R_dotlessj</key>
+  <key>@MMK_R_j</key>
   <array>
-    <string>dotlessj</string>
     <string>j</string>
+    <string>dotlessj</string>
     <string>jcircumflex</string>
   </array>
   <key>@MMK_L_G</key>
@@ -730,16 +722,6 @@
     <string>Omegagreek</string>
     <string>Omegatonos</string>
   </array>
-  <key>@MMK_L_guillemotright</key>
-  <array>
-    <string>guillemotright</string>
-    <string>guilsinglright</string>
-  </array>
-  <key>@MMK_R_guillemotright</key>
-  <array>
-    <string>guillemotright</string>
-    <string>guilsinglright</string>
-  </array>
   <key>@MMK_L_kappa</key>
   <array>
     <string>kappa</string>
@@ -758,6 +740,7 @@
     <string>ccedilla</string>
     <string>ccircumflex</string>
     <string>cdotaccent</string>
+    <string>cent</string>
   </array>
   <key>@MMK_R_c</key>
   <array>
@@ -767,6 +750,7 @@
     <string>ccedilla</string>
     <string>ccircumflex</string>
     <string>cdotaccent</string>
+    <string>cent</string>
   </array>
   <key>@MMK_L_t</key>
   <array>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="Oslash" format="2">
+  <advance width="571"/>
+  <unicode hex="00D8"/>
+  <outline>
+    <component base="O"/><contour>
+      <point x="-13" y="-114" type="line"/>
+      <point x="103" y="-114" type="line"/>
+      <point x="594" y="816" type="line"/>
+      <point x="474" y="816" type="line"/>
+    </contour>
+  
+
+
+
+
+
+
+
+</outline>
+  <lib>
+    <dict>
+	<key>com.typemytype.robofont.mark</key>
+	<array>
+		<real>0.6</real>
+		<real>1.0</real>
+		<real>0.732</real>
+		<real>1.0</real>
+	</array>
+</dict>
+  </lib>
+</glyph>

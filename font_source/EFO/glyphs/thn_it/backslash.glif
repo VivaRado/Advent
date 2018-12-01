@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<glyph name="backslash" format="2">
+  <advance width="223"/>
+  <unicode hex="005C"/>
+  <outline>
+    <contour>
+      <point x="181" y="-113" type="line"/>
+      <point x="201" y="-113" type="line"/>
+      <point x="41" y="815" type="line"/>
+      <point x="20" y="815" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+	<key>com.typemytype.robofont.mark</key>
+	<array>
+		<real>0.6</real>
+		<real>1.0</real>
+		<real>0.694</real>
+		<real>1.0</real>
+	</array>
+</dict>
+  </lib>
+</glyph>

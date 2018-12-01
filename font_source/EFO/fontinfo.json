@@ -1,0 +1,528 @@
+[
+    {
+        "shared_info": {
+            "familyName": "advent pro fmm",
+            "macintoshFONDFamilyID": 128,
+            "openTypeHeadCreated": "2018/08/21 13:22:21",
+            "openTypeNameDescription": "",
+            "openTypeNameDesigner": "",
+            "openTypeNameDesignerURL": "",
+            "openTypeNameLicense": "",
+            "openTypeNameLicenseURL": "",
+            "openTypeNameManufacturer": "",
+            "openTypeNameManufacturerURL": "",
+            "openTypeNameSampleText": "",
+            "openTypeNameUniqueID": "",
+            "openTypeNameVersion": "",
+            "styleMapFamilyName": "advent pro fmm",
+            "trademark": "",
+            "versionMajor": 1,
+            "versionMinor": 0,
+            "year": 2018
+        }
+    },
+    {
+        "font_files": [
+            "thn",
+            "reg",
+            "bld",
+            "thn_it",
+            "reg_it",
+            "bld_it"
+        ]
+    },
+    {
+        "font_info": [
+            {
+                "thn": {
+                    "ascender": 750,
+                    "capHeight": 700,
+                    "copyright": "",
+                    "descender": -250,
+                    "italicAngle": 0,
+                    "macintoshFONDName": "advent pro fmm Thin",
+                    "openTypeHeadFlags": [],
+                    "openTypeHheaAscender": 750,
+                    "openTypeHheaDescender": -250,
+                    "openTypeHheaLineGap": 9,
+                    "openTypeNamePreferredSubfamilyName": "Thin",
+                    "openTypeOS2FamilyClass": [
+                        0,
+                        0
+                    ],
+                    "openTypeOS2Panose": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "openTypeOS2Selection": [],
+                    "openTypeOS2StrikeoutPosition": 250,
+                    "openTypeOS2StrikeoutSize": 50,
+                    "openTypeOS2SubscriptXOffset": 0,
+                    "openTypeOS2SubscriptXSize": 700,
+                    "openTypeOS2SubscriptYOffset": 140,
+                    "openTypeOS2SubscriptYSize": 650,
+                    "openTypeOS2SuperscriptXOffset": 0,
+                    "openTypeOS2SuperscriptXSize": 700,
+                    "openTypeOS2SuperscriptYOffset": 477,
+                    "openTypeOS2SuperscriptYSize": 650,
+                    "openTypeOS2Type": [
+                        2
+                    ],
+                    "openTypeOS2TypoAscender": 750,
+                    "openTypeOS2TypoDescender": -250,
+                    "openTypeOS2TypoLineGap": 9,
+                    "openTypeOS2VendorID": "pyrs",
+                    "openTypeOS2WeightClass": 100,
+                    "openTypeOS2WidthClass": 5,
+                    "openTypeOS2WinAscent": 0,
+                    "openTypeOS2WinDescent": 0,
+                    "postscriptBlueFuzz": 1,
+                    "postscriptBlueScale": 0.039625,
+                    "postscriptBlueShift": 7,
+                    "postscriptBlueValues": [
+                        -20,
+                        0
+                    ],
+                    "postscriptFontName": "adventprofmm-Thin",
+                    "postscriptForceBold": false,
+                    "postscriptFullName": "advent pro fmm Thin",
+                    "postscriptIsFixedPitch": false,
+                    "postscriptUnderlinePosition": -75,
+                    "postscriptUnderlineThickness": 50,
+                    "postscriptUniqueID": -1,
+                    "postscriptWeightName": "Thin",
+                    "styleMapStyleName": "regular",
+                    "styleName": "Thin",
+                    "unitsPerEm": 1000,
+                    "xHeight": 500
+                }
+            },
+            {
+                "reg": {
+                    "ascender": 750,
+                    "capHeight": 700,
+                    "copyright": "",
+                    "descender": -250,
+                    "italicAngle": 0,
+                    "macintoshFONDName": "advent pro fmm",
+                    "openTypeHeadFlags": [],
+                    "openTypeHheaAscender": 750,
+                    "openTypeHheaDescender": -250,
+                    "openTypeHheaLineGap": 9,
+                    "openTypeNamePreferredSubfamilyName": "Regular",
+                    "openTypeOS2FamilyClass": [
+                        0,
+                        0
+                    ],
+                    "openTypeOS2Panose": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "openTypeOS2Selection": [],
+                    "openTypeOS2StrikeoutPosition": 250,
+                    "openTypeOS2StrikeoutSize": 50,
+                    "openTypeOS2SubscriptXOffset": 0,
+                    "openTypeOS2SubscriptXSize": 700,
+                    "openTypeOS2SubscriptYOffset": 140,
+                    "openTypeOS2SubscriptYSize": 650,
+                    "openTypeOS2SuperscriptXOffset": 0,
+                    "openTypeOS2SuperscriptXSize": 700,
+                    "openTypeOS2SuperscriptYOffset": 477,
+                    "openTypeOS2SuperscriptYSize": 650,
+                    "openTypeOS2Type": [
+                        2
+                    ],
+                    "openTypeOS2TypoAscender": 750,
+                    "openTypeOS2TypoDescender": -250,
+                    "openTypeOS2TypoLineGap": 9,
+                    "openTypeOS2VendorID": "pyrs",
+                    "openTypeOS2WeightClass": 400,
+                    "openTypeOS2WidthClass": 5,
+                    "openTypeOS2WinAscent": 0,
+                    "openTypeOS2WinDescent": 0,
+                    "postscriptBlueFuzz": 1,
+                    "postscriptBlueScale": 0.039625,
+                    "postscriptBlueShift": 7,
+                    "postscriptBlueValues": [
+                        -20,
+                        0
+                    ],
+                    "postscriptFontName": "adventprofmm-Regular",
+                    "postscriptForceBold": false,
+                    "postscriptFullName": "advent pro fmm Regular",
+                    "postscriptIsFixedPitch": false,
+                    "postscriptUnderlinePosition": -75,
+                    "postscriptUnderlineThickness": 50,
+                    "postscriptUniqueID": -1,
+                    "postscriptWeightName": "Regular",
+                    "styleMapStyleName": "regular",
+                    "styleName": "Regular",
+                    "unitsPerEm": 1000,
+                    "xHeight": 500
+                }
+            },
+            {
+                "bld": {
+                    "ascender": 750,
+                    "capHeight": 700,
+                    "copyright": "",
+                    "descender": -250,
+                    "italicAngle": 0,
+                    "macintoshFONDName": "advent pro fmm Bold",
+                    "openTypeHeadFlags": [],
+                    "openTypeHheaAscender": 750,
+                    "openTypeHheaDescender": -250,
+                    "openTypeHheaLineGap": 9,
+                    "openTypeNamePreferredSubfamilyName": "Bold",
+                    "openTypeOS2FamilyClass": [
+                        0,
+                        0
+                    ],
+                    "openTypeOS2Panose": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "openTypeOS2Selection": [],
+                    "openTypeOS2StrikeoutPosition": 250,
+                    "openTypeOS2StrikeoutSize": 50,
+                    "openTypeOS2SubscriptXOffset": 0,
+                    "openTypeOS2SubscriptXSize": 700,
+                    "openTypeOS2SubscriptYOffset": 140,
+                    "openTypeOS2SubscriptYSize": 650,
+                    "openTypeOS2SuperscriptXOffset": 0,
+                    "openTypeOS2SuperscriptXSize": 700,
+                    "openTypeOS2SuperscriptYOffset": 477,
+                    "openTypeOS2SuperscriptYSize": 650,
+                    "openTypeOS2Type": [
+                        2
+                    ],
+                    "openTypeOS2TypoAscender": 750,
+                    "openTypeOS2TypoDescender": -250,
+                    "openTypeOS2TypoLineGap": 9,
+                    "openTypeOS2VendorID": "pyrs",
+                    "openTypeOS2WeightClass": 700,
+                    "openTypeOS2WidthClass": 5,
+                    "openTypeOS2WinAscent": 0,
+                    "openTypeOS2WinDescent": 0,
+                    "postscriptBlueFuzz": 1,
+                    "postscriptBlueScale": 0.039625,
+                    "postscriptBlueShift": 7,
+                    "postscriptBlueValues": [
+                        -20,
+                        0
+                    ],
+                    "postscriptFontName": "adventprofmm-Bold",
+                    "postscriptForceBold": false,
+                    "postscriptFullName": "advent pro fmm Bold",
+                    "postscriptIsFixedPitch": false,
+                    "postscriptUnderlinePosition": -75,
+                    "postscriptUnderlineThickness": 50,
+                    "postscriptUniqueID": -1,
+                    "postscriptWeightName": "Bold",
+                    "styleMapStyleName": "regular",
+                    "styleName": "Bold",
+                    "unitsPerEm": 1000,
+                    "xHeight": 500
+                }
+            },
+            {
+                "thn_it": {
+                    "ascender": 750,
+                    "capHeight": 700,
+                    "copyright": "",
+                    "descender": -250,
+                    "italicAngle": 0,
+                    "macintoshFONDName": "advent pro fmm Thin",
+                    "openTypeHeadFlags": [],
+                    "openTypeHheaAscender": 750,
+                    "openTypeHheaDescender": -250,
+                    "openTypeHheaLineGap": 9,
+                    "openTypeNamePreferredSubfamilyName": "Thin Italic",
+                    "openTypeOS2FamilyClass": [
+                        0,
+                        0
+                    ],
+                    "openTypeOS2Panose": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "openTypeOS2Selection": [],
+                    "openTypeOS2StrikeoutPosition": 250,
+                    "openTypeOS2StrikeoutSize": 50,
+                    "openTypeOS2SubscriptXOffset": 0,
+                    "openTypeOS2SubscriptXSize": 700,
+                    "openTypeOS2SubscriptYOffset": 140,
+                    "openTypeOS2SubscriptYSize": 650,
+                    "openTypeOS2SuperscriptXOffset": 0,
+                    "openTypeOS2SuperscriptXSize": 700,
+                    "openTypeOS2SuperscriptYOffset": 477,
+                    "openTypeOS2SuperscriptYSize": 650,
+                    "openTypeOS2Type": [
+                        2
+                    ],
+                    "openTypeOS2TypoAscender": 750,
+                    "openTypeOS2TypoDescender": -250,
+                    "openTypeOS2TypoLineGap": 9,
+                    "openTypeOS2VendorID": "pyrs",
+                    "openTypeOS2WeightClass": 100,
+                    "openTypeOS2WidthClass": 5,
+                    "openTypeOS2WinAscent": 0,
+                    "openTypeOS2WinDescent": 0,
+                    "postscriptBlueFuzz": 1,
+                    "postscriptBlueScale": 0.039625,
+                    "postscriptBlueShift": 7,
+                    "postscriptBlueValues": [
+                        -20,
+                        0
+                    ],
+                    "postscriptFontName": "adventprofmm-Thin",
+                    "postscriptForceBold": false,
+                    "postscriptFullName": "advent pro fmm Thin",
+                    "postscriptIsFixedPitch": false,
+                    "postscriptUnderlinePosition": -75,
+                    "postscriptUnderlineThickness": 50,
+                    "postscriptUniqueID": -1,
+                    "postscriptWeightName": "Thin",
+                    "styleMapStyleName": "regular",
+                    "styleName": "Thin",
+                    "unitsPerEm": 1000,
+                    "xHeight": 500
+                }
+            },
+            {
+                "reg_it": {
+                    "ascender": 750,
+                    "capHeight": 700,
+                    "copyright": "",
+                    "descender": -250,
+                    "italicAngle": 0,
+                    "macintoshFONDName": "advent pro fmm",
+                    "openTypeHeadFlags": [],
+                    "openTypeHheaAscender": 750,
+                    "openTypeHheaDescender": -250,
+                    "openTypeHheaLineGap": 9,
+                    "openTypeNamePreferredSubfamilyName": "Regular Italic",
+                    "openTypeOS2FamilyClass": [
+                        0,
+                        0
+                    ],
+                    "openTypeOS2Panose": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "openTypeOS2Selection": [],
+                    "openTypeOS2StrikeoutPosition": 250,
+                    "openTypeOS2StrikeoutSize": 50,
+                    "openTypeOS2SubscriptXOffset": 0,
+                    "openTypeOS2SubscriptXSize": 700,
+                    "openTypeOS2SubscriptYOffset": 140,
+                    "openTypeOS2SubscriptYSize": 650,
+                    "openTypeOS2SuperscriptXOffset": 0,
+                    "openTypeOS2SuperscriptXSize": 700,
+                    "openTypeOS2SuperscriptYOffset": 477,
+                    "openTypeOS2SuperscriptYSize": 650,
+                    "openTypeOS2Type": [
+                        2
+                    ],
+                    "openTypeOS2TypoAscender": 750,
+                    "openTypeOS2TypoDescender": -250,
+                    "openTypeOS2TypoLineGap": 9,
+                    "openTypeOS2VendorID": "pyrs",
+                    "openTypeOS2WeightClass": 400,
+                    "openTypeOS2WidthClass": 5,
+                    "openTypeOS2WinAscent": 0,
+                    "openTypeOS2WinDescent": 0,
+                    "postscriptBlueFuzz": 1,
+                    "postscriptBlueScale": 0.039625,
+                    "postscriptBlueShift": 7,
+                    "postscriptBlueValues": [
+                        -20,
+                        0
+                    ],
+                    "postscriptFontName": "adventprofmm-Regular",
+                    "postscriptForceBold": false,
+                    "postscriptFullName": "advent pro fmm Regular",
+                    "postscriptIsFixedPitch": false,
+                    "postscriptUnderlinePosition": -75,
+                    "postscriptUnderlineThickness": 50,
+                    "postscriptUniqueID": -1,
+                    "postscriptWeightName": "Regular",
+                    "styleMapStyleName": "regular",
+                    "styleName": "Regular",
+                    "unitsPerEm": 1000,
+                    "xHeight": 500
+                }
+            },
+            {
+                "bld_it": {
+                    "ascender": 750,
+                    "capHeight": 700,
+                    "copyright": "",
+                    "descender": -250,
+                    "italicAngle": 0,
+                    "macintoshFONDName": "advent pro fmm Bold",
+                    "openTypeHeadFlags": [],
+                    "openTypeHheaAscender": 750,
+                    "openTypeHheaDescender": -250,
+                    "openTypeHheaLineGap": 9,
+                    "openTypeNamePreferredSubfamilyName": "Bold Italic",
+                    "openTypeOS2FamilyClass": [
+                        0,
+                        0
+                    ],
+                    "openTypeOS2Panose": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "openTypeOS2Selection": [],
+                    "openTypeOS2StrikeoutPosition": 250,
+                    "openTypeOS2StrikeoutSize": 50,
+                    "openTypeOS2SubscriptXOffset": 0,
+                    "openTypeOS2SubscriptXSize": 700,
+                    "openTypeOS2SubscriptYOffset": 140,
+                    "openTypeOS2SubscriptYSize": 650,
+                    "openTypeOS2SuperscriptXOffset": 0,
+                    "openTypeOS2SuperscriptXSize": 700,
+                    "openTypeOS2SuperscriptYOffset": 477,
+                    "openTypeOS2SuperscriptYSize": 650,
+                    "openTypeOS2Type": [
+                        2
+                    ],
+                    "openTypeOS2TypoAscender": 750,
+                    "openTypeOS2TypoDescender": -250,
+                    "openTypeOS2TypoLineGap": 9,
+                    "openTypeOS2VendorID": "pyrs",
+                    "openTypeOS2WeightClass": 700,
+                    "openTypeOS2WidthClass": 5,
+                    "openTypeOS2WinAscent": 0,
+                    "openTypeOS2WinDescent": 0,
+                    "postscriptBlueFuzz": 1,
+                    "postscriptBlueScale": 0.039625,
+                    "postscriptBlueShift": 7,
+                    "postscriptBlueValues": [
+                        -20,
+                        0
+                    ],
+                    "postscriptFontName": "adventprofmm-Bold",
+                    "postscriptForceBold": false,
+                    "postscriptFullName": "advent pro fmm Bold",
+                    "postscriptIsFixedPitch": false,
+                    "postscriptUnderlinePosition": -75,
+                    "postscriptUnderlineThickness": 50,
+                    "postscriptUniqueID": -1,
+                    "postscriptWeightName": "Bold",
+                    "styleMapStyleName": "regular",
+                    "styleName": "Bold",
+                    "unitsPerEm": 1000,
+                    "xHeight": 500
+                }
+            }
+        ]
+    },
+    {
+        "font_kerning_settings": [
+            {
+                "thn": {
+                    "--intrusion-tolerance-ems": 0.02,
+                    "--max-distance-ems": 0.05,
+                    "--max-x-extrema-overlap-ems": 0.1,
+                    "--min-distance-ems": 0.04,
+                    "--precision-ems": 0.005
+                }
+            },
+            {
+                "reg": {
+                    "--intrusion-tolerance-ems": 0.02,
+                    "--max-distance-ems": 0.05,
+                    "--max-x-extrema-overlap-ems": 0.1,
+                    "--min-distance-ems": 0.04,
+                    "--precision-ems": 0.005
+                }
+            },
+            {
+                "bld": {
+                    "--intrusion-tolerance-ems": 0.02,
+                    "--max-distance-ems": 0.05,
+                    "--max-x-extrema-overlap-ems": 0.1,
+                    "--min-distance-ems": 0.04,
+                    "--precision-ems": 0.005
+                }
+            },
+            {
+                "thn_it": {
+                    "--intrusion-tolerance-ems": 0.02,
+                    "--max-distance-ems": 0.05,
+                    "--max-x-extrema-overlap-ems": 0.1,
+                    "--min-distance-ems": 0.04,
+                    "--precision-ems": 0.005
+                }
+            },
+            {
+                "reg_it": {
+                    "--intrusion-tolerance-ems": 0.02,
+                    "--max-distance-ems": 0.05,
+                    "--max-x-extrema-overlap-ems": 0.1,
+                    "--min-distance-ems": 0.04,
+                    "--precision-ems": 0.005
+                }
+            },
+            {
+                "bld_it": {
+                    "--intrusion-tolerance-ems": 0.02,
+                    "--max-distance-ems": 0.05,
+                    "--max-x-extrema-overlap-ems": 0.1,
+                    "--min-distance-ems": 0.04,
+                    "--precision-ems": 0.005
+                }
+            }
+        ]
+    }
+]

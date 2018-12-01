@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='utf-8'?>
-<glyph name="dieresiscomb" format="2">
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresiscomb" format="1">
   <advance width="266"/>
   <unicode hex="0308"/>
   <outline>
@@ -31,16 +31,22 @@
       <point x="278" y="740"/>
       <point x="256" y="767"/>
     </contour>
+    <contour>
+      <point x="133" y="750" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="133" y="600" type="move" name="_top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
-	<key>com.typemytype.robofont.mark</key>
-	<array>
-		<real>0.6</real>
-		<real>0.609</real>
-		<real>1.0</real>
-		<real>1.0</real>
-	</array>
-</dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.59999999999999998</real>
+        <real>0.60899999999999999</real>
+        <real>1</real>
+        <real>1</real>
+      </array>
+    </dict>
   </lib>
 </glyph>

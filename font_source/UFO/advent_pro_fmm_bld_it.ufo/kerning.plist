@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
 	<key>@MMK_L_A</key>
@@ -10,13 +10,9 @@
 		<integer>48</integer>
 		<key>@MMK_R_C</key>
 		<integer>27</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>60</integer>
 		<key>@MMK_R_D</key>
 		<integer>48</integer>
 		<key>@MMK_R_E</key>
-		<integer>48</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>48</integer>
 		<key>@MMK_R_G</key>
 		<integer>28</integer>
@@ -54,30 +50,16 @@
 		<integer>30</integer>
 		<key>@MMK_R_c</key>
 		<integer>31</integer>
-		<key>@MMK_R_cent</key>
-		<integer>20</integer>
-		<key>@MMK_R_comma</key>
-		<integer>41</integer>
 		<key>@MMK_R_d</key>
 		<integer>30</integer>
-		<key>@MMK_R_dotlessi</key>
-		<integer>48</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-25</integer>
 		<key>@MMK_R_e</key>
 		<integer>36</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>34</integer>
-		<key>@MMK_R_equal</key>
-		<integer>15</integer>
 		<key>@MMK_R_eta</key>
 		<integer>48</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>-12</integer>
 		<key>@MMK_R_g</key>
 		<integer>27</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>23</integer>
 		<key>@MMK_R_h</key>
 		<integer>48</integer>
 		<key>@MMK_R_i</key>
@@ -94,8 +76,6 @@
 		<integer>29</integer>
 		<key>@MMK_R_omega</key>
 		<integer>27</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-15</integer>
 		<key>@MMK_R_r</key>
 		<integer>48</integer>
 		<key>@MMK_R_s</key>
@@ -117,8 +97,6 @@
 		<integer>-20</integer>
 		<key>@MMK_R_C</key>
 		<integer>20</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-50</integer>
 		<key>@MMK_R_G</key>
 		<integer>22</integer>
 		<key>@MMK_R_J</key>
@@ -143,24 +121,14 @@
 		<integer>19</integer>
 		<key>@MMK_R_c</key>
 		<integer>21</integer>
-		<key>@MMK_R_cent</key>
-		<integer>10</integer>
-		<key>@MMK_R_comma</key>
-		<integer>-11</integer>
 		<key>@MMK_R_d</key>
 		<integer>19</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-35</integer>
 		<key>@MMK_R_e</key>
 		<integer>19</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>20</integer>
-		<key>@MMK_R_equal</key>
-		<integer>21</integer>
 		<key>@MMK_R_g</key>
 		<integer>17</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>12</integer>
 		<key>@MMK_R_mu</key>
 		<integer>-16</integer>
 		<key>@MMK_R_nu</key>
@@ -169,8 +137,6 @@
 		<integer>22</integer>
 		<key>@MMK_R_omega</key>
 		<integer>19</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>32</integer>
 		<key>@MMK_R_t</key>
 		<integer>11</integer>
 		<key>@MMK_R_u</key>
@@ -191,8 +157,6 @@
 		<key>@MMK_R_D</key>
 		<integer>-11</integer>
 		<key>@MMK_R_E</key>
-		<integer>-11</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>-11</integer>
 		<key>@MMK_R_G</key>
 		<integer>-18</integer>
@@ -224,26 +188,16 @@
 		<integer>-17</integer>
 		<key>@MMK_R_c</key>
 		<integer>-16</integer>
-		<key>@MMK_R_comma</key>
-		<integer>10</integer>
 		<key>@MMK_R_d</key>
 		<integer>-17</integer>
-		<key>@MMK_R_dotlessi</key>
-		<integer>-11</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-79</integer>
 		<key>@MMK_R_e</key>
 		<integer>-12</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-12</integer>
 		<key>@MMK_R_eta</key>
 		<integer>-11</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>17</integer>
 		<key>@MMK_R_g</key>
 		<integer>-19</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>13</integer>
 		<key>@MMK_R_h</key>
 		<integer>-11</integer>
 		<key>@MMK_R_i</key>
@@ -262,8 +216,6 @@
 		<integer>-17</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-19</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>34</integer>
 		<key>@MMK_R_r</key>
 		<integer>-11</integer>
 		<key>@MMK_R_t</key>
@@ -277,128 +229,15 @@
 		<key>@MMK_R_y</key>
 		<integer>-22</integer>
 	</dict>
-	<key>@MMK_L_Chi</key>
-	<dict>
-		<key>@MMK_R_B</key>
-		<integer>-13</integer>
-		<key>@MMK_R_C</key>
-		<integer>-62</integer>
-		<key>@MMK_R_D</key>
-		<integer>-13</integer>
-		<key>@MMK_R_E</key>
-		<integer>-13</integer>
-		<key>@MMK_R_Eta</key>
-		<integer>-13</integer>
-		<key>@MMK_R_G</key>
-		<integer>-63</integer>
-		<key>@MMK_R_I</key>
-		<integer>23</integer>
-		<key>@MMK_R_J</key>
-		<integer>-16</integer>
-		<key>@MMK_R_K</key>
-		<integer>-13</integer>
-		<key>@MMK_R_L</key>
-		<integer>-13</integer>
-		<key>@MMK_R_M</key>
-		<integer>-13</integer>
-		<key>@MMK_R_N</key>
-		<integer>-13</integer>
-		<key>@MMK_R_O</key>
-		<integer>-68</integer>
-		<key>@MMK_R_P</key>
-		<integer>-13</integer>
-		<key>@MMK_R_S</key>
-		<integer>-62</integer>
-		<key>@MMK_R_T</key>
-		<integer>56</integer>
-		<key>@MMK_R_U</key>
-		<integer>-14</integer>
-		<key>@MMK_R_Upsilon</key>
-		<integer>14</integer>
-		<key>@MMK_R_V</key>
-		<integer>62</integer>
-		<key>@MMK_R_W</key>
-		<integer>57</integer>
-		<key>@MMK_R_a</key>
-		<integer>-51</integer>
-		<key>@MMK_R_alpha</key>
-		<integer>-52</integer>
-		<key>@MMK_R_c</key>
-		<integer>-55</integer>
-		<key>@MMK_R_cent</key>
-		<integer>17</integer>
-		<key>@MMK_R_comma</key>
-		<integer>20</integer>
-		<key>@MMK_R_d</key>
-		<integer>-54</integer>
-		<key>@MMK_R_divide</key>
-		<integer>18</integer>
-		<key>@MMK_R_dotlessi</key>
-		<integer>-13</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-69</integer>
-		<key>@MMK_R_e</key>
-		<integer>-44</integer>
-		<key>@MMK_R_epsilon</key>
-		<integer>-50</integer>
-		<key>@MMK_R_equal</key>
-		<integer>19</integer>
-		<key>@MMK_R_eta</key>
-		<integer>-13</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>27</integer>
-		<key>@MMK_R_g</key>
-		<integer>-53</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>23</integer>
-		<key>@MMK_R_h</key>
-		<integer>-13</integer>
-		<key>@MMK_R_i</key>
-		<integer>-14</integer>
-		<key>@MMK_R_k</key>
-		<integer>-13</integer>
-		<key>@MMK_R_kappa</key>
-		<integer>-13</integer>
-		<key>@MMK_R_mu</key>
-		<integer>-33</integer>
-		<key>@MMK_R_n</key>
-		<integer>-13</integer>
-		<key>@MMK_R_nu</key>
-		<integer>-61</integer>
-		<key>@MMK_R_o</key>
-		<integer>-59</integer>
-		<key>@MMK_R_omega</key>
-		<integer>-53</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>27</integer>
-		<key>@MMK_R_r</key>
-		<integer>-13</integer>
-		<key>@MMK_R_s</key>
-		<integer>-32</integer>
-		<key>@MMK_R_t</key>
-		<integer>-23</integer>
-		<key>@MMK_R_u</key>
-		<integer>-55</integer>
-		<key>@MMK_R_upsilon</key>
-		<integer>-63</integer>
-		<key>@MMK_R_w</key>
-		<integer>-61</integer>
-		<key>@MMK_R_y</key>
-		<integer>-56</integer>
-	</dict>
 	<key>@MMK_L_D</key>
 	<dict>
 		<key>@MMK_R_A</key>
 		<integer>-45</integer>
 		<key>@MMK_R_B</key>
 		<integer>-15</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-68</integer>
 		<key>@MMK_R_D</key>
 		<integer>-14</integer>
 		<key>@MMK_R_E</key>
-		<integer>-15</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>-15</integer>
 		<key>@MMK_R_J</key>
 		<integer>-29</integer>
@@ -426,14 +265,6 @@
 		<integer>27</integer>
 		<key>@MMK_R_Z</key>
 		<integer>-25</integer>
-		<key>@MMK_R_cent</key>
-		<integer>-11</integer>
-		<key>@MMK_R_divide</key>
-		<integer>18</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-24</integer>
-		<key>@MMK_R_equal</key>
-		<integer>12</integer>
 		<key>@MMK_R_h</key>
 		<integer>-15</integer>
 		<key>@MMK_R_k</key>
@@ -442,8 +273,6 @@
 		<integer>-28</integer>
 		<key>@MMK_R_nu</key>
 		<integer>44</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>31</integer>
 		<key>@MMK_R_s</key>
 		<integer>-24</integer>
 		<key>@MMK_R_t</key>
@@ -461,13 +290,9 @@
 		<integer>-31</integer>
 		<key>@MMK_R_C</key>
 		<integer>-22</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-21</integer>
 		<key>@MMK_R_D</key>
 		<integer>-31</integer>
 		<key>@MMK_R_E</key>
-		<integer>-31</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>-31</integer>
 		<key>@MMK_R_G</key>
 		<integer>-20</integer>
@@ -509,32 +334,16 @@
 		<integer>-28</integer>
 		<key>@MMK_R_c</key>
 		<integer>-27</integer>
-		<key>@MMK_R_cent</key>
-		<integer>15</integer>
-		<key>@MMK_R_comma</key>
-		<integer>18</integer>
 		<key>@MMK_R_d</key>
 		<integer>-28</integer>
-		<key>@MMK_R_divide</key>
-		<integer>16</integer>
-		<key>@MMK_R_dotlessi</key>
-		<integer>-33</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-71</integer>
 		<key>@MMK_R_e</key>
 		<integer>-23</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-24</integer>
-		<key>@MMK_R_equal</key>
-		<integer>17</integer>
 		<key>@MMK_R_eta</key>
 		<integer>-33</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>25</integer>
 		<key>@MMK_R_g</key>
 		<integer>-31</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>21</integer>
 		<key>@MMK_R_h</key>
 		<integer>-31</integer>
 		<key>@MMK_R_i</key>
@@ -553,8 +362,6 @@
 		<integer>-30</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-31</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>48</integer>
 		<key>@MMK_R_r</key>
 		<integer>-33</integer>
 		<key>@MMK_R_s</key>
@@ -572,115 +379,6 @@
 		<key>@MMK_R_z</key>
 		<integer>-28</integer>
 	</dict>
-	<key>@MMK_L_Eta</key>
-	<dict>
-		<key>@MMK_R_A</key>
-		<integer>-27</integer>
-		<key>@MMK_R_B</key>
-		<integer>-18</integer>
-		<key>@MMK_R_C</key>
-		<integer>-13</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-27</integer>
-		<key>@MMK_R_D</key>
-		<integer>-18</integer>
-		<key>@MMK_R_E</key>
-		<integer>-18</integer>
-		<key>@MMK_R_Eta</key>
-		<integer>-18</integer>
-		<key>@MMK_R_G</key>
-		<integer>-11</integer>
-		<key>@MMK_R_I</key>
-		<integer>14</integer>
-		<key>@MMK_R_J</key>
-		<integer>-22</integer>
-		<key>@MMK_R_K</key>
-		<integer>-18</integer>
-		<key>@MMK_R_L</key>
-		<integer>-18</integer>
-		<key>@MMK_R_M</key>
-		<integer>-18</integer>
-		<key>@MMK_R_N</key>
-		<integer>-18</integer>
-		<key>@MMK_R_O</key>
-		<integer>-17</integer>
-		<key>@MMK_R_Omegagreek</key>
-		<integer>-30</integer>
-		<key>@MMK_R_P</key>
-		<integer>-18</integer>
-		<key>@MMK_R_S</key>
-		<integer>-17</integer>
-		<key>@MMK_R_T</key>
-		<integer>47</integer>
-		<key>@MMK_R_V</key>
-		<integer>52</integer>
-		<key>@MMK_R_W</key>
-		<integer>47</integer>
-		<key>@MMK_R_Z</key>
-		<integer>-32</integer>
-		<key>@MMK_R_a</key>
-		<integer>-23</integer>
-		<key>@MMK_R_alpha</key>
-		<integer>-12</integer>
-		<key>@MMK_R_c</key>
-		<integer>-15</integer>
-		<key>@MMK_R_comma</key>
-		<integer>10</integer>
-		<key>@MMK_R_d</key>
-		<integer>-24</integer>
-		<key>@MMK_R_dotlessi</key>
-		<integer>-17</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-41</integer>
-		<key>@MMK_R_e</key>
-		<integer>-12</integer>
-		<key>@MMK_R_epsilon</key>
-		<integer>-22</integer>
-		<key>@MMK_R_eta</key>
-		<integer>-17</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>17</integer>
-		<key>@MMK_R_g</key>
-		<integer>-15</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>13</integer>
-		<key>@MMK_R_h</key>
-		<integer>-18</integer>
-		<key>@MMK_R_i</key>
-		<integer>-18</integer>
-		<key>@MMK_R_k</key>
-		<integer>-18</integer>
-		<key>@MMK_R_kappa</key>
-		<integer>-17</integer>
-		<key>@MMK_R_mu</key>
-		<integer>-38</integer>
-		<key>@MMK_R_n</key>
-		<integer>-18</integer>
-		<key>@MMK_R_nu</key>
-		<integer>29</integer>
-		<key>@MMK_R_o</key>
-		<integer>-13</integer>
-		<key>@MMK_R_omega</key>
-		<integer>-15</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>48</integer>
-		<key>@MMK_R_r</key>
-		<integer>-17</integer>
-		<key>@MMK_R_s</key>
-		<integer>-21</integer>
-		<key>@MMK_R_t</key>
-		<integer>-14</integer>
-		<key>@MMK_R_u</key>
-		<integer>-15</integer>
-		<key>@MMK_R_upsilon</key>
-		<integer>-11</integer>
-		<key>@MMK_R_w</key>
-		<integer>29</integer>
-		<key>@MMK_R_y</key>
-		<integer>-15</integer>
-		<key>@MMK_R_z</key>
-		<integer>-33</integer>
-	</dict>
 	<key>@MMK_L_G</key>
 	<dict>
 		<key>@MMK_R_A</key>
@@ -689,13 +387,9 @@
 		<integer>10</integer>
 		<key>@MMK_R_C</key>
 		<integer>25</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>22</integer>
 		<key>@MMK_R_D</key>
 		<integer>10</integer>
 		<key>@MMK_R_E</key>
-		<integer>10</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>10</integer>
 		<key>@MMK_R_G</key>
 		<integer>27</integer>
@@ -735,30 +429,16 @@
 		<integer>24</integer>
 		<key>@MMK_R_c</key>
 		<integer>26</integer>
-		<key>@MMK_R_cent</key>
-		<integer>15</integer>
-		<key>@MMK_R_comma</key>
-		<integer>16</integer>
 		<key>@MMK_R_d</key>
 		<integer>24</integer>
-		<key>@MMK_R_divide</key>
-		<integer>31</integer>
-		<key>@MMK_R_dotlessi</key>
-		<integer>10</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-64</integer>
 		<key>@MMK_R_e</key>
 		<integer>24</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>27</integer>
-		<key>@MMK_R_equal</key>
-		<integer>26</integer>
 		<key>@MMK_R_eta</key>
 		<integer>10</integer>
 		<key>@MMK_R_g</key>
 		<integer>22</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>20</integer>
 		<key>@MMK_R_h</key>
 		<integer>10</integer>
 		<key>@MMK_R_k</key>
@@ -800,13 +480,9 @@
 		<integer>-18</integer>
 		<key>@MMK_R_C</key>
 		<integer>-13</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-27</integer>
 		<key>@MMK_R_D</key>
 		<integer>-18</integer>
 		<key>@MMK_R_E</key>
-		<integer>-18</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>-18</integer>
 		<key>@MMK_R_G</key>
 		<integer>-11</integer>
@@ -844,26 +520,16 @@
 		<integer>-12</integer>
 		<key>@MMK_R_c</key>
 		<integer>-15</integer>
-		<key>@MMK_R_comma</key>
-		<integer>10</integer>
 		<key>@MMK_R_d</key>
 		<integer>-24</integer>
-		<key>@MMK_R_dotlessi</key>
-		<integer>-17</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-41</integer>
 		<key>@MMK_R_e</key>
 		<integer>-12</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-22</integer>
 		<key>@MMK_R_eta</key>
 		<integer>-17</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>17</integer>
 		<key>@MMK_R_g</key>
 		<integer>-15</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>13</integer>
 		<key>@MMK_R_h</key>
 		<integer>-18</integer>
 		<key>@MMK_R_i</key>
@@ -882,8 +548,6 @@
 		<integer>-13</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-15</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>48</integer>
 		<key>@MMK_R_r</key>
 		<integer>-17</integer>
 		<key>@MMK_R_s</key>
@@ -909,13 +573,9 @@
 		<integer>-19</integer>
 		<key>@MMK_R_C</key>
 		<integer>-13</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-39</integer>
 		<key>@MMK_R_D</key>
 		<integer>-19</integer>
 		<key>@MMK_R_E</key>
-		<integer>-19</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>-19</integer>
 		<key>@MMK_R_G</key>
 		<integer>-11</integer>
@@ -953,28 +613,16 @@
 		<integer>-14</integer>
 		<key>@MMK_R_c</key>
 		<integer>-16</integer>
-		<key>@MMK_R_comma</key>
-		<integer>11</integer>
 		<key>@MMK_R_d</key>
 		<integer>-23</integer>
-		<key>@MMK_R_dotlessi</key>
-		<integer>-19</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-40</integer>
 		<key>@MMK_R_e</key>
 		<integer>-14</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-21</integer>
-		<key>@MMK_R_equal</key>
-		<integer>10</integer>
 		<key>@MMK_R_eta</key>
 		<integer>-19</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>18</integer>
 		<key>@MMK_R_g</key>
 		<integer>-17</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>14</integer>
 		<key>@MMK_R_h</key>
 		<integer>-19</integer>
 		<key>@MMK_R_i</key>
@@ -993,8 +641,6 @@
 		<integer>-15</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-17</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>49</integer>
 		<key>@MMK_R_r</key>
 		<integer>-19</integer>
 		<key>@MMK_R_s</key>
@@ -1018,8 +664,6 @@
 		<integer>15</integer>
 		<key>@MMK_R_C</key>
 		<integer>-47</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>15</integer>
 		<key>@MMK_R_G</key>
 		<integer>-49</integer>
 		<key>@MMK_R_I</key>
@@ -1042,28 +686,14 @@
 		<integer>-36</integer>
 		<key>@MMK_R_c</key>
 		<integer>-39</integer>
-		<key>@MMK_R_cent</key>
-		<integer>10</integer>
-		<key>@MMK_R_comma</key>
-		<integer>13</integer>
 		<key>@MMK_R_d</key>
 		<integer>-38</integer>
-		<key>@MMK_R_divide</key>
-		<integer>11</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-70</integer>
 		<key>@MMK_R_e</key>
 		<integer>-27</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-35</integer>
-		<key>@MMK_R_equal</key>
-		<integer>12</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>20</integer>
 		<key>@MMK_R_g</key>
 		<integer>-38</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>16</integer>
 		<key>@MMK_R_mu</key>
 		<integer>-17</integer>
 		<key>@MMK_R_nu</key>
@@ -1072,8 +702,6 @@
 		<integer>-43</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-38</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>18</integer>
 		<key>@MMK_R_s</key>
 		<integer>-16</integer>
 		<key>@MMK_R_t</key>
@@ -1095,13 +723,9 @@
 		<integer>38</integer>
 		<key>@MMK_R_C</key>
 		<integer>40</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>50</integer>
 		<key>@MMK_R_D</key>
 		<integer>38</integer>
 		<key>@MMK_R_E</key>
-		<integer>38</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>38</integer>
 		<key>@MMK_R_G</key>
 		<integer>40</integer>
@@ -1141,32 +765,16 @@
 		<integer>43</integer>
 		<key>@MMK_R_c</key>
 		<integer>44</integer>
-		<key>@MMK_R_cent</key>
-		<integer>33</integer>
-		<key>@MMK_R_comma</key>
-		<integer>43</integer>
 		<key>@MMK_R_d</key>
 		<integer>43</integer>
-		<key>@MMK_R_divide</key>
-		<integer>-21</integer>
-		<key>@MMK_R_dotlessi</key>
-		<integer>38</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-36</integer>
 		<key>@MMK_R_e</key>
 		<integer>48</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>47</integer>
-		<key>@MMK_R_equal</key>
-		<integer>-20</integer>
 		<key>@MMK_R_eta</key>
 		<integer>38</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>-12</integer>
 		<key>@MMK_R_g</key>
 		<integer>40</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>25</integer>
 		<key>@MMK_R_h</key>
 		<integer>38</integer>
 		<key>@MMK_R_i</key>
@@ -1185,8 +793,6 @@
 		<integer>41</integer>
 		<key>@MMK_R_omega</key>
 		<integer>40</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-31</integer>
 		<key>@MMK_R_r</key>
 		<integer>38</integer>
 		<key>@MMK_R_s</key>
@@ -1212,13 +818,9 @@
 		<integer>-18</integer>
 		<key>@MMK_R_C</key>
 		<integer>-13</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-27</integer>
 		<key>@MMK_R_D</key>
 		<integer>-18</integer>
 		<key>@MMK_R_E</key>
-		<integer>-18</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>-18</integer>
 		<key>@MMK_R_G</key>
 		<integer>-11</integer>
@@ -1256,26 +858,16 @@
 		<integer>-12</integer>
 		<key>@MMK_R_c</key>
 		<integer>-15</integer>
-		<key>@MMK_R_comma</key>
-		<integer>10</integer>
 		<key>@MMK_R_d</key>
 		<integer>-24</integer>
-		<key>@MMK_R_dotlessi</key>
-		<integer>-17</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-41</integer>
 		<key>@MMK_R_e</key>
 		<integer>-12</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-22</integer>
 		<key>@MMK_R_eta</key>
 		<integer>-17</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>17</integer>
 		<key>@MMK_R_g</key>
 		<integer>-15</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>13</integer>
 		<key>@MMK_R_h</key>
 		<integer>-18</integer>
 		<key>@MMK_R_i</key>
@@ -1294,8 +886,6 @@
 		<integer>-13</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-15</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>48</integer>
 		<key>@MMK_R_r</key>
 		<integer>-17</integer>
 		<key>@MMK_R_s</key>
@@ -1321,13 +911,9 @@
 		<integer>-18</integer>
 		<key>@MMK_R_C</key>
 		<integer>-13</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-27</integer>
 		<key>@MMK_R_D</key>
 		<integer>-18</integer>
 		<key>@MMK_R_E</key>
-		<integer>-18</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>-18</integer>
 		<key>@MMK_R_G</key>
 		<integer>-11</integer>
@@ -1365,26 +951,16 @@
 		<integer>-12</integer>
 		<key>@MMK_R_c</key>
 		<integer>-15</integer>
-		<key>@MMK_R_comma</key>
-		<integer>10</integer>
 		<key>@MMK_R_d</key>
 		<integer>-24</integer>
-		<key>@MMK_R_dotlessi</key>
-		<integer>-17</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-41</integer>
 		<key>@MMK_R_e</key>
 		<integer>-12</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-22</integer>
 		<key>@MMK_R_eta</key>
 		<integer>-17</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>17</integer>
 		<key>@MMK_R_g</key>
 		<integer>-15</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>13</integer>
 		<key>@MMK_R_h</key>
 		<integer>-18</integer>
 		<key>@MMK_R_i</key>
@@ -1403,8 +979,6 @@
 		<integer>-13</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-15</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>48</integer>
 		<key>@MMK_R_r</key>
 		<integer>-17</integer>
 		<key>@MMK_R_s</key>
@@ -1430,13 +1004,9 @@
 		<integer>-15</integer>
 		<key>@MMK_R_C</key>
 		<integer>-10</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-67</integer>
 		<key>@MMK_R_D</key>
 		<integer>-15</integer>
 		<key>@MMK_R_E</key>
-		<integer>-15</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>-15</integer>
 		<key>@MMK_R_I</key>
 		<integer>13</integer>
@@ -1470,12 +1040,6 @@
 		<integer>-11</integer>
 		<key>@MMK_R_d</key>
 		<integer>-12</integer>
-		<key>@MMK_R_divide</key>
-		<integer>14</integer>
-		<key>@MMK_R_dotlessi</key>
-		<integer>-10</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-28</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-10</integer>
 		<key>@MMK_R_eta</key>
@@ -1494,8 +1058,6 @@
 		<integer>-11</integer>
 		<key>@MMK_R_nu</key>
 		<integer>42</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>36</integer>
 		<key>@MMK_R_r</key>
 		<integer>-10</integer>
 		<key>@MMK_R_s</key>
@@ -1514,8 +1076,6 @@
 		<key>@MMK_R_D</key>
 		<integer>-12</integer>
 		<key>@MMK_R_E</key>
-		<integer>-13</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>-13</integer>
 		<key>@MMK_R_I</key>
 		<integer>11</integer>
@@ -1547,14 +1107,8 @@
 		<integer>-10</integer>
 		<key>@MMK_R_a</key>
 		<integer>-13</integer>
-		<key>@MMK_R_cent</key>
-		<integer>-12</integer>
 		<key>@MMK_R_d</key>
 		<integer>-14</integer>
-		<key>@MMK_R_divide</key>
-		<integer>12</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-30</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-12</integer>
 		<key>@MMK_R_h</key>
@@ -1565,8 +1119,6 @@
 		<integer>-26</integer>
 		<key>@MMK_R_nu</key>
 		<integer>40</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>34</integer>
 		<key>@MMK_R_s</key>
 		<integer>-10</integer>
 		<key>@MMK_R_t</key>
@@ -1582,13 +1134,9 @@
 		<integer>-99</integer>
 		<key>@MMK_R_B</key>
 		<integer>-22</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-105</integer>
 		<key>@MMK_R_D</key>
 		<integer>-22</integer>
 		<key>@MMK_R_E</key>
-		<integer>-22</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>-22</integer>
 		<key>@MMK_R_J</key>
 		<integer>-74</integer>
@@ -1624,18 +1172,8 @@
 		<integer>-12</integer>
 		<key>@MMK_R_c</key>
 		<integer>-14</integer>
-		<key>@MMK_R_cent</key>
-		<integer>-13</integer>
-		<key>@MMK_R_comma</key>
-		<integer>-10</integer>
 		<key>@MMK_R_d</key>
 		<integer>-11</integer>
-		<key>@MMK_R_divide</key>
-		<integer>17</integer>
-		<key>@MMK_R_dotlessi</key>
-		<integer>-21</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-25</integer>
 		<key>@MMK_R_e</key>
 		<integer>-13</integer>
 		<key>@MMK_R_epsilon</key>
@@ -1662,8 +1200,6 @@
 		<integer>-12</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-17</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>30</integer>
 		<key>@MMK_R_r</key>
 		<integer>-21</integer>
 		<key>@MMK_R_s</key>
@@ -1687,13 +1223,9 @@
 		<integer>12</integer>
 		<key>@MMK_R_C</key>
 		<integer>28</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-39</integer>
 		<key>@MMK_R_D</key>
 		<integer>12</integer>
 		<key>@MMK_R_E</key>
-		<integer>12</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>12</integer>
 		<key>@MMK_R_G</key>
 		<integer>30</integer>
@@ -1725,26 +1257,16 @@
 		<integer>27</integer>
 		<key>@MMK_R_c</key>
 		<integer>29</integer>
-		<key>@MMK_R_cent</key>
-		<integer>18</integer>
 		<key>@MMK_R_d</key>
 		<integer>27</integer>
-		<key>@MMK_R_dotlessi</key>
-		<integer>13</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-61</integer>
 		<key>@MMK_R_e</key>
 		<integer>27</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>27</integer>
-		<key>@MMK_R_equal</key>
-		<integer>28</integer>
 		<key>@MMK_R_eta</key>
 		<integer>13</integer>
 		<key>@MMK_R_g</key>
 		<integer>25</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>21</integer>
 		<key>@MMK_R_h</key>
 		<integer>12</integer>
 		<key>@MMK_R_i</key>
@@ -1759,8 +1281,6 @@
 		<integer>30</integer>
 		<key>@MMK_R_omega</key>
 		<integer>27</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>17</integer>
 		<key>@MMK_R_r</key>
 		<integer>13</integer>
 		<key>@MMK_R_t</key>
@@ -1780,13 +1300,9 @@
 		<integer>-21</integer>
 		<key>@MMK_R_C</key>
 		<integer>-12</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-22</integer>
 		<key>@MMK_R_D</key>
 		<integer>-21</integer>
 		<key>@MMK_R_E</key>
-		<integer>-21</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>-21</integer>
 		<key>@MMK_R_G</key>
 		<integer>-10</integer>
@@ -1826,32 +1342,16 @@
 		<integer>-90</integer>
 		<key>@MMK_R_c</key>
 		<integer>-89</integer>
-		<key>@MMK_R_cent</key>
-		<integer>25</integer>
-		<key>@MMK_R_comma</key>
-		<integer>28</integer>
 		<key>@MMK_R_d</key>
 		<integer>-90</integer>
-		<key>@MMK_R_divide</key>
-		<integer>26</integer>
-		<key>@MMK_R_dotlessi</key>
-		<integer>-79</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-61</integer>
 		<key>@MMK_R_e</key>
 		<integer>-85</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-85</integer>
-		<key>@MMK_R_equal</key>
-		<integer>27</integer>
 		<key>@MMK_R_eta</key>
 		<integer>-79</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>35</integer>
 		<key>@MMK_R_g</key>
 		<integer>-93</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>31</integer>
 		<key>@MMK_R_h</key>
 		<integer>-21</integer>
 		<key>@MMK_R_i</key>
@@ -1870,8 +1370,6 @@
 		<integer>-90</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-92</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>61</integer>
 		<key>@MMK_R_r</key>
 		<integer>-79</integer>
 		<key>@MMK_R_s</key>
@@ -1897,13 +1395,9 @@
 		<integer>-20</integer>
 		<key>@MMK_R_C</key>
 		<integer>-14</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-37</integer>
 		<key>@MMK_R_D</key>
 		<integer>-19</integer>
 		<key>@MMK_R_E</key>
-		<integer>-20</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>-20</integer>
 		<key>@MMK_R_G</key>
 		<integer>-12</integer>
@@ -1941,32 +1435,16 @@
 		<integer>-15</integer>
 		<key>@MMK_R_c</key>
 		<integer>-17</integer>
-		<key>@MMK_R_cent</key>
-		<integer>10</integer>
-		<key>@MMK_R_comma</key>
-		<integer>13</integer>
 		<key>@MMK_R_d</key>
 		<integer>-22</integer>
-		<key>@MMK_R_divide</key>
-		<integer>11</integer>
-		<key>@MMK_R_dotlessi</key>
-		<integer>-20</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-38</integer>
 		<key>@MMK_R_e</key>
 		<integer>-16</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-20</integer>
-		<key>@MMK_R_equal</key>
-		<integer>12</integer>
 		<key>@MMK_R_eta</key>
 		<integer>-20</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>20</integer>
 		<key>@MMK_R_g</key>
 		<integer>-18</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>16</integer>
 		<key>@MMK_R_h</key>
 		<integer>-20</integer>
 		<key>@MMK_R_i</key>
@@ -1985,8 +1463,6 @@
 		<integer>-16</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-19</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>51</integer>
 		<key>@MMK_R_r</key>
 		<integer>-20</integer>
 		<key>@MMK_R_s</key>
@@ -2012,13 +1488,9 @@
 		<integer>-18</integer>
 		<key>@MMK_R_C</key>
 		<integer>-13</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-38</integer>
 		<key>@MMK_R_D</key>
 		<integer>-18</integer>
 		<key>@MMK_R_E</key>
-		<integer>-18</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>-18</integer>
 		<key>@MMK_R_G</key>
 		<integer>-11</integer>
@@ -2056,30 +1528,16 @@
 		<integer>-13</integer>
 		<key>@MMK_R_c</key>
 		<integer>-16</integer>
-		<key>@MMK_R_comma</key>
-		<integer>12</integer>
 		<key>@MMK_R_d</key>
 		<integer>-23</integer>
-		<key>@MMK_R_divide</key>
-		<integer>10</integer>
-		<key>@MMK_R_dotlessi</key>
-		<integer>-18</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-39</integer>
 		<key>@MMK_R_e</key>
 		<integer>-13</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-20</integer>
-		<key>@MMK_R_equal</key>
-		<integer>11</integer>
 		<key>@MMK_R_eta</key>
 		<integer>-18</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>19</integer>
 		<key>@MMK_R_g</key>
 		<integer>-16</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>15</integer>
 		<key>@MMK_R_h</key>
 		<integer>-18</integer>
 		<key>@MMK_R_i</key>
@@ -2098,8 +1556,6 @@
 		<integer>-14</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-17</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>50</integer>
 		<key>@MMK_R_r</key>
 		<integer>-18</integer>
 		<key>@MMK_R_s</key>
@@ -2125,13 +1581,9 @@
 		<integer>-22</integer>
 		<key>@MMK_R_C</key>
 		<integer>-39</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-23</integer>
 		<key>@MMK_R_D</key>
 		<integer>-22</integer>
 		<key>@MMK_R_E</key>
-		<integer>-22</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>-22</integer>
 		<key>@MMK_R_G</key>
 		<integer>-36</integer>
@@ -2171,32 +1623,16 @@
 		<integer>-80</integer>
 		<key>@MMK_R_c</key>
 		<integer>-87</integer>
-		<key>@MMK_R_cent</key>
-		<integer>24</integer>
-		<key>@MMK_R_comma</key>
-		<integer>27</integer>
 		<key>@MMK_R_d</key>
 		<integer>-80</integer>
-		<key>@MMK_R_divide</key>
-		<integer>25</integer>
-		<key>@MMK_R_dotlessi</key>
-		<integer>-64</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-62</integer>
 		<key>@MMK_R_e</key>
 		<integer>-84</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-86</integer>
-		<key>@MMK_R_equal</key>
-		<integer>26</integer>
 		<key>@MMK_R_eta</key>
 		<integer>-64</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>34</integer>
 		<key>@MMK_R_g</key>
 		<integer>-84</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>30</integer>
 		<key>@MMK_R_h</key>
 		<integer>-22</integer>
 		<key>@MMK_R_i</key>
@@ -2213,8 +1649,6 @@
 		<integer>-84</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-88</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>47</integer>
 		<key>@MMK_R_r</key>
 		<integer>-64</integer>
 		<key>@MMK_R_s</key>
@@ -2238,13 +1672,9 @@
 		<integer>-23</integer>
 		<key>@MMK_R_C</key>
 		<integer>-35</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-24</integer>
 		<key>@MMK_R_D</key>
 		<integer>-23</integer>
 		<key>@MMK_R_E</key>
-		<integer>-23</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>-23</integer>
 		<key>@MMK_R_G</key>
 		<integer>-32</integer>
@@ -2284,32 +1714,16 @@
 		<integer>-66</integer>
 		<key>@MMK_R_c</key>
 		<integer>-72</integer>
-		<key>@MMK_R_cent</key>
-		<integer>23</integer>
-		<key>@MMK_R_comma</key>
-		<integer>26</integer>
 		<key>@MMK_R_d</key>
 		<integer>-66</integer>
-		<key>@MMK_R_divide</key>
-		<integer>24</integer>
-		<key>@MMK_R_dotlessi</key>
-		<integer>-56</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-59</integer>
 		<key>@MMK_R_e</key>
 		<integer>-69</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-80</integer>
-		<key>@MMK_R_equal</key>
-		<integer>25</integer>
 		<key>@MMK_R_eta</key>
 		<integer>-56</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>33</integer>
 		<key>@MMK_R_g</key>
 		<integer>-70</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>29</integer>
 		<key>@MMK_R_h</key>
 		<integer>-23</integer>
 		<key>@MMK_R_i</key>
@@ -2328,8 +1742,6 @@
 		<integer>-69</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-73</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>51</integer>
 		<key>@MMK_R_r</key>
 		<integer>-56</integer>
 		<key>@MMK_R_s</key>
@@ -2355,13 +1767,9 @@
 		<integer>-29</integer>
 		<key>@MMK_R_C</key>
 		<integer>-26</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-17</integer>
 		<key>@MMK_R_D</key>
 		<integer>-29</integer>
 		<key>@MMK_R_E</key>
-		<integer>-29</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>-29</integer>
 		<key>@MMK_R_G</key>
 		<integer>-24</integer>
@@ -2401,32 +1809,16 @@
 		<integer>-23</integer>
 		<key>@MMK_R_c</key>
 		<integer>-22</integer>
-		<key>@MMK_R_cent</key>
-		<integer>11</integer>
-		<key>@MMK_R_comma</key>
-		<integer>14</integer>
 		<key>@MMK_R_d</key>
 		<integer>-23</integer>
-		<key>@MMK_R_divide</key>
-		<integer>12</integer>
-		<key>@MMK_R_dotlessi</key>
-		<integer>-29</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-74</integer>
 		<key>@MMK_R_e</key>
 		<integer>-18</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-19</integer>
-		<key>@MMK_R_equal</key>
-		<integer>13</integer>
 		<key>@MMK_R_eta</key>
 		<integer>-29</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>21</integer>
 		<key>@MMK_R_g</key>
 		<integer>-25</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>17</integer>
 		<key>@MMK_R_h</key>
 		<integer>-29</integer>
 		<key>@MMK_R_i</key>
@@ -2443,8 +1835,6 @@
 		<integer>-24</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-25</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>49</integer>
 		<key>@MMK_R_r</key>
 		<integer>-29</integer>
 		<key>@MMK_R_s</key>
@@ -2468,13 +1858,9 @@
 		<integer>11</integer>
 		<key>@MMK_R_C</key>
 		<integer>19</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>11</integer>
 		<key>@MMK_R_D</key>
 		<integer>12</integer>
 		<key>@MMK_R_E</key>
-		<integer>11</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>11</integer>
 		<key>@MMK_R_G</key>
 		<integer>20</integer>
@@ -2510,18 +1896,10 @@
 		<integer>15</integer>
 		<key>@MMK_R_d</key>
 		<integer>16</integer>
-		<key>@MMK_R_divide</key>
-		<integer>35</integer>
-		<key>@MMK_R_dotlessi</key>
-		<integer>13</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-20</integer>
 		<key>@MMK_R_e</key>
 		<integer>18</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>15</integer>
-		<key>@MMK_R_equal</key>
-		<integer>27</integer>
 		<key>@MMK_R_eta</key>
 		<integer>12</integer>
 		<key>@MMK_R_g</key>
@@ -2542,8 +1920,6 @@
 		<integer>16</integer>
 		<key>@MMK_R_omega</key>
 		<integer>15</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-28</integer>
 		<key>@MMK_R_r</key>
 		<integer>12</integer>
 		<key>@MMK_R_s</key>
@@ -2577,18 +1953,10 @@
 		<integer>33</integer>
 		<key>@MMK_R_Z</key>
 		<integer>-12</integer>
-		<key>@MMK_R_divide</key>
-		<integer>24</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-14</integer>
-		<key>@MMK_R_equal</key>
-		<integer>16</integer>
 		<key>@MMK_R_mu</key>
 		<integer>-17</integer>
 		<key>@MMK_R_nu</key>
 		<integer>51</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>32</integer>
 		<key>@MMK_R_upsilon</key>
 		<integer>10</integer>
 		<key>@MMK_R_w</key>
@@ -2622,16 +1990,10 @@
 		<integer>-19</integer>
 		<key>@MMK_R_d</key>
 		<integer>-11</integer>
-		<key>@MMK_R_divide</key>
-		<integer>26</integer>
 		<key>@MMK_R_e</key>
 		<integer>-15</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-16</integer>
-		<key>@MMK_R_equal</key>
-		<integer>11</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>11</integer>
 		<key>@MMK_R_g</key>
 		<integer>-14</integer>
 		<key>@MMK_R_mu</key>
@@ -2642,199 +2004,7 @@
 		<integer>-16</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-20</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>27</integer>
 		<key>@MMK_R_w</key>
-		<integer>54</integer>
-	</dict>
-	<key>@MMK_L_cent</key>
-	<dict>
-		<key>@MMK_R_A</key>
-		<integer>24</integer>
-		<key>@MMK_R_B</key>
-		<integer>12</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>24</integer>
-		<key>@MMK_R_D</key>
-		<integer>12</integer>
-		<key>@MMK_R_E</key>
-		<integer>12</integer>
-		<key>@MMK_R_Eta</key>
-		<integer>12</integer>
-		<key>@MMK_R_J</key>
-		<integer>19</integer>
-		<key>@MMK_R_K</key>
-		<integer>12</integer>
-		<key>@MMK_R_L</key>
-		<integer>12</integer>
-		<key>@MMK_R_M</key>
-		<integer>12</integer>
-		<key>@MMK_R_N</key>
-		<integer>12</integer>
-		<key>@MMK_R_Omegagreek</key>
-		<integer>17</integer>
-		<key>@MMK_R_P</key>
-		<integer>12</integer>
-		<key>@MMK_R_S</key>
-		<integer>12</integer>
-		<key>@MMK_R_T</key>
-		<integer>16</integer>
-		<key>@MMK_R_Upsilon</key>
-		<integer>28</integer>
-		<key>@MMK_R_V</key>
-		<integer>20</integer>
-		<key>@MMK_R_W</key>
-		<integer>28</integer>
-		<key>@MMK_R_Z</key>
-		<integer>18</integer>
-		<key>@MMK_R_divide</key>
-		<integer>16</integer>
-		<key>@MMK_R_dotlessi</key>
-		<integer>12</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>30</integer>
-		<key>@MMK_R_eta</key>
-		<integer>12</integer>
-		<key>@MMK_R_h</key>
-		<integer>12</integer>
-		<key>@MMK_R_i</key>
-		<integer>11</integer>
-		<key>@MMK_R_k</key>
-		<integer>12</integer>
-		<key>@MMK_R_kappa</key>
-		<integer>12</integer>
-		<key>@MMK_R_mu</key>
-		<integer>26</integer>
-		<key>@MMK_R_n</key>
-		<integer>12</integer>
-		<key>@MMK_R_nu</key>
-		<integer>44</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>19</integer>
-		<key>@MMK_R_r</key>
-		<integer>12</integer>
-		<key>@MMK_R_s</key>
-		<integer>17</integer>
-		<key>@MMK_R_w</key>
-		<integer>44</integer>
-		<key>@MMK_R_z</key>
-		<integer>17</integer>
-	</dict>
-	<key>@MMK_L_comma</key>
-	<dict>
-		<key>@MMK_R_A</key>
-		<integer>53</integer>
-		<key>@MMK_R_B</key>
-		<integer>49</integer>
-		<key>@MMK_R_C</key>
-		<integer>30</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>44</integer>
-		<key>@MMK_R_D</key>
-		<integer>49</integer>
-		<key>@MMK_R_E</key>
-		<integer>49</integer>
-		<key>@MMK_R_Eta</key>
-		<integer>49</integer>
-		<key>@MMK_R_G</key>
-		<integer>28</integer>
-		<key>@MMK_R_I</key>
-		<integer>38</integer>
-		<key>@MMK_R_J</key>
-		<integer>57</integer>
-		<key>@MMK_R_K</key>
-		<integer>49</integer>
-		<key>@MMK_R_L</key>
-		<integer>49</integer>
-		<key>@MMK_R_M</key>
-		<integer>49</integer>
-		<key>@MMK_R_N</key>
-		<integer>49</integer>
-		<key>@MMK_R_O</key>
-		<integer>23</integer>
-		<key>@MMK_R_Omegagreek</key>
-		<integer>48</integer>
-		<key>@MMK_R_P</key>
-		<integer>49</integer>
-		<key>@MMK_R_S</key>
-		<integer>29</integer>
-		<key>@MMK_R_T</key>
-		<integer>-11</integer>
-		<key>@MMK_R_U</key>
-		<integer>27</integer>
-		<key>@MMK_R_Upsilon</key>
-		<integer>-37</integer>
-		<key>@MMK_R_V</key>
-		<integer>-21</integer>
-		<key>@MMK_R_W</key>
-		<integer>12</integer>
-		<key>@MMK_R_Z</key>
-		<integer>55</integer>
-		<key>@MMK_R_a</key>
-		<integer>39</integer>
-		<key>@MMK_R_alpha</key>
-		<integer>37</integer>
-		<key>@MMK_R_c</key>
-		<integer>35</integer>
-		<key>@MMK_R_cent</key>
-		<integer>24</integer>
-		<key>@MMK_R_comma</key>
-		<integer>35</integer>
-		<key>@MMK_R_d</key>
-		<integer>37</integer>
-		<key>@MMK_R_divide</key>
-		<integer>22</integer>
-		<key>@MMK_R_dotlessi</key>
-		<integer>49</integer>
-		<key>@MMK_R_e</key>
-		<integer>43</integer>
-		<key>@MMK_R_epsilon</key>
-		<integer>40</integer>
-		<key>@MMK_R_equal</key>
-		<integer>23</integer>
-		<key>@MMK_R_eta</key>
-		<integer>49</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>-24</integer>
-		<key>@MMK_R_g</key>
-		<integer>36</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>16</integer>
-		<key>@MMK_R_h</key>
-		<integer>49</integer>
-		<key>@MMK_R_i</key>
-		<integer>48</integer>
-		<key>@MMK_R_k</key>
-		<integer>49</integer>
-		<key>@MMK_R_kappa</key>
-		<integer>49</integer>
-		<key>@MMK_R_mu</key>
-		<integer>28</integer>
-		<key>@MMK_R_n</key>
-		<integer>49</integer>
-		<key>@MMK_R_nu</key>
-		<integer>-27</integer>
-		<key>@MMK_R_o</key>
-		<integer>33</integer>
-		<key>@MMK_R_omega</key>
-		<integer>36</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>12</integer>
-		<key>@MMK_R_r</key>
-		<integer>49</integer>
-		<key>@MMK_R_s</key>
-		<integer>52</integer>
-		<key>@MMK_R_t</key>
-		<integer>40</integer>
-		<key>@MMK_R_u</key>
-		<integer>33</integer>
-		<key>@MMK_R_upsilon</key>
-		<integer>29</integer>
-		<key>@MMK_R_w</key>
-		<integer>-27</integer>
-		<key>@MMK_R_y</key>
-		<integer>33</integer>
-		<key>@MMK_R_z</key>
 		<integer>54</integer>
 	</dict>
 	<key>@MMK_L_d</key>
@@ -2845,13 +2015,9 @@
 		<integer>-18</integer>
 		<key>@MMK_R_C</key>
 		<integer>-13</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-27</integer>
 		<key>@MMK_R_D</key>
 		<integer>-18</integer>
 		<key>@MMK_R_E</key>
-		<integer>-18</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>-18</integer>
 		<key>@MMK_R_G</key>
 		<integer>-11</integer>
@@ -2889,26 +2055,16 @@
 		<integer>-12</integer>
 		<key>@MMK_R_c</key>
 		<integer>-15</integer>
-		<key>@MMK_R_comma</key>
-		<integer>10</integer>
 		<key>@MMK_R_d</key>
 		<integer>-24</integer>
-		<key>@MMK_R_dotlessi</key>
-		<integer>-17</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-41</integer>
 		<key>@MMK_R_e</key>
 		<integer>-12</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-22</integer>
 		<key>@MMK_R_eta</key>
 		<integer>-17</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>17</integer>
 		<key>@MMK_R_g</key>
 		<integer>-15</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>13</integer>
 		<key>@MMK_R_h</key>
 		<integer>-18</integer>
 		<key>@MMK_R_i</key>
@@ -2927,8 +2083,6 @@
 		<integer>-13</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-15</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>48</integer>
 		<key>@MMK_R_r</key>
 		<integer>-17</integer>
 		<key>@MMK_R_s</key>
@@ -2946,175 +2100,12 @@
 		<key>@MMK_R_z</key>
 		<integer>-33</integer>
 	</dict>
-	<key>@MMK_L_divide</key>
-	<dict>
-		<key>@MMK_R_A</key>
-		<integer>23</integer>
-		<key>@MMK_R_B</key>
-		<integer>11</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>23</integer>
-		<key>@MMK_R_D</key>
-		<integer>11</integer>
-		<key>@MMK_R_E</key>
-		<integer>11</integer>
-		<key>@MMK_R_Eta</key>
-		<integer>11</integer>
-		<key>@MMK_R_G</key>
-		<integer>10</integer>
-		<key>@MMK_R_J</key>
-		<integer>18</integer>
-		<key>@MMK_R_K</key>
-		<integer>11</integer>
-		<key>@MMK_R_L</key>
-		<integer>11</integer>
-		<key>@MMK_R_M</key>
-		<integer>11</integer>
-		<key>@MMK_R_N</key>
-		<integer>11</integer>
-		<key>@MMK_R_Omegagreek</key>
-		<integer>16</integer>
-		<key>@MMK_R_P</key>
-		<integer>11</integer>
-		<key>@MMK_R_S</key>
-		<integer>11</integer>
-		<key>@MMK_R_Upsilon</key>
-		<integer>36</integer>
-		<key>@MMK_R_V</key>
-		<integer>15</integer>
-		<key>@MMK_R_W</key>
-		<integer>26</integer>
-		<key>@MMK_R_Z</key>
-		<integer>17</integer>
-		<key>@MMK_R_comma</key>
-		<integer>48</integer>
-		<key>@MMK_R_divide</key>
-		<integer>32</integer>
-		<key>@MMK_R_dotlessi</key>
-		<integer>11</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>29</integer>
-		<key>@MMK_R_eta</key>
-		<integer>11</integer>
-		<key>@MMK_R_h</key>
-		<integer>11</integer>
-		<key>@MMK_R_i</key>
-		<integer>10</integer>
-		<key>@MMK_R_k</key>
-		<integer>11</integer>
-		<key>@MMK_R_kappa</key>
-		<integer>11</integer>
-		<key>@MMK_R_mu</key>
-		<integer>25</integer>
-		<key>@MMK_R_n</key>
-		<integer>11</integer>
-		<key>@MMK_R_nu</key>
-		<integer>36</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-19</integer>
-		<key>@MMK_R_r</key>
-		<integer>11</integer>
-		<key>@MMK_R_s</key>
-		<integer>16</integer>
-		<key>@MMK_R_w</key>
-		<integer>36</integer>
-		<key>@MMK_R_z</key>
-		<integer>16</integer>
-	</dict>
-	<key>@MMK_L_dotlessi</key>
-	<dict>
-		<key>@MMK_R_C</key>
-		<integer>13</integer>
-		<key>@MMK_R_G</key>
-		<integer>14</integer>
-		<key>@MMK_R_T</key>
-		<integer>-57</integer>
-		<key>@MMK_R_U</key>
-		<integer>12</integer>
-		<key>@MMK_R_Upsilon</key>
-		<integer>27</integer>
-		<key>@MMK_R_V</key>
-		<integer>25</integer>
-		<key>@MMK_R_W</key>
-		<integer>31</integer>
-		<key>@MMK_R_alpha</key>
-		<integer>11</integer>
-		<key>@MMK_R_d</key>
-		<integer>10</integer>
-		<key>@MMK_R_divide</key>
-		<integer>24</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-19</integer>
-		<key>@MMK_R_e</key>
-		<integer>10</integer>
-		<key>@MMK_R_equal</key>
-		<integer>18</integer>
-		<key>@MMK_R_mu</key>
-		<integer>-16</integer>
-		<key>@MMK_R_nu</key>
-		<integer>50</integer>
-		<key>@MMK_R_o</key>
-		<integer>10</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>38</integer>
-		<key>@MMK_R_upsilon</key>
-		<integer>11</integer>
-		<key>@MMK_R_w</key>
-		<integer>50</integer>
-		<key>@MMK_R_z</key>
-		<integer>-10</integer>
-	</dict>
-	<key>@MMK_L_dotlessj</key>
-	<dict>
-		<key>@MMK_R_C</key>
-		<integer>13</integer>
-		<key>@MMK_R_G</key>
-		<integer>14</integer>
-		<key>@MMK_R_T</key>
-		<integer>-58</integer>
-		<key>@MMK_R_U</key>
-		<integer>12</integer>
-		<key>@MMK_R_Upsilon</key>
-		<integer>28</integer>
-		<key>@MMK_R_V</key>
-		<integer>25</integer>
-		<key>@MMK_R_W</key>
-		<integer>31</integer>
-		<key>@MMK_R_alpha</key>
-		<integer>10</integer>
-		<key>@MMK_R_d</key>
-		<integer>10</integer>
-		<key>@MMK_R_divide</key>
-		<integer>24</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-19</integer>
-		<key>@MMK_R_e</key>
-		<integer>10</integer>
-		<key>@MMK_R_equal</key>
-		<integer>17</integer>
-		<key>@MMK_R_mu</key>
-		<integer>-16</integer>
-		<key>@MMK_R_nu</key>
-		<integer>50</integer>
-		<key>@MMK_R_o</key>
-		<integer>10</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>38</integer>
-		<key>@MMK_R_upsilon</key>
-		<integer>11</integer>
-		<key>@MMK_R_w</key>
-		<integer>50</integer>
-		<key>@MMK_R_z</key>
-		<integer>-10</integer>
-	</dict>
 	<key>@MMK_L_e</key>
 	<dict>
 		<key>@MMK_R_A</key>
 		<integer>-14</integer>
 		<key>@MMK_R_C</key>
 		<integer>18</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-14</integer>
 		<key>@MMK_R_G</key>
 		<integer>19</integer>
 		<key>@MMK_R_J</key>
@@ -3141,20 +2132,12 @@
 		<integer>18</integer>
 		<key>@MMK_R_d</key>
 		<integer>17</integer>
-		<key>@MMK_R_divide</key>
-		<integer>42</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-13</integer>
 		<key>@MMK_R_e</key>
 		<integer>17</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>18</integer>
-		<key>@MMK_R_equal</key>
-		<integer>33</integer>
 		<key>@MMK_R_g</key>
 		<integer>15</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>10</integer>
 		<key>@MMK_R_mu</key>
 		<integer>-13</integer>
 		<key>@MMK_R_nu</key>
@@ -3163,8 +2146,6 @@
 		<integer>20</integer>
 		<key>@MMK_R_omega</key>
 		<integer>16</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-21</integer>
 		<key>@MMK_R_t</key>
 		<integer>10</integer>
 		<key>@MMK_R_u</key>
@@ -3186,13 +2167,9 @@
 		<integer>39</integer>
 		<key>@MMK_R_C</key>
 		<integer>17</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>51</integer>
 		<key>@MMK_R_D</key>
 		<integer>39</integer>
 		<key>@MMK_R_E</key>
-		<integer>39</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>39</integer>
 		<key>@MMK_R_G</key>
 		<integer>17</integer>
@@ -3232,32 +2209,16 @@
 		<integer>21</integer>
 		<key>@MMK_R_c</key>
 		<integer>21</integer>
-		<key>@MMK_R_cent</key>
-		<integer>10</integer>
-		<key>@MMK_R_comma</key>
-		<integer>35</integer>
 		<key>@MMK_R_d</key>
 		<integer>21</integer>
-		<key>@MMK_R_divide</key>
-		<integer>11</integer>
-		<key>@MMK_R_dotlessi</key>
-		<integer>39</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-32</integer>
 		<key>@MMK_R_e</key>
 		<integer>27</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>25</integer>
-		<key>@MMK_R_equal</key>
-		<integer>-12</integer>
 		<key>@MMK_R_eta</key>
 		<integer>39</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>-12</integer>
 		<key>@MMK_R_g</key>
 		<integer>19</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>10</integer>
 		<key>@MMK_R_h</key>
 		<integer>39</integer>
 		<key>@MMK_R_i</key>
@@ -3276,8 +2237,6 @@
 		<integer>19</integer>
 		<key>@MMK_R_omega</key>
 		<integer>18</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>20</integer>
 		<key>@MMK_R_r</key>
 		<integer>39</integer>
 		<key>@MMK_R_s</key>
@@ -3294,67 +2253,6 @@
 		<integer>17</integer>
 		<key>@MMK_R_z</key>
 		<integer>44</integer>
-	</dict>
-	<key>@MMK_L_equal</key>
-	<dict>
-		<key>@MMK_R_A</key>
-		<integer>21</integer>
-		<key>@MMK_R_C</key>
-		<integer>16</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>21</integer>
-		<key>@MMK_R_G</key>
-		<integer>18</integer>
-		<key>@MMK_R_J</key>
-		<integer>16</integer>
-		<key>@MMK_R_O</key>
-		<integer>12</integer>
-		<key>@MMK_R_Omegagreek</key>
-		<integer>14</integer>
-		<key>@MMK_R_U</key>
-		<integer>16</integer>
-		<key>@MMK_R_Upsilon</key>
-		<integer>28</integer>
-		<key>@MMK_R_V</key>
-		<integer>16</integer>
-		<key>@MMK_R_W</key>
-		<integer>24</integer>
-		<key>@MMK_R_Z</key>
-		<integer>15</integer>
-		<key>@MMK_R_alpha</key>
-		<integer>15</integer>
-		<key>@MMK_R_c</key>
-		<integer>16</integer>
-		<key>@MMK_R_comma</key>
-		<integer>46</integer>
-		<key>@MMK_R_d</key>
-		<integer>14</integer>
-		<key>@MMK_R_divide</key>
-		<integer>24</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>27</integer>
-		<key>@MMK_R_e</key>
-		<integer>14</integer>
-		<key>@MMK_R_equal</key>
-		<integer>16</integer>
-		<key>@MMK_R_g</key>
-		<integer>12</integer>
-		<key>@MMK_R_mu</key>
-		<integer>23</integer>
-		<key>@MMK_R_nu</key>
-		<integer>39</integer>
-		<key>@MMK_R_o</key>
-		<integer>17</integer>
-		<key>@MMK_R_omega</key>
-		<integer>13</integer>
-		<key>@MMK_R_s</key>
-		<integer>14</integer>
-		<key>@MMK_R_upsilon</key>
-		<integer>15</integer>
-		<key>@MMK_R_w</key>
-		<integer>39</integer>
-		<key>@MMK_R_z</key>
-		<integer>14</integer>
 	</dict>
 	<key>@MMK_L_eta</key>
 	<dict>
@@ -3380,16 +2278,8 @@
 		<integer>10</integer>
 		<key>@MMK_R_d</key>
 		<integer>11</integer>
-		<key>@MMK_R_divide</key>
-		<integer>30</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-14</integer>
 		<key>@MMK_R_e</key>
 		<integer>12</integer>
-		<key>@MMK_R_equal</key>
-		<integer>22</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>-12</integer>
 		<key>@MMK_R_g</key>
 		<integer>10</integer>
 		<key>@MMK_R_mu</key>
@@ -3400,75 +2290,10 @@
 		<integer>12</integer>
 		<key>@MMK_R_omega</key>
 		<integer>10</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-20</integer>
 		<key>@MMK_R_upsilon</key>
 		<integer>14</integer>
 		<key>@MMK_R_w</key>
 		<integer>22</integer>
-	</dict>
-	<key>@MMK_L_fraction</key>
-	<dict>
-		<key>@MMK_R_A</key>
-		<integer>27</integer>
-		<key>@MMK_R_B</key>
-		<integer>15</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>27</integer>
-		<key>@MMK_R_D</key>
-		<integer>15</integer>
-		<key>@MMK_R_E</key>
-		<integer>15</integer>
-		<key>@MMK_R_Eta</key>
-		<integer>15</integer>
-		<key>@MMK_R_J</key>
-		<integer>22</integer>
-		<key>@MMK_R_K</key>
-		<integer>15</integer>
-		<key>@MMK_R_L</key>
-		<integer>15</integer>
-		<key>@MMK_R_M</key>
-		<integer>15</integer>
-		<key>@MMK_R_N</key>
-		<integer>15</integer>
-		<key>@MMK_R_Omegagreek</key>
-		<integer>20</integer>
-		<key>@MMK_R_P</key>
-		<integer>15</integer>
-		<key>@MMK_R_S</key>
-		<integer>15</integer>
-		<key>@MMK_R_V</key>
-		<integer>-11</integer>
-		<key>@MMK_R_W</key>
-		<integer>-16</integer>
-		<key>@MMK_R_Z</key>
-		<integer>21</integer>
-		<key>@MMK_R_dotlessi</key>
-		<integer>15</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>33</integer>
-		<key>@MMK_R_eta</key>
-		<integer>15</integer>
-		<key>@MMK_R_h</key>
-		<integer>15</integer>
-		<key>@MMK_R_i</key>
-		<integer>14</integer>
-		<key>@MMK_R_k</key>
-		<integer>15</integer>
-		<key>@MMK_R_kappa</key>
-		<integer>15</integer>
-		<key>@MMK_R_mu</key>
-		<integer>29</integer>
-		<key>@MMK_R_n</key>
-		<integer>15</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-15</integer>
-		<key>@MMK_R_r</key>
-		<integer>15</integer>
-		<key>@MMK_R_s</key>
-		<integer>20</integer>
-		<key>@MMK_R_z</key>
-		<integer>20</integer>
 	</dict>
 	<key>@MMK_L_g</key>
 	<dict>
@@ -3492,131 +2317,20 @@
 		<integer>11</integer>
 		<key>@MMK_R_d</key>
 		<integer>10</integer>
-		<key>@MMK_R_divide</key>
-		<integer>25</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-18</integer>
 		<key>@MMK_R_e</key>
 		<integer>11</integer>
-		<key>@MMK_R_equal</key>
-		<integer>18</integer>
 		<key>@MMK_R_mu</key>
 		<integer>-15</integer>
 		<key>@MMK_R_nu</key>
 		<integer>51</integer>
 		<key>@MMK_R_o</key>
 		<integer>10</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>39</integer>
 		<key>@MMK_R_upsilon</key>
 		<integer>12</integer>
 		<key>@MMK_R_w</key>
 		<integer>51</integer>
 		<key>@MMK_R_z</key>
 		<integer>-10</integer>
-	</dict>
-	<key>@MMK_L_guillemotright</key>
-	<dict>
-		<key>@MMK_R_A</key>
-		<integer>18</integer>
-		<key>@MMK_R_B</key>
-		<integer>15</integer>
-		<key>@MMK_R_C</key>
-		<integer>30</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>18</integer>
-		<key>@MMK_R_D</key>
-		<integer>15</integer>
-		<key>@MMK_R_E</key>
-		<integer>15</integer>
-		<key>@MMK_R_Eta</key>
-		<integer>15</integer>
-		<key>@MMK_R_G</key>
-		<integer>32</integer>
-		<key>@MMK_R_J</key>
-		<integer>13</integer>
-		<key>@MMK_R_K</key>
-		<integer>15</integer>
-		<key>@MMK_R_L</key>
-		<integer>15</integer>
-		<key>@MMK_R_M</key>
-		<integer>15</integer>
-		<key>@MMK_R_N</key>
-		<integer>15</integer>
-		<key>@MMK_R_O</key>
-		<integer>26</integer>
-		<key>@MMK_R_Omegagreek</key>
-		<integer>11</integer>
-		<key>@MMK_R_P</key>
-		<integer>15</integer>
-		<key>@MMK_R_T</key>
-		<integer>-12</integer>
-		<key>@MMK_R_U</key>
-		<integer>30</integer>
-		<key>@MMK_R_Upsilon</key>
-		<integer>20</integer>
-		<key>@MMK_R_W</key>
-		<integer>18</integer>
-		<key>@MMK_R_Z</key>
-		<integer>12</integer>
-		<key>@MMK_R_a</key>
-		<integer>31</integer>
-		<key>@MMK_R_alpha</key>
-		<integer>29</integer>
-		<key>@MMK_R_c</key>
-		<integer>31</integer>
-		<key>@MMK_R_cent</key>
-		<integer>20</integer>
-		<key>@MMK_R_comma</key>
-		<integer>-12</integer>
-		<key>@MMK_R_d</key>
-		<integer>29</integer>
-		<key>@MMK_R_dotlessi</key>
-		<integer>15</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>24</integer>
-		<key>@MMK_R_e</key>
-		<integer>30</integer>
-		<key>@MMK_R_epsilon</key>
-		<integer>10</integer>
-		<key>@MMK_R_equal</key>
-		<integer>32</integer>
-		<key>@MMK_R_eta</key>
-		<integer>15</integer>
-		<key>@MMK_R_g</key>
-		<integer>27</integer>
-		<key>@MMK_R_h</key>
-		<integer>15</integer>
-		<key>@MMK_R_i</key>
-		<integer>14</integer>
-		<key>@MMK_R_k</key>
-		<integer>15</integer>
-		<key>@MMK_R_kappa</key>
-		<integer>15</integer>
-		<key>@MMK_R_mu</key>
-		<integer>20</integer>
-		<key>@MMK_R_n</key>
-		<integer>15</integer>
-		<key>@MMK_R_o</key>
-		<integer>33</integer>
-		<key>@MMK_R_omega</key>
-		<integer>29</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-24</integer>
-		<key>@MMK_R_r</key>
-		<integer>15</integer>
-		<key>@MMK_R_s</key>
-		<integer>11</integer>
-		<key>@MMK_R_t</key>
-		<integer>21</integer>
-		<key>@MMK_R_u</key>
-		<integer>23</integer>
-		<key>@MMK_R_upsilon</key>
-		<integer>28</integer>
-		<key>@MMK_R_y</key>
-		<integer>23</integer>
-		<key>@MMK_R_z</key>
-		<integer>11</integer>
 	</dict>
 	<key>@MMK_L_h</key>
 	<dict>
@@ -3638,18 +2352,10 @@
 		<integer>16</integer>
 		<key>@MMK_R_c</key>
 		<integer>13</integer>
-		<key>@MMK_R_divide</key>
-		<integer>33</integer>
-		<key>@MMK_R_dotlessi</key>
-		<integer>11</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-18</integer>
 		<key>@MMK_R_e</key>
 		<integer>15</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>11</integer>
-		<key>@MMK_R_equal</key>
-		<integer>26</integer>
 		<key>@MMK_R_eta</key>
 		<integer>10</integer>
 		<key>@MMK_R_g</key>
@@ -3666,8 +2372,6 @@
 		<integer>14</integer>
 		<key>@MMK_R_omega</key>
 		<integer>13</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-28</integer>
 		<key>@MMK_R_r</key>
 		<integer>10</integer>
 		<key>@MMK_R_s</key>
@@ -3689,13 +2393,9 @@
 		<integer>-19</integer>
 		<key>@MMK_R_C</key>
 		<integer>-11</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-28</integer>
 		<key>@MMK_R_D</key>
 		<integer>-19</integer>
 		<key>@MMK_R_E</key>
-		<integer>-19</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>-19</integer>
 		<key>@MMK_R_G</key>
 		<integer>-10</integer>
@@ -3735,18 +2435,12 @@
 		<integer>-15</integer>
 		<key>@MMK_R_d</key>
 		<integer>-26</integer>
-		<key>@MMK_R_dotlessi</key>
-		<integer>-19</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-43</integer>
 		<key>@MMK_R_e</key>
 		<integer>-14</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-22</integer>
 		<key>@MMK_R_eta</key>
 		<integer>-19</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>13</integer>
 		<key>@MMK_R_g</key>
 		<integer>-16</integer>
 		<key>@MMK_R_h</key>
@@ -3767,8 +2461,6 @@
 		<integer>-14</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-17</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>45</integer>
 		<key>@MMK_R_r</key>
 		<integer>-19</integer>
 		<key>@MMK_R_s</key>
@@ -3792,13 +2484,9 @@
 		<integer>62</integer>
 		<key>@MMK_R_B</key>
 		<integer>50</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>62</integer>
 		<key>@MMK_R_D</key>
 		<integer>50</integer>
 		<key>@MMK_R_E</key>
-		<integer>50</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>50</integer>
 		<key>@MMK_R_I</key>
 		<integer>39</integer>
@@ -3828,24 +2516,12 @@
 		<integer>11</integer>
 		<key>@MMK_R_alpha</key>
 		<integer>11</integer>
-		<key>@MMK_R_comma</key>
-		<integer>30</integer>
-		<key>@MMK_R_divide</key>
-		<integer>17</integer>
-		<key>@MMK_R_dotlessi</key>
-		<integer>50</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-23</integer>
 		<key>@MMK_R_e</key>
 		<integer>20</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>12</integer>
 		<key>@MMK_R_eta</key>
 		<integer>50</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>-10</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>-15</integer>
 		<key>@MMK_R_h</key>
 		<integer>50</integer>
 		<key>@MMK_R_i</key>
@@ -3860,8 +2536,6 @@
 		<integer>50</integer>
 		<key>@MMK_R_nu</key>
 		<integer>27</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-30</integer>
 		<key>@MMK_R_r</key>
 		<integer>50</integer>
 		<key>@MMK_R_s</key>
@@ -3877,8 +2551,6 @@
 	<dict>
 		<key>@MMK_R_A</key>
 		<integer>-13</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-19</integer>
 		<key>@MMK_R_I</key>
 		<integer>-19</integer>
 		<key>@MMK_R_Omegagreek</key>
@@ -3891,16 +2563,10 @@
 		<integer>32</integer>
 		<key>@MMK_R_W</key>
 		<integer>38</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-12</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>11</integer>
 		<key>@MMK_R_mu</key>
 		<integer>-28</integer>
 		<key>@MMK_R_nu</key>
 		<integer>57</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>45</integer>
 		<key>@MMK_R_w</key>
 		<integer>57</integer>
 	</dict>
@@ -3910,8 +2576,6 @@
 		<integer>15</integer>
 		<key>@MMK_R_C</key>
 		<integer>11</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>15</integer>
 		<key>@MMK_R_G</key>
 		<integer>12</integer>
 		<key>@MMK_R_U</key>
@@ -3924,18 +2588,10 @@
 		<integer>30</integer>
 		<key>@MMK_R_Z</key>
 		<integer>10</integer>
-		<key>@MMK_R_divide</key>
-		<integer>21</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-21</integer>
-		<key>@MMK_R_equal</key>
-		<integer>14</integer>
 		<key>@MMK_R_mu</key>
 		<integer>-15</integer>
 		<key>@MMK_R_nu</key>
 		<integer>49</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>43</integer>
 		<key>@MMK_R_upsilon</key>
 		<integer>10</integer>
 		<key>@MMK_R_w</key>
@@ -3965,16 +2621,8 @@
 		<integer>10</integer>
 		<key>@MMK_R_d</key>
 		<integer>11</integer>
-		<key>@MMK_R_divide</key>
-		<integer>30</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-21</integer>
 		<key>@MMK_R_e</key>
 		<integer>12</integer>
-		<key>@MMK_R_equal</key>
-		<integer>22</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>-12</integer>
 		<key>@MMK_R_g</key>
 		<integer>10</integer>
 		<key>@MMK_R_mu</key>
@@ -3985,8 +2633,6 @@
 		<integer>12</integer>
 		<key>@MMK_R_omega</key>
 		<integer>10</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-21</integer>
 		<key>@MMK_R_upsilon</key>
 		<integer>14</integer>
 		<key>@MMK_R_w</key>
@@ -3998,8 +2644,6 @@
 		<integer>-85</integer>
 		<key>@MMK_R_C</key>
 		<integer>12</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-85</integer>
 		<key>@MMK_R_G</key>
 		<integer>14</integer>
 		<key>@MMK_R_I</key>
@@ -4028,24 +2672,14 @@
 		<integer>-15</integer>
 		<key>@MMK_R_c</key>
 		<integer>-24</integer>
-		<key>@MMK_R_comma</key>
-		<integer>10</integer>
 		<key>@MMK_R_d</key>
 		<integer>-15</integer>
-		<key>@MMK_R_divide</key>
-		<integer>22</integer>
 		<key>@MMK_R_e</key>
 		<integer>-20</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-28</integer>
-		<key>@MMK_R_equal</key>
-		<integer>10</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>17</integer>
 		<key>@MMK_R_g</key>
 		<integer>-19</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>13</integer>
 		<key>@MMK_R_mu</key>
 		<integer>-24</integer>
 		<key>@MMK_R_nu</key>
@@ -4054,8 +2688,6 @@
 		<integer>-21</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-25</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>51</integer>
 		<key>@MMK_R_s</key>
 		<integer>-37</integer>
 		<key>@MMK_R_upsilon</key>
@@ -4069,8 +2701,6 @@
 		<integer>-20</integer>
 		<key>@MMK_R_C</key>
 		<integer>15</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-37</integer>
 		<key>@MMK_R_G</key>
 		<integer>16</integer>
 		<key>@MMK_R_O</key>
@@ -4091,20 +2721,12 @@
 		<integer>13</integer>
 		<key>@MMK_R_c</key>
 		<integer>15</integer>
-		<key>@MMK_R_comma</key>
-		<integer>-16</integer>
 		<key>@MMK_R_d</key>
 		<integer>12</integer>
-		<key>@MMK_R_divide</key>
-		<integer>36</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-21</integer>
 		<key>@MMK_R_e</key>
 		<integer>13</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>14</integer>
-		<key>@MMK_R_equal</key>
-		<integer>28</integer>
 		<key>@MMK_R_g</key>
 		<integer>11</integer>
 		<key>@MMK_R_mu</key>
@@ -4115,8 +2737,6 @@
 		<integer>16</integer>
 		<key>@MMK_R_omega</key>
 		<integer>12</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-28</integer>
 		<key>@MMK_R_u</key>
 		<integer>10</integer>
 		<key>@MMK_R_upsilon</key>
@@ -4130,8 +2750,6 @@
 		<integer>-17</integer>
 		<key>@MMK_R_C</key>
 		<integer>18</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-27</integer>
 		<key>@MMK_R_D</key>
 		<integer>10</integer>
 		<key>@MMK_R_G</key>
@@ -4156,28 +2774,16 @@
 		<integer>16</integer>
 		<key>@MMK_R_c</key>
 		<integer>16</integer>
-		<key>@MMK_R_comma</key>
-		<integer>-14</integer>
 		<key>@MMK_R_d</key>
 		<integer>15</integer>
-		<key>@MMK_R_divide</key>
-		<integer>38</integer>
-		<key>@MMK_R_dotlessi</key>
-		<integer>10</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-19</integer>
 		<key>@MMK_R_e</key>
 		<integer>16</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>16</integer>
-		<key>@MMK_R_equal</key>
-		<integer>29</integer>
 		<key>@MMK_R_eta</key>
 		<integer>10</integer>
 		<key>@MMK_R_g</key>
 		<integer>14</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>10</integer>
 		<key>@MMK_R_kappa</key>
 		<integer>10</integer>
 		<key>@MMK_R_mu</key>
@@ -4188,8 +2794,6 @@
 		<integer>18</integer>
 		<key>@MMK_R_omega</key>
 		<integer>13</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-26</integer>
 		<key>@MMK_R_r</key>
 		<integer>10</integer>
 		<key>@MMK_R_t</key>
@@ -4203,59 +2807,12 @@
 		<key>@MMK_R_y</key>
 		<integer>12</integer>
 	</dict>
-	<key>@MMK_L_quotedblleft</key>
-	<dict>
-		<key>@MMK_R_A</key>
-		<integer>21</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>21</integer>
-		<key>@MMK_R_I</key>
-		<integer>12</integer>
-		<key>@MMK_R_J</key>
-		<integer>16</integer>
-		<key>@MMK_R_Omegagreek</key>
-		<integer>14</integer>
-		<key>@MMK_R_T</key>
-		<integer>45</integer>
-		<key>@MMK_R_Upsilon</key>
-		<integer>11</integer>
-		<key>@MMK_R_V</key>
-		<integer>39</integer>
-		<key>@MMK_R_W</key>
-		<integer>38</integer>
-		<key>@MMK_R_Z</key>
-		<integer>15</integer>
-		<key>@MMK_R_cent</key>
-		<integer>-12</integer>
-		<key>@MMK_R_comma</key>
-		<integer>46</integer>
-		<key>@MMK_R_divide</key>
-		<integer>-11</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>27</integer>
-		<key>@MMK_R_equal</key>
-		<integer>-10</integer>
-		<key>@MMK_R_mu</key>
-		<integer>23</integer>
-		<key>@MMK_R_nu</key>
-		<integer>28</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>33</integer>
-		<key>@MMK_R_s</key>
-		<integer>14</integer>
-		<key>@MMK_R_w</key>
-		<integer>28</integer>
-		<key>@MMK_R_z</key>
-		<integer>14</integer>
-	</dict>
 	<key>@MMK_L_r</key>
 	<dict>
 		<key>@MMK_R_A</key>
 		<integer>-86</integer>
 		<key>@MMK_R_C</key>
 		<integer>11</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-86</integer>
 		<key>@MMK_R_G</key>
 		<integer>13</integer>
 		<key>@MMK_R_I</key>
@@ -4282,20 +2839,12 @@
 		<integer>-47</integer>
 		<key>@MMK_R_c</key>
 		<integer>-13</integer>
-		<key>@MMK_R_divide</key>
-		<integer>27</integer>
 		<key>@MMK_R_e</key>
 		<integer>-10</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-21</integer>
-		<key>@MMK_R_equal</key>
-		<integer>10</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>16</integer>
 		<key>@MMK_R_g</key>
 		<integer>-10</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>12</integer>
 		<key>@MMK_R_mu</key>
 		<integer>-25</integer>
 		<key>@MMK_R_nu</key>
@@ -4304,8 +2853,6 @@
 		<integer>-10</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-14</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>50</integer>
 		<key>@MMK_R_s</key>
 		<integer>-27</integer>
 		<key>@MMK_R_w</key>
@@ -4322,8 +2869,6 @@
 		<key>@MMK_R_D</key>
 		<integer>24</integer>
 		<key>@MMK_R_E</key>
-		<integer>24</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>24</integer>
 		<key>@MMK_R_G</key>
 		<integer>38</integer>
@@ -4365,27 +2910,15 @@
 		<integer>37</integer>
 		<key>@MMK_R_c</key>
 		<integer>38</integer>
-		<key>@MMK_R_cent</key>
-		<integer>27</integer>
-		<key>@MMK_R_comma</key>
-		<integer>11</integer>
 		<key>@MMK_R_d</key>
 		<integer>37</integer>
-		<key>@MMK_R_dotlessi</key>
-		<integer>24</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-28</integer>
 		<key>@MMK_R_e</key>
 		<integer>39</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>40</integer>
-		<key>@MMK_R_equal</key>
-		<integer>29</integer>
 		<key>@MMK_R_eta</key>
 		<integer>24</integer>
 		<key>@MMK_R_g</key>
-		<integer>34</integer>
-		<key>@MMK_R_guillemotright</key>
 		<integer>34</integer>
 		<key>@MMK_R_h</key>
 		<integer>24</integer>
@@ -4424,8 +2957,6 @@
 	<dict>
 		<key>@MMK_R_A</key>
 		<integer>-29</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-33</integer>
 		<key>@MMK_R_G</key>
 		<integer>11</integer>
 		<key>@MMK_R_I</key>
@@ -4454,18 +2985,12 @@
 		<integer>-19</integer>
 		<key>@MMK_R_d</key>
 		<integer>-14</integer>
-		<key>@MMK_R_divide</key>
-		<integer>21</integer>
 		<key>@MMK_R_e</key>
 		<integer>-17</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-26</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>14</integer>
 		<key>@MMK_R_g</key>
 		<integer>-18</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>10</integer>
 		<key>@MMK_R_mu</key>
 		<integer>-27</integer>
 		<key>@MMK_R_nu</key>
@@ -4474,8 +2999,6 @@
 		<integer>-17</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-21</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>22</integer>
 		<key>@MMK_R_s</key>
 		<integer>-11</integer>
 		<key>@MMK_R_w</key>
@@ -4505,22 +3028,14 @@
 		<integer>10</integer>
 		<key>@MMK_R_d</key>
 		<integer>10</integer>
-		<key>@MMK_R_divide</key>
-		<integer>24</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-18</integer>
 		<key>@MMK_R_e</key>
 		<integer>12</integer>
-		<key>@MMK_R_equal</key>
-		<integer>18</integer>
 		<key>@MMK_R_mu</key>
 		<integer>-15</integer>
 		<key>@MMK_R_nu</key>
 		<integer>51</integer>
 		<key>@MMK_R_o</key>
 		<integer>11</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>39</integer>
 		<key>@MMK_R_upsilon</key>
 		<integer>12</integer>
 		<key>@MMK_R_w</key>
@@ -4534,8 +3049,6 @@
 		<integer>-31</integer>
 		<key>@MMK_R_C</key>
 		<integer>12</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-48</integer>
 		<key>@MMK_R_G</key>
 		<integer>13</integer>
 		<key>@MMK_R_J</key>
@@ -4552,18 +3065,10 @@
 		<integer>34</integer>
 		<key>@MMK_R_Z</key>
 		<integer>-12</integer>
-		<key>@MMK_R_divide</key>
-		<integer>27</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-16</integer>
-		<key>@MMK_R_equal</key>
-		<integer>20</integer>
 		<key>@MMK_R_mu</key>
 		<integer>-18</integer>
 		<key>@MMK_R_nu</key>
 		<integer>53</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>41</integer>
 		<key>@MMK_R_upsilon</key>
 		<integer>10</integer>
 		<key>@MMK_R_w</key>
@@ -4577,8 +3082,6 @@
 		<integer>-85</integer>
 		<key>@MMK_R_C</key>
 		<integer>12</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-85</integer>
 		<key>@MMK_R_G</key>
 		<integer>14</integer>
 		<key>@MMK_R_I</key>
@@ -4607,24 +3110,14 @@
 		<integer>-15</integer>
 		<key>@MMK_R_c</key>
 		<integer>-25</integer>
-		<key>@MMK_R_comma</key>
-		<integer>10</integer>
 		<key>@MMK_R_d</key>
 		<integer>-16</integer>
-		<key>@MMK_R_divide</key>
-		<integer>21</integer>
 		<key>@MMK_R_e</key>
 		<integer>-21</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-28</integer>
-		<key>@MMK_R_equal</key>
-		<integer>10</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>17</integer>
 		<key>@MMK_R_g</key>
 		<integer>-19</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>13</integer>
 		<key>@MMK_R_mu</key>
 		<integer>-24</integer>
 		<key>@MMK_R_nu</key>
@@ -4633,8 +3126,6 @@
 		<integer>-22</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-26</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>51</integer>
 		<key>@MMK_R_s</key>
 		<integer>-37</integer>
 		<key>@MMK_R_upsilon</key>
@@ -4648,8 +3139,6 @@
 		<integer>-34</integer>
 		<key>@MMK_R_C</key>
 		<integer>16</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-34</integer>
 		<key>@MMK_R_G</key>
 		<integer>18</integer>
 		<key>@MMK_R_I</key>
@@ -4674,18 +3163,10 @@
 		<integer>-39</integer>
 		<key>@MMK_R_a</key>
 		<integer>-31</integer>
-		<key>@MMK_R_divide</key>
-		<integer>40</integer>
-		<key>@MMK_R_equal</key>
-		<integer>18</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>10</integer>
 		<key>@MMK_R_mu</key>
 		<integer>-19</integer>
 		<key>@MMK_R_nu</key>
 		<integer>47</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>29</integer>
 		<key>@MMK_R_s</key>
 		<integer>-11</integer>
 		<key>@MMK_R_upsilon</key>
@@ -4709,16 +3190,10 @@
 		<integer>28</integer>
 		<key>@MMK_R_W</key>
 		<integer>34</integer>
-		<key>@MMK_R_divide</key>
-		<integer>26</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-16</integer>
 		<key>@MMK_R_mu</key>
 		<integer>-24</integer>
 		<key>@MMK_R_nu</key>
 		<integer>53</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>41</integer>
 		<key>@MMK_R_s</key>
 		<integer>14</integer>
 		<key>@MMK_R_w</key>
@@ -4732,13 +3207,9 @@
 		<integer>-32</integer>
 		<key>@MMK_R_C</key>
 		<integer>-23</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-22</integer>
 		<key>@MMK_R_D</key>
 		<integer>-32</integer>
 		<key>@MMK_R_E</key>
-		<integer>-32</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>-32</integer>
 		<key>@MMK_R_G</key>
 		<integer>-21</integer>
@@ -4776,24 +3247,16 @@
 		<integer>-29</integer>
 		<key>@MMK_R_c</key>
 		<integer>-28</integer>
-		<key>@MMK_R_cent</key>
-		<integer>14</integer>
 		<key>@MMK_R_d</key>
 		<integer>-29</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-72</integer>
 		<key>@MMK_R_e</key>
 		<integer>-24</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-25</integer>
 		<key>@MMK_R_eta</key>
 		<integer>-34</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>24</integer>
 		<key>@MMK_R_g</key>
 		<integer>-32</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>20</integer>
 		<key>@MMK_R_h</key>
 		<integer>-32</integer>
 		<key>@MMK_R_i</key>
@@ -4812,8 +3275,6 @@
 		<integer>-31</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-32</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>47</integer>
 		<key>@MMK_R_r</key>
 		<integer>-34</integer>
 		<key>@MMK_R_s</key>
@@ -5043,13 +3504,9 @@
 		<integer>42</integer>
 		<key>@MMK_R_C</key>
 		<integer>21</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>54</integer>
 		<key>@MMK_R_D</key>
 		<integer>42</integer>
 		<key>@MMK_R_E</key>
-		<integer>42</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>42</integer>
 		<key>@MMK_R_G</key>
 		<integer>22</integer>
@@ -5081,26 +3538,16 @@
 		<integer>24</integer>
 		<key>@MMK_R_c</key>
 		<integer>25</integer>
-		<key>@MMK_R_cent</key>
-		<integer>14</integer>
 		<key>@MMK_R_d</key>
 		<integer>24</integer>
-		<key>@MMK_R_dotlessi</key>
-		<integer>42</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-31</integer>
 		<key>@MMK_R_e</key>
 		<integer>30</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>28</integer>
 		<key>@MMK_R_eta</key>
 		<integer>42</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>-18</integer>
 		<key>@MMK_R_g</key>
 		<integer>21</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>17</integer>
 		<key>@MMK_R_h</key>
 		<integer>42</integer>
 		<key>@MMK_R_i</key>
@@ -5117,8 +3564,6 @@
 		<integer>23</integer>
 		<key>@MMK_R_omega</key>
 		<integer>21</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-21</integer>
 		<key>@MMK_R_r</key>
 		<integer>42</integer>
 		<key>@MMK_R_s</key>
@@ -5328,13 +3773,9 @@
 		<integer>50</integer>
 		<key>@MMK_R_C</key>
 		<integer>24</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>62</integer>
 		<key>@MMK_R_D</key>
 		<integer>50</integer>
 		<key>@MMK_R_E</key>
-		<integer>50</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>50</integer>
 		<key>@MMK_R_G</key>
 		<integer>25</integer>
@@ -5372,26 +3813,16 @@
 		<integer>28</integer>
 		<key>@MMK_R_c</key>
 		<integer>28</integer>
-		<key>@MMK_R_cent</key>
-		<integer>17</integer>
 		<key>@MMK_R_d</key>
 		<integer>27</integer>
-		<key>@MMK_R_dotlessi</key>
-		<integer>50</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-23</integer>
 		<key>@MMK_R_e</key>
 		<integer>34</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>32</integer>
 		<key>@MMK_R_eta</key>
 		<integer>50</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>-10</integer>
 		<key>@MMK_R_g</key>
 		<integer>25</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>18</integer>
 		<key>@MMK_R_h</key>
 		<integer>50</integer>
 		<key>@MMK_R_i</key>
@@ -5410,8 +3841,6 @@
 		<integer>26</integer>
 		<key>@MMK_R_omega</key>
 		<integer>25</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-35</integer>
 		<key>@MMK_R_r</key>
 		<integer>50</integer>
 		<key>@MMK_R_s</key>
@@ -5627,13 +4056,9 @@
 		<integer>-18</integer>
 		<key>@MMK_R_C</key>
 		<integer>-13</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-27</integer>
 		<key>@MMK_R_D</key>
 		<integer>-18</integer>
 		<key>@MMK_R_E</key>
-		<integer>-18</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>-18</integer>
 		<key>@MMK_R_G</key>
 		<integer>-11</integer>
@@ -5671,20 +4096,14 @@
 		<integer>-15</integer>
 		<key>@MMK_R_d</key>
 		<integer>-24</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-41</integer>
 		<key>@MMK_R_e</key>
 		<integer>-13</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-22</integer>
 		<key>@MMK_R_eta</key>
 		<integer>-17</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>17</integer>
 		<key>@MMK_R_g</key>
 		<integer>-16</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>13</integer>
 		<key>@MMK_R_h</key>
 		<integer>-18</integer>
 		<key>@MMK_R_i</key>
@@ -5703,8 +4122,6 @@
 		<integer>-14</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-16</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>48</integer>
 		<key>@MMK_R_r</key>
 		<integer>-17</integer>
 		<key>@MMK_R_s</key>
@@ -5910,8 +4327,6 @@
 		<integer>25</integer>
 		<key>@MMK_R_B</key>
 		<integer>13</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>25</integer>
 		<key>@MMK_R_D</key>
 		<integer>13</integer>
 		<key>@MMK_R_J</key>
@@ -5934,8 +4349,6 @@
 		<integer>32</integer>
 		<key>@MMK_R_Z</key>
 		<integer>19</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>31</integer>
 		<key>@MMK_R_eta</key>
 		<integer>13</integer>
 		<key>@MMK_R_h</key>
@@ -5950,8 +4363,6 @@
 		<integer>27</integer>
 		<key>@MMK_R_n</key>
 		<integer>13</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>20</integer>
 		<key>@MMK_R_r</key>
 		<integer>13</integer>
 		<key>@MMK_R_s</key>
@@ -6067,8 +4478,6 @@
 		<integer>-53</integer>
 		<key>@MMK_R_B</key>
 		<integer>-19</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-53</integer>
 		<key>@MMK_R_D</key>
 		<integer>-19</integer>
 		<key>@MMK_R_I</key>
@@ -6101,24 +4510,16 @@
 		<integer>-34</integer>
 		<key>@MMK_R_c</key>
 		<integer>-37</integer>
-		<key>@MMK_R_cent</key>
-		<integer>10</integer>
 		<key>@MMK_R_d</key>
 		<integer>-39</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-21</integer>
 		<key>@MMK_R_e</key>
 		<integer>-35</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-43</integer>
 		<key>@MMK_R_eta</key>
 		<integer>-18</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>20</integer>
 		<key>@MMK_R_g</key>
 		<integer>-37</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>16</integer>
 		<key>@MMK_R_h</key>
 		<integer>-19</integer>
 		<key>@MMK_R_i</key>
@@ -6137,8 +4538,6 @@
 		<integer>-35</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-39</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>54</integer>
 		<key>@MMK_R_r</key>
 		<integer>-18</integer>
 		<key>@MMK_R_s</key>
@@ -6358,13 +4757,9 @@
 		<integer>-19</integer>
 		<key>@MMK_R_C</key>
 		<integer>-13</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-39</integer>
 		<key>@MMK_R_D</key>
 		<integer>-19</integer>
 		<key>@MMK_R_E</key>
-		<integer>-19</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>-19</integer>
 		<key>@MMK_R_G</key>
 		<integer>-11</integer>
@@ -6400,20 +4795,14 @@
 		<integer>-16</integer>
 		<key>@MMK_R_d</key>
 		<integer>-23</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-40</integer>
 		<key>@MMK_R_e</key>
 		<integer>-14</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-21</integer>
 		<key>@MMK_R_eta</key>
 		<integer>-19</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>18</integer>
 		<key>@MMK_R_g</key>
 		<integer>-17</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>14</integer>
 		<key>@MMK_R_h</key>
 		<integer>-19</integer>
 		<key>@MMK_R_i</key>
@@ -6432,8 +4821,6 @@
 		<integer>-15</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-17</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>49</integer>
 		<key>@MMK_R_r</key>
 		<integer>-19</integer>
 		<key>@MMK_R_s</key>
@@ -6645,13 +5032,9 @@
 		<integer>50</integer>
 		<key>@MMK_R_C</key>
 		<integer>24</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>62</integer>
 		<key>@MMK_R_D</key>
 		<integer>50</integer>
 		<key>@MMK_R_E</key>
-		<integer>50</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>50</integer>
 		<key>@MMK_R_G</key>
 		<integer>25</integer>
@@ -6689,26 +5072,16 @@
 		<integer>28</integer>
 		<key>@MMK_R_c</key>
 		<integer>28</integer>
-		<key>@MMK_R_cent</key>
-		<integer>17</integer>
 		<key>@MMK_R_d</key>
 		<integer>27</integer>
-		<key>@MMK_R_dotlessi</key>
-		<integer>50</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-23</integer>
 		<key>@MMK_R_e</key>
 		<integer>34</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>32</integer>
 		<key>@MMK_R_eta</key>
 		<integer>50</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>-10</integer>
 		<key>@MMK_R_g</key>
 		<integer>25</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>18</integer>
 		<key>@MMK_R_h</key>
 		<integer>50</integer>
 		<key>@MMK_R_i</key>
@@ -6727,8 +5100,6 @@
 		<integer>26</integer>
 		<key>@MMK_R_omega</key>
 		<integer>25</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-35</integer>
 		<key>@MMK_R_r</key>
 		<integer>50</integer>
 		<key>@MMK_R_s</key>
@@ -6944,13 +5315,9 @@
 		<integer>37</integer>
 		<key>@MMK_R_C</key>
 		<integer>39</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>49</integer>
 		<key>@MMK_R_D</key>
 		<integer>37</integer>
 		<key>@MMK_R_E</key>
-		<integer>37</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>37</integer>
 		<key>@MMK_R_G</key>
 		<integer>39</integer>
@@ -6986,26 +5353,16 @@
 		<integer>42</integer>
 		<key>@MMK_R_c</key>
 		<integer>43</integer>
-		<key>@MMK_R_cent</key>
-		<integer>32</integer>
 		<key>@MMK_R_d</key>
 		<integer>42</integer>
-		<key>@MMK_R_dotlessi</key>
-		<integer>37</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-37</integer>
 		<key>@MMK_R_e</key>
 		<integer>47</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>46</integer>
 		<key>@MMK_R_eta</key>
 		<integer>37</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>-13</integer>
 		<key>@MMK_R_g</key>
 		<integer>39</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>24</integer>
 		<key>@MMK_R_h</key>
 		<integer>37</integer>
 		<key>@MMK_R_i</key>
@@ -7024,8 +5381,6 @@
 		<integer>40</integer>
 		<key>@MMK_R_omega</key>
 		<integer>39</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-32</integer>
 		<key>@MMK_R_r</key>
 		<integer>37</integer>
 		<key>@MMK_R_s</key>
@@ -7255,13 +5610,9 @@
 		<integer>-31</integer>
 		<key>@MMK_R_C</key>
 		<integer>-22</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-21</integer>
 		<key>@MMK_R_D</key>
 		<integer>-31</integer>
 		<key>@MMK_R_E</key>
-		<integer>-31</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>-31</integer>
 		<key>@MMK_R_G</key>
 		<integer>-20</integer>
@@ -7299,24 +5650,16 @@
 		<integer>-28</integer>
 		<key>@MMK_R_c</key>
 		<integer>-27</integer>
-		<key>@MMK_R_cent</key>
-		<integer>15</integer>
 		<key>@MMK_R_d</key>
 		<integer>-28</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-71</integer>
 		<key>@MMK_R_e</key>
 		<integer>-23</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-24</integer>
 		<key>@MMK_R_eta</key>
 		<integer>-33</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>25</integer>
 		<key>@MMK_R_g</key>
 		<integer>-31</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>21</integer>
 		<key>@MMK_R_h</key>
 		<integer>-31</integer>
 		<key>@MMK_R_i</key>
@@ -7335,8 +5678,6 @@
 		<integer>-30</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-31</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>47</integer>
 		<key>@MMK_R_r</key>
 		<integer>-33</integer>
 		<key>@MMK_R_s</key>
@@ -7566,13 +5907,9 @@
 		<integer>-45</integer>
 		<key>@MMK_R_B</key>
 		<integer>-11</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-68</integer>
 		<key>@MMK_R_D</key>
 		<integer>-11</integer>
 		<key>@MMK_R_E</key>
-		<integer>-11</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>-11</integer>
 		<key>@MMK_R_I</key>
 		<integer>18</integer>
@@ -7594,8 +5931,6 @@
 		<integer>34</integer>
 		<key>@MMK_R_Z</key>
 		<integer>-25</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-22</integer>
 		<key>@MMK_R_h</key>
 		<integer>-11</integer>
 		<key>@MMK_R_k</key>
@@ -7604,8 +5939,6 @@
 		<integer>-27</integer>
 		<key>@MMK_R_nu</key>
 		<integer>48</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>42</integer>
 		<key>@MMK_R_s</key>
 		<integer>-25</integer>
 		<key>@MMK_R_w</key>
@@ -7747,13 +6080,9 @@
 		<integer>-18</integer>
 		<key>@MMK_R_C</key>
 		<integer>-13</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-27</integer>
 		<key>@MMK_R_D</key>
 		<integer>-18</integer>
 		<key>@MMK_R_E</key>
-		<integer>-18</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>-18</integer>
 		<key>@MMK_R_G</key>
 		<integer>-11</integer>
@@ -7791,20 +6120,14 @@
 		<integer>-15</integer>
 		<key>@MMK_R_d</key>
 		<integer>-24</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-41</integer>
 		<key>@MMK_R_e</key>
 		<integer>-12</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-22</integer>
 		<key>@MMK_R_eta</key>
 		<integer>-17</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>17</integer>
 		<key>@MMK_R_g</key>
 		<integer>-15</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>13</integer>
 		<key>@MMK_R_h</key>
 		<integer>-18</integer>
 		<key>@MMK_R_i</key>
@@ -7823,8 +6146,6 @@
 		<integer>-13</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-15</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>48</integer>
 		<key>@MMK_R_r</key>
 		<integer>-17</integer>
 		<key>@MMK_R_s</key>
@@ -8030,8 +6351,6 @@
 		<integer>-92</integer>
 		<key>@MMK_R_B</key>
 		<integer>-25</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-61</integer>
 		<key>@MMK_R_D</key>
 		<integer>-25</integer>
 		<key>@MMK_R_I</key>
@@ -8070,16 +6389,12 @@
 		<integer>-14</integer>
 		<key>@MMK_R_d</key>
 		<integer>-12</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-27</integer>
 		<key>@MMK_R_e</key>
 		<integer>-13</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-27</integer>
 		<key>@MMK_R_eta</key>
 		<integer>-24</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>10</integer>
 		<key>@MMK_R_g</key>
 		<integer>-14</integer>
 		<key>@MMK_R_h</key>
@@ -8100,8 +6415,6 @@
 		<integer>-12</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-17</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>49</integer>
 		<key>@MMK_R_r</key>
 		<integer>-24</integer>
 		<key>@MMK_R_s</key>
@@ -8275,13 +6588,9 @@
 		<integer>-15</integer>
 		<key>@MMK_R_C</key>
 		<integer>-12</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-36</integer>
 		<key>@MMK_R_D</key>
 		<integer>-15</integer>
 		<key>@MMK_R_E</key>
-		<integer>-15</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>-15</integer>
 		<key>@MMK_R_G</key>
 		<integer>-11</integer>
@@ -8305,16 +6614,10 @@
 		<integer>-13</integer>
 		<key>@MMK_R_W</key>
 		<integer>48</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-78</integer>
 		<key>@MMK_R_eta</key>
 		<integer>-15</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>18</integer>
 		<key>@MMK_R_g</key>
 		<integer>-11</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>14</integer>
 		<key>@MMK_R_h</key>
 		<integer>-15</integer>
 		<key>@MMK_R_i</key>
@@ -8331,8 +6634,6 @@
 		<integer>-75</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-11</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>23</integer>
 		<key>@MMK_R_r</key>
 		<integer>-15</integer>
 		<key>@MMK_R_t</key>
@@ -8532,13 +6833,9 @@
 		<integer>-32</integer>
 		<key>@MMK_R_C</key>
 		<integer>-19</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-33</integer>
 		<key>@MMK_R_D</key>
 		<integer>-32</integer>
 		<key>@MMK_R_E</key>
-		<integer>-32</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>-32</integer>
 		<key>@MMK_R_G</key>
 		<integer>-17</integer>
@@ -8576,24 +6873,16 @@
 		<integer>-20</integer>
 		<key>@MMK_R_c</key>
 		<integer>-18</integer>
-		<key>@MMK_R_cent</key>
-		<integer>14</integer>
 		<key>@MMK_R_d</key>
 		<integer>-20</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-38</integer>
 		<key>@MMK_R_e</key>
 		<integer>-19</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-36</integer>
 		<key>@MMK_R_eta</key>
 		<integer>-34</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>24</integer>
 		<key>@MMK_R_g</key>
 		<integer>-21</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>20</integer>
 		<key>@MMK_R_h</key>
 		<integer>-32</integer>
 		<key>@MMK_R_i</key>
@@ -8610,8 +6899,6 @@
 		<integer>-16</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-21</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>50</integer>
 		<key>@MMK_R_r</key>
 		<integer>-34</integer>
 		<key>@MMK_R_s</key>
@@ -8831,13 +7118,9 @@
 		<integer>-47</integer>
 		<key>@MMK_R_B</key>
 		<integer>-15</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-67</integer>
 		<key>@MMK_R_D</key>
 		<integer>-15</integer>
 		<key>@MMK_R_E</key>
-		<integer>-15</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>-15</integer>
 		<key>@MMK_R_I</key>
 		<integer>13</integer>
@@ -8865,10 +7148,6 @@
 		<integer>-27</integer>
 		<key>@MMK_R_d</key>
 		<integer>-12</integer>
-		<key>@MMK_R_dotlessi</key>
-		<integer>-10</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-28</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-10</integer>
 		<key>@MMK_R_eta</key>
@@ -8887,8 +7166,6 @@
 		<integer>-11</integer>
 		<key>@MMK_R_nu</key>
 		<integer>42</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>36</integer>
 		<key>@MMK_R_r</key>
 		<integer>-10</integer>
 		<key>@MMK_R_s</key>
@@ -9050,8 +7327,6 @@
 		<integer>-49</integer>
 		<key>@MMK_R_C</key>
 		<integer>11</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-95</integer>
 		<key>@MMK_R_G</key>
 		<integer>13</integer>
 		<key>@MMK_R_J</key>
@@ -9080,8 +7355,6 @@
 		<integer>52</integer>
 		<key>@MMK_R_o</key>
 		<integer>13</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>26</integer>
 		<key>@MMK_R_s</key>
 		<integer>-12</integer>
 		<key>@MMK_R_w</key>
@@ -9215,13 +7488,9 @@
 		<integer>-20</integer>
 		<key>@MMK_R_C</key>
 		<integer>-14</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-37</integer>
 		<key>@MMK_R_D</key>
 		<integer>-19</integer>
 		<key>@MMK_R_E</key>
-		<integer>-20</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>-20</integer>
 		<key>@MMK_R_G</key>
 		<integer>-12</integer>
@@ -9255,24 +7524,16 @@
 		<integer>-15</integer>
 		<key>@MMK_R_c</key>
 		<integer>-17</integer>
-		<key>@MMK_R_cent</key>
-		<integer>10</integer>
 		<key>@MMK_R_d</key>
 		<integer>-22</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-38</integer>
 		<key>@MMK_R_e</key>
 		<integer>-16</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-20</integer>
 		<key>@MMK_R_eta</key>
 		<integer>-20</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>20</integer>
 		<key>@MMK_R_g</key>
 		<integer>-18</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>16</integer>
 		<key>@MMK_R_h</key>
 		<integer>-20</integer>
 		<key>@MMK_R_i</key>
@@ -9291,8 +7552,6 @@
 		<integer>-16</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-19</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>51</integer>
 		<key>@MMK_R_r</key>
 		<integer>-20</integer>
 		<key>@MMK_R_s</key>
@@ -9504,24 +7763,16 @@
 	</dict>
 	<key>Xi</key>
 	<dict>
-		<key>@MMK_R_Chi</key>
-		<integer>-23</integer>
 		<key>@MMK_R_I</key>
 		<integer>13</integer>
 		<key>@MMK_R_T</key>
 		<integer>47</integer>
 		<key>@MMK_R_W</key>
 		<integer>40</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-74</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>10</integer>
 		<key>@MMK_R_mu</key>
 		<integer>-20</integer>
 		<key>@MMK_R_nu</key>
 		<integer>-13</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>29</integer>
 		<key>@MMK_R_w</key>
 		<integer>-13</integer>
 		<key>AE</key>
@@ -9605,13 +7856,9 @@
 		<integer>-18</integer>
 		<key>@MMK_R_C</key>
 		<integer>-49</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-19</integer>
 		<key>@MMK_R_D</key>
 		<integer>-18</integer>
 		<key>@MMK_R_E</key>
-		<integer>-18</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>-18</integer>
 		<key>@MMK_R_G</key>
 		<integer>-48</integer>
@@ -9647,26 +7894,16 @@
 		<integer>-87</integer>
 		<key>@MMK_R_c</key>
 		<integer>-86</integer>
-		<key>@MMK_R_cent</key>
-		<integer>28</integer>
 		<key>@MMK_R_d</key>
 		<integer>-87</integer>
-		<key>@MMK_R_dotlessi</key>
-		<integer>-76</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-58</integer>
 		<key>@MMK_R_e</key>
 		<integer>-82</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-82</integer>
 		<key>@MMK_R_eta</key>
 		<integer>-76</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>38</integer>
 		<key>@MMK_R_g</key>
 		<integer>-90</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>34</integer>
 		<key>@MMK_R_h</key>
 		<integer>-18</integer>
 		<key>@MMK_R_i</key>
@@ -9685,8 +7922,6 @@
 		<integer>-87</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-89</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>41</integer>
 		<key>@MMK_R_r</key>
 		<integer>-76</integer>
 		<key>@MMK_R_s</key>
@@ -9922,8 +8157,6 @@
 		<integer>-18</integer>
 		<key>@MMK_R_C</key>
 		<integer>13</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-18</integer>
 		<key>@MMK_R_G</key>
 		<integer>15</integer>
 		<key>@MMK_R_J</key>
@@ -9944,8 +8177,6 @@
 		<integer>14</integer>
 		<key>@MMK_R_d</key>
 		<integer>13</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-16</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>13</integer>
 		<key>@MMK_R_g</key>
@@ -9958,8 +8189,6 @@
 		<integer>16</integer>
 		<key>@MMK_R_omega</key>
 		<integer>12</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-25</integer>
 		<key>@MMK_R_s</key>
 		<integer>-11</integer>
 		<key>@MMK_R_upsilon</key>
@@ -10107,8 +8336,6 @@
 		<integer>11</integer>
 		<key>@MMK_R_C</key>
 		<integer>12</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>23</integer>
 		<key>@MMK_R_D</key>
 		<integer>11</integer>
 		<key>@MMK_R_G</key>
@@ -10135,8 +8362,6 @@
 		<integer>17</integer>
 		<key>@MMK_R_d</key>
 		<integer>10</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>29</integer>
 		<key>@MMK_R_eta</key>
 		<integer>11</integer>
 		<key>@MMK_R_h</key>
@@ -10153,8 +8378,6 @@
 		<integer>11</integer>
 		<key>@MMK_R_nu</key>
 		<integer>32</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-19</integer>
 		<key>@MMK_R_r</key>
 		<integer>11</integer>
 		<key>@MMK_R_s</key>
@@ -10298,8 +8521,6 @@
 		<integer>13</integer>
 		<key>@MMK_R_C</key>
 		<integer>15</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>13</integer>
 		<key>@MMK_R_G</key>
 		<integer>17</integer>
 		<key>@MMK_R_J</key>
@@ -10320,16 +8541,12 @@
 		<integer>17</integer>
 		<key>@MMK_R_d</key>
 		<integer>14</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-18</integer>
 		<key>@MMK_R_e</key>
 		<integer>20</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>17</integer>
 		<key>@MMK_R_g</key>
 		<integer>17</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>10</integer>
 		<key>@MMK_R_i</key>
 		<integer>14</integer>
 		<key>@MMK_R_kappa</key>
@@ -10340,8 +8557,6 @@
 		<integer>18</integer>
 		<key>@MMK_R_omega</key>
 		<integer>17</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-17</integer>
 		<key>@MMK_R_s</key>
 		<integer>18</integer>
 		<key>@MMK_R_upsilon</key>
@@ -10491,8 +8706,6 @@
 		<integer>17</integer>
 		<key>@MMK_R_C</key>
 		<integer>32</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>14</integer>
 		<key>@MMK_R_D</key>
 		<integer>17</integer>
 		<key>@MMK_R_G</key>
@@ -10521,16 +8734,12 @@
 		<integer>33</integer>
 		<key>@MMK_R_d</key>
 		<integer>30</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>20</integer>
 		<key>@MMK_R_e</key>
 		<integer>32</integer>
 		<key>@MMK_R_eta</key>
 		<integer>18</integer>
 		<key>@MMK_R_g</key>
 		<integer>29</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>-13</integer>
 		<key>@MMK_R_h</key>
 		<integer>17</integer>
 		<key>@MMK_R_i</key>
@@ -10549,8 +8758,6 @@
 		<integer>34</integer>
 		<key>@MMK_R_omega</key>
 		<integer>30</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>27</integer>
 		<key>@MMK_R_u</key>
 		<integer>24</integer>
 		<key>@MMK_R_upsilon</key>
@@ -10748,8 +8955,6 @@
 		<integer>24</integer>
 		<key>@MMK_R_B</key>
 		<integer>12</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>24</integer>
 		<key>@MMK_R_D</key>
 		<integer>12</integer>
 		<key>@MMK_R_J</key>
@@ -10772,8 +8977,6 @@
 		<integer>29</integer>
 		<key>@MMK_R_Z</key>
 		<integer>18</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>30</integer>
 		<key>@MMK_R_eta</key>
 		<integer>12</integer>
 		<key>@MMK_R_h</key>
@@ -10790,8 +8993,6 @@
 		<integer>12</integer>
 		<key>@MMK_R_nu</key>
 		<integer>31</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>33</integer>
 		<key>@MMK_R_r</key>
 		<integer>12</integer>
 		<key>@MMK_R_s</key>
@@ -10921,8 +9122,6 @@
 		<integer>12</integer>
 		<key>@MMK_R_C</key>
 		<integer>11</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>24</integer>
 		<key>@MMK_R_D</key>
 		<integer>12</integer>
 		<key>@MMK_R_G</key>
@@ -10947,8 +9146,6 @@
 		<integer>27</integer>
 		<key>@MMK_R_Z</key>
 		<integer>18</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>30</integer>
 		<key>@MMK_R_eta</key>
 		<integer>12</integer>
 		<key>@MMK_R_h</key>
@@ -10965,8 +9162,6 @@
 		<integer>12</integer>
 		<key>@MMK_R_nu</key>
 		<integer>35</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-18</integer>
 		<key>@MMK_R_r</key>
 		<integer>12</integer>
 		<key>@MMK_R_s</key>
@@ -11112,8 +9307,6 @@
 		<integer>-20</integer>
 		<key>@MMK_R_C</key>
 		<integer>12</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-34</integer>
 		<key>@MMK_R_G</key>
 		<integer>14</integer>
 		<key>@MMK_R_I</key>
@@ -11136,8 +9329,6 @@
 		<integer>12</integer>
 		<key>@MMK_R_d</key>
 		<integer>10</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-14</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>13</integer>
 		<key>@MMK_R_g</key>
@@ -11150,8 +9341,6 @@
 		<integer>14</integer>
 		<key>@MMK_R_omega</key>
 		<integer>11</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-24</integer>
 		<key>@MMK_R_upsilon</key>
 		<integer>16</integer>
 		<key>@MMK_R_w</key>
@@ -11297,13 +9486,9 @@
 		<integer>52</integer>
 		<key>@MMK_R_B</key>
 		<integer>40</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>52</integer>
 		<key>@MMK_R_D</key>
 		<integer>40</integer>
 		<key>@MMK_R_E</key>
-		<integer>40</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>40</integer>
 		<key>@MMK_R_J</key>
 		<integer>37</integer>
@@ -11333,18 +9518,12 @@
 		<integer>12</integer>
 		<key>@MMK_R_d</key>
 		<integer>12</integer>
-		<key>@MMK_R_dotlessi</key>
-		<integer>40</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>76</integer>
 		<key>@MMK_R_e</key>
 		<integer>19</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>16</integer>
 		<key>@MMK_R_eta</key>
 		<integer>40</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>47</integer>
 		<key>@MMK_R_g</key>
 		<integer>10</integer>
 		<key>@MMK_R_h</key>
@@ -11361,8 +9540,6 @@
 		<integer>40</integer>
 		<key>@MMK_R_nu</key>
 		<integer>-17</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-27</integer>
 		<key>@MMK_R_r</key>
 		<integer>40</integer>
 		<key>@MMK_R_s</key>
@@ -11546,8 +9723,6 @@
 		<integer>26</integer>
 		<key>@MMK_R_B</key>
 		<integer>14</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>26</integer>
 		<key>@MMK_R_D</key>
 		<integer>14</integer>
 		<key>@MMK_R_J</key>
@@ -11570,8 +9745,6 @@
 		<integer>13</integer>
 		<key>@MMK_R_Z</key>
 		<integer>20</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>32</integer>
 		<key>@MMK_R_eta</key>
 		<integer>14</integer>
 		<key>@MMK_R_h</key>
@@ -11586,8 +9759,6 @@
 		<integer>28</integer>
 		<key>@MMK_R_n</key>
 		<integer>14</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>11</integer>
 		<key>@MMK_R_r</key>
 		<integer>14</integer>
 		<key>@MMK_R_s</key>
@@ -11701,8 +9872,6 @@
 	<dict>
 		<key>@MMK_R_C</key>
 		<integer>22</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-21</integer>
 		<key>@MMK_R_G</key>
 		<integer>24</integer>
 		<key>@MMK_R_J</key>
@@ -11725,26 +9894,18 @@
 		<integer>23</integer>
 		<key>@MMK_R_d</key>
 		<integer>21</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-48</integer>
 		<key>@MMK_R_e</key>
 		<integer>21</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>23</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>-12</integer>
 		<key>@MMK_R_g</key>
 		<integer>19</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>17</integer>
 		<key>@MMK_R_mu</key>
 		<integer>-13</integer>
 		<key>@MMK_R_o</key>
 		<integer>24</integer>
 		<key>@MMK_R_omega</key>
 		<integer>21</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>17</integer>
 		<key>@MMK_R_s</key>
 		<integer>14</integer>
 		<key>@MMK_R_u</key>
@@ -11908,8 +10069,6 @@
 		<integer>26</integer>
 		<key>@MMK_R_B</key>
 		<integer>14</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>26</integer>
 		<key>@MMK_R_D</key>
 		<integer>14</integer>
 		<key>@MMK_R_J</key>
@@ -11932,8 +10091,6 @@
 		<integer>23</integer>
 		<key>@MMK_R_Z</key>
 		<integer>20</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>32</integer>
 		<key>@MMK_R_eta</key>
 		<integer>14</integer>
 		<key>@MMK_R_h</key>
@@ -11948,8 +10105,6 @@
 		<integer>28</integer>
 		<key>@MMK_R_n</key>
 		<integer>14</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-16</integer>
 		<key>@MMK_R_r</key>
 		<integer>14</integer>
 		<key>@MMK_R_s</key>
@@ -12069,8 +10224,6 @@
 		<integer>21</integer>
 		<key>@MMK_R_C</key>
 		<integer>18</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>21</integer>
 		<key>@MMK_R_G</key>
 		<integer>20</integer>
 		<key>@MMK_R_J</key>
@@ -12093,8 +10246,6 @@
 		<integer>18</integer>
 		<key>@MMK_R_d</key>
 		<integer>17</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>27</integer>
 		<key>@MMK_R_e</key>
 		<integer>18</integer>
 		<key>@MMK_R_g</key>
@@ -12250,8 +10401,6 @@
 		<integer>26</integer>
 		<key>@MMK_R_B</key>
 		<integer>14</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>26</integer>
 		<key>@MMK_R_D</key>
 		<integer>14</integer>
 		<key>@MMK_R_J</key>
@@ -12274,8 +10423,6 @@
 		<integer>14</integer>
 		<key>@MMK_R_Z</key>
 		<integer>20</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>32</integer>
 		<key>@MMK_R_eta</key>
 		<integer>14</integer>
 		<key>@MMK_R_h</key>
@@ -12290,8 +10437,6 @@
 		<integer>28</integer>
 		<key>@MMK_R_n</key>
 		<integer>14</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-16</integer>
 		<key>@MMK_R_r</key>
 		<integer>14</integer>
 		<key>@MMK_R_s</key>
@@ -12409,8 +10554,6 @@
 		<integer>26</integer>
 		<key>@MMK_R_B</key>
 		<integer>14</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>26</integer>
 		<key>@MMK_R_D</key>
 		<integer>14</integer>
 		<key>@MMK_R_J</key>
@@ -12433,8 +10576,6 @@
 		<integer>13</integer>
 		<key>@MMK_R_Z</key>
 		<integer>20</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>32</integer>
 		<key>@MMK_R_eta</key>
 		<integer>14</integer>
 		<key>@MMK_R_h</key>
@@ -12449,8 +10590,6 @@
 		<integer>28</integer>
 		<key>@MMK_R_n</key>
 		<integer>14</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>11</integer>
 		<key>@MMK_R_r</key>
 		<integer>14</integer>
 		<key>@MMK_R_s</key>
@@ -12566,8 +10705,6 @@
 		<integer>18</integer>
 		<key>@MMK_R_C</key>
 		<integer>15</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>18</integer>
 		<key>@MMK_R_G</key>
 		<integer>17</integer>
 		<key>@MMK_R_J</key>
@@ -12586,8 +10723,6 @@
 		<integer>16</integer>
 		<key>@MMK_R_d</key>
 		<integer>14</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>24</integer>
 		<key>@MMK_R_g</key>
 		<integer>12</integer>
 		<key>@MMK_R_mu</key>
@@ -12598,8 +10733,6 @@
 		<integer>18</integer>
 		<key>@MMK_R_omega</key>
 		<integer>13</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-24</integer>
 		<key>@MMK_R_s</key>
 		<integer>11</integer>
 		<key>@MMK_R_upsilon</key>
@@ -12747,8 +10880,6 @@
 		<integer>-54</integer>
 		<key>@MMK_R_C</key>
 		<integer>10</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-54</integer>
 		<key>@MMK_R_G</key>
 		<integer>12</integer>
 		<key>@MMK_R_I</key>
@@ -12773,16 +10904,10 @@
 		<integer>-37</integer>
 		<key>@MMK_R_d</key>
 		<integer>-25</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>52</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-34</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>20</integer>
 		<key>@MMK_R_g</key>
 		<integer>-27</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>11</integer>
 		<key>@MMK_R_mu</key>
 		<integer>40</integer>
 		<key>@MMK_R_nu</key>
@@ -12791,8 +10916,6 @@
 		<integer>-33</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-38</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>49</integer>
 		<key>@MMK_R_w</key>
 		<integer>61</integer>
 		<key>AE</key>
@@ -12946,8 +11069,6 @@
 		<integer>16</integer>
 		<key>@MMK_R_C</key>
 		<integer>21</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>16</integer>
 		<key>@MMK_R_G</key>
 		<integer>23</integer>
 		<key>@MMK_R_J</key>
@@ -12972,8 +11093,6 @@
 		<integer>19</integer>
 		<key>@MMK_R_d</key>
 		<integer>18</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>22</integer>
 		<key>@MMK_R_e</key>
 		<integer>20</integer>
 		<key>@MMK_R_epsilon</key>
@@ -12988,8 +11107,6 @@
 		<integer>18</integer>
 		<key>@MMK_R_omega</key>
 		<integer>16</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>29</integer>
 		<key>@MMK_R_u</key>
 		<integer>13</integer>
 		<key>@MMK_R_upsilon</key>
@@ -13145,14 +11262,8 @@
 		<integer>26</integer>
 		<key>@MMK_R_W</key>
 		<integer>10</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>13</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>-16</integer>
 		<key>@MMK_R_nu</key>
 		<integer>17</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-34</integer>
 		<key>@MMK_R_w</key>
 		<integer>17</integer>
 		<key>Euro</key>
@@ -13270,8 +11381,6 @@
 		<integer>24</integer>
 		<key>@MMK_R_B</key>
 		<integer>12</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>24</integer>
 		<key>@MMK_R_D</key>
 		<integer>12</integer>
 		<key>@MMK_R_J</key>
@@ -13292,8 +11401,6 @@
 		<integer>27</integer>
 		<key>@MMK_R_Z</key>
 		<integer>18</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>30</integer>
 		<key>@MMK_R_eta</key>
 		<integer>12</integer>
 		<key>@MMK_R_h</key>
@@ -13310,8 +11417,6 @@
 		<integer>12</integer>
 		<key>@MMK_R_nu</key>
 		<integer>38</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-17</integer>
 		<key>@MMK_R_r</key>
 		<integer>12</integer>
 		<key>@MMK_R_s</key>
@@ -13447,8 +11552,6 @@
 	<dict>
 		<key>@MMK_R_A</key>
 		<integer>17</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>17</integer>
 		<key>@MMK_R_J</key>
 		<integer>12</integer>
 		<key>@MMK_R_O</key>
@@ -13459,16 +11562,10 @@
 		<integer>25</integer>
 		<key>@MMK_R_Z</key>
 		<integer>11</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>23</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>-10</integer>
 		<key>@MMK_R_mu</key>
 		<integer>19</integer>
 		<key>@MMK_R_nu</key>
 		<integer>23</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>30</integer>
 		<key>@MMK_R_w</key>
 		<integer>23</integer>
 		<key>@MMK_R_z</key>
@@ -13590,13 +11687,9 @@
 		<integer>-28</integer>
 		<key>@MMK_R_B</key>
 		<integer>-11</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-42</integer>
 		<key>@MMK_R_D</key>
 		<integer>-11</integer>
 		<key>@MMK_R_E</key>
-		<integer>-11</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>-11</integer>
 		<key>@MMK_R_J</key>
 		<integer>-10</integer>
@@ -13616,18 +11709,12 @@
 		<integer>16</integer>
 		<key>@MMK_R_W</key>
 		<integer>40</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-44</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>10</integer>
 		<key>@MMK_R_h</key>
 		<integer>-11</integer>
 		<key>@MMK_R_k</key>
 		<integer>-11</integer>
 		<key>@MMK_R_mu</key>
 		<integer>-29</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>22</integer>
 		<key>@MMK_R_z</key>
 		<integer>-10</integer>
 		<key>AE</key>
@@ -13751,8 +11838,6 @@
 		<integer>10</integer>
 		<key>@MMK_R_C</key>
 		<integer>26</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>19</integer>
 		<key>@MMK_R_D</key>
 		<integer>10</integer>
 		<key>@MMK_R_G</key>
@@ -13789,8 +11874,6 @@
 		<integer>27</integer>
 		<key>@MMK_R_d</key>
 		<integer>25</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>25</integer>
 		<key>@MMK_R_e</key>
 		<integer>25</integer>
 		<key>@MMK_R_epsilon</key>
@@ -13799,8 +11882,6 @@
 		<integer>11</integer>
 		<key>@MMK_R_g</key>
 		<integer>23</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>19</integer>
 		<key>@MMK_R_h</key>
 		<integer>10</integer>
 		<key>@MMK_R_i</key>
@@ -13817,8 +11898,6 @@
 		<integer>28</integer>
 		<key>@MMK_R_omega</key>
 		<integer>25</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>12</integer>
 		<key>@MMK_R_r</key>
 		<integer>11</integer>
 		<key>@MMK_R_s</key>
@@ -14010,8 +12089,6 @@
 		<integer>-58</integer>
 		<key>@MMK_R_B</key>
 		<integer>-22</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-52</integer>
 		<key>@MMK_R_D</key>
 		<integer>-22</integer>
 		<key>@MMK_R_I</key>
@@ -14048,24 +12125,16 @@
 		<integer>-41</integer>
 		<key>@MMK_R_c</key>
 		<integer>-45</integer>
-		<key>@MMK_R_cent</key>
-		<integer>13</integer>
 		<key>@MMK_R_d</key>
 		<integer>-56</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-27</integer>
 		<key>@MMK_R_e</key>
 		<integer>-42</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-51</integer>
 		<key>@MMK_R_eta</key>
 		<integer>-24</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>23</integer>
 		<key>@MMK_R_g</key>
 		<integer>-44</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>19</integer>
 		<key>@MMK_R_h</key>
 		<integer>-22</integer>
 		<key>@MMK_R_i</key>
@@ -14084,8 +12153,6 @@
 		<integer>-42</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-45</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>58</integer>
 		<key>@MMK_R_r</key>
 		<integer>-24</integer>
 		<key>@MMK_R_s</key>
@@ -14313,8 +12380,6 @@
 		<integer>-21</integer>
 		<key>@MMK_R_C</key>
 		<integer>19</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-49</integer>
 		<key>@MMK_R_G</key>
 		<integer>22</integer>
 		<key>@MMK_R_S</key>
@@ -14333,16 +12398,12 @@
 		<integer>21</integer>
 		<key>@MMK_R_d</key>
 		<integer>18</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-35</integer>
 		<key>@MMK_R_e</key>
 		<integer>19</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>20</integer>
 		<key>@MMK_R_g</key>
 		<integer>16</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>13</integer>
 		<key>@MMK_R_mu</key>
 		<integer>-17</integer>
 		<key>@MMK_R_nu</key>
@@ -14351,8 +12412,6 @@
 		<integer>21</integer>
 		<key>@MMK_R_omega</key>
 		<integer>18</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>33</integer>
 		<key>@MMK_R_u</key>
 		<integer>12</integer>
 		<key>@MMK_R_upsilon</key>
@@ -14506,10 +12565,6 @@
 		<integer>10</integer>
 		<key>@MMK_R_d</key>
 		<integer>12</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-20</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>-12</integer>
 		<key>@MMK_R_g</key>
 		<integer>10</integer>
 		<key>@MMK_R_mu</key>
@@ -14520,8 +12575,6 @@
 		<integer>11</integer>
 		<key>@MMK_R_omega</key>
 		<integer>10</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-21</integer>
 		<key>@MMK_R_u</key>
 		<integer>10</integer>
 		<key>@MMK_R_upsilon</key>
@@ -14657,13 +12710,9 @@
 		<integer>-49</integer>
 		<key>@MMK_R_B</key>
 		<integer>-12</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-82</integer>
 		<key>@MMK_R_D</key>
 		<integer>-11</integer>
 		<key>@MMK_R_E</key>
-		<integer>-12</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>-12</integer>
 		<key>@MMK_R_J</key>
 		<integer>-44</integer>
@@ -14683,8 +12732,6 @@
 		<integer>35</integer>
 		<key>@MMK_R_Z</key>
 		<integer>-31</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-18</integer>
 		<key>@MMK_R_h</key>
 		<integer>-12</integer>
 		<key>@MMK_R_k</key>
@@ -14693,8 +12740,6 @@
 		<integer>-27</integer>
 		<key>@MMK_R_nu</key>
 		<integer>52</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>40</integer>
 		<key>@MMK_R_s</key>
 		<integer>-23</integer>
 		<key>@MMK_R_w</key>
@@ -14832,8 +12877,6 @@
 		<integer>22</integer>
 		<key>@MMK_R_B</key>
 		<integer>10</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>22</integer>
 		<key>@MMK_R_D</key>
 		<integer>10</integer>
 		<key>@MMK_R_J</key>
@@ -14856,8 +12899,6 @@
 		<integer>28</integer>
 		<key>@MMK_R_Z</key>
 		<integer>16</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>28</integer>
 		<key>@MMK_R_eta</key>
 		<integer>10</integer>
 		<key>@MMK_R_h</key>
@@ -14872,8 +12913,6 @@
 		<integer>10</integer>
 		<key>@MMK_R_nu</key>
 		<integer>14</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>33</integer>
 		<key>@MMK_R_r</key>
 		<integer>10</integer>
 		<key>@MMK_R_s</key>
@@ -14991,8 +13030,6 @@
 		<integer>23</integer>
 		<key>@MMK_R_B</key>
 		<integer>11</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>23</integer>
 		<key>@MMK_R_D</key>
 		<integer>11</integer>
 		<key>@MMK_R_J</key>
@@ -15015,10 +13052,6 @@
 		<integer>29</integer>
 		<key>@MMK_R_Z</key>
 		<integer>17</integer>
-		<key>@MMK_R_cent</key>
-		<integer>-10</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>29</integer>
 		<key>@MMK_R_eta</key>
 		<integer>11</integer>
 		<key>@MMK_R_h</key>
@@ -15033,8 +13066,6 @@
 		<integer>25</integer>
 		<key>@MMK_R_n</key>
 		<integer>11</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>22</integer>
 		<key>@MMK_R_r</key>
 		<integer>11</integer>
 		<key>@MMK_R_s</key>
@@ -15150,13 +13181,9 @@
 		<integer>-28</integer>
 		<key>@MMK_R_C</key>
 		<integer>-22</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-28</integer>
 		<key>@MMK_R_D</key>
 		<integer>-28</integer>
 		<key>@MMK_R_E</key>
-		<integer>-28</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>-28</integer>
 		<key>@MMK_R_G</key>
 		<integer>-20</integer>
@@ -15194,24 +13221,16 @@
 		<integer>-45</integer>
 		<key>@MMK_R_c</key>
 		<integer>-52</integer>
-		<key>@MMK_R_cent</key>
-		<integer>19</integer>
 		<key>@MMK_R_d</key>
 		<integer>-45</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-40</integer>
 		<key>@MMK_R_e</key>
 		<integer>-49</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-58</integer>
 		<key>@MMK_R_eta</key>
 		<integer>-37</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>29</integer>
 		<key>@MMK_R_g</key>
 		<integer>-49</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>25</integer>
 		<key>@MMK_R_h</key>
 		<integer>-28</integer>
 		<key>@MMK_R_i</key>
@@ -15230,8 +13249,6 @@
 		<integer>-49</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-53</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>42</integer>
 		<key>@MMK_R_r</key>
 		<integer>-37</integer>
 		<key>@MMK_R_s</key>
@@ -15467,13 +13484,9 @@
 		<integer>-24</integer>
 		<key>@MMK_R_C</key>
 		<integer>-31</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-27</integer>
 		<key>@MMK_R_D</key>
 		<integer>-24</integer>
 		<key>@MMK_R_E</key>
-		<integer>-24</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>-24</integer>
 		<key>@MMK_R_G</key>
 		<integer>-29</integer>
@@ -15509,26 +13522,16 @@
 		<integer>-55</integer>
 		<key>@MMK_R_c</key>
 		<integer>-62</integer>
-		<key>@MMK_R_cent</key>
-		<integer>20</integer>
 		<key>@MMK_R_d</key>
 		<integer>-55</integer>
-		<key>@MMK_R_dotlessi</key>
-		<integer>-46</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-49</integer>
 		<key>@MMK_R_e</key>
 		<integer>-59</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-68</integer>
 		<key>@MMK_R_eta</key>
 		<integer>-46</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>30</integer>
 		<key>@MMK_R_g</key>
 		<integer>-59</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>26</integer>
 		<key>@MMK_R_h</key>
 		<integer>-24</integer>
 		<key>@MMK_R_i</key>
@@ -15547,8 +13550,6 @@
 		<integer>-58</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-63</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>45</integer>
 		<key>@MMK_R_r</key>
 		<integer>-46</integer>
 		<key>@MMK_R_s</key>
@@ -15778,13 +13779,9 @@
 		<integer>-16</integer>
 		<key>@MMK_R_C</key>
 		<integer>-11</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-25</integer>
 		<key>@MMK_R_D</key>
 		<integer>-16</integer>
 		<key>@MMK_R_E</key>
-		<integer>-16</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>-16</integer>
 		<key>@MMK_R_G</key>
 		<integer>-10</integer>
@@ -15822,20 +13819,14 @@
 		<integer>-13</integer>
 		<key>@MMK_R_d</key>
 		<integer>-23</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-39</integer>
 		<key>@MMK_R_e</key>
 		<integer>-10</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-20</integer>
 		<key>@MMK_R_eta</key>
 		<integer>-15</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>16</integer>
 		<key>@MMK_R_g</key>
 		<integer>-14</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>12</integer>
 		<key>@MMK_R_h</key>
 		<integer>-16</integer>
 		<key>@MMK_R_i</key>
@@ -15854,8 +13845,6 @@
 		<integer>-12</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-14</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>49</integer>
 		<key>@MMK_R_r</key>
 		<integer>-15</integer>
 		<key>@MMK_R_s</key>
@@ -16061,14 +14050,10 @@
 		<integer>38</integer>
 		<key>@MMK_R_Z</key>
 		<integer>-13</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-23</integer>
 		<key>@MMK_R_mu</key>
 		<integer>-20</integer>
 		<key>@MMK_R_nu</key>
 		<integer>46</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>38</integer>
 		<key>@MMK_R_w</key>
 		<integer>46</integer>
 		<key>@MMK_R_z</key>
@@ -16160,8 +14145,6 @@
 		<integer>-21</integer>
 		<key>@MMK_R_C</key>
 		<integer>20</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-52</integer>
 		<key>@MMK_R_G</key>
 		<integer>22</integer>
 		<key>@MMK_R_J</key>
@@ -16182,16 +14165,12 @@
 		<integer>21</integer>
 		<key>@MMK_R_d</key>
 		<integer>19</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-69</integer>
 		<key>@MMK_R_e</key>
 		<integer>19</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>20</integer>
 		<key>@MMK_R_g</key>
 		<integer>17</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>13</integer>
 		<key>@MMK_R_mu</key>
 		<integer>-16</integer>
 		<key>@MMK_R_nu</key>
@@ -16200,8 +14179,6 @@
 		<integer>22</integer>
 		<key>@MMK_R_omega</key>
 		<integer>19</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>27</integer>
 		<key>@MMK_R_u</key>
 		<integer>12</integer>
 		<key>@MMK_R_upsilon</key>
@@ -16343,13 +14320,9 @@
 		<integer>-16</integer>
 		<key>@MMK_R_C</key>
 		<integer>-11</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-25</integer>
 		<key>@MMK_R_D</key>
 		<integer>-16</integer>
 		<key>@MMK_R_E</key>
-		<integer>-16</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>-16</integer>
 		<key>@MMK_R_G</key>
 		<integer>-10</integer>
@@ -16387,20 +14360,14 @@
 		<integer>-13</integer>
 		<key>@MMK_R_d</key>
 		<integer>-23</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-39</integer>
 		<key>@MMK_R_e</key>
 		<integer>-10</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-20</integer>
 		<key>@MMK_R_eta</key>
 		<integer>-15</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>16</integer>
 		<key>@MMK_R_g</key>
 		<integer>-14</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>12</integer>
 		<key>@MMK_R_h</key>
 		<integer>-16</integer>
 		<key>@MMK_R_i</key>
@@ -16419,8 +14386,6 @@
 		<integer>-12</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-14</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>48</integer>
 		<key>@MMK_R_r</key>
 		<integer>-15</integer>
 		<key>@MMK_R_s</key>
@@ -16618,8 +14583,6 @@
 		<integer>-54</integer>
 		<key>@MMK_R_C</key>
 		<integer>18</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-54</integer>
 		<key>@MMK_R_G</key>
 		<integer>20</integer>
 		<key>@MMK_R_J</key>
@@ -16640,16 +14603,12 @@
 		<integer>15</integer>
 		<key>@MMK_R_g</key>
 		<integer>11</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>14</integer>
 		<key>@MMK_R_mu</key>
 		<integer>-18</integer>
 		<key>@MMK_R_nu</key>
 		<integer>42</integer>
 		<key>@MMK_R_o</key>
 		<integer>12</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>21</integer>
 		<key>@MMK_R_u</key>
 		<integer>10</integer>
 		<key>@MMK_R_upsilon</key>
@@ -16785,8 +14744,6 @@
 	<dict>
 		<key>@MMK_R_A</key>
 		<integer>-29</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-33</integer>
 		<key>@MMK_R_G</key>
 		<integer>11</integer>
 		<key>@MMK_R_J</key>
@@ -16813,12 +14770,8 @@
 		<integer>-18</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-26</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>14</integer>
 		<key>@MMK_R_g</key>
 		<integer>-18</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>10</integer>
 		<key>@MMK_R_mu</key>
 		<integer>-27</integer>
 		<key>@MMK_R_nu</key>
@@ -16827,8 +14780,6 @@
 		<integer>-18</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-22</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>22</integer>
 		<key>@MMK_R_s</key>
 		<integer>-11</integer>
 		<key>@MMK_R_w</key>
@@ -16978,8 +14929,6 @@
 		<integer>-86</integer>
 		<key>@MMK_R_C</key>
 		<integer>17</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-86</integer>
 		<key>@MMK_R_G</key>
 		<integer>19</integer>
 		<key>@MMK_R_J</key>
@@ -17000,18 +14949,12 @@
 		<integer>-13</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-14</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>16</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>12</integer>
 		<key>@MMK_R_mu</key>
 		<integer>-19</integer>
 		<key>@MMK_R_nu</key>
 		<integer>58</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-14</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>26</integer>
 		<key>@MMK_R_s</key>
 		<integer>-23</integer>
 		<key>@MMK_R_upsilon</key>
@@ -17177,8 +15120,6 @@
 		<integer>25</integer>
 		<key>@MMK_R_E</key>
 		<integer>25</integer>
-		<key>@MMK_R_Eta</key>
-		<integer>25</integer>
 		<key>@MMK_R_G</key>
 		<integer>40</integer>
 		<key>@MMK_R_I</key>
@@ -17215,23 +15156,15 @@
 		<integer>39</integer>
 		<key>@MMK_R_c</key>
 		<integer>40</integer>
-		<key>@MMK_R_cent</key>
-		<integer>29</integer>
 		<key>@MMK_R_d</key>
 		<integer>39</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-49</integer>
 		<key>@MMK_R_e</key>
 		<integer>40</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>42</integer>
 		<key>@MMK_R_eta</key>
 		<integer>25</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>-13</integer>
 		<key>@MMK_R_g</key>
-		<integer>36</integer>
-		<key>@MMK_R_guillemotright</key>
 		<integer>36</integer>
 		<key>@MMK_R_h</key>
 		<integer>25</integer>
@@ -17249,8 +15182,6 @@
 		<integer>40</integer>
 		<key>@MMK_R_omega</key>
 		<integer>37</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-30</integer>
 		<key>@MMK_R_r</key>
 		<integer>25</integer>
 		<key>@MMK_R_s</key>
@@ -17452,8 +15383,6 @@
 		<integer>10</integer>
 		<key>@MMK_R_C</key>
 		<integer>19</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>22</integer>
 		<key>@MMK_R_D</key>
 		<integer>10</integer>
 		<key>@MMK_R_G</key>
@@ -17486,8 +15415,6 @@
 		<integer>18</integer>
 		<key>@MMK_R_d</key>
 		<integer>17</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>28</integer>
 		<key>@MMK_R_e</key>
 		<integer>18</integer>
 		<key>@MMK_R_eta</key>
@@ -17510,8 +15437,6 @@
 		<integer>20</integer>
 		<key>@MMK_R_omega</key>
 		<integer>15</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-20</integer>
 		<key>@MMK_R_r</key>
 		<integer>10</integer>
 		<key>@MMK_R_s</key>
@@ -17687,8 +15612,6 @@
 		<integer>10</integer>
 		<key>@MMK_R_C</key>
 		<integer>14</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>22</integer>
 		<key>@MMK_R_D</key>
 		<integer>10</integer>
 		<key>@MMK_R_G</key>
@@ -17721,16 +15644,12 @@
 		<integer>12</integer>
 		<key>@MMK_R_d</key>
 		<integer>13</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>28</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>14</integer>
 		<key>@MMK_R_eta</key>
 		<integer>10</integer>
 		<key>@MMK_R_g</key>
 		<integer>11</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>10</integer>
 		<key>@MMK_R_h</key>
 		<integer>10</integer>
 		<key>@MMK_R_k</key>
@@ -17745,8 +15664,6 @@
 		<integer>28</integer>
 		<key>@MMK_R_o</key>
 		<integer>13</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-20</integer>
 		<key>@MMK_R_r</key>
 		<integer>10</integer>
 		<key>@MMK_R_s</key>
@@ -17930,8 +15847,6 @@
 		<integer>16</integer>
 		<key>@MMK_R_c</key>
 		<integer>13</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-18</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>11</integer>
 		<key>@MMK_R_kappa</key>
@@ -17942,8 +15857,6 @@
 		<integer>25</integer>
 		<key>@MMK_R_o</key>
 		<integer>14</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-28</integer>
 		<key>@MMK_R_s</key>
 		<integer>11</integer>
 		<key>@MMK_R_w</key>
@@ -18091,13 +16004,9 @@
 		<integer>50</integer>
 		<key>@MMK_R_C</key>
 		<integer>19</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>60</integer>
 		<key>@MMK_R_D</key>
 		<integer>50</integer>
 		<key>@MMK_R_E</key>
-		<integer>50</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>50</integer>
 		<key>@MMK_R_G</key>
 		<integer>17</integer>
@@ -18133,26 +16042,16 @@
 		<integer>29</integer>
 		<key>@MMK_R_c</key>
 		<integer>27</integer>
-		<key>@MMK_R_cent</key>
-		<integer>16</integer>
 		<key>@MMK_R_d</key>
 		<integer>28</integer>
-		<key>@MMK_R_dotlessi</key>
-		<integer>50</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-24</integer>
 		<key>@MMK_R_e</key>
 		<integer>37</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>32</integer>
 		<key>@MMK_R_eta</key>
 		<integer>50</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>-12</integer>
 		<key>@MMK_R_g</key>
 		<integer>28</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>-16</integer>
 		<key>@MMK_R_h</key>
 		<integer>50</integer>
 		<key>@MMK_R_i</key>
@@ -18171,8 +16070,6 @@
 		<integer>23</integer>
 		<key>@MMK_R_omega</key>
 		<integer>28</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-31</integer>
 		<key>@MMK_R_r</key>
 		<integer>50</integer>
 		<key>@MMK_R_s</key>
@@ -18400,8 +16297,6 @@
 		<integer>24</integer>
 		<key>@MMK_R_B</key>
 		<integer>12</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>24</integer>
 		<key>@MMK_R_D</key>
 		<integer>12</integer>
 		<key>@MMK_R_J</key>
@@ -18426,8 +16321,6 @@
 		<integer>29</integer>
 		<key>@MMK_R_Z</key>
 		<integer>18</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>30</integer>
 		<key>@MMK_R_eta</key>
 		<integer>12</integer>
 		<key>@MMK_R_h</key>
@@ -18444,8 +16337,6 @@
 		<integer>12</integer>
 		<key>@MMK_R_nu</key>
 		<integer>15</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>43</integer>
 		<key>@MMK_R_r</key>
 		<integer>12</integer>
 		<key>@MMK_R_s</key>
@@ -18565,8 +16456,6 @@
 		<integer>-75</integer>
 		<key>@MMK_R_C</key>
 		<integer>21</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-92</integer>
 		<key>@MMK_R_G</key>
 		<integer>23</integer>
 		<key>@MMK_R_J</key>
@@ -18591,12 +16480,8 @@
 		<integer>12</integer>
 		<key>@MMK_R_d</key>
 		<integer>18</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>10</integer>
 		<key>@MMK_R_g</key>
 		<integer>15</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>17</integer>
 		<key>@MMK_R_mu</key>
 		<integer>-15</integer>
 		<key>@MMK_R_nu</key>
@@ -18758,10 +16643,6 @@
 		<integer>11</integer>
 		<key>@MMK_R_d</key>
 		<integer>12</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-22</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>-12</integer>
 		<key>@MMK_R_g</key>
 		<integer>10</integer>
 		<key>@MMK_R_mu</key>
@@ -18772,8 +16653,6 @@
 		<integer>12</integer>
 		<key>@MMK_R_omega</key>
 		<integer>10</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-31</integer>
 		<key>@MMK_R_u</key>
 		<integer>10</integer>
 		<key>@MMK_R_upsilon</key>
@@ -18909,8 +16788,6 @@
 		<integer>24</integer>
 		<key>@MMK_R_B</key>
 		<integer>12</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>24</integer>
 		<key>@MMK_R_D</key>
 		<integer>12</integer>
 		<key>@MMK_R_J</key>
@@ -18931,8 +16808,6 @@
 		<integer>27</integer>
 		<key>@MMK_R_Z</key>
 		<integer>18</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>30</integer>
 		<key>@MMK_R_eta</key>
 		<integer>12</integer>
 		<key>@MMK_R_h</key>
@@ -18949,8 +16824,6 @@
 		<integer>12</integer>
 		<key>@MMK_R_nu</key>
 		<integer>41</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-12</integer>
 		<key>@MMK_R_r</key>
 		<integer>12</integer>
 		<key>@MMK_R_s</key>
@@ -19088,13 +16961,9 @@
 		<integer>-49</integer>
 		<key>@MMK_R_B</key>
 		<integer>-12</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-82</integer>
 		<key>@MMK_R_D</key>
 		<integer>-11</integer>
 		<key>@MMK_R_E</key>
-		<integer>-12</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>-12</integer>
 		<key>@MMK_R_J</key>
 		<integer>-44</integer>
@@ -19114,8 +16983,6 @@
 		<integer>35</integer>
 		<key>@MMK_R_Z</key>
 		<integer>-31</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-18</integer>
 		<key>@MMK_R_h</key>
 		<integer>-12</integer>
 		<key>@MMK_R_k</key>
@@ -19124,8 +16991,6 @@
 		<integer>-27</integer>
 		<key>@MMK_R_nu</key>
 		<integer>52</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>40</integer>
 		<key>@MMK_R_s</key>
 		<integer>-23</integer>
 		<key>@MMK_R_w</key>
@@ -19263,8 +17128,6 @@
 		<integer>24</integer>
 		<key>@MMK_R_B</key>
 		<integer>12</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>24</integer>
 		<key>@MMK_R_D</key>
 		<integer>12</integer>
 		<key>@MMK_R_J</key>
@@ -19289,8 +17152,6 @@
 		<integer>31</integer>
 		<key>@MMK_R_Z</key>
 		<integer>18</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>30</integer>
 		<key>@MMK_R_eta</key>
 		<integer>12</integer>
 		<key>@MMK_R_h</key>
@@ -19307,8 +17168,6 @@
 		<integer>12</integer>
 		<key>@MMK_R_nu</key>
 		<integer>23</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>16</integer>
 		<key>@MMK_R_r</key>
 		<integer>12</integer>
 		<key>@MMK_R_s</key>
@@ -19434,8 +17293,6 @@
 		<integer>-14</integer>
 		<key>@MMK_R_C</key>
 		<integer>18</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-14</integer>
 		<key>@MMK_R_G</key>
 		<integer>19</integer>
 		<key>@MMK_R_J</key>
@@ -19456,16 +17313,12 @@
 		<integer>18</integer>
 		<key>@MMK_R_d</key>
 		<integer>17</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-13</integer>
 		<key>@MMK_R_e</key>
 		<integer>17</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>18</integer>
 		<key>@MMK_R_g</key>
 		<integer>15</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>10</integer>
 		<key>@MMK_R_mu</key>
 		<integer>-13</integer>
 		<key>@MMK_R_nu</key>
@@ -19474,8 +17327,6 @@
 		<integer>20</integer>
 		<key>@MMK_R_omega</key>
 		<integer>16</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-21</integer>
 		<key>@MMK_R_u</key>
 		<integer>11</integer>
 		<key>@MMK_R_upsilon</key>
@@ -19629,13 +17480,9 @@
 		<integer>-18</integer>
 		<key>@MMK_R_C</key>
 		<integer>-13</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-27</integer>
 		<key>@MMK_R_D</key>
 		<integer>-18</integer>
 		<key>@MMK_R_E</key>
-		<integer>-18</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>-18</integer>
 		<key>@MMK_R_G</key>
 		<integer>-11</integer>
@@ -19673,20 +17520,14 @@
 		<integer>-15</integer>
 		<key>@MMK_R_d</key>
 		<integer>-24</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-41</integer>
 		<key>@MMK_R_e</key>
 		<integer>-12</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-22</integer>
 		<key>@MMK_R_eta</key>
 		<integer>-17</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>17</integer>
 		<key>@MMK_R_g</key>
 		<integer>-15</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>13</integer>
 		<key>@MMK_R_h</key>
 		<integer>-18</integer>
 		<key>@MMK_R_i</key>
@@ -19705,8 +17546,6 @@
 		<integer>-13</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-15</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>48</integer>
 		<key>@MMK_R_r</key>
 		<integer>-17</integer>
 		<key>@MMK_R_s</key>
@@ -19912,8 +17751,6 @@
 		<integer>-89</integer>
 		<key>@MMK_R_B</key>
 		<integer>-17</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-60</integer>
 		<key>@MMK_R_D</key>
 		<integer>-17</integer>
 		<key>@MMK_R_I</key>
@@ -19950,16 +17787,12 @@
 		<integer>-13</integer>
 		<key>@MMK_R_d</key>
 		<integer>-10</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-31</integer>
 		<key>@MMK_R_e</key>
 		<integer>-12</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-25</integer>
 		<key>@MMK_R_eta</key>
 		<integer>-20</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>13</integer>
 		<key>@MMK_R_g</key>
 		<integer>-12</integer>
 		<key>@MMK_R_h</key>
@@ -19980,8 +17813,6 @@
 		<integer>-11</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-16</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>52</integer>
 		<key>@MMK_R_r</key>
 		<integer>-20</integer>
 		<key>@MMK_R_s</key>
@@ -20175,13 +18006,9 @@
 		<integer>-55</integer>
 		<key>@MMK_R_B</key>
 		<integer>-17</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-72</integer>
 		<key>@MMK_R_D</key>
 		<integer>-17</integer>
 		<key>@MMK_R_E</key>
-		<integer>-17</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>-17</integer>
 		<key>@MMK_R_J</key>
 		<integer>-37</integer>
@@ -20215,20 +18042,14 @@
 		<integer>-20</integer>
 		<key>@MMK_R_d</key>
 		<integer>-23</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-44</integer>
 		<key>@MMK_R_e</key>
 		<integer>-20</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-21</integer>
 		<key>@MMK_R_eta</key>
 		<integer>-25</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>19</integer>
 		<key>@MMK_R_g</key>
 		<integer>-22</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>15</integer>
 		<key>@MMK_R_h</key>
 		<integer>-17</integer>
 		<key>@MMK_R_i</key>
@@ -20247,8 +18068,6 @@
 		<integer>-19</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-23</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>66</integer>
 		<key>@MMK_R_r</key>
 		<integer>-25</integer>
 		<key>@MMK_R_s</key>
@@ -20468,8 +18287,6 @@
 		<integer>-20</integer>
 		<key>@MMK_R_C</key>
 		<integer>16</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-32</integer>
 		<key>@MMK_R_G</key>
 		<integer>17</integer>
 		<key>@MMK_R_S</key>
@@ -20488,8 +18305,6 @@
 		<integer>13</integer>
 		<key>@MMK_R_d</key>
 		<integer>12</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-16</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>13</integer>
 		<key>@MMK_R_g</key>
@@ -20502,8 +18317,6 @@
 		<integer>14</integer>
 		<key>@MMK_R_omega</key>
 		<integer>11</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-17</integer>
 		<key>@MMK_R_u</key>
 		<integer>11</integer>
 		<key>@MMK_R_upsilon</key>
@@ -20657,8 +18470,6 @@
 		<integer>24</integer>
 		<key>@MMK_R_B</key>
 		<integer>12</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>24</integer>
 		<key>@MMK_R_D</key>
 		<integer>12</integer>
 		<key>@MMK_R_J</key>
@@ -20683,8 +18494,6 @@
 		<integer>31</integer>
 		<key>@MMK_R_Z</key>
 		<integer>18</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>30</integer>
 		<key>@MMK_R_eta</key>
 		<integer>12</integer>
 		<key>@MMK_R_h</key>
@@ -20701,8 +18510,6 @@
 		<integer>12</integer>
 		<key>@MMK_R_nu</key>
 		<integer>13</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>32</integer>
 		<key>@MMK_R_r</key>
 		<integer>12</integer>
 		<key>@MMK_R_s</key>
@@ -20822,8 +18629,6 @@
 		<integer>26</integer>
 		<key>@MMK_R_B</key>
 		<integer>14</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>26</integer>
 		<key>@MMK_R_D</key>
 		<integer>14</integer>
 		<key>@MMK_R_J</key>
@@ -20848,8 +18653,6 @@
 		<integer>28</integer>
 		<key>@MMK_R_Z</key>
 		<integer>20</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>32</integer>
 		<key>@MMK_R_eta</key>
 		<integer>14</integer>
 		<key>@MMK_R_h</key>
@@ -20864,8 +18667,6 @@
 		<integer>28</integer>
 		<key>@MMK_R_n</key>
 		<integer>14</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-16</integer>
 		<key>@MMK_R_r</key>
 		<integer>14</integer>
 		<key>@MMK_R_s</key>
@@ -20983,8 +18784,6 @@
 	<dict>
 		<key>@MMK_R_A</key>
 		<integer>19</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>19</integer>
 		<key>@MMK_R_J</key>
 		<integer>14</integer>
 		<key>@MMK_R_O</key>
@@ -20997,14 +18796,10 @@
 		<integer>25</integer>
 		<key>@MMK_R_Z</key>
 		<integer>13</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>25</integer>
 		<key>@MMK_R_mu</key>
 		<integer>21</integer>
 		<key>@MMK_R_nu</key>
 		<integer>20</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>32</integer>
 		<key>@MMK_R_s</key>
 		<integer>12</integer>
 		<key>@MMK_R_w</key>
@@ -21108,8 +18903,6 @@
 		<integer>25</integer>
 		<key>@MMK_R_B</key>
 		<integer>13</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>25</integer>
 		<key>@MMK_R_D</key>
 		<integer>13</integer>
 		<key>@MMK_R_J</key>
@@ -21134,8 +18927,6 @@
 		<integer>32</integer>
 		<key>@MMK_R_Z</key>
 		<integer>19</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>31</integer>
 		<key>@MMK_R_eta</key>
 		<integer>13</integer>
 		<key>@MMK_R_h</key>
@@ -21271,13 +19062,9 @@
 		<integer>50</integer>
 		<key>@MMK_R_C</key>
 		<integer>29</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>45</integer>
 		<key>@MMK_R_D</key>
 		<integer>50</integer>
 		<key>@MMK_R_E</key>
-		<integer>50</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>50</integer>
 		<key>@MMK_R_G</key>
 		<integer>27</integer>
@@ -21313,8 +19100,6 @@
 		<integer>36</integer>
 		<key>@MMK_R_c</key>
 		<integer>35</integer>
-		<key>@MMK_R_cent</key>
-		<integer>24</integer>
 		<key>@MMK_R_d</key>
 		<integer>35</integer>
 		<key>@MMK_R_e</key>
@@ -21323,12 +19108,8 @@
 		<integer>39</integer>
 		<key>@MMK_R_eta</key>
 		<integer>50</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>-24</integer>
 		<key>@MMK_R_g</key>
 		<integer>35</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>11</integer>
 		<key>@MMK_R_h</key>
 		<integer>50</integer>
 		<key>@MMK_R_i</key>
@@ -21347,8 +19128,6 @@
 		<integer>32</integer>
 		<key>@MMK_R_omega</key>
 		<integer>35</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>12</integer>
 		<key>@MMK_R_r</key>
 		<integer>50</integer>
 		<key>@MMK_R_s</key>
@@ -21580,8 +19359,6 @@
 		<integer>24</integer>
 		<key>@MMK_R_E</key>
 		<integer>24</integer>
-		<key>@MMK_R_Eta</key>
-		<integer>24</integer>
 		<key>@MMK_R_G</key>
 		<integer>36</integer>
 		<key>@MMK_R_J</key>
@@ -21614,8 +19391,6 @@
 		<integer>36</integer>
 		<key>@MMK_R_c</key>
 		<integer>37</integer>
-		<key>@MMK_R_cent</key>
-		<integer>26</integer>
 		<key>@MMK_R_d</key>
 		<integer>36</integer>
 		<key>@MMK_R_e</key>
@@ -21624,11 +19399,7 @@
 		<integer>40</integer>
 		<key>@MMK_R_eta</key>
 		<integer>24</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>-18</integer>
 		<key>@MMK_R_g</key>
-		<integer>33</integer>
-		<key>@MMK_R_guillemotright</key>
 		<integer>33</integer>
 		<key>@MMK_R_h</key>
 		<integer>24</integer>
@@ -21646,8 +19417,6 @@
 		<integer>37</integer>
 		<key>@MMK_R_omega</key>
 		<integer>34</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-37</integer>
 		<key>@MMK_R_r</key>
 		<integer>24</integer>
 		<key>@MMK_R_s</key>
@@ -21859,8 +19628,6 @@
 		<integer>-19</integer>
 		<key>@MMK_R_C</key>
 		<integer>16</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-35</integer>
 		<key>@MMK_R_G</key>
 		<integer>18</integer>
 		<key>@MMK_R_S</key>
@@ -21879,14 +19646,10 @@
 		<integer>17</integer>
 		<key>@MMK_R_d</key>
 		<integer>14</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-23</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>16</integer>
 		<key>@MMK_R_g</key>
 		<integer>13</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>10</integer>
 		<key>@MMK_R_mu</key>
 		<integer>-14</integer>
 		<key>@MMK_R_nu</key>
@@ -21895,8 +19658,6 @@
 		<integer>18</integer>
 		<key>@MMK_R_omega</key>
 		<integer>14</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-28</integer>
 		<key>@MMK_R_u</key>
 		<integer>10</integer>
 		<key>@MMK_R_upsilon</key>
@@ -22088,8 +19849,6 @@
 		<integer>11</integer>
 		<key>@MMK_R_d</key>
 		<integer>10</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-22</integer>
 		<key>@MMK_R_eta</key>
 		<integer>10</integer>
 		<key>@MMK_R_h</key>
@@ -22106,8 +19865,6 @@
 		<integer>47</integer>
 		<key>@MMK_R_o</key>
 		<integer>10</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>35</integer>
 		<key>@MMK_R_s</key>
 		<integer>25</integer>
 		<key>@MMK_R_upsilon</key>
@@ -22247,8 +20004,6 @@
 		<integer>22</integer>
 		<key>@MMK_R_B</key>
 		<integer>10</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>22</integer>
 		<key>@MMK_R_D</key>
 		<integer>10</integer>
 		<key>@MMK_R_G</key>
@@ -22273,8 +20028,6 @@
 		<integer>16</integer>
 		<key>@MMK_R_c</key>
 		<integer>10</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>28</integer>
 		<key>@MMK_R_eta</key>
 		<integer>10</integer>
 		<key>@MMK_R_h</key>
@@ -22291,8 +20044,6 @@
 		<integer>34</integer>
 		<key>@MMK_R_o</key>
 		<integer>11</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-20</integer>
 		<key>@MMK_R_r</key>
 		<integer>10</integer>
 		<key>@MMK_R_s</key>
@@ -22446,8 +20197,6 @@
 		<integer>24</integer>
 		<key>@MMK_R_B</key>
 		<integer>12</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>24</integer>
 		<key>@MMK_R_D</key>
 		<integer>12</integer>
 		<key>@MMK_R_G</key>
@@ -22470,8 +20219,6 @@
 		<integer>27</integer>
 		<key>@MMK_R_Z</key>
 		<integer>18</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>30</integer>
 		<key>@MMK_R_eta</key>
 		<integer>12</integer>
 		<key>@MMK_R_h</key>
@@ -22488,8 +20235,6 @@
 		<integer>12</integer>
 		<key>@MMK_R_nu</key>
 		<integer>41</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-18</integer>
 		<key>@MMK_R_r</key>
 		<integer>12</integer>
 		<key>@MMK_R_s</key>
@@ -22647,8 +20392,6 @@
 		<integer>-26</integer>
 		<key>@MMK_R_C</key>
 		<integer>16</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-42</integer>
 		<key>@MMK_R_G</key>
 		<integer>17</integer>
 		<key>@MMK_R_S</key>
@@ -22679,8 +20422,6 @@
 		<integer>13</integer>
 		<key>@MMK_R_omega</key>
 		<integer>11</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>21</integer>
 		<key>@MMK_R_u</key>
 		<integer>11</integer>
 		<key>@MMK_R_upsilon</key>
@@ -22832,16 +20573,12 @@
 		<integer>32</integer>
 		<key>@MMK_R_alpha</key>
 		<integer>11</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-18</integer>
 		<key>@MMK_R_mu</key>
 		<integer>-15</integer>
 		<key>@MMK_R_nu</key>
 		<integer>51</integer>
 		<key>@MMK_R_o</key>
 		<integer>10</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>39</integer>
 		<key>@MMK_R_upsilon</key>
 		<integer>12</integer>
 		<key>@MMK_R_w</key>
@@ -22937,8 +20674,6 @@
 	<dict>
 		<key>@MMK_R_A</key>
 		<integer>15</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>15</integer>
 		<key>@MMK_R_J</key>
 		<integer>10</integer>
 		<key>@MMK_R_O</key>
@@ -22947,18 +20682,12 @@
 		<integer>39</integer>
 		<key>@MMK_R_W</key>
 		<integer>20</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>21</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>-12</integer>
 		<key>@MMK_R_mu</key>
 		<integer>17</integer>
 		<key>@MMK_R_nu</key>
 		<integer>32</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-10</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>27</integer>
 		<key>@MMK_R_u</key>
 		<integer>-13</integer>
 		<key>@MMK_R_upsilon</key>
@@ -23098,13 +20827,9 @@
 		<integer>27</integer>
 		<key>@MMK_R_C</key>
 		<integer>41</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>11</integer>
 		<key>@MMK_R_D</key>
 		<integer>27</integer>
 		<key>@MMK_R_E</key>
-		<integer>27</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>27</integer>
 		<key>@MMK_R_G</key>
 		<integer>42</integer>
@@ -23138,25 +20863,15 @@
 		<integer>41</integer>
 		<key>@MMK_R_c</key>
 		<integer>42</integer>
-		<key>@MMK_R_cent</key>
-		<integer>31</integer>
 		<key>@MMK_R_d</key>
 		<integer>41</integer>
-		<key>@MMK_R_dotlessi</key>
-		<integer>27</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>17</integer>
 		<key>@MMK_R_e</key>
 		<integer>42</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>44</integer>
 		<key>@MMK_R_eta</key>
 		<integer>27</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>-12</integer>
 		<key>@MMK_R_g</key>
-		<integer>38</integer>
-		<key>@MMK_R_guillemotright</key>
 		<integer>38</integer>
 		<key>@MMK_R_h</key>
 		<integer>27</integer>
@@ -23393,8 +21108,6 @@
 	<dict>
 		<key>@MMK_R_A</key>
 		<integer>18</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>18</integer>
 		<key>@MMK_R_J</key>
 		<integer>13</integer>
 		<key>@MMK_R_O</key>
@@ -23405,16 +21118,10 @@
 		<integer>34</integer>
 		<key>@MMK_R_Z</key>
 		<integer>12</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>79</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>46</integer>
 		<key>@MMK_R_mu</key>
 		<integer>20</integer>
 		<key>@MMK_R_nu</key>
 		<integer>41</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>17</integer>
 		<key>@MMK_R_s</key>
 		<integer>11</integer>
 		<key>@MMK_R_w</key>
@@ -23534,8 +21241,6 @@
 		<integer>22</integer>
 		<key>@MMK_R_B</key>
 		<integer>10</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>22</integer>
 		<key>@MMK_R_D</key>
 		<integer>10</integer>
 		<key>@MMK_R_J</key>
@@ -23558,8 +21263,6 @@
 		<integer>32</integer>
 		<key>@MMK_R_Z</key>
 		<integer>16</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>28</integer>
 		<key>@MMK_R_eta</key>
 		<integer>10</integer>
 		<key>@MMK_R_h</key>
@@ -23574,8 +21277,6 @@
 		<integer>10</integer>
 		<key>@MMK_R_nu</key>
 		<integer>-10</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>22</integer>
 		<key>@MMK_R_r</key>
 		<integer>10</integer>
 		<key>@MMK_R_s</key>
@@ -23691,8 +21392,6 @@
 	<dict>
 		<key>@MMK_R_A</key>
 		<integer>18</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>18</integer>
 		<key>@MMK_R_J</key>
 		<integer>13</integer>
 		<key>@MMK_R_O</key>
@@ -23703,16 +21402,10 @@
 		<integer>34</integer>
 		<key>@MMK_R_Z</key>
 		<integer>12</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>79</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>46</integer>
 		<key>@MMK_R_mu</key>
 		<integer>20</integer>
 		<key>@MMK_R_nu</key>
 		<integer>41</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>17</integer>
 		<key>@MMK_R_s</key>
 		<integer>11</integer>
 		<key>@MMK_R_w</key>
@@ -23836,14 +21529,8 @@
 		<integer>26</integer>
 		<key>@MMK_R_W</key>
 		<integer>10</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>13</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>-16</integer>
 		<key>@MMK_R_nu</key>
 		<integer>17</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-34</integer>
 		<key>@MMK_R_w</key>
 		<integer>17</integer>
 		<key>Euro</key>
@@ -23961,8 +21648,6 @@
 		<integer>-17</integer>
 		<key>@MMK_R_C</key>
 		<integer>15</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-27</integer>
 		<key>@MMK_R_G</key>
 		<integer>17</integer>
 		<key>@MMK_R_S</key>
@@ -23981,12 +21666,8 @@
 		<integer>14</integer>
 		<key>@MMK_R_d</key>
 		<integer>13</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-22</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>14</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>-10</integer>
 		<key>@MMK_R_g</key>
 		<integer>11</integer>
 		<key>@MMK_R_mu</key>
@@ -23997,8 +21678,6 @@
 		<integer>16</integer>
 		<key>@MMK_R_omega</key>
 		<integer>11</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-29</integer>
 		<key>@MMK_R_u</key>
 		<integer>11</integer>
 		<key>@MMK_R_upsilon</key>
@@ -24164,13 +21843,9 @@
 		<integer>-25</integer>
 		<key>@MMK_R_C</key>
 		<integer>-16</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-26</integer>
 		<key>@MMK_R_D</key>
 		<integer>-25</integer>
 		<key>@MMK_R_E</key>
-		<integer>-25</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>-25</integer>
 		<key>@MMK_R_G</key>
 		<integer>-14</integer>
@@ -24206,26 +21881,16 @@
 		<integer>-87</integer>
 		<key>@MMK_R_c</key>
 		<integer>-93</integer>
-		<key>@MMK_R_cent</key>
-		<integer>21</integer>
 		<key>@MMK_R_d</key>
 		<integer>-88</integer>
-		<key>@MMK_R_dotlessi</key>
-		<integer>-52</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-55</integer>
 		<key>@MMK_R_e</key>
 		<integer>-89</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-89</integer>
 		<key>@MMK_R_eta</key>
 		<integer>-52</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>31</integer>
 		<key>@MMK_R_g</key>
 		<integer>-91</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>27</integer>
 		<key>@MMK_R_h</key>
 		<integer>-25</integer>
 		<key>@MMK_R_i</key>
@@ -24244,8 +21909,6 @@
 		<integer>-94</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-96</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>60</integer>
 		<key>@MMK_R_r</key>
 		<integer>-52</integer>
 		<key>@MMK_R_s</key>
@@ -24481,8 +22144,6 @@
 		<integer>-87</integer>
 		<key>@MMK_R_C</key>
 		<integer>16</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-87</integer>
 		<key>@MMK_R_G</key>
 		<integer>18</integer>
 		<key>@MMK_R_J</key>
@@ -24501,18 +22162,12 @@
 		<integer>-14</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-15</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>15</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>11</integer>
 		<key>@MMK_R_mu</key>
 		<integer>-20</integer>
 		<key>@MMK_R_nu</key>
 		<integer>57</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-15</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>29</integer>
 		<key>@MMK_R_s</key>
 		<integer>-24</integer>
 		<key>@MMK_R_upsilon</key>
@@ -24674,8 +22329,6 @@
 		<integer>-27</integer>
 		<key>@MMK_R_C</key>
 		<integer>13</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-27</integer>
 		<key>@MMK_R_G</key>
 		<integer>15</integer>
 		<key>@MMK_R_I</key>
@@ -24702,8 +22355,6 @@
 		<integer>-12</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-18</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>13</integer>
 		<key>@MMK_R_mu</key>
 		<integer>-23</integer>
 		<key>@MMK_R_nu</key>
@@ -24712,8 +22363,6 @@
 		<integer>-13</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-19</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>22</integer>
 		<key>@MMK_R_s</key>
 		<integer>-28</integer>
 		<key>@MMK_R_upsilon</key>
@@ -24851,13 +22500,9 @@
 		<integer>19</integer>
 		<key>@MMK_R_C</key>
 		<integer>34</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-36</integer>
 		<key>@MMK_R_D</key>
 		<integer>19</integer>
 		<key>@MMK_R_E</key>
-		<integer>19</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>19</integer>
 		<key>@MMK_R_G</key>
 		<integer>36</integer>
@@ -24891,8 +22536,6 @@
 		<integer>35</integer>
 		<key>@MMK_R_d</key>
 		<integer>33</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-55</integer>
 		<key>@MMK_R_e</key>
 		<integer>33</integer>
 		<key>@MMK_R_epsilon</key>
@@ -24901,8 +22544,6 @@
 		<integer>19</integer>
 		<key>@MMK_R_g</key>
 		<integer>31</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>27</integer>
 		<key>@MMK_R_h</key>
 		<integer>19</integer>
 		<key>@MMK_R_i</key>
@@ -24917,8 +22558,6 @@
 		<integer>36</integer>
 		<key>@MMK_R_omega</key>
 		<integer>33</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-28</integer>
 		<key>@MMK_R_s</key>
 		<integer>12</integer>
 		<key>@MMK_R_u</key>
@@ -25132,8 +22771,6 @@
 		<integer>23</integer>
 		<key>@MMK_R_B</key>
 		<integer>11</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>23</integer>
 		<key>@MMK_R_D</key>
 		<integer>11</integer>
 		<key>@MMK_R_J</key>
@@ -25158,10 +22795,6 @@
 		<integer>30</integer>
 		<key>@MMK_R_Z</key>
 		<integer>17</integer>
-		<key>@MMK_R_cent</key>
-		<integer>-10</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>29</integer>
 		<key>@MMK_R_eta</key>
 		<integer>11</integer>
 		<key>@MMK_R_h</key>
@@ -25178,8 +22811,6 @@
 		<integer>11</integer>
 		<key>@MMK_R_nu</key>
 		<integer>32</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>16</integer>
 		<key>@MMK_R_r</key>
 		<integer>11</integer>
 		<key>@MMK_R_s</key>
@@ -25321,8 +22952,6 @@
 	<dict>
 		<key>@MMK_R_A</key>
 		<integer>-41</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-45</integer>
 		<key>@MMK_R_I</key>
 		<integer>-19</integer>
 		<key>@MMK_R_J</key>
@@ -25339,18 +22968,12 @@
 		<integer>-39</integer>
 		<key>@MMK_R_a</key>
 		<integer>-28</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-11</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-10</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>12</integer>
 		<key>@MMK_R_mu</key>
 		<integer>-29</integer>
 		<key>@MMK_R_nu</key>
 		<integer>58</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>46</integer>
 		<key>@MMK_R_s</key>
 		<integer>-15</integer>
 		<key>@MMK_R_w</key>
@@ -25486,8 +23109,6 @@
 	<dict>
 		<key>@MMK_R_A</key>
 		<integer>-29</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-33</integer>
 		<key>@MMK_R_G</key>
 		<integer>11</integer>
 		<key>@MMK_R_J</key>
@@ -25514,12 +23135,8 @@
 		<integer>-15</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-25</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>14</integer>
 		<key>@MMK_R_g</key>
 		<integer>-17</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>10</integer>
 		<key>@MMK_R_mu</key>
 		<integer>-27</integer>
 		<key>@MMK_R_nu</key>
@@ -25528,8 +23145,6 @@
 		<integer>-16</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-19</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>22</integer>
 		<key>@MMK_R_s</key>
 		<integer>-11</integer>
 		<key>@MMK_R_w</key>
@@ -25681,13 +23296,9 @@
 		<integer>-45</integer>
 		<key>@MMK_R_B</key>
 		<integer>-15</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-61</integer>
 		<key>@MMK_R_D</key>
 		<integer>-14</integer>
 		<key>@MMK_R_E</key>
-		<integer>-15</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>-15</integer>
 		<key>@MMK_R_J</key>
 		<integer>-28</integer>
@@ -25711,14 +23322,8 @@
 		<integer>29</integer>
 		<key>@MMK_R_Z</key>
 		<integer>-25</integer>
-		<key>@MMK_R_cent</key>
-		<integer>-10</integer>
 		<key>@MMK_R_d</key>
 		<integer>-11</integer>
-		<key>@MMK_R_dotlessi</key>
-		<integer>-10</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-28</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-10</integer>
 		<key>@MMK_R_eta</key>
@@ -25735,8 +23340,6 @@
 		<integer>-31</integer>
 		<key>@MMK_R_nu</key>
 		<integer>42</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>36</integer>
 		<key>@MMK_R_r</key>
 		<integer>-10</integer>
 		<key>@MMK_R_s</key>
@@ -25892,8 +23495,6 @@
 		<integer>-46</integer>
 		<key>@MMK_R_C</key>
 		<integer>19</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-106</integer>
 		<key>@MMK_R_G</key>
 		<integer>21</integer>
 		<key>@MMK_R_J</key>
@@ -25916,8 +23517,6 @@
 		<integer>20</integer>
 		<key>@MMK_R_d</key>
 		<integer>18</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-16</integer>
 		<key>@MMK_R_e</key>
 		<integer>19</integer>
 		<key>@MMK_R_g</key>
@@ -25930,8 +23529,6 @@
 		<integer>22</integer>
 		<key>@MMK_R_omega</key>
 		<integer>17</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-23</integer>
 		<key>@MMK_R_u</key>
 		<integer>12</integer>
 		<key>@MMK_R_upsilon</key>
@@ -26083,8 +23680,6 @@
 		<integer>-20</integer>
 		<key>@MMK_R_C</key>
 		<integer>19</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-48</integer>
 		<key>@MMK_R_G</key>
 		<integer>22</integer>
 		<key>@MMK_R_S</key>
@@ -26103,16 +23698,12 @@
 		<integer>21</integer>
 		<key>@MMK_R_d</key>
 		<integer>18</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-70</integer>
 		<key>@MMK_R_e</key>
 		<integer>19</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>20</integer>
 		<key>@MMK_R_g</key>
 		<integer>16</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>13</integer>
 		<key>@MMK_R_mu</key>
 		<integer>-17</integer>
 		<key>@MMK_R_nu</key>
@@ -26121,8 +23712,6 @@
 		<integer>21</integer>
 		<key>@MMK_R_omega</key>
 		<integer>18</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>32</integer>
 		<key>@MMK_R_u</key>
 		<integer>12</integer>
 		<key>@MMK_R_upsilon</key>
@@ -26262,8 +23851,6 @@
 		<integer>23</integer>
 		<key>@MMK_R_B</key>
 		<integer>11</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>23</integer>
 		<key>@MMK_R_D</key>
 		<integer>11</integer>
 		<key>@MMK_R_J</key>
@@ -26286,10 +23873,6 @@
 		<integer>36</integer>
 		<key>@MMK_R_Z</key>
 		<integer>17</integer>
-		<key>@MMK_R_cent</key>
-		<integer>-10</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>29</integer>
 		<key>@MMK_R_eta</key>
 		<integer>11</integer>
 		<key>@MMK_R_h</key>
@@ -26306,8 +23889,6 @@
 		<integer>11</integer>
 		<key>@MMK_R_nu</key>
 		<integer>32</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>31</integer>
 		<key>@MMK_R_r</key>
 		<integer>11</integer>
 		<key>@MMK_R_s</key>
@@ -26431,13 +24012,9 @@
 		<integer>-24</integer>
 		<key>@MMK_R_C</key>
 		<integer>-13</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-12</integer>
 		<key>@MMK_R_D</key>
 		<integer>-24</integer>
 		<key>@MMK_R_E</key>
-		<integer>-24</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>-24</integer>
 		<key>@MMK_R_G</key>
 		<integer>-11</integer>
@@ -26475,10 +24052,6 @@
 		<integer>-18</integer>
 		<key>@MMK_R_d</key>
 		<integer>-19</integer>
-		<key>@MMK_R_dotlessi</key>
-		<integer>-24</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-31</integer>
 		<key>@MMK_R_e</key>
 		<integer>-14</integer>
 		<key>@MMK_R_epsilon</key>
@@ -26505,8 +24078,6 @@
 		<integer>-21</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-22</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>39</integer>
 		<key>@MMK_R_r</key>
 		<integer>-24</integer>
 		<key>@MMK_R_t</key>
@@ -26680,14 +24251,10 @@
 	<dict>
 		<key>@MMK_R_W</key>
 		<integer>35</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-15</integer>
 		<key>@MMK_R_mu</key>
 		<integer>-12</integer>
 		<key>@MMK_R_nu</key>
 		<integer>54</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>18</integer>
 		<key>@MMK_R_w</key>
 		<integer>54</integer>
 		<key>Euro</key>
@@ -26807,12 +24374,8 @@
 		<integer>-36</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-34</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>15</integer>
 		<key>@MMK_R_g</key>
 		<integer>-27</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>11</integer>
 		<key>@MMK_R_mu</key>
 		<integer>-26</integer>
 		<key>@MMK_R_nu</key>
@@ -26821,8 +24384,6 @@
 		<integer>-35</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-41</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>49</integer>
 		<key>@MMK_R_s</key>
 		<integer>-31</integer>
 		<key>@MMK_R_w</key>
@@ -26966,13 +24527,9 @@
 		<integer>-27</integer>
 		<key>@MMK_R_C</key>
 		<integer>-25</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-15</integer>
 		<key>@MMK_R_D</key>
 		<integer>-27</integer>
 		<key>@MMK_R_E</key>
-		<integer>-27</integer>
-		<key>@MMK_R_Eta</key>
 		<integer>-27</integer>
 		<key>@MMK_R_G</key>
 		<integer>-25</integer>
@@ -27008,24 +24565,16 @@
 		<integer>-22</integer>
 		<key>@MMK_R_c</key>
 		<integer>-21</integer>
-		<key>@MMK_R_cent</key>
-		<integer>11</integer>
 		<key>@MMK_R_d</key>
 		<integer>-22</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-31</integer>
 		<key>@MMK_R_e</key>
 		<integer>-17</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-18</integer>
 		<key>@MMK_R_eta</key>
 		<integer>-27</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>21</integer>
 		<key>@MMK_R_g</key>
 		<integer>-25</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>17</integer>
 		<key>@MMK_R_h</key>
 		<integer>-27</integer>
 		<key>@MMK_R_i</key>
@@ -27044,8 +24593,6 @@
 		<integer>-24</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-25</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>34</integer>
 		<key>@MMK_R_r</key>
 		<integer>-27</integer>
 		<key>@MMK_R_s</key>
@@ -27259,8 +24806,6 @@
 		<integer>-84</integer>
 		<key>@MMK_R_C</key>
 		<integer>13</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-84</integer>
 		<key>@MMK_R_G</key>
 		<integer>15</integer>
 		<key>@MMK_R_I</key>
@@ -27291,12 +24836,8 @@
 		<integer>-25</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-31</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>18</integer>
 		<key>@MMK_R_g</key>
 		<integer>-23</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>14</integer>
 		<key>@MMK_R_mu</key>
 		<integer>-23</integer>
 		<key>@MMK_R_nu</key>
@@ -27305,8 +24846,6 @@
 		<integer>-26</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-31</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>52</integer>
 		<key>@MMK_R_s</key>
 		<integer>-41</integer>
 		<key>@MMK_R_upsilon</key>
@@ -27474,8 +25013,6 @@
 		<integer>25</integer>
 		<key>@MMK_R_B</key>
 		<integer>13</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>25</integer>
 		<key>@MMK_R_D</key>
 		<integer>13</integer>
 		<key>@MMK_R_J</key>
@@ -27500,8 +25037,6 @@
 		<integer>32</integer>
 		<key>@MMK_R_Z</key>
 		<integer>19</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>31</integer>
 		<key>@MMK_R_eta</key>
 		<integer>13</integer>
 		<key>@MMK_R_h</key>
@@ -27637,8 +25172,6 @@
 		<integer>-58</integer>
 		<key>@MMK_R_B</key>
 		<integer>-12</integer>
-		<key>@MMK_R_Chi</key>
-		<integer>-56</integer>
 		<key>@MMK_R_D</key>
 		<integer>-12</integer>
 		<key>@MMK_R_I</key>
@@ -27671,24 +25204,16 @@
 		<integer>-61</integer>
 		<key>@MMK_R_c</key>
 		<integer>-60</integer>
-		<key>@MMK_R_cent</key>
-		<integer>16</integer>
 		<key>@MMK_R_d</key>
 		<integer>-61</integer>
-		<key>@MMK_R_dotlessj</key>
-		<integer>-70</integer>
 		<key>@MMK_R_e</key>
 		<integer>-57</integer>
 		<key>@MMK_R_epsilon</key>
 		<integer>-56</integer>
 		<key>@MMK_R_eta</key>
 		<integer>-70</integer>
-		<key>@MMK_R_fraction</key>
-		<integer>26</integer>
 		<key>@MMK_R_g</key>
 		<integer>-63</integer>
-		<key>@MMK_R_guillemotright</key>
-		<integer>22</integer>
 		<key>@MMK_R_h</key>
 		<integer>-12</integer>
 		<key>@MMK_R_i</key>
@@ -27705,8 +25230,6 @@
 		<integer>-61</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-63</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>61</integer>
 		<key>@MMK_R_r</key>
 		<integer>-70</integer>
 		<key>@MMK_R_s</key>
