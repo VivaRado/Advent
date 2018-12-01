@@ -1,13 +1,13 @@
 VRD Typography Library TODO list
 =============================
 
-**Development Suggestions**
+**Development Suggestions:**
 
  * ```<issue 00100/>``` EFO Componentize Integration
  * ```<issue 00200/>``` Create Tests for all functions
  * ```<issue 00300/>``` Test Python3 Type Facet Library Update on functionality other than Autokerning.
 
-**Suggestions and Observations by Contributors**
+**Suggestions and Observations by Contributors:**
 
  * ```<issue 00400/>``` The anchoring does not seem to be properly done, perhaps this is getting messed up by the componentization script? There are some letters with uneccesary anchors: /B with ogonek and center, /epsilon with ogonek and center, etc.
 
@@ -38,8 +38,8 @@ VRD Typography Library TODO list
      * ```<issue 01101/>``` The most notable are glyphs with diagonal strokes which appear very heavy when slanted. I think fixing these diagonals would be a small time investment that would really help the texture of the Italic
 
 
-**Known Issues**
+**Known Issues:**
 
-[ISSUES CSV](https://github.com/VivaRado/Advent/blob/master/issues.csv)
+ * [ISSUES CSV](https://github.com/VivaRado/Advent/blob/master/issues.csv)
 
 **VivaRado is thankful for all your observations :+1: please submit any issues at support@vivarado.com - with Subject: ISSUE:Topic**
