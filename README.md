@@ -17,6 +17,7 @@
     1.  Production
     1.  Weights and Masters
      1.  Kerning
+     1.  Components
     1.  Language Scripts / Glyph Range
     1.  Features
     1.  Timeline
@@ -96,7 +97,12 @@ Work was done on a Linux box with VirtualBox running Windows 8 and Mac OSX Lion.
 
 Kerning was done by utilizing Typefacets Autokern Python3 Updated Script by using VRD TYPL/kerning_autokern.py: [VRD-Typography-Library](https://github.com/VivaRado/VRD-Typography-Library)
 
-see. Design / Design Methods / Command Procedure / Kerning
+**  **
+
+**Components**
+
+Components are created by first running VRD/TYPL/SIMEX to obtain a component similarity index, then VRD/TYPL/COMPONENTS to Componentize the EFO,
+later you can export to Componentized UFOs.
 
 **  **
 
