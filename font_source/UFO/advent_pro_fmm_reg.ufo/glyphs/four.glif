@@ -1,34 +1,44 @@
-<?xml version='1.0' encoding='utf-8'?>
-<glyph name="four" format="2">
-  <advance width="487"/>
-  <unicode hex="0034"/>
-  <outline>
-    <contour>
-      <point x="331" y="0" type="line"/>
-      <point x="388" y="0" type="line"/>
-      <point x="388" y="355" type="line"/>
-      <point x="440" y="355" type="line"/>
-      <point x="460" y="413" type="line"/>
-      <point x="388" y="413" type="line"/>
-      <point x="388" y="698" type="line"/>
-      <point x="331" y="698" type="line"/>
-      <point x="331" y="413" type="line"/>
-      <point x="112" y="413" type="line"/>
-      <point x="268" y="698" type="line"/>
-      <point x="209" y="698" type="line"/>
-      <point x="16" y="355" type="line"/>
-      <point x="331" y="355" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-	<key>com.typemytype.robofont.mark</key>
-	<array>
-		<real>0.6</real>
-		<real>1.0</real>
-		<real>0.694</real>
-		<real>1.0</real>
-	</array>
-</dict>
-  </lib>
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="four">
+ <advance width="487"/>
+ <unicode hex="0034"/>
+ <outline>
+  <contour>
+   <point type="line" x="331" y="0"/>
+   <point type="line" x="388" y="0"/>
+   <point type="line" x="388" y="355"/>
+   <point type="line" x="440" y="355"/>
+   <point type="line" x="460" y="413"/>
+   <point type="line" x="388" y="413"/>
+   <point type="line" x="388" y="698"/>
+   <point type="line" x="331" y="698"/>
+   <point type="line" x="331" y="413"/>
+   <point type="line" x="112" y="413"/>
+   <point type="line" x="268" y="698"/>
+   <point type="line" x="209" y="698"/>
+   <point type="line" x="16" y="355"/>
+   <point type="line" x="331" y="355"/>
+  </contour>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <real>
+     1.0
+    </real>
+    <real>
+     0.694
+    </real>
+    <real>
+     1.0
+    </real>
+   </array>
+  </dict>
+ </lib>
 </glyph>

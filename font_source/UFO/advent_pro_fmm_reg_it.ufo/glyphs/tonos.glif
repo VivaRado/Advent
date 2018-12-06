@@ -1,19 +1,39 @@
-<?xml version='1.0' encoding='utf-8'?>
-<glyph name="tonos" format="2">
-  <advance width="266"/>
-  <unicode hex="0384"/>
-  <outline>
-    <component base="tonoscomb"/>
-  </outline>
-  <lib>
-    <dict>
-	<key>com.typemytype.robofont.mark</key>
-	<array>
-		<real>0.6</real>
-		<real>0.609</real>
-		<real>1.0</real>
-		<real>1.0</real>
-	</array>
-</dict>
-  </lib>
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="tonos">
+ <advance width="266"/>
+ <unicode hex="0384"/>
+ <outline>
+  <contour>
+   <point type="line" x="177" y="682"/>
+   <point x="192" y="696"/>
+   <point x="194" y="719"/>
+   <point smooth="yes" type="curve" x="178" y="729"/>
+   <point x="163" y="739"/>
+   <point x="141" y="728"/>
+   <point smooth="yes" type="curve" x="132" y="710"/>
+   <point type="line" x="75" y="603"/>
+   <point type="line" x="110" y="603"/>
+  </contour>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <real>
+     0.609
+    </real>
+    <real>
+     1.0
+    </real>
+    <real>
+     1.0
+    </real>
+   </array>
+  </dict>
+ </lib>
 </glyph>

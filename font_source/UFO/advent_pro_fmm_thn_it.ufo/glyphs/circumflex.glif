@@ -1,19 +1,36 @@
-<?xml version='1.0' encoding='utf-8'?>
-<glyph name="circumflex" format="2">
-  <advance width="266"/>
-  <unicode hex="02C6"/>
-  <outline>
-    <component base="circumflexcomb"/>
-  </outline>
-  <lib>
-    <dict>
-	<key>com.typemytype.robofont.mark</key>
-	<array>
-		<real>0.6</real>
-		<real>0.609</real>
-		<real>1.0</real>
-		<real>1.0</real>
-	</array>
-</dict>
-  </lib>
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="circumflex">
+ <advance width="266"/>
+ <unicode hex="02C6"/>
+ <outline>
+  <contour>
+   <point type="line" x="254" y="650"/>
+   <point type="line" x="154" y="769"/>
+   <point type="line" x="11" y="650"/>
+   <point type="line" x="23" y="636"/>
+   <point type="line" x="149" y="739"/>
+   <point type="line" x="237" y="636"/>
+  </contour>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <real>
+     0.609
+    </real>
+    <real>
+     1.0
+    </real>
+    <real>
+     1.0
+    </real>
+   </array>
+  </dict>
+ </lib>
 </glyph>

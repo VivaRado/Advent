@@ -1,20 +1,30 @@
-<?xml version='1.0' encoding='utf-8'?>
-<glyph name="Idieresis" format="2">
-  <advance width="211"/>
-  <unicode hex="00CF"/>
-  <outline>
-    <component base="I"/>
-    <component base="dieresiscomb" xOffset="105" yOffset="135"/>
-    </outline>
-  <lib>
-    <dict>
-	<key>com.typemytype.robofont.mark</key>
-	<array>
-		<real>0.6</real>
-		<real>1.0</real>
-		<real>0.694</real>
-		<real>1.0</real>
-	</array>
-</dict>
-  </lib>
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="Idieresis">
+ <advance width="211"/>
+ <unicode hex="00CF"/>
+ <outline>
+  <component base="I"/>
+  <component base="dieresiscomb" xOffset="-38.0" yOffset="110"/>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <real>
+     1.0
+    </real>
+    <real>
+     0.694
+    </real>
+    <real>
+     1.0
+    </real>
+   </array>
+  </dict>
+ </lib>
 </glyph>

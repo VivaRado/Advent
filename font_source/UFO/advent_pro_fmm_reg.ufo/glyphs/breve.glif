@@ -1,19 +1,48 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph format="1" name="breve">
-  <advance width="266" />
-  <unicode hex="02D8" />
-  <outline>
-    <component base="brevecomb"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.59999999999999998</real>
-        <real>0.60899999999999999</real>
-        <real>1</real>
-        <real>1</real>
-      </array>
-    </dict>
-  </lib>
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="breve">
+ <advance width="266"/>
+ <unicode hex="02D8"/>
+ <outline>
+  <contour>
+   <point type="line" x="245" y="702"/>
+   <point type="line" x="200" y="702"/>
+   <point smooth="yes" type="line" x="200" y="695"/>
+   <point x="200" y="657"/>
+   <point x="171" y="627"/>
+   <point smooth="yes" type="curve" x="133" y="627"/>
+   <point x="96" y="627"/>
+   <point x="65" y="657"/>
+   <point smooth="yes" type="curve" x="65" y="695"/>
+   <point type="line" x="65" y="702"/>
+   <point type="line" x="20" y="702"/>
+   <point smooth="yes" type="line" x="20" y="695"/>
+   <point x="20" y="632"/>
+   <point x="71" y="582"/>
+   <point smooth="yes" type="curve" x="133" y="582"/>
+   <point x="195" y="582"/>
+   <point x="245" y="632"/>
+   <point smooth="yes" type="curve" x="245" y="695"/>
+  </contour>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <real>
+     0.609
+    </real>
+    <real>
+     1.0
+    </real>
+    <real>
+     1.0
+    </real>
+   </array>
+  </dict>
+ </lib>
 </glyph>

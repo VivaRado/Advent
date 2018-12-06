@@ -1,47 +1,42 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Chi" format="1">
-  <advance width="658"/>
-  <unicode hex="03A7"/>
-  <outline>
-    <contour>
-      <point x="359" y="466" type="line"/>
-      <point x="253" y="698" type="line"/>
-      <point x="123" y="698" type="line"/>
-      <point x="267" y="350" type="line"/>
-      <point x="-12" y="0" type="line"/>
-      <point x="125" y="0" type="line"/>
-      <point x="315" y="244" type="line"/>
-      <point x="423" y="0" type="line"/>
-      <point x="565" y="0" type="line"/>
-      <point x="406" y="359" type="line"/>
-      <point x="671" y="698" type="line"/>
-      <point x="540" y="698" type="line"/>
-    </contour>
-    <contour>
-      <point x="329" y="300" type="move" name="center"/>
-    </contour>
-    <contour>
-      <point x="328" y="0" type="move" name="ogonek"/>
-    </contour>
-    <contour>
-      <point x="329" y="735" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="109" y="700" type="move" name="tonos"/>
-    </contour>
-    <contour>
-      <point x="329" y="0" type="move" name="bottom"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.59999999999999998</real>
-        <real>1</real>
-        <real>0.73199999999999998</real>
-        <real>1</real>
-      </array>
-    </dict>
-  </lib>
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="Chi">
+ <advance width="658"/>
+ <unicode hex="03A7"/>
+ <outline>
+  <contour>
+   <point type="line" x="359" y="466"/>
+   <point type="line" x="253" y="698"/>
+   <point type="line" x="123" y="698"/>
+   <point type="line" x="267" y="350"/>
+   <point type="line" x="-12" y="0"/>
+   <point type="line" x="125" y="0"/>
+   <point type="line" x="315" y="244"/>
+   <point type="line" x="423" y="0"/>
+   <point type="line" x="565" y="0"/>
+   <point type="line" x="406" y="359"/>
+   <point type="line" x="671" y="698"/>
+   <point type="line" x="540" y="698"/>
+  </contour>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <real>
+     1.0
+    </real>
+    <real>
+     0.732
+    </real>
+    <real>
+     1.0
+    </real>
+   </array>
+  </dict>
+ </lib>
 </glyph>

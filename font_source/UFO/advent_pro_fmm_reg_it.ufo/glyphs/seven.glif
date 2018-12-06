@@ -1,27 +1,37 @@
-<?xml version='1.0' encoding='utf-8'?>
-<glyph name="seven" format="2">
-  <advance width="476"/>
-  <unicode hex="0037"/>
-  <outline>
-    <contour>
-      <point x="55" y="0" type="line"/>
-      <point x="486" y="643" type="line"/>
-      <point x="496" y="698" type="line"/>
-      <point x="105" y="698" type="line"/>
-      <point x="95" y="641" type="line"/>
-      <point x="423" y="641" type="line"/>
-      <point x="-7" y="0" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-	<key>com.typemytype.robofont.mark</key>
-	<array>
-		<real>0.6</real>
-		<real>1.0</real>
-		<real>0.694</real>
-		<real>1.0</real>
-	</array>
-</dict>
-  </lib>
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="seven">
+ <advance width="476"/>
+ <unicode hex="0037"/>
+ <outline>
+  <contour>
+   <point type="line" x="55" y="0"/>
+   <point type="line" x="486" y="643"/>
+   <point type="line" x="496" y="698"/>
+   <point type="line" x="105" y="698"/>
+   <point type="line" x="95" y="641"/>
+   <point type="line" x="423" y="641"/>
+   <point type="line" x="-7" y="0"/>
+  </contour>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <real>
+     1.0
+    </real>
+    <real>
+     0.694
+    </real>
+    <real>
+     1.0
+    </real>
+   </array>
+  </dict>
+ </lib>
 </glyph>

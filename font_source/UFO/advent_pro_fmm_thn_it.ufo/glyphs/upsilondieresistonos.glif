@@ -1,20 +1,30 @@
-<?xml version='1.0' encoding='utf-8'?>
-<glyph name="upsilondieresistonos" format="2">
-  <advance width="446"/>
-  <unicode hex="03B0"/>
-  <outline>
-    <component base="upsilon"/>
-    <component base="dieresiscomb" xOffset="223" yOffset="135"/>
-    </outline>
-  <lib>
-    <dict>
-	<key>com.typemytype.robofont.mark</key>
-	<array>
-		<real>0.6</real>
-		<real>1.0</real>
-		<real>0.694</real>
-		<real>1.0</real>
-	</array>
-</dict>
-  </lib>
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="upsilondieresistonos">
+ <advance width="446"/>
+ <unicode hex="03B0"/>
+ <outline>
+  <component base="upsilon"/>
+  <component base="dieresistonoscomb" xOffset="140.0" yOffset="-95"/>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <real>
+     1.0
+    </real>
+    <real>
+     0.694
+    </real>
+    <real>
+     1.0
+    </real>
+   </array>
+  </dict>
+ </lib>
 </glyph>

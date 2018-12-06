@@ -1,18 +1,37 @@
-<?xml version='1.0' encoding='utf-8'?>
-<glyph name="v" format="2">
-  <advance width="423"/>
-  <unicode hex="0076"/>
-  <outline>
-    <component base="nu"/></outline>
-  <lib>
-    <dict>
-	<key>com.typemytype.robofont.mark</key>
-	<array>
-		<real>0.6</real>
-		<real>1.0</real>
-		<real>0.694</real>
-		<real>1.0</real>
-	</array>
-</dict>
-  </lib>
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="v">
+ <advance width="423"/>
+ <unicode hex="0076"/>
+ <outline>
+  <contour>
+   <point type="line" x="17" y="499"/>
+   <point type="line" x="202" y="0"/>
+   <point type="line" x="215" y="0"/>
+   <point type="line" x="401" y="499"/>
+   <point type="line" x="381" y="499"/>
+   <point type="line" x="208" y="36"/>
+   <point type="line" x="36" y="499"/>
+  </contour>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <real>
+     1.0
+    </real>
+    <real>
+     0.694
+    </real>
+    <real>
+     1.0
+    </real>
+   </array>
+  </dict>
+ </lib>
 </glyph>

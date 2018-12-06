@@ -1,20 +1,30 @@
-<?xml version='1.0' encoding='utf-8'?>
-<glyph name="Rcaron" format="2">
-  <advance width="507"/>
-  <unicode hex="0158"/>
-  <outline>
-    <component base="R"/>
-    <component base="caroncomb" xOffset="253" yOffset="135"/>
-    </outline>
-  <lib>
-    <dict>
-	<key>com.typemytype.robofont.mark</key>
-	<array>
-		<real>0.6</real>
-		<real>1.0</real>
-		<real>0.694</real>
-		<real>1.0</real>
-	</array>
-</dict>
-  </lib>
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="Rcaron">
+ <advance width="507"/>
+ <unicode hex="0158"/>
+ <outline>
+  <component base="R"/>
+  <component base="caroncomb" xOffset="120.0" yOffset="150"/>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <real>
+     1.0
+    </real>
+    <real>
+     0.694
+    </real>
+    <real>
+     1.0
+    </real>
+   </array>
+  </dict>
+ </lib>
 </glyph>

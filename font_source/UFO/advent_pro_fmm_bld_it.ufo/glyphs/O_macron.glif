@@ -1,20 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Omacron" format="1">
-  <advance width="516"/>
-  <unicode hex="014C"/>
-  <outline>
-    <component base="O"/>
-    <component base="macroncomb" xOffset="125" yOffset="135"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.59999999999999998</real>
-        <real>1</real>
-        <real>0.73199999999999998</real>
-        <real>1</real>
-      </array>
-    </dict>
-  </lib>
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="Omacron">
+ <advance width="516"/>
+ <unicode hex="014C"/>
+ <outline>
+  <component base="O"/>
+  <component base="macroncomb" xOffset="215.0" yOffset="150"/>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <real>
+     1.0
+    </real>
+    <real>
+     0.732
+    </real>
+    <real>
+     1.0
+    </real>
+   </array>
+  </dict>
+ </lib>
 </glyph>

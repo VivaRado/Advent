@@ -1,34 +1,44 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="quotedbl" format="1">
-  <advance width="281"/>
-  <unicode hex="0022"/>
-  <outline>
-    <contour>
-      <point x="172" y="694" type="curve"/>
-      <point x="166" y="587" type="line"/>
-      <point x="229" y="587" type="line"/>
-      <point x="261" y="694" type="line"/>
-      <point x="271" y="751"/>
-      <point x="181" y="751"/>
-    </contour>
-    <contour>
-      <point x="36" y="694" type="curve"/>
-      <point x="31" y="587" type="line"/>
-      <point x="93" y="587" type="line"/>
-      <point x="126" y="694" type="line"/>
-      <point x="136" y="751"/>
-      <point x="46" y="751"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.59999999999999998</real>
-        <real>1</real>
-        <real>0.73199999999999998</real>
-        <real>1</real>
-      </array>
-    </dict>
-  </lib>
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="quotedbl">
+ <advance width="281"/>
+ <unicode hex="0022"/>
+ <outline>
+  <contour>
+   <point type="curve" x="172" y="694"/>
+   <point type="line" x="166" y="587"/>
+   <point type="line" x="229" y="587"/>
+   <point type="line" x="261" y="694"/>
+   <point x="271" y="751"/>
+   <point x="181" y="751"/>
+  </contour>
+  <contour>
+   <point type="curve" x="36" y="694"/>
+   <point type="line" x="31" y="587"/>
+   <point type="line" x="93" y="587"/>
+   <point type="line" x="126" y="694"/>
+   <point x="136" y="751"/>
+   <point x="46" y="751"/>
+  </contour>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <real>
+     1.0
+    </real>
+    <real>
+     0.732
+    </real>
+    <real>
+     1.0
+    </real>
+   </array>
+  </dict>
+ </lib>
 </glyph>

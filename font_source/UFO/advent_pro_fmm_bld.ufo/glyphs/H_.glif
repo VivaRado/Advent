@@ -1,18 +1,29 @@
-<?xml version='1.0' encoding='utf-8'?>
-<glyph name="H" format="2">
-  <advance width="514"/>
-  <unicode hex="0048"/>
-  <outline>
-    <component base="Eta"/></outline>
-  <lib>
-    <dict>
-	<key>com.typemytype.robofont.mark</key>
-	<array>
-		<real>0.6</real>
-		<real>1.0</real>
-		<real>0.694</real>
-		<real>1.0</real>
-	</array>
-</dict>
-  </lib>
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="H">
+ <advance width="514"/>
+ <unicode hex="0048"/>
+ <outline>
+  <component base="Eta"/>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <real>
+     1.0
+    </real>
+    <real>
+     0.694
+    </real>
+    <real>
+     1.0
+    </real>
+   </array>
+  </dict>
+ </lib>
 </glyph>

@@ -1,29 +1,39 @@
-<?xml version='1.0' encoding='utf-8'?>
-<glyph name="Deltagreek" format="2">
-  <advance width="542"/>
-  <unicode hex="0394"/>
-  <outline>
-    <contour>
-      <point x="524" y="0" type="line"/>
-      <point x="279" y="698" type="line"/>
-      <point x="260" y="698" type="line"/>
-      <point x="20" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="48" y="20" type="line"/>
-      <point x="270" y="673" type="line"/>
-      <point x="497" y="20" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-	<key>com.typemytype.robofont.mark</key>
-	<array>
-		<real>0.6</real>
-		<real>1.0</real>
-		<real>0.694</real>
-		<real>1.0</real>
-	</array>
-</dict>
-  </lib>
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="Deltagreek">
+ <advance width="542"/>
+ <unicode hex="0394"/>
+ <outline>
+  <contour>
+   <point type="line" x="524" y="0"/>
+   <point type="line" x="279" y="698"/>
+   <point type="line" x="260" y="698"/>
+   <point type="line" x="20" y="0"/>
+  </contour>
+  <contour>
+   <point type="line" x="48" y="20"/>
+   <point type="line" x="270" y="673"/>
+   <point type="line" x="497" y="20"/>
+  </contour>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <real>
+     1.0
+    </real>
+    <real>
+     0.694
+    </real>
+    <real>
+     1.0
+    </real>
+   </array>
+  </dict>
+ </lib>
 </glyph>

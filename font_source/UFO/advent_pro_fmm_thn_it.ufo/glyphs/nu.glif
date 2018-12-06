@@ -1,139 +1,29 @@
-<?xml version='1.0' encoding='utf-8'?>
-<glyph name="nu" format="2">
-  <advance width="396"/>
-  <unicode hex="03BD"/>
-  <outline>
-    <contour>
-      <point x="16" y="499" type="line"/>
-      <point x="114" y="0" type="line"/>
-      <point x="127" y="0" type="line"/>
-      <point x="400" y="499" type="line"/>
-      <point x="380" y="499" type="line"/>
-      <point x="126" y="36" type="line"/>
-      <point x="35" y="499" type="line"/>
-    </contour>
-  <contour>
-      <point x="198" y="0" type="move" name="ogonek"/>
-    </contour>
-    <contour>
-      <point x="198" y="0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="198" y="545" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="198" y="545" type="move" name="tonos"/>
-    </contour>
-    <contour>
-      <point x="198" y="300" type="move" name="center"/>
-    </contour><contour>
-      <point x="198" y="0" type="move" name="ogonek"/>
-    </contour>
-    <contour>
-      <point x="198" y="0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="198" y="545" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="198" y="545" type="move" name="tonos"/>
-    </contour>
-    <contour>
-      <point x="198" y="300" type="move" name="center"/>
-    </contour><contour>
-      <point x="198" y="0" type="move" name="ogonek"/>
-    </contour>
-    <contour>
-      <point x="198" y="0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="198" y="545" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="198" y="545" type="move" name="tonos"/>
-    </contour>
-    <contour>
-      <point x="198" y="300" type="move" name="center"/>
-    </contour><contour>
-      <point x="198" y="0" type="move" name="ogonek"/>
-    </contour>
-    <contour>
-      <point x="198" y="0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="198" y="545" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="198" y="545" type="move" name="tonos"/>
-    </contour>
-    <contour>
-      <point x="198" y="300" type="move" name="center"/>
-    </contour><contour>
-      <point x="198" y="0" type="move" name="ogonek"/>
-    </contour>
-    <contour>
-      <point x="198" y="0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="198" y="545" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="198" y="545" type="move" name="tonos"/>
-    </contour>
-    <contour>
-      <point x="198" y="300" type="move" name="center"/>
-    </contour><contour>
-      <point x="198" y="0" type="move" name="ogonek"/>
-    </contour>
-    <contour>
-      <point x="198" y="0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="198" y="545" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="198" y="545" type="move" name="tonos"/>
-    </contour>
-    <contour>
-      <point x="198" y="300" type="move" name="center"/>
-    </contour><contour>
-      <point x="198" y="0" type="move" name="ogonek"/>
-    </contour>
-    <contour>
-      <point x="198" y="0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="198" y="545" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="198" y="545" type="move" name="tonos"/>
-    </contour>
-    <contour>
-      <point x="198" y="300" type="move" name="center"/>
-    </contour><contour>
-      <point x="198" y="0" type="move" name="ogonek"/>
-    </contour>
-    <contour>
-      <point x="198" y="0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="198" y="545" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="198" y="545" type="move" name="tonos"/>
-    </contour>
-    <contour>
-      <point x="198" y="300" type="move" name="center"/>
-    </contour></outline>
-  <lib>
-    <dict>
-	<key>com.typemytype.robofont.mark</key>
-	<array>
-		<real>0.6</real>
-		<real>1.0</real>
-		<real>0.694</real>
-		<real>1.0</real>
-	</array>
-</dict>
-  </lib>
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="nu">
+ <advance width="396"/>
+ <unicode hex="03BD"/>
+ <outline>
+  <component base="v"/>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <real>
+     1.0
+    </real>
+    <real>
+     0.694
+    </real>
+    <real>
+     1.0
+    </real>
+   </array>
+  </dict>
+ </lib>
 </glyph>

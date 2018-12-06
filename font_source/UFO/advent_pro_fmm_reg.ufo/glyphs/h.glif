@@ -1,157 +1,53 @@
-<?xml version='1.0' encoding='utf-8'?>
-<glyph name="h" format="2">
-  <advance width="443"/>
-  <unicode hex="0068"/>
-  <anchor x="221" y="300" name="center"/>
-  <anchor x="220" y="0" name="ogonek"/>
-  <anchor x="221" y="545" name="top"/>
-  <anchor x="221" y="545" name="tonos"/>
-  <anchor x="221" y="0" name="bottom"/>
-  <outline>
-    <contour>
-      <point x="97" y="465" type="curve"/>
-      <point x="97" y="698" type="line"/>
-      <point x="41" y="698" type="line"/>
-      <point x="41" y="0" type="line"/>
-      <point x="97" y="0" type="line"/>
-      <point x="97" y="424" type="line"/>
-      <point x="138" y="447"/>
-      <point x="180" y="458"/>
-      <point x="225" y="458" type="curve" smooth="yes"/>
-      <point x="288" y="458"/>
-      <point x="354" y="432"/>
-      <point x="354" y="342" type="curve" smooth="yes"/>
-      <point x="354" y="0" type="line"/>
-      <point x="410" y="0" type="line"/>
-      <point x="410" y="345" type="line" smooth="yes"/>
-      <point x="410" y="450"/>
-      <point x="346" y="508"/>
-      <point x="236" y="508" type="curve" smooth="yes"/>
-      <point x="186" y="508"/>
-      <point x="136" y="492"/>
-    </contour>
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="h">
+ <advance width="443"/>
+ <unicode hex="0068"/>
+ <outline>
   <contour>
-      <point x="220" y="0" type="move" name="ogonek"/>
-    </contour>
-    <contour>
-      <point x="221" y="0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="221" y="545" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="221" y="545" type="move" name="tonos"/>
-    </contour>
-    <contour>
-      <point x="221" y="300" type="move" name="center"/>
-    </contour><contour>
-      <point x="220" y="0" type="move" name="ogonek"/>
-    </contour>
-    <contour>
-      <point x="221" y="0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="221" y="545" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="221" y="545" type="move" name="tonos"/>
-    </contour>
-    <contour>
-      <point x="221" y="300" type="move" name="center"/>
-    </contour><contour>
-      <point x="220" y="0" type="move" name="ogonek"/>
-    </contour>
-    <contour>
-      <point x="221" y="0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="221" y="545" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="221" y="545" type="move" name="tonos"/>
-    </contour>
-    <contour>
-      <point x="221" y="300" type="move" name="center"/>
-    </contour><contour>
-      <point x="220" y="0" type="move" name="ogonek"/>
-    </contour>
-    <contour>
-      <point x="221" y="0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="221" y="545" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="221" y="545" type="move" name="tonos"/>
-    </contour>
-    <contour>
-      <point x="221" y="300" type="move" name="center"/>
-    </contour><contour>
-      <point x="220" y="0" type="move" name="ogonek"/>
-    </contour>
-    <contour>
-      <point x="221" y="0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="221" y="545" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="221" y="545" type="move" name="tonos"/>
-    </contour>
-    <contour>
-      <point x="221" y="300" type="move" name="center"/>
-    </contour><contour>
-      <point x="220" y="0" type="move" name="ogonek"/>
-    </contour>
-    <contour>
-      <point x="221" y="0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="221" y="545" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="221" y="545" type="move" name="tonos"/>
-    </contour>
-    <contour>
-      <point x="221" y="300" type="move" name="center"/>
-    </contour><contour>
-      <point x="220" y="0" type="move" name="ogonek"/>
-    </contour>
-    <contour>
-      <point x="221" y="0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="221" y="545" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="221" y="545" type="move" name="tonos"/>
-    </contour>
-    <contour>
-      <point x="221" y="300" type="move" name="center"/>
-    </contour><contour>
-      <point x="220" y="0" type="move" name="ogonek"/>
-    </contour>
-    <contour>
-      <point x="221" y="0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="221" y="545" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="221" y="545" type="move" name="tonos"/>
-    </contour>
-    <contour>
-      <point x="221" y="300" type="move" name="center"/>
-    </contour></outline>
-  <lib>
-    <dict>
-	<key>com.typemytype.robofont.mark</key>
-	<array>
-		<real>0.6</real>
-		<real>1.0</real>
-		<real>0.694</real>
-		<real>1.0</real>
-	</array>
-</dict>
-  </lib>
+   <point type="curve" x="97" y="465"/>
+   <point type="line" x="97" y="698"/>
+   <point type="line" x="41" y="698"/>
+   <point type="line" x="41" y="0"/>
+   <point type="line" x="97" y="0"/>
+   <point type="line" x="97" y="424"/>
+   <point x="138" y="447"/>
+   <point x="180" y="458"/>
+   <point smooth="yes" type="curve" x="225" y="458"/>
+   <point x="288" y="458"/>
+   <point x="354" y="432"/>
+   <point smooth="yes" type="curve" x="354" y="342"/>
+   <point type="line" x="354" y="0"/>
+   <point type="line" x="410" y="0"/>
+   <point smooth="yes" type="line" x="410" y="345"/>
+   <point x="410" y="450"/>
+   <point x="346" y="508"/>
+   <point smooth="yes" type="curve" x="236" y="508"/>
+   <point x="186" y="508"/>
+   <point x="136" y="492"/>
+  </contour>
+  <contour>
+   <point name="top" type="move" x="221" y="735"/>
+  </contour>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <real>
+     1.0
+    </real>
+    <real>
+     0.694
+    </real>
+    <real>
+     1.0
+    </real>
+   </array>
+  </dict>
+ </lib>
 </glyph>

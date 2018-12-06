@@ -1,35 +1,65 @@
-<?xml version='1.0' encoding='utf-8'?>
-<glyph name="scedilla" format="2">
-  <advance width="394"/>
-  <unicode hex="015F"/>
-  <outline>
-    <component base="s"/>
-    
-    <component base="cedillacomb" xOffset="384" yOffset="-50"/></outline>
-  <lib>
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="scedilla">
+ <advance width="394"/>
+ <unicode hex="015F"/>
+ <outline>
+  <component base="s"/>
+  <component base="cedillacomb" xOffset="34.0" yOffset="-5"/>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.guides
+   </key>
+   <array>
     <dict>
-	<key>com.typemytype.robofont.guides</key>
-	<array>
-		<dict>
-			<key>angle</key>
-			<real>90.0</real>
-			<key>isGlobal</key>
-			<false/>
-			<key>magnetic</key>
-			<integer>5</integer>
-			<key>x</key>
-			<real>-163.0</real>
-			<key>y</key>
-			<real>0.0</real>
-		</dict>
-	</array>
-	<key>com.typemytype.robofont.mark</key>
-	<array>
-		<real>0.6</real>
-		<real>1.0</real>
-		<real>0.694</real>
-		<real>1.0</real>
-	</array>
-</dict>
-  </lib>
+     <key>
+      angle
+     </key>
+     <real>
+      90.0
+     </real>
+     <key>
+      isGlobal
+     </key>
+     <false/>
+     <key>
+      magnetic
+     </key>
+     <integer>
+      5
+     </integer>
+     <key>
+      x
+     </key>
+     <real>
+      -163.0
+     </real>
+     <key>
+      y
+     </key>
+     <real>
+      0.0
+     </real>
+    </dict>
+   </array>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <real>
+     1.0
+    </real>
+    <real>
+     0.694
+    </real>
+    <real>
+     1.0
+    </real>
+   </array>
+  </dict>
+ </lib>
 </glyph>

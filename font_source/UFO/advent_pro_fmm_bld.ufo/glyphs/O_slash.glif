@@ -1,32 +1,35 @@
-<?xml version='1.0' encoding='utf-8'?>
-<glyph name="Oslash" format="2">
-  <advance width="508"/>
-  <unicode hex="00D8"/>
-  <outline>
-    <component base="O"/><contour>
-      <point x="35" y="-114" type="line"/>
-      <point x="152" y="-114" type="line"/>
-      <point x="479" y="816" type="line"/>
-      <point x="359" y="816" type="line"/>
-    </contour>
-  
-
-
-
-
-
-
-
-</outline>
-  <lib>
-    <dict>
-	<key>com.typemytype.robofont.mark</key>
-	<array>
-		<real>0.6</real>
-		<real>1.0</real>
-		<real>0.694</real>
-		<real>1.0</real>
-	</array>
-</dict>
-  </lib>
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="Oslash">
+ <advance width="508"/>
+ <unicode hex="00D8"/>
+ <outline>
+  <component base="O"/>
+  <contour>
+   <point type="line" x="35" y="-114"/>
+   <point type="line" x="152" y="-114"/>
+   <point type="line" x="479" y="816"/>
+   <point type="line" x="359" y="816"/>
+  </contour>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <real>
+     1.0
+    </real>
+    <real>
+     0.694
+    </real>
+    <real>
+     1.0
+    </real>
+   </array>
+  </dict>
+ </lib>
 </glyph>

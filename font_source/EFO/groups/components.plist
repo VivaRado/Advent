@@ -2,10 +2,10 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-  <key>nu</key>
+  <key>v</key>
   <array>
-    <string>nu</string>
     <string>v</string>
+    <string>nu</string>
   </array>
   <key>Z</key>
   <array>
@@ -64,6 +64,7 @@
     <string>umacron</string>
     <string>uogonek</string>
     <string>utilde</string>
+    <string>uring</string>
   </array>
   <key>Y</key>
   <array>
@@ -93,6 +94,7 @@
     <string>Alphatonos</string>
     <string>Amacron</string>
     <string>Aogonek</string>
+    <string>Aring</string>
     <string>Atilde</string>
   </array>
   <key>e</key>
@@ -219,6 +221,7 @@
     <string>amacron</string>
     <string>aogonek</string>
     <string>atilde</string>
+    <string>aring</string>
   </array>
   <key>fraction</key>
   <array>
@@ -242,6 +245,11 @@
   <array>
     <string>J</string>
     <string>Jcircumflex</string>
+  </array>
+  <key>dotlessj</key>
+  <array>
+    <string>dotlessj</string>
+    <string>jcircumflex</string>
   </array>
 <!--   <key>dieresistonos</key>
   <array>
@@ -308,6 +316,7 @@
     <string>Umacron</string>
     <string>Uogonek</string>
     <string>Utilde</string>
+    <string>Uring</string>
   </array>
   <key>n</key>
   <array>

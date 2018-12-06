@@ -1,20 +1,30 @@
-<?xml version='1.0' encoding='utf-8'?>
-<glyph name="Rcommaaccent" format="2">
-  <advance width="511"/>
-  <unicode hex="0156"/>
-  <outline>
-    <component base="R"/>
-    
-    <component base="commaturnedbelowcomb" xOffset="501" yOffset="-50"/></outline>
-  <lib>
-    <dict>
-	<key>com.typemytype.robofont.mark</key>
-	<array>
-		<real>0.6</real>
-		<real>1.0</real>
-		<real>0.694</real>
-		<real>1.0</real>
-	</array>
-</dict>
-  </lib>
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="Rcommaaccent">
+ <advance width="511"/>
+ <unicode hex="0156"/>
+ <outline>
+  <component base="R"/>
+  <component base="commaturnedbelowcomb" xOffset="122.0" yOffset="0"/>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <real>
+     1.0
+    </real>
+    <real>
+     0.694
+    </real>
+    <real>
+     1.0
+    </real>
+   </array>
+  </dict>
+ </lib>
 </glyph>

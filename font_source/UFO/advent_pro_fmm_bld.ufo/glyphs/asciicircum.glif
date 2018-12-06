@@ -1,26 +1,36 @@
-<?xml version='1.0' encoding='utf-8'?>
-<glyph name="asciicircum" format="2">
-  <advance width="266"/>
-  <unicode hex="005E"/>
-  <outline>
-    <contour>
-      <point x="263" y="772" type="line"/>
-      <point x="135" y="898" type="line"/>
-      <point x="3" y="771" type="line"/>
-      <point x="55" y="718" type="line"/>
-      <point x="135" y="801" type="line"/>
-      <point x="209" y="719" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-	<key>com.typemytype.robofont.mark</key>
-	<array>
-		<real>0.6</real>
-		<real>0.609</real>
-		<real>1.0</real>
-		<real>1.0</real>
-	</array>
-</dict>
-  </lib>
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="asciicircum">
+ <advance width="266"/>
+ <unicode hex="005E"/>
+ <outline>
+  <contour>
+   <point type="line" x="263" y="772"/>
+   <point type="line" x="135" y="898"/>
+   <point type="line" x="3" y="771"/>
+   <point type="line" x="55" y="718"/>
+   <point type="line" x="135" y="801"/>
+   <point type="line" x="209" y="719"/>
+  </contour>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <real>
+     0.609
+    </real>
+    <real>
+     1.0
+    </real>
+    <real>
+     1.0
+    </real>
+   </array>
+  </dict>
+ </lib>
 </glyph>

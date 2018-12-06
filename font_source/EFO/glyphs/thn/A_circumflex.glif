@@ -1,20 +1,30 @@
-<?xml version='1.0' encoding='utf-8'?>
-<glyph name="Acircumflex" format="2">
-  <advance width="543"/>
-  <unicode hex="00C2"/>
-  <outline>
-    <component base="A"/>
-    <component base="circumflexcomb" xOffset="271" yOffset="135"/>
-    </outline>
-  <lib>
-    <dict>
-	<key>com.typemytype.robofont.mark</key>
-	<array>
-		<real>0.6</real>
-		<real>1.0</real>
-		<real>0.694</real>
-		<real>1.0</real>
-	</array>
-</dict>
-  </lib>
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="Acircumflex">
+ <advance width="543"/>
+ <unicode hex="00C2"/>
+ <outline>
+  <component base="A"/>
+  <component base="circumflexcomb" xOffset="138.0" yOffset="150"/>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <real>
+     1.0
+    </real>
+    <real>
+     0.694
+    </real>
+    <real>
+     1.0
+    </real>
+   </array>
+  </dict>
+ </lib>
 </glyph>

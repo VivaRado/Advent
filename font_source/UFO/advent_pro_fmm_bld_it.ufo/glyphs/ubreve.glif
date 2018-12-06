@@ -1,20 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ubreve" format="1">
-  <advance width="459"/>
-  <unicode hex="016D"/>
-  <outline>
-    <component base="u"/>
-    <component base="brevecomb" xOffset="96" yOffset="-55"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.59999999999999998</real>
-        <real>1</real>
-        <real>0.73199999999999998</real>
-        <real>1</real>
-      </array>
-    </dict>
-  </lib>
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="ubreve">
+ <advance width="455"/>
+ <unicode hex="016D"/>
+ <outline>
+  <component base="u"/>
+  <component base="brevecomb" xOffset="164.0" yOffset="-35"/>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <real>
+     1.0
+    </real>
+    <real>
+     0.732
+    </real>
+    <real>
+     1.0
+    </real>
+   </array>
+  </dict>
+ </lib>
 </glyph>

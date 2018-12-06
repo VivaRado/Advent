@@ -1,20 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="racute" format="1">
-  <advance width="393"/>
-  <unicode hex="0155"/>
-  <outline>
-    <component base="r"/>
-    <component base="acutecomb" xOffset="63" yOffset="-55"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.59999999999999998</real>
-        <real>1</real>
-        <real>0.73199999999999998</real>
-        <real>1</real>
-      </array>
-    </dict>
-  </lib>
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="racute">
+ <advance width="389"/>
+ <unicode hex="0155"/>
+ <outline>
+  <component base="r"/>
+  <component base="acutecomb" xOffset="1.0" yOffset="-35"/>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <real>
+     1.0
+    </real>
+    <real>
+     0.732
+    </real>
+    <real>
+     1.0
+    </real>
+   </array>
+  </dict>
+ </lib>
 </glyph>

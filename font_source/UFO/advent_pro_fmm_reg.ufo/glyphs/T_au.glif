@@ -1,34 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph format="1" name="Tau">
-  <advance width="416" />
-  <unicode hex="03A4" />
-  <outline>
-    <component base="T"/><contour><point type="line" x="232" y="648"/>
-      <point type="line" x="408" y="648"/>
-      <point type="line" x="408" y="698"/>
-      <point type="line" x="7" y="698"/>
-      <point type="line" x="7" y="648"/>
-      <point type="line" x="177" y="648"/>
-      <point type="line" x="177" y="0"/>
-      <point type="line" x="232" y="0"/>
-    </contour>
-
-
-
-
-
-
-
-</outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.59999999999999998</real>
-        <real>1</real>
-        <real>0.69399999999999995</real>
-        <real>1</real>
-      </array>
-    </dict>
-  </lib>
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="Tau">
+ <advance width="416"/>
+ <unicode hex="03A4"/>
+ <outline>
+  <component base="T"/>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <real>
+     1.0
+    </real>
+    <real>
+     0.694
+    </real>
+    <real>
+     1.0
+    </real>
+   </array>
+  </dict>
+ </lib>
 </glyph>

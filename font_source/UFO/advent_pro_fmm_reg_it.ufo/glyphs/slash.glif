@@ -1,18 +1,29 @@
-<?xml version='1.0' encoding='utf-8'?>
-<glyph name="slash" format="2">
-  <advance width="563"/>
-  <unicode hex="002F"/>
-  <outline>
-    <component base="fraction"/></outline>
-  <lib>
-    <dict>
-	<key>com.typemytype.robofont.mark</key>
-	<array>
-		<real>0.6</real>
-		<real>1.0</real>
-		<real>0.694</real>
-		<real>1.0</real>
-	</array>
-</dict>
-  </lib>
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="slash">
+ <advance width="563"/>
+ <unicode hex="002F"/>
+ <outline>
+  <component base="fraction"/>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <real>
+     1.0
+    </real>
+    <real>
+     0.694
+    </real>
+    <real>
+     1.0
+    </real>
+   </array>
+  </dict>
+ </lib>
 </glyph>

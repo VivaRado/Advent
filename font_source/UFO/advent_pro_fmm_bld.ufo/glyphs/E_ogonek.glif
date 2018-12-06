@@ -1,20 +1,30 @@
-<?xml version='1.0' encoding='utf-8'?>
-<glyph name="Eogonek" format="2">
-  <advance width="447"/>
-  <unicode hex="0118"/>
-  <outline>
-    <component base="E"/>
-    
-    <component base="ogonekcomb" xOffset="437" yOffset="-50"/></outline>
-  <lib>
-    <dict>
-	<key>com.typemytype.robofont.mark</key>
-	<array>
-		<real>0.6</real>
-		<real>1.0</real>
-		<real>0.694</real>
-		<real>1.0</real>
-	</array>
-</dict>
-  </lib>
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="Eogonek">
+ <advance width="447"/>
+ <unicode hex="0118"/>
+ <outline>
+  <component base="E"/>
+  <component base="ogonekcomb" xOffset="180.0" yOffset="-5"/>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <real>
+     1.0
+    </real>
+    <real>
+     0.694
+    </real>
+    <real>
+     1.0
+    </real>
+   </array>
+  </dict>
+ </lib>
 </glyph>

@@ -1,34 +1,44 @@
-<?xml version='1.0' encoding='utf-8'?>
-<glyph name="Lslash" format="2">
-  <advance width="448"/>
-  <unicode hex="0141"/>
-  <outline>
-    <contour>
-      <point x="53" y="0" type="line"/>
-      <point x="414" y="0" type="line"/>
-      <point x="422" y="50" type="line"/>
-      <point x="117" y="50" type="line"/>
-      <point x="174" y="372" type="line"/>
-      <point x="336" y="439" type="line"/>
-      <point x="322" y="488" type="line"/>
-      <point x="184" y="431" type="line"/>
-      <point x="232" y="698" type="line"/>
-      <point x="176" y="698" type="line"/>
-      <point x="124" y="406" type="line"/>
-      <point x="8" y="358" type="line"/>
-      <point x="21" y="308" type="line"/>
-      <point x="114" y="346" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-	<key>com.typemytype.robofont.mark</key>
-	<array>
-		<real>0.6</real>
-		<real>1.0</real>
-		<real>0.694</real>
-		<real>1.0</real>
-	</array>
-</dict>
-  </lib>
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="Lslash">
+ <advance width="448"/>
+ <unicode hex="0141"/>
+ <outline>
+  <contour>
+   <point type="line" x="53" y="0"/>
+   <point type="line" x="414" y="0"/>
+   <point type="line" x="422" y="50"/>
+   <point type="line" x="117" y="50"/>
+   <point type="line" x="174" y="372"/>
+   <point type="line" x="336" y="439"/>
+   <point type="line" x="322" y="488"/>
+   <point type="line" x="184" y="431"/>
+   <point type="line" x="232" y="698"/>
+   <point type="line" x="176" y="698"/>
+   <point type="line" x="124" y="406"/>
+   <point type="line" x="8" y="358"/>
+   <point type="line" x="21" y="308"/>
+   <point type="line" x="114" y="346"/>
+  </contour>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <real>
+     1.0
+    </real>
+    <real>
+     0.694
+    </real>
+    <real>
+     1.0
+    </real>
+   </array>
+  </dict>
+ </lib>
 </glyph>

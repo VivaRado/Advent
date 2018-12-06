@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="tcedilla" format="1">
-  <advance width="288"/>
-  <unicode hex="0163"/>
-  <outline>
-    <component base="t"/>
-    <component base="cedillacomb" xOffset="11"/>
-  </outline>
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="tcedilla">
+ <advance width="322"/>
+ <unicode hex="0163"/>
+ <outline>
+  <component base="t"/>
+  <component base="cedillacomb" xOffset="-32.0" yOffset="5"/>
+ </outline>
 </glyph>

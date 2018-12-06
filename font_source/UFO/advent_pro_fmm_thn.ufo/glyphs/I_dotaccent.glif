@@ -1,20 +1,30 @@
-<?xml version='1.0' encoding='utf-8'?>
-<glyph name="Idotaccent" format="2">
-  <advance width="167"/>
-  <unicode hex="0130"/>
-  <outline>
-    <component base="I"/>
-    <component base="dotaccentcomb" xOffset="83" yOffset="135"/>
-    </outline>
-  <lib>
-    <dict>
-	<key>com.typemytype.robofont.mark</key>
-	<array>
-		<real>0.6</real>
-		<real>1.0</real>
-		<real>0.732</real>
-		<real>1.0</real>
-	</array>
-</dict>
-  </lib>
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="Idotaccent">
+ <advance width="167"/>
+ <unicode hex="0130"/>
+ <outline>
+  <component base="I"/>
+  <component base="dotaccentcomb" xOffset="-50.0" yOffset="110"/>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <real>
+     1.0
+    </real>
+    <real>
+     0.732
+    </real>
+    <real>
+     1.0
+    </real>
+   </array>
+  </dict>
+ </lib>
 </glyph>

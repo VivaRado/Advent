@@ -1,19 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Tau" format="1">
-  <advance width="420"/>
-  <unicode hex="03A4"/>
-  <outline>
-    <component base="T"/>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.59999999999999998</real>
-        <real>1</real>
-        <real>0.73199999999999998</real>
-        <real>1</real>
-      </array>
-    </dict>
-  </lib>
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="Tau">
+ <advance width="419"/>
+ <unicode hex="03A4"/>
+ <outline>
+  <component base="T"/>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <real>
+     1.0
+    </real>
+    <real>
+     0.732
+    </real>
+    <real>
+     1.0
+    </real>
+   </array>
+  </dict>
+ </lib>
 </glyph>

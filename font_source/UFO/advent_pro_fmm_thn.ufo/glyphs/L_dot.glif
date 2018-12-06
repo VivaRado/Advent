@@ -1,29 +1,9 @@
-<?xml version='1.0' encoding='utf-8'?>
-<glyph name="Ldot" format="2">
-  <advance width="419"/>
-  <unicode hex="013F"/>
-  <outline>
-    <component base="L"/><contour>
-      <point x="133" y="732" type="curve" smooth="yes"/>
-      <point x="124" y="732"/>
-      <point x="116" y="724"/>
-      <point x="116" y="714" type="curve" smooth="yes"/>
-      <point x="116" y="705"/>
-      <point x="124" y="697"/>
-      <point x="133" y="697" type="curve" smooth="yes"/>
-      <point x="142" y="697"/>
-      <point x="149" y="705"/>
-      <point x="149" y="714" type="curve" smooth="yes"/>
-      <point x="149" y="724"/>
-      <point x="142" y="732"/>
-    </contour>
-  
-
-
-
-
-
-
-
-</outline>
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="Ldot">
+ <advance width="419"/>
+ <unicode hex="013F"/>
+ <outline>
+  <component base="L"/>
+  <component base="dotaccentcomb" xOffset="176.0" yOffset="-360"/>
+ </outline>
 </glyph>

@@ -1,48 +1,46 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="w" format="1">
-  <advance width="697"/>
-  <unicode hex="0077"/>
-  <outline>
-    <contour>
-      <point x="416" y="499" type="line"/>
-      <point x="312" y="499" type="line"/>
-      <point x="179" y="194" type="line"/>
-      <point x="140" y="499" type="line"/>
-      <point x="20" y="499" type="line"/>
-      <point x="94" y="0" type="line"/>
-      <point x="202" y="0" type="line"/>
-      <point x="321" y="267" type="line"/>
-      <point x="346" y="0" type="line"/>
-      <point x="451" y="0" type="line"/>
-      <point x="700" y="499" type="line"/>
-      <point x="582" y="499" type="line"/>
-      <point x="447" y="194" type="line"/>
-    </contour>
-    <contour>
-      <point x="348" y="300" type="move" name="center"/>
-    </contour>
-    <contour>
-      <point x="348" y="0" type="move" name="ogonek"/>
-    </contour>
-    <contour>
-      <point x="348" y="545" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="348" y="545" type="move" name="tonos"/>
-    </contour>
-    <contour>
-      <point x="348" y="0" type="move" name="bottom"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.59999999999999998</real>
-        <real>1</real>
-        <real>0.73199999999999998</real>
-        <real>1</real>
-      </array>
-    </dict>
-  </lib>
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="w">
+ <advance width="697"/>
+ <unicode hex="0077"/>
+ <outline>
+  <contour>
+   <point type="line" x="416" y="499"/>
+   <point type="line" x="312" y="499"/>
+   <point type="line" x="179" y="194"/>
+   <point type="line" x="140" y="499"/>
+   <point type="line" x="20" y="499"/>
+   <point type="line" x="94" y="0"/>
+   <point type="line" x="202" y="0"/>
+   <point type="line" x="321" y="267"/>
+   <point type="line" x="346" y="0"/>
+   <point type="line" x="451" y="0"/>
+   <point type="line" x="700" y="499"/>
+   <point type="line" x="582" y="499"/>
+   <point type="line" x="447" y="194"/>
+  </contour>
+  <contour>
+   <point name="top" type="move" x="348" y="545"/>
+  </contour>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <real>
+     1.0
+    </real>
+    <real>
+     0.732
+    </real>
+    <real>
+     1.0
+    </real>
+   </array>
+  </dict>
+ </lib>
 </glyph>
