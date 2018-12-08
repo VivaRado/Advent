@@ -28,6 +28,7 @@
     <string>Oslash</string>
     <string>Otilde</string>
     <string>zero</string>
+    <string>Q</string>
   </array>
   <key>hyphen</key>
   <array>
@@ -121,6 +122,7 @@
     <string>omicron</string>
     <string>omicrontonos</string>
     <string>otilde</string>
+    <string>oslash</string>
   </array>
   <key>D</key>
   <array>
@@ -175,6 +177,7 @@
     <string>ccedilla</string>
     <string>ccircumflex</string>
     <string>cdotaccent</string>
+    <string>cent</string>
   </array>
   <key>upsilon</key>
   <array>

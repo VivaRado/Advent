@@ -1,36 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
-<glyph format="2" name="caron">
- <advance width="266"/>
- <unicode hex="02C7"/>
- <outline>
-  <contour>
-   <point type="line" x="263" y="716"/>
-   <point type="line" x="211" y="768"/>
-   <point type="line" x="131" y="686"/>
-   <point type="line" x="56" y="767"/>
-   <point type="line" x="3" y="715"/>
-   <point type="line" x="131" y="588"/>
-  </contour>
- </outline>
- <lib>
-  <dict>
-   <key>
-    com.typemytype.robofont.mark
-   </key>
-   <array>
-    <real>
-     0.6
-    </real>
-    <real>
-     0.609
-    </real>
-    <real>
-     1.0
-    </real>
-    <real>
-     1.0
-    </real>
-   </array>
-  </dict>
- </lib>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caron" format="1">
+  <advance width="266"/>
+  <unicode hex="02C7"/>
+  <outline>
+    <component base="caroncomb"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.59999999999999998</real>
+        <real>0.60899999999999999</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
 </glyph>

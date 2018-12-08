@@ -1,34 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph format="2" name="macroncomb">
- <advance width="266"><anchor name="top" x="133.0" y="750" /><anchor name="_top" x="133.0" y="600" /></advance>
- <unicode hex="0304" />
- <outline>
-  <contour>
-   <point type="line" x="251" y="708" />
-   <point type="line" x="30" y="708" />
-   <point type="line" x="14" y="618" />
-   <point type="line" x="235" y="618" />
-  </contour>
- </outline>
- <lib>
-  <dict>
-   <key>
-    com.typemytype.robofont.mark
-   </key>
-   <array>
-    <real>
-     0.6
-    </real>
-    <real>
-     0.609
-    </real>
-    <real>
-     1.0
-    </real>
-    <real>
-     1.0
-    </real>
-   </array>
-  </dict>
- </lib>
+<glyph name="macroncomb" format="1">
+  <advance width="266"/>
+  <unicode hex="0304"/>
+  <outline>
+    <contour>
+      <point x="251" y="708" type="line"/>
+      <point x="30" y="708" type="line"/>
+      <point x="14" y="618" type="line"/>
+      <point x="235" y="618" type="line"/>
+    </contour>
+    <contour>
+      <point x="133" y="750" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="133" y="600" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.59999999999999998</real>
+        <real>0.60899999999999999</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
 </glyph>

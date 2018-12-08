@@ -1,34 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
-<glyph format="2" name="overscore">
- <advance width="266"/>
- <unicode hex="00AF"/>
- <outline>
-  <contour>
-   <point type="line" x="248" y="675"/>
-   <point type="line" x="28" y="675"/>
-   <point type="line" x="17" y="617"/>
-   <point type="line" x="237" y="617"/>
-  </contour>
- </outline>
- <lib>
-  <dict>
-   <key>
-    com.typemytype.robofont.mark
-   </key>
-   <array>
-    <real>
-     0.6
-    </real>
-    <real>
-     0.609
-    </real>
-    <real>
-     1.0
-    </real>
-    <real>
-     1.0
-    </real>
-   </array>
-  </dict>
- </lib>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="overscore" format="1">
+  <advance width="266"/>
+  <unicode hex="00AF"/>
+  <outline>
+    <component base="macroncomb"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.59999999999999998</real>
+        <real>0.60899999999999999</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
 </glyph>

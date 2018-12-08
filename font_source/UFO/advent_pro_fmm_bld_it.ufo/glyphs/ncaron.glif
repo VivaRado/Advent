@@ -1,30 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?>
-<glyph format="2" name="ncaron">
- <advance width="454"/>
- <unicode hex="0148"/>
- <outline>
-  <component base="n"/>
-  <component base="caroncomb" xOffset="174.0" yOffset="-35"/>
- </outline>
- <lib>
-  <dict>
-   <key>
-    com.typemytype.robofont.mark
-   </key>
-   <array>
-    <real>
-     0.6
-    </real>
-    <real>
-     1.0
-    </real>
-    <real>
-     0.732
-    </real>
-    <real>
-     1.0
-    </real>
-   </array>
-  </dict>
- </lib>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ncaron" format="1">
+  <advance width="454"/>
+  <unicode hex="0148"/>
+  <outline>
+    <component base="n"/>
+    <component base="caroncomb" xOffset="174" yOffset="-35"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.59999999999999998</real>
+        <integer>1</integer>
+        <real>0.69399999999999995</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
 </glyph>

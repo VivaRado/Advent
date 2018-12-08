@@ -1,65 +1,35 @@
-<?xml version="1.0" encoding="utf-8"?>
-<glyph format="2" name="uni021B">
- <advance width="249"/>
- <unicode hex="021B"/>
- <outline>
-  <component base="t"/>
-  <component base="commaturnedbelowcomb" xOffset="-9.0" yOffset="5"/>
- </outline>
- <lib>
-  <dict>
-   <key>
-    com.typemytype.robofont.guides
-   </key>
-   <array>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni021B" format="1">
+  <advance width="249"/>
+  <unicode hex="021B"/>
+  <outline>
+    <component base="t"/>
+    <component base="commaturnedbelowcomb" xOffset="-9" yOffset="5"/>
+  </outline>
+  <lib>
     <dict>
-     <key>
-      angle
-     </key>
-     <real>
-      90.0
-     </real>
-     <key>
-      isGlobal
-     </key>
-     <false/>
-     <key>
-      magnetic
-     </key>
-     <integer>
-      5
-     </integer>
-     <key>
-      x
-     </key>
-     <real>
-      -316.0
-     </real>
-     <key>
-      y
-     </key>
-     <real>
-      0.0
-     </real>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <integer>90</integer>
+          <key>isGlobal</key>
+          <integer>0</integer>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>x</key>
+          <string>-316</string>
+          <key>y</key>
+          <integer>0</integer>
+        </dict>
+      </array>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.59999999999999998</real>
+        <integer>1</integer>
+        <real>0.73199999999999998</real>
+        <integer>1</integer>
+      </array>
     </dict>
-   </array>
-   <key>
-    com.typemytype.robofont.mark
-   </key>
-   <array>
-    <real>
-     0.6
-    </real>
-    <real>
-     1.0
-    </real>
-    <real>
-     0.732
-    </real>
-    <real>
-     1.0
-    </real>
-   </array>
-  </dict>
- </lib>
+  </lib>
 </glyph>

@@ -1,46 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?>
-<glyph format="2" name="plusminus">
- <advance width="391"/>
- <unicode hex="00B1"/>
- <outline>
-  <contour>
-   <point type="line" x="49" y="377"/>
-   <point type="line" x="182" y="377"/>
-   <point type="line" x="159" y="246"/>
-   <point type="line" x="25" y="246"/>
-   <point type="line" x="15" y="189"/>
-   <point type="line" x="334" y="189"/>
-   <point type="line" x="344" y="246"/>
-   <point type="line" x="214" y="246"/>
-   <point type="line" x="237" y="377"/>
-   <point type="line" x="368" y="377"/>
-   <point type="line" x="377" y="431"/>
-   <point type="line" x="246" y="431"/>
-   <point type="line" x="270" y="563"/>
-   <point type="line" x="215" y="563"/>
-   <point type="line" x="191" y="431"/>
-   <point type="line" x="58" y="431"/>
-  </contour>
- </outline>
- <lib>
-  <dict>
-   <key>
-    com.typemytype.robofont.mark
-   </key>
-   <array>
-    <real>
-     0.6
-    </real>
-    <real>
-     1.0
-    </real>
-    <real>
-     0.694
-    </real>
-    <real>
-     1.0
-    </real>
-   </array>
-  </dict>
- </lib>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="plusminus" format="1">
+  <advance width="391"/>
+  <unicode hex="00B1"/>
+  <outline>
+    <contour>
+      <point x="49" y="377" type="line"/>
+      <point x="182" y="377" type="line"/>
+      <point x="159" y="246" type="line"/>
+      <point x="25" y="246" type="line"/>
+      <point x="15" y="189" type="line"/>
+      <point x="334" y="189" type="line"/>
+      <point x="344" y="246" type="line"/>
+      <point x="214" y="246" type="line"/>
+      <point x="237" y="377" type="line"/>
+      <point x="368" y="377" type="line"/>
+      <point x="377" y="431" type="line"/>
+      <point x="246" y="431" type="line"/>
+      <point x="270" y="563" type="line"/>
+      <point x="215" y="563" type="line"/>
+      <point x="191" y="431" type="line"/>
+      <point x="58" y="431" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.59999999999999998</real>
+        <integer>1</integer>
+        <real>0.69399999999999995</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
 </glyph>

@@ -1,45 +1,35 @@
-<?xml version="1.0" encoding="utf-8"?>
-<glyph format="2" name="I">
- <advance width="186"/>
- <unicode hex="0049"/>
- <outline>
-  <contour>
-   <point type="line" x="20" y="649"/>
-   <point type="line" x="88" y="647"/>
-   <point type="line" x="88" y="0"/>
-   <point type="line" x="143" y="0"/>
-   <point type="line" x="143" y="698"/>
-   <point type="line" x="20" y="698"/>
-  </contour>
-  <contour>
-   <point name="top" type="move" x="93" y="735"/>
-  </contour>
-  <contour>
-   <point name="tonos" type="move" x="31" y="700"/>
-  </contour>
-  <contour>
-   <point name="ogonek" type="move" x="93" y="0"/>
-  </contour>
- </outline>
- <lib>
-  <dict>
-   <key>
-    com.typemytype.robofont.mark
-   </key>
-   <array>
-    <real>
-     0.6
-    </real>
-    <real>
-     1.0
-    </real>
-    <real>
-     0.694
-    </real>
-    <real>
-     1.0
-    </real>
-   </array>
-  </dict>
- </lib>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="I" format="1">
+  <advance width="186"/>
+  <unicode hex="0049"/>
+  <outline>
+    <contour>
+      <point x="20" y="649" type="line"/>
+      <point x="88" y="647" type="line"/>
+      <point x="88" y="0" type="line"/>
+      <point x="143" y="0" type="line"/>
+      <point x="143" y="698" type="line"/>
+      <point x="20" y="698" type="line"/>
+    </contour>
+    <contour>
+      <point x="93" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="31" y="700" type="move" name="tonos"/>
+    </contour>
+    <contour>
+      <point x="93" y="735" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.59999999999999998</real>
+        <integer>1</integer>
+        <real>0.69399999999999995</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
 </glyph>

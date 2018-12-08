@@ -110,7 +110,7 @@
 			"Aring": [0,-10],
 			"Uring": [0,0],
 			"uring": [0,-30],
-			"aring": [0,0],
+			"aring": [-10,-64],
 
 			"Dcroat": [0,0],
 
@@ -296,7 +296,7 @@
 			"Uogonek": [-60,-5],
 			"aogonek": [150,-5],
 			"eogonek": [0,-5],
-			"iogonek": [10,-5],
+			"iogonek": [-110,-5],
 			"uogonek": [125,-5],
 			
 			"Aacute": [0,0],
@@ -329,7 +329,7 @@
 			"Aring": [125,-10],
 			"Uring": [75,0],
 			"uring": [60,-30],
-			"aring": [20,0],
+			"aring": [0,-65],
 
 			"Dcroat": [70,0],
 
@@ -548,7 +548,7 @@
 			"Aring": [0,-30],
 			"Uring": [0,0],
 			"uring": [0,-30],
-			"aring": [0,0],
+			"aring": [0,-90],
 
 			"Dcroat": [0,0],
 
@@ -728,14 +728,14 @@
 			"dcaron": [230,0],
 			"lcaron": [40,0],
 
-			"Aogonek": [210,-5],
-			"Eogonek": [95,-5],
+			"Aogonek": [180,-5],
+			"Eogonek": [80,-5],
 			"Iogonek": [-100,-5],
 			"Uogonek": [-60,-5],
-			"aogonek": [150,-5],
+			"aogonek": [110,-5],
 			"eogonek": [0,-5],
 			"iogonek": [10,-5],
-			"uogonek": [125,-5],
+			"uogonek": [105,-5],
 			
 			"Aacute": [0,0],
 			"Cacute": [80,0],
@@ -764,15 +764,15 @@
 			"yacute": [40,-40],
 			"zacute": [40,-40],
 
-			"Aring": [125,-10],
-			"Uring": [75,0],
-			"uring": [60,-30],
-			"aring": [20,0],
+			"Aring": [35,-10],
+			"Uring": [-15,0],
+			"uring": [-30,-30],
+			"aring": [-30,-90],
 
 			"Dcroat": [70,0],
 
 			"Ldot": [60,-360],
-			"ldot": [70,-360],
+			"ldot": [90,-360],
 
 			"Ccedilla": [-40,0],
 			"Scedilla": [-40,0],
@@ -986,7 +986,7 @@
 			"Aring": [0,-40],
 			"Uring": [0,0],
 			"uring": [0,-30],
-			"aring": [0,0],
+			"aring": [0,-125],
 
 			"Dcroat": [0,0],
 
@@ -1138,7 +1138,7 @@
 
 			"Amacron": [120,0],
 			"Emacron": [90,0],
-			"Imacron": [10,0],
+			"Imacron": [40,0],
 			"Omacron": [90,0],
 			"Umacron": [70,0],
 			"amacron": [60,-40],
@@ -1162,18 +1162,18 @@
 			"rcaron": [60,-40],
 			"scaron": [80,-40],
 			"zcaron": [70,-40],
-			"tcaron": [20,0],
+			"tcaron": [40,0],
 			"dcaron": [230,0],
 			"lcaron": [40,0],
 
-			"Aogonek": [210,-5],
-			"Eogonek": [95,-5],
+			"Aogonek": [180,-5],
+			"Eogonek": [55,-5],
 			"Iogonek": [-100,-5],
 			"Uogonek": [-60,-5],
-			"aogonek": [150,-5],
+			"aogonek": [210,-5],
 			"eogonek": [0,-5],
-			"iogonek": [10,-5],
-			"uogonek": [125,-5],
+			"iogonek": [-120,-5],
+			"uogonek": [75,-5],
 			
 			"Aacute": [0,0],
 			"Cacute": [80,0],
@@ -1202,15 +1202,15 @@
 			"yacute": [40,-40],
 			"zacute": [40,-40],
 
-			"Aring": [125,-10],
+			"Aring": [30,-30],
 			"Uring": [75,0],
-			"uring": [60,-30],
-			"aring": [20,0],
+			"uring": [-30,-30],
+			"aring": [-50,-120],
 
 			"Dcroat": [70,0],
 
-			"Ldot": [60,-360],
-			"ldot": [70,-360],
+			"Ldot": [30,-360],
+			"ldot": [30,-360],
 
 			"Ccedilla": [-40,0],
 			"Scedilla": [-40,0],
@@ -1224,7 +1224,7 @@
 			"Ecircumflex": [90,0],
 			"Gcircumflex": [80,0],
 			"Hcircumflex": [80,0],
-			"Icircumflex": [0,0],
+			"Icircumflex": [30,0],
 			"Jcircumflex": [40,0],
 			"Ocircumflex": [85,0],
 			"Scircumflex": [100,0],
@@ -1286,7 +1286,7 @@
 			"kcommaaccent": [-50,0],
 			"lcommaaccent": [-100,0],
 			"ncommaaccent": [-70,0],
-			"rcommaaccent": [-210,0],
+			"rcommaaccent": [-180,0],
 			"scommaaccent": [-60,0],
 			"tcommaaccent": [-90,0],
 			"gcommaaccent": [50,0],

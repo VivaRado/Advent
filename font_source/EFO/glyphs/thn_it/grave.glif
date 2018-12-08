@@ -1,39 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
-<glyph format="2" name="grave">
- <advance width="266"/>
- <unicode hex="0060"/>
- <outline>
-  <contour>
-   <point smooth="yes" type="line" x="111" y="727"/>
-   <point x="109" y="736"/>
-   <point x="100" y="741"/>
-   <point smooth="yes" type="curve" x="91" y="737"/>
-   <point x="83" y="732"/>
-   <point x="81" y="722"/>
-   <point type="curve" x="83" y="714"/>
-   <point type="line" x="122" y="613"/>
-   <point type="line" x="143" y="613"/>
-  </contour>
- </outline>
- <lib>
-  <dict>
-   <key>
-    com.typemytype.robofont.mark
-   </key>
-   <array>
-    <real>
-     0.6
-    </real>
-    <real>
-     0.609
-    </real>
-    <real>
-     1.0
-    </real>
-    <real>
-     1.0
-    </real>
-   </array>
-  </dict>
- </lib>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="grave" format="1">
+  <advance width="266"/>
+  <unicode hex="0060"/>
+  <outline>
+    <component base="gravecomb"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.59999999999999998</real>
+        <real>0.60899999999999999</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
 </glyph>

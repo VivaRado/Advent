@@ -1,46 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?>
-<glyph format="2" name="W">
- <advance width="714"/>
- <unicode hex="0057"/>
- <outline>
-  <contour>
-   <point type="line" x="425" y="698"/>
-   <point type="line" x="346" y="698"/>
-   <point type="line" x="161" y="252"/>
-   <point type="line" x="157" y="698"/>
-   <point type="line" x="36" y="698"/>
-   <point type="line" x="47" y="0"/>
-   <point type="line" x="175" y="0"/>
-   <point type="line" x="324" y="353"/>
-   <point type="line" x="351" y="0"/>
-   <point type="line" x="475" y="0"/>
-   <point type="line" x="733" y="698"/>
-   <point type="line" x="606" y="698"/>
-   <point type="line" x="452" y="252"/>
-  </contour>
-  <contour>
-   <point name="top" type="move" x="357" y="735"/>
-  </contour>
- </outline>
- <lib>
-  <dict>
-   <key>
-    com.typemytype.robofont.mark
-   </key>
-   <array>
-    <real>
-     0.6
-    </real>
-    <real>
-     1.0
-    </real>
-    <real>
-     0.732
-    </real>
-    <real>
-     1.0
-    </real>
-   </array>
-  </dict>
- </lib>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="W" format="1">
+  <advance width="714"/>
+  <unicode hex="0057"/>
+  <outline>
+    <contour>
+      <point x="425" y="698" type="line"/>
+      <point x="346" y="698" type="line"/>
+      <point x="161" y="252" type="line"/>
+      <point x="157" y="698" type="line"/>
+      <point x="36" y="698" type="line"/>
+      <point x="47" y="0" type="line"/>
+      <point x="175" y="0" type="line"/>
+      <point x="324" y="353" type="line"/>
+      <point x="351" y="0" type="line"/>
+      <point x="475" y="0" type="line"/>
+      <point x="733" y="698" type="line"/>
+      <point x="606" y="698" type="line"/>
+      <point x="452" y="252" type="line"/>
+    </contour>
+    <contour>
+      <point x="357" y="735" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.59999999999999998</real>
+        <integer>1</integer>
+        <real>0.69399999999999995</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
 </glyph>

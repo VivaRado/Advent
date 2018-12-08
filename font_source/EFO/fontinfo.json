@@ -471,38 +471,46 @@
         "font_kerning_settings": [
             {
                 "thn": {
-                    "--intrusion-tolerance-ems": 0.02,
-                    "--max-distance-ems": 0.05,
-                    "--max-x-extrema-overlap-ems": 0.1,
-                    "--min-distance-ems": 0.04,
-                    "--precision-ems": 0.005
+                    "--intrusion-tolerance-ems": 0.1,
+                    "--max-distance-ems": 0.2,
+                    "--max-x-extrema-overlap-ems": 0.01,
+                    "--min-distance-ems": 0.1,
+                    "--precision-ems": 0.005,
+                    "--kerning-threshold-ems": 0.1,
+                    "--x-extrema-overlap-scaling": 0.333
                 }
             },
             {
                 "reg": {
                     "--intrusion-tolerance-ems": 0.02,
-                    "--max-distance-ems": 0.05,
-                    "--max-x-extrema-overlap-ems": 0.1,
-                    "--min-distance-ems": 0.04,
-                    "--precision-ems": 0.005
+                    "--max-distance-ems": 0.25,
+                    "--max-x-extrema-overlap-ems": -0.05,
+                    "--min-distance-ems": 0.2,
+                    "--precision-ems": 0.005,
+                    "--kerning-threshold-ems": 0.1,
+                    "--x-extrema-overlap-scaling": 0.333
                 }
             },
             {
                 "bld": {
-                    "--intrusion-tolerance-ems": 0.02,
-                    "--max-distance-ems": 0.05,
-                    "--max-x-extrema-overlap-ems": 0.1,
+                    "--intrusion-tolerance-ems": 0.002,
+                    "--max-distance-ems": 0.1,
                     "--min-distance-ems": 0.04,
-                    "--precision-ems": 0.005
+                    "--max-x-extrema-overlap-ems": 0.03,
+                    "--x-extrema-overlap-scaling": 0.2,
+                    "--precision-ems": 0.005,
+                    "--kerning-threshold-ems": 0
                 }
             },
             {
                 "thn_it": {
-                    "--intrusion-tolerance-ems": 0.02,
-                    "--max-distance-ems": 0.05,
-                    "--max-x-extrema-overlap-ems": 0.1,
+                    "--intrusion-tolerance-ems": 0.1,
+                    "--max-distance-ems": 0.1,
+                    "--max-x-extrema-overlap-ems": 0.05,
                     "--min-distance-ems": 0.04,
-                    "--precision-ems": 0.005
+                    "--precision-ems": 0.005,
+                    "--kerning-threshold-ems": 0.1,
+                    "--x-extrema-overlap-scaling": 0.333
                 }
             },
             {
@@ -511,16 +519,20 @@
                     "--max-distance-ems": 0.05,
                     "--max-x-extrema-overlap-ems": 0.1,
                     "--min-distance-ems": 0.04,
-                    "--precision-ems": 0.005
+                    "--precision-ems": 0.005,
+                    "--kerning-threshold-ems": 0.1,
+                    "--x-extrema-overlap-scaling": 0.333
                 }
             },
             {
                 "bld_it": {
-                    "--intrusion-tolerance-ems": 0.02,
-                    "--max-distance-ems": 0.05,
-                    "--max-x-extrema-overlap-ems": 0.1,
-                    "--min-distance-ems": 0.04,
-                    "--precision-ems": 0.005
+                    "--intrusion-tolerance-ems": 0.2,
+                    "--max-distance-ems": 0.35,
+                    "--max-x-extrema-overlap-ems": -0.1,
+                    "--min-distance-ems": 0.3,
+                    "--precision-ems": 0.005,
+                    "--kerning-threshold-ems": 0.1,
+                    "--x-extrema-overlap-scaling": 0.333
                 }
             }
         ]

@@ -97,6 +97,16 @@ figure span {
 	display: inline;
 	word-break: break-all;
 }
+
+span b {
+	
+font-weight: bold !important;
+clear: both;
+display: block;
+color: #ddd;
+
+}
+
 h2 {
 	line-height: 0.8em;
 	font-family: 'AdventProVar';
@@ -116,7 +126,7 @@ h2 small {
 	font-family: 'AdventProVar';
 	font-feature-settings: "kern" 1;
 	font-size: 2em;
-	letter-spacing: 0.04em;
+	/*letter-spacing: 0.04em;*/
 	font-kerning: normal;
 }
 .sample, .no_sample {

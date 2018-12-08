@@ -1,37 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?>
-<glyph format="2" name="V">
- <advance width="506"/>
- <unicode hex="0056"/>
- <outline>
-  <contour>
-   <point type="line" x="13" y="698"/>
-   <point type="line" x="242" y="0"/>
-   <point type="line" x="264" y="0"/>
-   <point type="line" x="490" y="698"/>
-   <point type="line" x="471" y="698"/>
-   <point type="line" x="252" y="26"/>
-   <point type="line" x="32" y="698"/>
-  </contour>
- </outline>
- <lib>
-  <dict>
-   <key>
-    com.typemytype.robofont.mark
-   </key>
-   <array>
-    <real>
-     0.6
-    </real>
-    <real>
-     1.0
-    </real>
-    <real>
-     0.694
-    </real>
-    <real>
-     1.0
-    </real>
-   </array>
-  </dict>
- </lib>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="V" format="1">
+  <advance width="506"/>
+  <unicode hex="0056"/>
+  <outline>
+    <contour>
+      <point x="13" y="698" type="line"/>
+      <point x="242" y="0" type="line"/>
+      <point x="264" y="0" type="line"/>
+      <point x="490" y="698" type="line"/>
+      <point x="471" y="698" type="line"/>
+      <point x="252" y="26" type="line"/>
+      <point x="32" y="698" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.59999999999999998</real>
+        <integer>1</integer>
+        <real>0.69399999999999995</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
 </glyph>

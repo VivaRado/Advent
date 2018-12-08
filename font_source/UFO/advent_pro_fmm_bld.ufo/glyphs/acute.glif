@@ -1,39 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
-<glyph format="2" name="acute">
- <advance width="266"/>
- <unicode hex="00B4"/>
- <outline>
-  <contour>
-   <point type="line" x="207" y="671"/>
-   <point x="225" y="693"/>
-   <point x="225" y="727"/>
-   <point smooth="yes" type="curve" x="200" y="741"/>
-   <point x="174" y="757"/>
-   <point x="142" y="738"/>
-   <point smooth="yes" type="curve" x="135" y="712"/>
-   <point type="line" x="105" y="596"/>
-   <point type="line" x="149" y="596"/>
-  </contour>
- </outline>
- <lib>
-  <dict>
-   <key>
-    com.typemytype.robofont.mark
-   </key>
-   <array>
-    <real>
-     0.6
-    </real>
-    <real>
-     0.609
-    </real>
-    <real>
-     1.0
-    </real>
-    <real>
-     1.0
-    </real>
-   </array>
-  </dict>
- </lib>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute" format="1">
+  <advance width="266"/>
+  <unicode hex="00B4"/>
+  <outline>
+    <component base="acutecomb"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.59999999999999998</real>
+        <real>0.60899999999999999</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
 </glyph>

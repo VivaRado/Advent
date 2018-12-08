@@ -1,42 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?>
-<glyph format="2" name="plus">
- <advance width="381"/>
- <unicode hex="002B"/>
- <outline>
-  <contour>
-   <point type="line" x="244" y="529"/>
-   <point type="line" x="133" y="529"/>
-   <point type="line" x="133" y="419"/>
-   <point type="line" x="29" y="419"/>
-   <point type="line" x="29" y="313"/>
-   <point type="line" x="133" y="313"/>
-   <point type="line" x="133" y="210"/>
-   <point type="line" x="244" y="210"/>
-   <point type="line" x="244" y="313"/>
-   <point type="line" x="349" y="313"/>
-   <point type="line" x="349" y="419"/>
-   <point type="line" x="244" y="419"/>
-  </contour>
- </outline>
- <lib>
-  <dict>
-   <key>
-    com.typemytype.robofont.mark
-   </key>
-   <array>
-    <real>
-     0.6
-    </real>
-    <real>
-     1.0
-    </real>
-    <real>
-     0.694
-    </real>
-    <real>
-     1.0
-    </real>
-   </array>
-  </dict>
- </lib>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="plus" format="1">
+  <advance width="381"/>
+  <unicode hex="002B"/>
+  <outline>
+    <contour>
+      <point x="244" y="529" type="line"/>
+      <point x="133" y="529" type="line"/>
+      <point x="133" y="419" type="line"/>
+      <point x="29" y="419" type="line"/>
+      <point x="29" y="313" type="line"/>
+      <point x="133" y="313" type="line"/>
+      <point x="133" y="210" type="line"/>
+      <point x="244" y="210" type="line"/>
+      <point x="244" y="313" type="line"/>
+      <point x="349" y="313" type="line"/>
+      <point x="349" y="419" type="line"/>
+      <point x="244" y="419" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.59999999999999998</real>
+        <integer>1</integer>
+        <real>0.69399999999999995</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
 </glyph>

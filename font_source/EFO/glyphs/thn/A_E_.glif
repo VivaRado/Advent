@@ -1,52 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?>
-<glyph format="2" name="AE">
- <advance width="742"/>
- <unicode hex="00C6"/>
- <outline>
-  <contour>
-   <point type="line" x="382" y="0"/>
-   <point type="line" x="714" y="0"/>
-   <point type="line" x="714" y="20"/>
-   <point type="line" x="402" y="20"/>
-   <point type="line" x="402" y="393"/>
-   <point type="line" x="622" y="393"/>
-   <point type="line" x="630" y="413"/>
-   <point type="line" x="402" y="413"/>
-   <point type="line" x="402" y="678"/>
-   <point type="line" x="714" y="678"/>
-   <point type="line" x="714" y="698"/>
-   <point type="line" x="290" y="698"/>
-   <point type="line" x="19" y="0"/>
-   <point type="line" x="41" y="0"/>
-   <point type="line" x="149" y="279"/>
-   <point type="line" x="382" y="279"/>
-  </contour>
-  <contour>
-   <point type="line" x="156" y="299"/>
-   <point type="line" x="302" y="678"/>
-   <point type="line" x="382" y="678"/>
-   <point type="line" x="382" y="299"/>
-  </contour>
- </outline>
- <lib>
-  <dict>
-   <key>
-    com.typemytype.robofont.mark
-   </key>
-   <array>
-    <real>
-     0.6
-    </real>
-    <real>
-     1.0
-    </real>
-    <real>
-     0.694
-    </real>
-    <real>
-     1.0
-    </real>
-   </array>
-  </dict>
- </lib>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE" format="1">
+  <advance width="742"/>
+  <unicode hex="00C6"/>
+  <outline>
+    <contour>
+      <point x="382" y="0" type="line"/>
+      <point x="714" y="0" type="line"/>
+      <point x="714" y="20" type="line"/>
+      <point x="402" y="20" type="line"/>
+      <point x="402" y="393" type="line"/>
+      <point x="622" y="393" type="line"/>
+      <point x="630" y="413" type="line"/>
+      <point x="402" y="413" type="line"/>
+      <point x="402" y="678" type="line"/>
+      <point x="714" y="678" type="line"/>
+      <point x="714" y="698" type="line"/>
+      <point x="290" y="698" type="line"/>
+      <point x="19" y="0" type="line"/>
+      <point x="41" y="0" type="line"/>
+      <point x="149" y="279" type="line"/>
+      <point x="382" y="279" type="line"/>
+    </contour>
+    <contour>
+      <point x="156" y="299" type="line"/>
+      <point x="302" y="678" type="line"/>
+      <point x="382" y="678" type="line"/>
+      <point x="382" y="299" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.59999999999999998</real>
+        <integer>1</integer>
+        <real>0.69399999999999995</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
 </glyph>

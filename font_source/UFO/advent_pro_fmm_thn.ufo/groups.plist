@@ -47,7 +47,6 @@
     <string>Lcaron</string>
     <string>Lcommaaccent</string>
     <string>Ldot</string>
-    <string>Q</string>
   </array>
   <key>@MMK_R_L</key>
   <array>
@@ -56,7 +55,6 @@
     <string>Lcaron</string>
     <string>Lcommaaccent</string>
     <string>Ldot</string>
-    <string>Q</string>
   </array>
   <key>@MMK_L_O</key>
   <array>
@@ -72,6 +70,7 @@
     <string>Oslash</string>
     <string>Otilde</string>
     <string>zero</string>
+    <string>Q</string>
   </array>
   <key>@MMK_R_O</key>
   <array>
@@ -88,21 +87,21 @@
     <string>Otilde</string>
     <string>zero</string>
   </array>
-  <key>@MMK_L_Upsilon</key>
+  <key>@MMK_L_Y</key>
   <array>
+    <string>Y</string>
     <string>Upsilon</string>
     <string>Upsilontonos</string>
-    <string>Y</string>
     <string>Yacute</string>
     <string>Ycircumflex</string>
     <string>Ydieresis</string>
     <string>Ygrave</string>
   </array>
-  <key>@MMK_R_Upsilon</key>
+  <key>@MMK_R_Y</key>
   <array>
+    <string>Y</string>
     <string>Upsilon</string>
     <string>Upsilontonos</string>
-    <string>Y</string>
     <string>Yacute</string>
     <string>Ycircumflex</string>
     <string>Ydieresis</string>

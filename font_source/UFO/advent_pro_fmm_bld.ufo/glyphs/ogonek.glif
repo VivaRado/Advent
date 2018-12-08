@@ -1,48 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?>
-<glyph format="2" name="ogonek">
- <advance width="266"/>
- <unicode hex="02DB"/>
- <outline>
-  <contour>
-   <point type="line" x="183" y="16"/>
-   <point type="line" x="93" y="7"/>
-   <point type="line" x="93" y="3"/>
-   <point smooth="yes" type="line" x="38" y="-87"/>
-   <point x="-12" y="-175"/>
-   <point x="56" y="-251"/>
-   <point smooth="yes" type="curve" x="148" y="-224"/>
-   <point x="170" y="-218"/>
-   <point x="252" y="-190"/>
-   <point type="curve" x="253" y="-190"/>
-   <point type="line" x="228" y="-118"/>
-   <point x="228" y="-118"/>
-   <point x="153" y="-144"/>
-   <point smooth="yes" type="curve" x="125" y="-154"/>
-   <point x="101" y="-164"/>
-   <point x="90" y="-142"/>
-   <point smooth="yes" type="curve" x="101" y="-123"/>
-   <point type="line" x="183" y="2"/>
-  </contour>
- </outline>
- <lib>
-  <dict>
-   <key>
-    com.typemytype.robofont.mark
-   </key>
-   <array>
-    <real>
-     0.6
-    </real>
-    <real>
-     0.609
-    </real>
-    <real>
-     1.0
-    </real>
-    <real>
-     1.0
-    </real>
-   </array>
-  </dict>
- </lib>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonek" format="1">
+  <advance width="266"/>
+  <unicode hex="02DB"/>
+  <outline>
+    <component base="ogonekcomb"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.59999999999999998</real>
+        <real>0.60899999999999999</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
 </glyph>

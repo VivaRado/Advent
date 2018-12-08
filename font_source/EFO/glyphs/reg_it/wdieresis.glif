@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<glyph format="2" name="wdieresis">
- <advance width="677"/>
- <unicode hex="1E85"/>
- <outline>
-  <component base="w"/>
-  <component base="dieresiscomb" xOffset="235.0" yOffset="-85"/>
- </outline>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wdieresis" format="1">
+  <advance width="677"/>
+  <unicode hex="1E85"/>
+  <outline>
+    <component base="w"/>
+    <component base="dieresiscomb" xOffset="235" yOffset="-85"/>
+  </outline>
 </glyph>

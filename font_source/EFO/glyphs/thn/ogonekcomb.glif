@@ -1,56 +1,43 @@
-<?xml version="1.0" encoding="utf-8"?>
-<glyph format="2" name="ogonekcomb">
- <advance width="266">
-  <anchor name="ogonek" x="133.0" y="-250"/>
-  <anchor name="_ogonek" x="133.0" y="0"/>
- </advance>
- <outline>
-  <contour>
-   <point type="line" x="143" y="11"/>
-   <point type="line" x="127" y="10"/>
-   <point type="line" x="127" y="3"/>
-   <point type="line" x="55" y="-114"/>
-   <point x="19" y="-177"/>
-   <point x="65" y="-239"/>
-   <point type="curve" x="138" y="-227"/>
-   <point x="151" y="-224"/>
-   <point x="228" y="-198"/>
-   <point smooth="yes" type="curve" x="228" y="-198"/>
-   <point smooth="yes" type="line" x="222" y="-178"/>
-   <point x="222" y="-178"/>
-   <point x="184" y="-191"/>
-   <point smooth="yes" type="curve" x="150" y="-204"/>
-   <point x="85" y="-224"/>
-   <point x="40" y="-177"/>
-   <point type="curve" x="71" y="-123"/>
-   <point type="line" x="143" y="2"/>
-  </contour>
-  <contour>
-   <point name="ogonek" type="move" x="133" y="-250"/>
-  </contour>
-  <contour>
-   <point name="_ogonek" type="move" x="133" y="0"/>
-  </contour>
- </outline>
- <lib>
-  <dict>
-   <key>
-    com.typemytype.robofont.mark
-   </key>
-   <array>
-    <real>
-     0.6
-    </real>
-    <real>
-     0.609
-    </real>
-    <real>
-     1.0
-    </real>
-    <real>
-     1.0
-    </real>
-   </array>
-  </dict>
- </lib>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ogonekcomb" format="1">
+  <advance width="266"/>
+  <outline>
+    <contour>
+      <point x="143" y="11" type="line"/>
+      <point x="127" y="10" type="line"/>
+      <point x="127" y="3" type="line"/>
+      <point x="55" y="-114" type="line"/>
+      <point x="19" y="-177"/>
+      <point x="65" y="-239"/>
+      <point x="138" y="-227" type="curve"/>
+      <point x="151" y="-224"/>
+      <point x="228" y="-198"/>
+      <point x="228" y="-198" type="curve" smooth="yes"/>
+      <point x="222" y="-178" type="line" smooth="yes"/>
+      <point x="222" y="-178"/>
+      <point x="184" y="-191"/>
+      <point x="150" y="-204" type="curve" smooth="yes"/>
+      <point x="85" y="-224"/>
+      <point x="40" y="-177"/>
+      <point x="71" y="-123" type="curve"/>
+      <point x="143" y="2" type="line"/>
+    </contour>
+    <contour>
+      <point x="133" y="0" type="move" name="_ogonek"/>
+    </contour>
+    <contour>
+      <point x="133" y="-250" type="move" name="ogonek"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.59999999999999998</real>
+        <real>0.60899999999999999</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
 </glyph>

@@ -1,82 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?>
-<glyph format="2" name="oslash">
- <advance width="426"/>
- <unicode hex="00F8"/>
- <outline>
-  <contour>
-   <point smooth="yes" type="curve" x="394" y="184"/>
-   <point smooth="yes" type="line" x="394" y="315"/>
-   <point x="394" y="387"/>
-   <point x="371" y="443"/>
-   <point type="curve" x="327" y="476"/>
-   <point type="line" x="376" y="585"/>
-   <point type="line" x="355" y="585"/>
-   <point type="line" x="311" y="486"/>
-   <point x="284" y="502"/>
-   <point x="251" y="510"/>
-   <point smooth="yes" type="curve" x="212" y="510"/>
-   <point x="94" y="510"/>
-   <point x="26" y="442"/>
-   <point smooth="yes" type="curve" x="26" y="315"/>
-   <point smooth="yes" type="line" x="26" y="184"/>
-   <point x="26" y="114"/>
-   <point x="51" y="54"/>
-   <point type="curve" x="103" y="20"/>
-   <point type="line" x="64" y="-66"/>
-   <point type="line" x="85" y="-66"/>
-   <point type="line" x="119" y="10"/>
-   <point x="145" y="-2"/>
-   <point x="175" y="-10"/>
-   <point smooth="yes" type="curve" x="212" y="-10"/>
-   <point x="336" y="-10"/>
-   <point x="394" y="71"/>
-  </contour>
-  <contour>
-   <point smooth="yes" type="curve" x="45" y="184"/>
-   <point smooth="yes" type="line" x="45" y="319"/>
-   <point x="45" y="442"/>
-   <point x="116" y="492"/>
-   <point smooth="yes" type="curve" x="212" y="492"/>
-   <point x="246" y="492"/>
-   <point x="278" y="484"/>
-   <point type="curve" x="303" y="469"/>
-   <point type="line" x="111" y="37"/>
-   <point x="67" y="68"/>
-   <point x="45" y="121"/>
-  </contour>
-  <contour>
-   <point smooth="yes" type="curve" x="376" y="319"/>
-   <point smooth="yes" type="line" x="376" y="184"/>
-   <point x="376" y="84"/>
-   <point x="327" y="8"/>
-   <point smooth="yes" type="curve" x="212" y="8"/>
-   <point x="179" y="8"/>
-   <point x="150" y="14"/>
-   <point type="curve" x="127" y="26"/>
-   <point type="line" x="318" y="458"/>
-   <point x="354" y="429"/>
-   <point x="376" y="383"/>
-  </contour>
- </outline>
- <lib>
-  <dict>
-   <key>
-    com.typemytype.robofont.mark
-   </key>
-   <array>
-    <real>
-     0.6
-    </real>
-    <real>
-     1.0
-    </real>
-    <real>
-     0.694
-    </real>
-    <real>
-     1.0
-    </real>
-   </array>
-  </dict>
- </lib>
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oslash" format="1">
+  <advance width="426"/>
+  <unicode hex="00F8"/>
+  <outline>
+    <contour>
+      <point x="376" y="585" type="line"/>
+      <point x="355" y="585" type="line"/>
+      <point x="64" y="-66" type="line"/>
+      <point x="85" y="-66" type="line"/>
+    </contour>
+    <component base="o"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.59999999999999998</real>
+        <integer>1</integer>
+        <real>0.69399999999999995</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
 </glyph>
