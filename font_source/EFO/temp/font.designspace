@@ -6,7 +6,7 @@
 		</axis>
 	</axes>
 	<sources>
-		<source familyname="Advent Pro" filename="/media/root/Malysh1/winshm/advent_repo/_/test_efo/advent_efo_e_a.efo/temp/advent_pro_fmm/advent_pro_fmm_thn.ufo" name="master_0">
+		<source familyname="Advent Pro" filename="/advent_pro_fmm/advent_pro_fmm_thn.ufo" name="master_0">
 			<lib copy="1" />
 			<info copy="1" />
 			<kerning copy="1" />
@@ -15,33 +15,33 @@
 				<dimension name="Italic" xvalue="0" />
 			</location>
 		</source>
-		<source familyname="Advent Pro" filename="/media/root/Malysh1/winshm/advent_repo/_/test_efo/advent_efo_e_a.efo/temp/advent_pro_fmm/advent_pro_fmm_reg.ufo" name="master_1">
+		<source familyname="Advent Pro" filename="/advent_pro_fmm/advent_pro_fmm_reg.ufo" name="master_1">
 			<location>
 				<dimension name="Weight" xvalue="400" />
 				<dimension name="Italic" xvalue="0" />
 			</location>
 		</source>
-		<source familyname="Advent Pro" filename="/media/root/Malysh1/winshm/advent_repo/_/test_efo/advent_efo_e_a.efo/temp/advent_pro_fmm/advent_pro_fmm_bld.ufo" name="master_2">
+		<source familyname="Advent Pro" filename="/advent_pro_fmm/advent_pro_fmm_bld.ufo" name="master_2">
 			<location>
 				<dimension name="Weight" xvalue="700" />
 				<dimension name="Italic" xvalue="0" />
 			</location>
 		</source>
-		<source familyname="Advent Pro" filename="/media/root/Malysh1/winshm/advent_repo/_/test_efo/advent_efo_e_a.efo/temp/advent_pro_fmm/advent_pro_fmm_thn_it.ufo" name="master_3">
+		<source familyname="Advent Pro" filename="/advent_pro_fmm/advent_pro_fmm_thn_it.ufo" name="master_3">
 			<kerning copy="1" />
 			<location>
 				<dimension name="Weight" xvalue="100" />
 				<dimension name="Italic" xvalue="1" />
 			</location>
 		</source>
-		<source familyname="Advent Pro" filename="/media/root/Malysh1/winshm/advent_repo/_/test_efo/advent_efo_e_a.efo/temp/advent_pro_fmm/advent_pro_fmm_reg_it.ufo" name="master_4">
+		<source familyname="Advent Pro" filename="/advent_pro_fmm/advent_pro_fmm_reg_it.ufo" name="master_4">
 			<kerning copy="1" />
 			<location>
 				<dimension name="Weight" xvalue="400" />
 				<dimension name="Italic" xvalue="1" />
 			</location>
 		</source>
-		<source familyname="Advent Pro" filename="/media/root/Malysh1/winshm/advent_repo/_/test_efo/advent_efo_e_a.efo/temp/advent_pro_fmm/advent_pro_fmm_bld_it.ufo" name="master_5">
+		<source familyname="Advent Pro" filename="/advent_pro_fmm/advent_pro_fmm_bld_it.ufo" name="master_5">
 			<kerning copy="1" />
 			<location>
 				<dimension name="Weight" xvalue="700" />
