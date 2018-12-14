@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="Chi">
+ <advance width="658"/>
+ <unicode hex="03A7"/>
+ <outline>
+  <contour>
+   <point type="line" x="356" y="466"/>
+   <point type="line" x="253" y="698"/>
+   <point type="line" x="123" y="698"/>
+   <point type="line" x="266" y="357"/>
+   <point type="line" x="-12" y="0"/>
+   <point type="line" x="130" y="0"/>
+   <point type="line" x="317" y="242"/>
+   <point type="line" x="423" y="0"/>
+   <point type="line" x="565" y="0"/>
+   <point type="line" x="407" y="348"/>
+   <point type="line" x="676" y="698"/>
+   <point type="line" x="540" y="698"/>
+  </contour>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <integer>
+     1
+    </integer>
+    <real>
+     0.694
+    </real>
+    <integer>
+     1
+    </integer>
+   </array>
+  </dict>
+ </lib>
+</glyph>

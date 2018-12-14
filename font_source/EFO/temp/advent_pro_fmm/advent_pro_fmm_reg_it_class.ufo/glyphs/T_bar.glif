@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="Tbar">
+ <advance width="470"/>
+ <unicode hex="0166"/>
+ <outline>
+  <contour>
+   <point type="line" x="71" y="648"/>
+   <point type="line" x="241" y="648"/>
+   <point type="line" x="193" y="378"/>
+   <point type="line" x="23" y="378"/>
+   <point type="line" x="13" y="322"/>
+   <point type="line" x="183" y="322"/>
+   <point type="line" x="127" y="0"/>
+   <point type="line" x="182" y="0"/>
+   <point type="line" x="238" y="322"/>
+   <point type="line" x="412" y="322"/>
+   <point type="line" x="422" y="378"/>
+   <point type="line" x="248" y="378"/>
+   <point type="line" x="296" y="648"/>
+   <point type="line" x="472" y="648"/>
+   <point type="line" x="481" y="698"/>
+   <point type="line" x="80" y="698"/>
+  </contour>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <integer>
+     1
+    </integer>
+    <real>
+     0.694
+    </real>
+    <integer>
+     1
+    </integer>
+   </array>
+  </dict>
+ </lib>
+</glyph>

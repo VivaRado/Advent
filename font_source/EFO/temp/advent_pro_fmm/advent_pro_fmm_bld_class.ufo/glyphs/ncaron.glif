@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="ncaron">
+ <advance width="440"/>
+ <unicode hex="0148"/>
+ <outline>
+  <contour>
+   <point smooth="yes" type="curve" x="299" y="342"/>
+   <point type="line" x="299" y="-1"/>
+   <point type="line" x="408" y="-1"/>
+   <point smooth="yes" type="line" x="408" y="345"/>
+   <point x="408" y="473"/>
+   <point x="327" y="508"/>
+   <point smooth="yes" type="curve" x="248" y="508"/>
+   <point x="207" y="508"/>
+   <point x="165" y="487"/>
+   <point type="curve" x="148" y="476"/>
+   <point type="line" x="148" y="499"/>
+   <point type="line" x="39" y="499"/>
+   <point type="line" x="39" y="-1"/>
+   <point type="line" x="148" y="-1"/>
+   <point type="line" x="148" y="385"/>
+   <point x="180" y="402"/>
+   <point x="205" y="409"/>
+   <point smooth="yes" type="curve" x="228" y="409"/>
+   <point x="270" y="409"/>
+   <point x="299" y="380"/>
+  </contour>
+  <contour>
+   <point type="line" x="263" y="716"/>
+   <point type="line" x="211" y="768"/>
+   <point type="line" x="131" y="686"/>
+   <point type="line" x="56" y="767"/>
+   <point type="line" x="3" y="715"/>
+   <point type="line" x="131" y="588"/>
+  </contour>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <integer>
+     1
+    </integer>
+    <real>
+     0.694
+    </real>
+    <integer>
+     1
+    </integer>
+   </array>
+  </dict>
+ </lib>
+</glyph>

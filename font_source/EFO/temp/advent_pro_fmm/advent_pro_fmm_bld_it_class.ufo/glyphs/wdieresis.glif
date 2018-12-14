@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="wdieresis">
+ <advance width="695"/>
+ <unicode hex="1E85"/>
+ <outline>
+  <contour>
+   <point type="line" x="416" y="499"/>
+   <point type="line" x="312" y="499"/>
+   <point type="line" x="179" y="194"/>
+   <point type="line" x="140" y="499"/>
+   <point type="line" x="20" y="499"/>
+   <point type="line" x="94" y="0"/>
+   <point type="line" x="202" y="0"/>
+   <point type="line" x="321" y="267"/>
+   <point type="line" x="346" y="0"/>
+   <point type="line" x="451" y="0"/>
+   <point type="line" x="700" y="499"/>
+   <point type="line" x="582" y="499"/>
+   <point type="line" x="447" y="194"/>
+  </contour>
+  <contour>
+   <point smooth="yes" type="curve" x="65" y="767"/>
+   <point x="32" y="767"/>
+   <point x="0" y="740"/>
+   <point smooth="yes" type="curve" x="-6" y="708"/>
+   <point x="-11" y="675"/>
+   <point x="11" y="648"/>
+   <point smooth="yes" type="curve" x="44" y="648"/>
+   <point x="77" y="648"/>
+   <point x="108" y="675"/>
+   <point smooth="yes" type="curve" x="113" y="708"/>
+   <point x="119" y="740"/>
+   <point x="98" y="767"/>
+  </contour>
+  <contour>
+   <point smooth="yes" type="curve" x="223" y="767"/>
+   <point x="190" y="767"/>
+   <point x="158" y="740"/>
+   <point smooth="yes" type="curve" x="152" y="708"/>
+   <point x="147" y="675"/>
+   <point x="169" y="648"/>
+   <point smooth="yes" type="curve" x="202" y="648"/>
+   <point x="235" y="648"/>
+   <point x="267" y="675"/>
+   <point smooth="yes" type="curve" x="272" y="708"/>
+   <point x="278" y="740"/>
+   <point x="256" y="767"/>
+  </contour>
+ </outline>
+</glyph>

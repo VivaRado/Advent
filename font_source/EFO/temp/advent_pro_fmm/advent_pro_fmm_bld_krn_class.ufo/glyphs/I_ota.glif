@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iota" format="1">
+  <advance width="255"/>
+  <unicode hex="0399"/>
+  <outline>
+    <contour>
+      <point x="33" y="593" type="line"/>
+      <point x="96" y="591" type="line"/>
+      <point x="96" y="0" type="line"/>
+      <point x="206" y="0" type="line"/>
+      <point x="206" y="698" type="line"/>
+      <point x="33" y="698" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>
+    com.typemytype.robofont.mark
+   </key>
+      <array>
+        <real>0.6</real>
+        <integer>1</integer>
+        <real>0.694</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

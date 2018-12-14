@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="lslash">
+ <advance width="335"/>
+ <unicode hex="0142"/>
+ <outline>
+  <contour>
+   <point type="line" x="145" y="414"/>
+   <point type="line" x="7" y="356"/>
+   <point type="line" x="21" y="307"/>
+   <point type="line" x="135" y="354"/>
+   <point type="line" x="73" y="0"/>
+   <point type="line" x="129" y="0"/>
+   <point type="line" x="196" y="380"/>
+   <point type="line" x="335" y="438"/>
+   <point type="line" x="320" y="487"/>
+   <point type="line" x="206" y="439"/>
+   <point type="line" x="252" y="698"/>
+   <point type="line" x="196" y="698"/>
+  </contour>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <integer>
+     1
+    </integer>
+    <real>
+     0.694
+    </real>
+    <integer>
+     1
+    </integer>
+   </array>
+  </dict>
+ </lib>
+</glyph>

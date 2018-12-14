@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="asterisk">
+ <advance width="341"/>
+ <unicode hex="002A"/>
+ <outline>
+  <contour>
+   <point type="line" x="51" y="625"/>
+   <point type="line" x="24" y="577"/>
+   <point type="line" x="124" y="539"/>
+   <point type="line" x="43" y="449"/>
+   <point type="line" x="82" y="418"/>
+   <point type="line" x="164" y="514"/>
+   <point type="line" x="216" y="418"/>
+   <point type="line" x="263" y="449"/>
+   <point type="line" x="213" y="539"/>
+   <point type="line" x="328" y="577"/>
+   <point type="line" x="316" y="625"/>
+   <point type="line" x="202" y="585"/>
+   <point type="line" x="222" y="698"/>
+   <point type="line" x="168" y="698"/>
+   <point type="line" x="148" y="585"/>
+  </contour>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <integer>
+     1
+    </integer>
+    <real>
+     0.694
+    </real>
+    <integer>
+     1
+    </integer>
+   </array>
+  </dict>
+ </lib>
+</glyph>

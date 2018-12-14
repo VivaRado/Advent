@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="Eth">
+ <advance width="522"/>
+ <unicode hex="00D0"/>
+ <outline>
+  <contour>
+   <point smooth="yes" type="curve" x="311" y="698"/>
+   <point type="line" x="123" y="698"/>
+   <point type="line" x="0" y="0"/>
+   <point smooth="yes" type="line" x="208" y="0"/>
+   <point x="349" y="0"/>
+   <point x="430" y="67"/>
+   <point smooth="yes" type="curve" x="454" y="199"/>
+   <point smooth="yes" type="line" x="502" y="473"/>
+   <point x="526" y="609"/>
+   <point x="461" y="698"/>
+  </contour>
+  <contour>
+   <point smooth="yes" type="curve" x="199" y="50"/>
+   <point type="line" x="64" y="50"/>
+   <point type="line" x="119" y="359"/>
+   <point type="line" x="308" y="359"/>
+   <point type="line" x="332" y="413"/>
+   <point type="line" x="128" y="413"/>
+   <point type="line" x="170" y="648"/>
+   <point smooth="yes" type="line" x="312" y="648"/>
+   <point x="429" y="648"/>
+   <point x="464" y="574"/>
+   <point smooth="yes" type="curve" x="449" y="488"/>
+   <point smooth="yes" type="line" x="396" y="189"/>
+   <point x="380" y="97"/>
+   <point x="314" y="50"/>
+  </contour>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <integer>
+     1
+    </integer>
+    <real>
+     0.694
+    </real>
+    <integer>
+     1
+    </integer>
+   </array>
+  </dict>
+ </lib>
+</glyph>

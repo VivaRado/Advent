@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omicrontonos" format="1">
+  <advance width="521"/>
+  <unicode hex="038C"/>
+  <outline>
+    <component base="O"/>
+    <component base="tonoscomb" xOffset="-23" yOffset="100"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.59999999999999998</real>
+        <integer>1</integer>
+        <real>0.69399999999999995</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

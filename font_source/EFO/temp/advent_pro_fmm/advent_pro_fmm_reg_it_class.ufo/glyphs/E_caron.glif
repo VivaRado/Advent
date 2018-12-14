@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="Ecaron">
+ <advance width="443"/>
+ <unicode hex="011A"/>
+ <outline>
+  <contour>
+   <point type="line" x="0" y="0"/>
+   <point type="line" x="331" y="0"/>
+   <point type="line" x="339" y="50"/>
+   <point type="line" x="64" y="50"/>
+   <point type="line" x="118" y="356"/>
+   <point type="line" x="290" y="356"/>
+   <point type="line" x="318" y="411"/>
+   <point type="line" x="128" y="411"/>
+   <point type="line" x="169" y="646"/>
+   <point type="line" x="446" y="646"/>
+   <point type="line" x="456" y="698"/>
+   <point type="line" x="123" y="698"/>
+  </contour>
+  <contour>
+   <point type="line" x="263" y="715"/>
+   <point type="line" x="230" y="752"/>
+   <point type="line" x="121" y="663"/>
+   <point type="line" x="48" y="751"/>
+   <point type="line" x="2" y="713"/>
+   <point type="line" x="108" y="587"/>
+  </contour>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <integer>
+     1
+    </integer>
+    <real>
+     0.694
+    </real>
+    <integer>
+     1
+    </integer>
+   </array>
+  </dict>
+ </lib>
+</glyph>

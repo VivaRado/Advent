@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="Pi">
+ <advance width="514"/>
+ <unicode hex="03A0"/>
+ <outline>
+  <contour>
+   <point type="line" x="361" y="0"/>
+   <point type="line" x="471" y="0"/>
+   <point type="line" x="471" y="698"/>
+   <point type="line" x="41" y="698"/>
+   <point type="line" x="41" y="0"/>
+   <point type="line" x="151" y="0"/>
+   <point type="line" x="151" y="588"/>
+   <point type="line" x="361" y="588"/>
+  </contour>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <integer>
+     1
+    </integer>
+    <real>
+     0.694
+    </real>
+    <integer>
+     1
+    </integer>
+   </array>
+  </dict>
+ </lib>
+</glyph>

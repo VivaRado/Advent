@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="zeta">
+ <advance width="438"/>
+ <unicode hex="03B6"/>
+ <outline>
+  <contour>
+   <point type="curve" x="415" y="598"/>
+   <point type="line" x="368" y="698"/>
+   <point type="line" x="97" y="698"/>
+   <point type="line" x="97" y="588"/>
+   <point type="line" x="247" y="588"/>
+   <point x="203" y="541"/>
+   <point x="199" y="536"/>
+   <point smooth="yes" type="curve" x="186" y="521"/>
+   <point x="148" y="479"/>
+   <point x="118" y="436"/>
+   <point smooth="yes" type="curve" x="94" y="395"/>
+   <point x="49" y="317"/>
+   <point x="28" y="245"/>
+   <point smooth="yes" type="curve" x="28" y="184"/>
+   <point x="28" y="128"/>
+   <point x="46" y="82"/>
+   <point smooth="yes" type="curve" x="79" y="50"/>
+   <point x="123" y="5"/>
+   <point x="190" y="-8"/>
+   <point type="curve" x="247" y="0"/>
+   <point type="line" x="247" y="-183"/>
+   <point type="line" x="357" y="-209"/>
+   <point type="line" x="357" y="120"/>
+   <point x="298" y="106"/>
+   <point x="224" y="89"/>
+   <point smooth="yes" type="curve" x="178" y="122"/>
+   <point x="153" y="139"/>
+   <point x="145" y="164"/>
+   <point smooth="yes" type="curve" x="145" y="190"/>
+   <point x="145" y="234"/>
+   <point x="167" y="290"/>
+   <point smooth="yes" type="curve" x="200" y="349"/>
+   <point x="223" y="389"/>
+   <point x="253" y="430"/>
+   <point smooth="yes" type="curve" x="284" y="469"/>
+   <point x="325" y="519"/>
+   <point x="371" y="565"/>
+  </contour>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <integer>
+     1
+    </integer>
+    <real>
+     0.694
+    </real>
+    <integer>
+     1
+    </integer>
+   </array>
+  </dict>
+ </lib>
+</glyph>

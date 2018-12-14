@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="Jcircumflex">
+ <advance width="323"/>
+ <unicode hex="0134"/>
+ <outline>
+  <contour>
+   <point smooth="yes" type="curve" x="148" y="118"/>
+   <point type="line" x="251" y="698"/>
+   <point type="line" x="128" y="698"/>
+   <point type="line" x="119" y="649"/>
+   <point type="line" x="185" y="647"/>
+   <point smooth="yes" type="line" x="90" y="113"/>
+   <point x="76" y="34"/>
+   <point x="34" y="0"/>
+   <point type="curve" x="-10" y="0"/>
+   <point type="line" x="-4" y="-37"/>
+   <point x="39" y="-37"/>
+   <point x="75" y="-21"/>
+   <point smooth="yes" type="curve" x="101" y="10"/>
+   <point x="125" y="36"/>
+   <point x="140" y="73"/>
+  </contour>
+  <contour>
+   <point type="line" x="263" y="642"/>
+   <point type="line" x="156" y="769"/>
+   <point type="line" x="3" y="641"/>
+   <point type="line" x="35" y="603"/>
+   <point type="line" x="143" y="693"/>
+   <point type="line" x="216" y="605"/>
+  </contour>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <integer>
+     1
+    </integer>
+    <real>
+     0.694
+    </real>
+    <integer>
+     1
+    </integer>
+   </array>
+  </dict>
+ </lib>
+</glyph>

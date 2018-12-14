@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="Wacute">
+ <advance width="706"/>
+ <unicode hex="1E82"/>
+ <outline>
+  <contour>
+   <point type="line" x="419" y="698"/>
+   <point type="line" x="341" y="698"/>
+   <point type="line" x="123" y="69"/>
+   <point type="line" x="93" y="698"/>
+   <point type="line" x="32" y="698"/>
+   <point type="line" x="74" y="0"/>
+   <point type="line" x="159" y="0"/>
+   <point type="line" x="363" y="597"/>
+   <point type="line" x="356" y="0"/>
+   <point type="line" x="440" y="0"/>
+   <point type="line" x="726" y="698"/>
+   <point type="line" x="667" y="698"/>
+   <point type="line" x="415" y="69"/>
+  </contour>
+  <contour>
+   <point type="line" x="207" y="682"/>
+   <point x="222" y="696"/>
+   <point x="224" y="719"/>
+   <point smooth="yes" type="curve" x="208" y="729"/>
+   <point x="193" y="739"/>
+   <point x="171" y="728"/>
+   <point smooth="yes" type="curve" x="162" y="710"/>
+   <point type="line" x="105" y="603"/>
+   <point type="line" x="140" y="603"/>
+  </contour>
+ </outline>
+</glyph>

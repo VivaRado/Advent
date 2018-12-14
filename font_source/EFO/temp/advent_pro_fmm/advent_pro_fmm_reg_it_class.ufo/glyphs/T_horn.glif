@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="Thorn">
+ <advance width="444"/>
+ <unicode hex="00DE"/>
+ <outline>
+  <contour>
+   <point smooth="yes" type="curve" x="409" y="289"/>
+   <point smooth="yes" type="line" x="435" y="435"/>
+   <point x="442" y="479"/>
+   <point x="439" y="510"/>
+   <point smooth="yes" type="curve" x="426" y="542"/>
+   <point x="409" y="586"/>
+   <point x="373" y="610"/>
+   <point smooth="yes" type="curve" x="331" y="620"/>
+   <point x="282" y="631"/>
+   <point x="218" y="621"/>
+   <point type="curve" x="161" y="599"/>
+   <point type="line" x="179" y="698"/>
+   <point type="line" x="123" y="698"/>
+   <point type="line" x="0" y="0"/>
+   <point type="line" x="56" y="0"/>
+   <point type="line" x="76" y="118"/>
+   <point x="136" y="102"/>
+   <point x="210" y="100"/>
+   <point smooth="yes" type="curve" x="267" y="118"/>
+   <point x="340" y="140"/>
+   <point x="392" y="191"/>
+  </contour>
+  <contour>
+   <point smooth="yes" type="curve" x="312" y="570"/>
+   <point x="342" y="562"/>
+   <point x="364" y="542"/>
+   <point smooth="yes" type="curve" x="375" y="510"/>
+   <point x="382" y="486"/>
+   <point x="385" y="457"/>
+   <point smooth="yes" type="curve" x="379" y="420"/>
+   <point smooth="yes" type="line" x="358" y="301"/>
+   <point x="346" y="234"/>
+   <point x="320" y="188"/>
+   <point smooth="yes" type="curve" x="264" y="168"/>
+   <point x="202" y="144"/>
+   <point x="107" y="165"/>
+   <point type="curve" x="85" y="169"/>
+   <point type="line" x="152" y="547"/>
+   <point x="202" y="568"/>
+   <point x="273" y="581"/>
+  </contour>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <integer>
+     1
+    </integer>
+    <real>
+     0.694
+    </real>
+    <integer>
+     1
+    </integer>
+   </array>
+  </dict>
+ </lib>
+</glyph>

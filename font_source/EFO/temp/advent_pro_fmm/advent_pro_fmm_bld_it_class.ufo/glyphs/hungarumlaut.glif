@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="hungarumlaut">
+ <advance width="266"/>
+ <unicode hex="02DD"/>
+ <outline>
+  <contour>
+   <point type="line" x="171" y="645"/>
+   <point x="194" y="667"/>
+   <point x="200" y="702"/>
+   <point smooth="yes" type="curve" x="177" y="716"/>
+   <point x="154" y="730"/>
+   <point x="117" y="710"/>
+   <point smooth="yes" type="curve" x="106" y="685"/>
+   <point type="line" x="56" y="569"/>
+   <point type="line" x="100" y="569"/>
+  </contour>
+  <contour>
+   <point type="line" x="284" y="645"/>
+   <point x="306" y="667"/>
+   <point x="312" y="702"/>
+   <point smooth="yes" type="curve" x="289" y="716"/>
+   <point x="263" y="730"/>
+   <point x="230" y="711"/>
+   <point smooth="yes" type="curve" x="218" y="685"/>
+   <point type="line" x="168" y="569"/>
+   <point type="line" x="212" y="569"/>
+  </contour>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <real>
+     0.609
+    </real>
+    <integer>
+     1
+    </integer>
+    <integer>
+     1
+    </integer>
+   </array>
+  </dict>
+ </lib>
+</glyph>
