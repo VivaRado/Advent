@@ -94,6 +94,10 @@
 		<integer>45</integer>
 		<key>@MMK_R_omega</key>
 		<integer>30</integer>
+		<key>@MMK_R_percent</key>
+		<integer>45</integer>
+		<key>@MMK_R_pi</key>
+		<integer>45</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>-15</integer>
 		<key>@MMK_R_r</key>
@@ -104,6 +108,8 @@
 		<integer>30</integer>
 		<key>@MMK_R_t</key>
 		<integer>30</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>-15</integer>
 		<key>@MMK_R_u</key>
 		<integer>30</integer>
 		<key>@MMK_R_upsilon</key>
@@ -140,54 +146,20 @@
 		<integer>30</integer>
 		<key>ellipsis</key>
 		<integer>45</integer>
-		<key>eng</key>
-		<integer>45</integer>
 		<key>five</key>
 		<integer>45</integer>
 		<key>fl</key>
 		<integer>45</integer>
 		<key>four</key>
 		<integer>15</integer>
-		<key>guillemotright</key>
-		<integer>30</integer>
-		<key>hbar</key>
-		<integer>45</integer>
 		<key>lslash</key>
-		<integer>15</integer>
-		<key>multiply</key>
 		<integer>15</integer>
 		<key>nine</key>
 		<integer>-15</integer>
-		<key>numbersign</key>
-		<integer>45</integer>
-		<key>one</key>
-		<integer>15</integer>
-		<key>ordfeminine</key>
-		<integer>-15</integer>
-		<key>oslash</key>
-		<integer>30</integer>
 		<key>p</key>
 		<integer>45</integer>
 		<key>paragraph</key>
 		<integer>-15</integer>
-		<key>parenleft</key>
-		<integer>30</integer>
-		<key>parenright</key>
-		<integer>45</integer>
-		<key>percent</key>
-		<integer>45</integer>
-		<key>period</key>
-		<integer>45</integer>
-		<key>perthousand</key>
-		<integer>45</integer>
-		<key>pi</key>
-		<integer>45</integer>
-		<key>plus</key>
-		<integer>15</integer>
-		<key>plusminus</key>
-		<integer>30</integer>
-		<key>q</key>
-		<integer>45</integer>
 		<key>rho</key>
 		<integer>15</integer>
 		<key>seven</key>
@@ -196,8 +168,6 @@
 		<integer>30</integer>
 		<key>three</key>
 		<integer>45</integer>
-		<key>trademark</key>
-		<integer>-15</integer>
 		<key>two</key>
 		<integer>45</integer>
 		<key>x</key>
@@ -255,6 +225,8 @@
 		<integer>15</integer>
 		<key>@MMK_R_omega</key>
 		<integer>15</integer>
+		<key>@MMK_R_percent</key>
+		<integer>-30</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>30</integer>
 		<key>@MMK_R_s</key>
@@ -264,6 +236,8 @@
 		<key>@MMK_R_slash</key>
 		<integer>-15</integer>
 		<key>@MMK_R_tau</key>
+		<integer>15</integer>
+		<key>@MMK_R_trademark</key>
 		<integer>15</integer>
 		<key>@MMK_R_u</key>
 		<integer>15</integer>
@@ -299,43 +273,15 @@
 		<integer>-15</integer>
 		<key>four</key>
 		<integer>30</integer>
-		<key>guillemotright</key>
-		<integer>15</integer>
-		<key>multiply</key>
-		<integer>30</integer>
 		<key>nine</key>
-		<integer>15</integer>
-		<key>numbersign</key>
-		<integer>15</integer>
-		<key>one</key>
-		<integer>30</integer>
-		<key>ordfeminine</key>
 		<integer>15</integer>
 		<key>p</key>
 		<integer>-30</integer>
-		<key>parenright</key>
-		<integer>-15</integer>
-		<key>percent</key>
-		<integer>-30</integer>
-		<key>period</key>
-		<integer>-30</integer>
-		<key>perthousand</key>
-		<integer>-30</integer>
-		<key>plus</key>
-		<integer>15</integer>
-		<key>plusminus</key>
-		<integer>15</integer>
-		<key>q</key>
-		<integer>15</integer>
-		<key>question</key>
-		<integer>30</integer>
 		<key>rho</key>
 		<integer>-30</integer>
 		<key>seven</key>
 		<integer>-45</integer>
 		<key>six</key>
-		<integer>15</integer>
-		<key>trademark</key>
 		<integer>15</integer>
 		<key>two</key>
 		<integer>-15</integer>
@@ -420,6 +366,8 @@
 		<integer>-15</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-15</integer>
+		<key>@MMK_R_pi</key>
+		<integer>-15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>30</integer>
 		<key>@MMK_R_r</key>
@@ -428,6 +376,8 @@
 		<integer>-15</integer>
 		<key>@MMK_R_tau</key>
 		<integer>-30</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>60</integer>
 		<key>@MMK_R_u</key>
 		<integer>-15</integer>
 		<key>@MMK_R_upsilon</key>
@@ -454,8 +404,6 @@
 		<integer>-15</integer>
 		<key>eight</key>
 		<integer>-15</integer>
-		<key>eng</key>
-		<integer>-15</integer>
 		<key>fl</key>
 		<integer>-15</integer>
 		<key>four</key>
@@ -464,30 +412,14 @@
 		<integer>-30</integer>
 		<key>nine</key>
 		<integer>-15</integer>
-		<key>one</key>
-		<integer>45</integer>
-		<key>ordfeminine</key>
-		<integer>-15</integer>
-		<key>oslash</key>
-		<integer>-15</integer>
 		<key>p</key>
 		<integer>-15</integer>
 		<key>paragraph</key>
 		<integer>-30</integer>
-		<key>pi</key>
-		<integer>-15</integer>
-		<key>plus</key>
-		<integer>-15</integer>
-		<key>q</key>
-		<integer>-15</integer>
-		<key>question</key>
-		<integer>15</integer>
 		<key>rho</key>
 		<integer>-15</integer>
 		<key>six</key>
 		<integer>-15</integer>
-		<key>trademark</key>
-		<integer>60</integer>
 	</dict>
 	<key>@MMK_L_D</key>
 	<dict>
@@ -567,6 +499,10 @@
 		<integer>-15</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-15</integer>
+		<key>@MMK_R_percent</key>
+		<integer>-15</integer>
+		<key>@MMK_R_pi</key>
+		<integer>-15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>30</integer>
 		<key>@MMK_R_r</key>
@@ -581,6 +517,8 @@
 		<integer>-15</integer>
 		<key>@MMK_R_tau</key>
 		<integer>30</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>15</integer>
 		<key>@MMK_R_u</key>
 		<integer>-15</integer>
 		<key>@MMK_R_v</key>
@@ -609,58 +547,26 @@
 		<integer>-15</integer>
 		<key>ellipsis</key>
 		<integer>-15</integer>
-		<key>eng</key>
-		<integer>-15</integer>
 		<key>five</key>
 		<integer>-30</integer>
 		<key>fl</key>
 		<integer>-15</integer>
 		<key>four</key>
 		<integer>30</integer>
-		<key>hbar</key>
-		<integer>15</integer>
 		<key>lslash</key>
 		<integer>30</integer>
-		<key>multiply</key>
-		<integer>15</integer>
 		<key>nine</key>
 		<integer>30</integer>
-		<key>one</key>
-		<integer>30</integer>
-		<key>ordfeminine</key>
-		<integer>30</integer>
-		<key>oslash</key>
-		<integer>-15</integer>
 		<key>p</key>
 		<integer>-30</integer>
 		<key>paragraph</key>
 		<integer>15</integer>
-		<key>parenleft</key>
-		<integer>-15</integer>
-		<key>parenright</key>
-		<integer>-15</integer>
-		<key>percent</key>
-		<integer>-15</integer>
-		<key>period</key>
-		<integer>-15</integer>
-		<key>perthousand</key>
-		<integer>-15</integer>
-		<key>pi</key>
-		<integer>-15</integer>
-		<key>plus</key>
-		<integer>15</integer>
-		<key>q</key>
-		<integer>-15</integer>
-		<key>question</key>
-		<integer>45</integer>
 		<key>rho</key>
 		<integer>-30</integer>
 		<key>seven</key>
 		<integer>-30</integer>
 		<key>three</key>
 		<integer>-15</integer>
-		<key>trademark</key>
-		<integer>15</integer>
 		<key>two</key>
 		<integer>-30</integer>
 		<key>x</key>
@@ -750,6 +656,8 @@
 		<integer>-30</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-30</integer>
+		<key>@MMK_R_pi</key>
+		<integer>-15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>45</integer>
 		<key>@MMK_R_r</key>
@@ -762,6 +670,8 @@
 		<integer>-30</integer>
 		<key>@MMK_R_tau</key>
 		<integer>-15</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>60</integer>
 		<key>@MMK_R_u</key>
 		<integer>-30</integer>
 		<key>@MMK_R_upsilon</key>
@@ -784,8 +694,6 @@
 		<integer>-30</integer>
 		<key>eight</key>
 		<integer>-30</integer>
-		<key>eng</key>
-		<integer>-15</integer>
 		<key>five</key>
 		<integer>-15</integer>
 		<key>fl</key>
@@ -796,22 +704,10 @@
 		<integer>-30</integer>
 		<key>nine</key>
 		<integer>15</integer>
-		<key>one</key>
-		<integer>45</integer>
-		<key>ordfeminine</key>
-		<integer>15</integer>
-		<key>oslash</key>
-		<integer>-15</integer>
 		<key>p</key>
 		<integer>-15</integer>
 		<key>paragraph</key>
 		<integer>-15</integer>
-		<key>pi</key>
-		<integer>-15</integer>
-		<key>q</key>
-		<integer>-30</integer>
-		<key>question</key>
-		<integer>30</integer>
 		<key>rho</key>
 		<integer>-15</integer>
 		<key>seven</key>
@@ -820,8 +716,6 @@
 		<integer>-30</integer>
 		<key>three</key>
 		<integer>-15</integer>
-		<key>trademark</key>
-		<integer>60</integer>
 		<key>two</key>
 		<integer>-15</integer>
 		<key>x</key>
@@ -911,6 +805,8 @@
 		<integer>-30</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-30</integer>
+		<key>@MMK_R_pi</key>
+		<integer>-15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>45</integer>
 		<key>@MMK_R_r</key>
@@ -923,6 +819,8 @@
 		<integer>-30</integer>
 		<key>@MMK_R_tau</key>
 		<integer>-15</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>60</integer>
 		<key>@MMK_R_u</key>
 		<integer>-30</integer>
 		<key>@MMK_R_upsilon</key>
@@ -947,8 +845,6 @@
 		<integer>-30</integer>
 		<key>eight</key>
 		<integer>-30</integer>
-		<key>eng</key>
-		<integer>-15</integer>
 		<key>five</key>
 		<integer>-15</integer>
 		<key>fl</key>
@@ -959,22 +855,10 @@
 		<integer>-30</integer>
 		<key>nine</key>
 		<integer>15</integer>
-		<key>one</key>
-		<integer>45</integer>
-		<key>ordfeminine</key>
-		<integer>15</integer>
-		<key>oslash</key>
-		<integer>-15</integer>
 		<key>p</key>
 		<integer>-15</integer>
 		<key>paragraph</key>
 		<integer>-15</integer>
-		<key>pi</key>
-		<integer>-15</integer>
-		<key>q</key>
-		<integer>-30</integer>
-		<key>question</key>
-		<integer>30</integer>
 		<key>rho</key>
 		<integer>-15</integer>
 		<key>seven</key>
@@ -983,8 +867,6 @@
 		<integer>-30</integer>
 		<key>three</key>
 		<integer>-15</integer>
-		<key>trademark</key>
-		<integer>60</integer>
 		<key>two</key>
 		<integer>-15</integer>
 		<key>x</key>
@@ -1082,6 +964,8 @@
 		<integer>30</integer>
 		<key>@MMK_R_omega</key>
 		<integer>30</integer>
+		<key>@MMK_R_pi</key>
+		<integer>15</integer>
 		<key>@MMK_R_r</key>
 		<integer>15</integer>
 		<key>@MMK_R_s</key>
@@ -1094,6 +978,8 @@
 		<integer>15</integer>
 		<key>@MMK_R_tau</key>
 		<integer>-15</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>30</integer>
 		<key>@MMK_R_u</key>
 		<integer>15</integer>
 		<key>@MMK_R_upsilon</key>
@@ -1128,48 +1014,20 @@
 		<integer>30</integer>
 		<key>ellipsis</key>
 		<integer>15</integer>
-		<key>eng</key>
-		<integer>15</integer>
 		<key>five</key>
 		<integer>15</integer>
 		<key>fl</key>
 		<integer>15</integer>
 		<key>four</key>
 		<integer>45</integer>
-		<key>guillemotright</key>
-		<integer>30</integer>
 		<key>lslash</key>
-		<integer>30</integer>
-		<key>multiply</key>
 		<integer>30</integer>
 		<key>nine</key>
 		<integer>-15</integer>
-		<key>numbersign</key>
-		<integer>30</integer>
-		<key>one</key>
-		<integer>15</integer>
-		<key>ordfeminine</key>
-		<integer>-45</integer>
-		<key>oslash</key>
-		<integer>15</integer>
 		<key>p</key>
 		<integer>-15</integer>
 		<key>paragraph</key>
 		<integer>15</integer>
-		<key>parenleft</key>
-		<integer>15</integer>
-		<key>period</key>
-		<integer>15</integer>
-		<key>pi</key>
-		<integer>15</integer>
-		<key>plus</key>
-		<integer>45</integer>
-		<key>plusminus</key>
-		<integer>30</integer>
-		<key>q</key>
-		<integer>15</integer>
-		<key>question</key>
-		<integer>-15</integer>
 		<key>rho</key>
 		<integer>-15</integer>
 		<key>seven</key>
@@ -1177,8 +1035,6 @@
 		<key>six</key>
 		<integer>30</integer>
 		<key>three</key>
-		<integer>30</integer>
-		<key>trademark</key>
 		<integer>30</integer>
 		<key>two</key>
 		<integer>15</integer>
@@ -1269,6 +1125,8 @@
 		<integer>-15</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-30</integer>
+		<key>@MMK_R_pi</key>
+		<integer>-15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>45</integer>
 		<key>@MMK_R_r</key>
@@ -1281,6 +1139,8 @@
 		<integer>-30</integer>
 		<key>@MMK_R_tau</key>
 		<integer>15</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>60</integer>
 		<key>@MMK_R_u</key>
 		<integer>-30</integer>
 		<key>@MMK_R_upsilon</key>
@@ -1307,8 +1167,6 @@
 		<integer>-30</integer>
 		<key>eight</key>
 		<integer>-15</integer>
-		<key>eng</key>
-		<integer>-15</integer>
 		<key>five</key>
 		<integer>-15</integer>
 		<key>fl</key>
@@ -1317,20 +1175,8 @@
 		<integer>15</integer>
 		<key>nine</key>
 		<integer>15</integer>
-		<key>one</key>
-		<integer>45</integer>
-		<key>ordfeminine</key>
-		<integer>15</integer>
-		<key>oslash</key>
-		<integer>-15</integer>
 		<key>p</key>
 		<integer>-15</integer>
-		<key>pi</key>
-		<integer>-15</integer>
-		<key>q</key>
-		<integer>-30</integer>
-		<key>question</key>
-		<integer>30</integer>
 		<key>rho</key>
 		<integer>-15</integer>
 		<key>seven</key>
@@ -1339,8 +1185,6 @@
 		<integer>-15</integer>
 		<key>three</key>
 		<integer>-15</integer>
-		<key>trademark</key>
-		<integer>60</integer>
 		<key>two</key>
 		<integer>-15</integer>
 		<key>x</key>
@@ -1430,6 +1274,8 @@
 		<integer>-15</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-30</integer>
+		<key>@MMK_R_pi</key>
+		<integer>-15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>45</integer>
 		<key>@MMK_R_r</key>
@@ -1442,6 +1288,8 @@
 		<integer>-30</integer>
 		<key>@MMK_R_tau</key>
 		<integer>15</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>60</integer>
 		<key>@MMK_R_u</key>
 		<integer>-30</integer>
 		<key>@MMK_R_upsilon</key>
@@ -1468,8 +1316,6 @@
 		<integer>-30</integer>
 		<key>eight</key>
 		<integer>-15</integer>
-		<key>eng</key>
-		<integer>-15</integer>
 		<key>five</key>
 		<integer>-15</integer>
 		<key>fl</key>
@@ -1478,20 +1324,8 @@
 		<integer>15</integer>
 		<key>nine</key>
 		<integer>15</integer>
-		<key>one</key>
-		<integer>45</integer>
-		<key>ordfeminine</key>
-		<integer>15</integer>
-		<key>oslash</key>
-		<integer>-15</integer>
 		<key>p</key>
 		<integer>-15</integer>
-		<key>pi</key>
-		<integer>-15</integer>
-		<key>q</key>
-		<integer>-30</integer>
-		<key>question</key>
-		<integer>30</integer>
 		<key>rho</key>
 		<integer>-15</integer>
 		<key>seven</key>
@@ -1500,8 +1334,6 @@
 		<integer>-15</integer>
 		<key>three</key>
 		<integer>-15</integer>
-		<key>trademark</key>
-		<integer>60</integer>
 		<key>two</key>
 		<integer>-15</integer>
 		<key>x</key>
@@ -1591,6 +1423,8 @@
 		<integer>-15</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-30</integer>
+		<key>@MMK_R_pi</key>
+		<integer>-15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>45</integer>
 		<key>@MMK_R_r</key>
@@ -1603,6 +1437,8 @@
 		<integer>-30</integer>
 		<key>@MMK_R_tau</key>
 		<integer>15</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>60</integer>
 		<key>@MMK_R_u</key>
 		<integer>-30</integer>
 		<key>@MMK_R_upsilon</key>
@@ -1629,8 +1465,6 @@
 		<integer>-30</integer>
 		<key>eight</key>
 		<integer>-15</integer>
-		<key>eng</key>
-		<integer>-15</integer>
 		<key>five</key>
 		<integer>-15</integer>
 		<key>fl</key>
@@ -1639,20 +1473,8 @@
 		<integer>15</integer>
 		<key>nine</key>
 		<integer>15</integer>
-		<key>one</key>
-		<integer>45</integer>
-		<key>ordfeminine</key>
-		<integer>15</integer>
-		<key>oslash</key>
-		<integer>-15</integer>
 		<key>p</key>
 		<integer>-15</integer>
-		<key>pi</key>
-		<integer>-15</integer>
-		<key>q</key>
-		<integer>-30</integer>
-		<key>question</key>
-		<integer>30</integer>
 		<key>rho</key>
 		<integer>-15</integer>
 		<key>seven</key>
@@ -1661,8 +1483,6 @@
 		<integer>-15</integer>
 		<key>three</key>
 		<integer>-15</integer>
-		<key>trademark</key>
-		<integer>60</integer>
 		<key>two</key>
 		<integer>-15</integer>
 		<key>x</key>
@@ -1716,6 +1536,8 @@
 		<integer>-30</integer>
 		<key>@MMK_R_tau</key>
 		<integer>-30</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>60</integer>
 		<key>@MMK_R_u</key>
 		<integer>-30</integer>
 		<key>@MMK_R_upsilon</key>
@@ -1746,17 +1568,9 @@
 		<integer>-30</integer>
 		<key>nine</key>
 		<integer>-30</integer>
-		<key>one</key>
-		<integer>30</integer>
-		<key>ordfeminine</key>
-		<integer>-45</integer>
-		<key>oslash</key>
-		<integer>-15</integer>
 		<key>p</key>
 		<integer>-15</integer>
 		<key>paragraph</key>
-		<integer>-30</integer>
-		<key>q</key>
 		<integer>-30</integer>
 		<key>rho</key>
 		<integer>-15</integer>
@@ -1764,8 +1578,6 @@
 		<integer>-30</integer>
 		<key>three</key>
 		<integer>-15</integer>
-		<key>trademark</key>
-		<integer>60</integer>
 	</dict>
 	<key>@MMK_L_L</key>
 	<dict>
@@ -1861,6 +1673,10 @@
 		<integer>45</integer>
 		<key>@MMK_R_omega</key>
 		<integer>45</integer>
+		<key>@MMK_R_percent</key>
+		<integer>30</integer>
+		<key>@MMK_R_pi</key>
+		<integer>45</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>-45</integer>
 		<key>@MMK_R_r</key>
@@ -1875,6 +1691,8 @@
 		<integer>45</integer>
 		<key>@MMK_R_tau</key>
 		<integer>-15</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>-45</integer>
 		<key>@MMK_R_u</key>
 		<integer>45</integer>
 		<key>@MMK_R_upsilon</key>
@@ -1911,54 +1729,20 @@
 		<integer>45</integer>
 		<key>ellipsis</key>
 		<integer>30</integer>
-		<key>eng</key>
-		<integer>45</integer>
 		<key>five</key>
 		<integer>45</integer>
 		<key>fl</key>
 		<integer>45</integer>
 		<key>four</key>
 		<integer>-60</integer>
-		<key>guillemotright</key>
-		<integer>30</integer>
-		<key>hbar</key>
-		<integer>30</integer>
 		<key>lslash</key>
 		<integer>-15</integer>
-		<key>multiply</key>
-		<integer>-30</integer>
 		<key>nine</key>
 		<integer>-45</integer>
-		<key>numbersign</key>
-		<integer>30</integer>
-		<key>one</key>
-		<integer>15</integer>
-		<key>ordfeminine</key>
-		<integer>-75</integer>
-		<key>oslash</key>
-		<integer>30</integer>
 		<key>p</key>
 		<integer>15</integer>
 		<key>paragraph</key>
 		<integer>-60</integer>
-		<key>parenleft</key>
-		<integer>30</integer>
-		<key>parenright</key>
-		<integer>30</integer>
-		<key>percent</key>
-		<integer>30</integer>
-		<key>period</key>
-		<integer>30</integer>
-		<key>perthousand</key>
-		<integer>30</integer>
-		<key>pi</key>
-		<integer>45</integer>
-		<key>plus</key>
-		<integer>-45</integer>
-		<key>plusminus</key>
-		<integer>30</integer>
-		<key>q</key>
-		<integer>45</integer>
 		<key>rho</key>
 		<integer>15</integer>
 		<key>seven</key>
@@ -1967,8 +1751,6 @@
 		<integer>30</integer>
 		<key>three</key>
 		<integer>45</integer>
-		<key>trademark</key>
-		<integer>-45</integer>
 		<key>two</key>
 		<integer>45</integer>
 		<key>x</key>
@@ -2058,6 +1840,8 @@
 		<integer>-15</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-30</integer>
+		<key>@MMK_R_pi</key>
+		<integer>-15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>45</integer>
 		<key>@MMK_R_r</key>
@@ -2070,6 +1854,8 @@
 		<integer>-30</integer>
 		<key>@MMK_R_tau</key>
 		<integer>15</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>60</integer>
 		<key>@MMK_R_u</key>
 		<integer>-30</integer>
 		<key>@MMK_R_upsilon</key>
@@ -2096,8 +1882,6 @@
 		<integer>-30</integer>
 		<key>eight</key>
 		<integer>-15</integer>
-		<key>eng</key>
-		<integer>-15</integer>
 		<key>five</key>
 		<integer>-15</integer>
 		<key>fl</key>
@@ -2106,20 +1890,8 @@
 		<integer>15</integer>
 		<key>nine</key>
 		<integer>15</integer>
-		<key>one</key>
-		<integer>45</integer>
-		<key>ordfeminine</key>
-		<integer>15</integer>
-		<key>oslash</key>
-		<integer>-15</integer>
 		<key>p</key>
 		<integer>-15</integer>
-		<key>pi</key>
-		<integer>-15</integer>
-		<key>q</key>
-		<integer>-30</integer>
-		<key>question</key>
-		<integer>30</integer>
 		<key>rho</key>
 		<integer>-15</integer>
 		<key>seven</key>
@@ -2128,8 +1900,6 @@
 		<integer>-15</integer>
 		<key>three</key>
 		<integer>-15</integer>
-		<key>trademark</key>
-		<integer>60</integer>
 		<key>two</key>
 		<integer>-15</integer>
 		<key>x</key>
@@ -2219,6 +1989,8 @@
 		<integer>-15</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-30</integer>
+		<key>@MMK_R_pi</key>
+		<integer>-15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>45</integer>
 		<key>@MMK_R_r</key>
@@ -2231,6 +2003,8 @@
 		<integer>-30</integer>
 		<key>@MMK_R_tau</key>
 		<integer>15</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>60</integer>
 		<key>@MMK_R_u</key>
 		<integer>-30</integer>
 		<key>@MMK_R_upsilon</key>
@@ -2257,8 +2031,6 @@
 		<integer>-30</integer>
 		<key>eight</key>
 		<integer>-15</integer>
-		<key>eng</key>
-		<integer>-15</integer>
 		<key>five</key>
 		<integer>-15</integer>
 		<key>fl</key>
@@ -2267,20 +2039,8 @@
 		<integer>15</integer>
 		<key>nine</key>
 		<integer>15</integer>
-		<key>one</key>
-		<integer>45</integer>
-		<key>ordfeminine</key>
-		<integer>15</integer>
-		<key>oslash</key>
-		<integer>-15</integer>
 		<key>p</key>
 		<integer>-15</integer>
-		<key>pi</key>
-		<integer>-15</integer>
-		<key>q</key>
-		<integer>-30</integer>
-		<key>question</key>
-		<integer>30</integer>
 		<key>rho</key>
 		<integer>-15</integer>
 		<key>seven</key>
@@ -2289,8 +2049,6 @@
 		<integer>-15</integer>
 		<key>three</key>
 		<integer>-15</integer>
-		<key>trademark</key>
-		<integer>60</integer>
 		<key>two</key>
 		<integer>-15</integer>
 		<key>x</key>
@@ -2386,6 +2144,10 @@
 		<integer>-15</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-15</integer>
+		<key>@MMK_R_percent</key>
+		<integer>-15</integer>
+		<key>@MMK_R_pi</key>
+		<integer>-30</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>45</integer>
 		<key>@MMK_R_r</key>
@@ -2399,6 +2161,8 @@
 		<key>@MMK_R_t</key>
 		<integer>-15</integer>
 		<key>@MMK_R_tau</key>
+		<integer>30</integer>
+		<key>@MMK_R_trademark</key>
 		<integer>30</integer>
 		<key>@MMK_R_u</key>
 		<integer>-15</integer>
@@ -2432,62 +2196,26 @@
 		<integer>-15</integer>
 		<key>ellipsis</key>
 		<integer>-15</integer>
-		<key>eng</key>
-		<integer>-30</integer>
 		<key>five</key>
 		<integer>-30</integer>
 		<key>fl</key>
 		<integer>-30</integer>
 		<key>four</key>
 		<integer>15</integer>
-		<key>guillemotright</key>
-		<integer>-15</integer>
-		<key>hbar</key>
-		<integer>15</integer>
 		<key>lslash</key>
 		<integer>30</integer>
 		<key>nine</key>
 		<integer>30</integer>
-		<key>numbersign</key>
-		<integer>-15</integer>
-		<key>one</key>
-		<integer>30</integer>
-		<key>ordfeminine</key>
-		<integer>30</integer>
-		<key>oslash</key>
-		<integer>-15</integer>
 		<key>p</key>
 		<integer>-30</integer>
 		<key>paragraph</key>
 		<integer>15</integer>
-		<key>parenleft</key>
-		<integer>-15</integer>
-		<key>parenright</key>
-		<integer>-15</integer>
-		<key>percent</key>
-		<integer>-15</integer>
-		<key>period</key>
-		<integer>-15</integer>
-		<key>perthousand</key>
-		<integer>-15</integer>
-		<key>pi</key>
-		<integer>-30</integer>
-		<key>plus</key>
-		<integer>15</integer>
-		<key>plusminus</key>
-		<integer>-15</integer>
-		<key>q</key>
-		<integer>-15</integer>
-		<key>question</key>
-		<integer>45</integer>
 		<key>rho</key>
 		<integer>-30</integer>
 		<key>seven</key>
 		<integer>-30</integer>
 		<key>three</key>
 		<integer>-15</integer>
-		<key>trademark</key>
-		<integer>30</integer>
 		<key>two</key>
 		<integer>-30</integer>
 		<key>x</key>
@@ -2585,6 +2313,10 @@
 		<integer>-15</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-15</integer>
+		<key>@MMK_R_percent</key>
+		<integer>-15</integer>
+		<key>@MMK_R_pi</key>
+		<integer>-15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>45</integer>
 		<key>@MMK_R_r</key>
@@ -2598,6 +2330,8 @@
 		<key>@MMK_R_t</key>
 		<integer>-15</integer>
 		<key>@MMK_R_tau</key>
+		<integer>30</integer>
+		<key>@MMK_R_trademark</key>
 		<integer>30</integer>
 		<key>@MMK_R_u</key>
 		<integer>-15</integer>
@@ -2633,60 +2367,26 @@
 		<integer>-15</integer>
 		<key>ellipsis</key>
 		<integer>-15</integer>
-		<key>eng</key>
-		<integer>-15</integer>
 		<key>five</key>
 		<integer>-15</integer>
 		<key>fl</key>
 		<integer>-15</integer>
 		<key>four</key>
 		<integer>15</integer>
-		<key>hbar</key>
-		<integer>15</integer>
 		<key>lslash</key>
 		<integer>30</integer>
 		<key>nine</key>
 		<integer>30</integer>
-		<key>numbersign</key>
-		<integer>-15</integer>
-		<key>one</key>
-		<integer>30</integer>
-		<key>ordfeminine</key>
-		<integer>30</integer>
-		<key>oslash</key>
-		<integer>-15</integer>
 		<key>p</key>
 		<integer>-30</integer>
 		<key>paragraph</key>
 		<integer>15</integer>
-		<key>parenleft</key>
-		<integer>-15</integer>
-		<key>parenright</key>
-		<integer>-15</integer>
-		<key>percent</key>
-		<integer>-15</integer>
-		<key>period</key>
-		<integer>-15</integer>
-		<key>perthousand</key>
-		<integer>-15</integer>
-		<key>pi</key>
-		<integer>-15</integer>
-		<key>plus</key>
-		<integer>15</integer>
-		<key>plusminus</key>
-		<integer>-15</integer>
-		<key>q</key>
-		<integer>-15</integer>
-		<key>question</key>
-		<integer>45</integer>
 		<key>rho</key>
 		<integer>-30</integer>
 		<key>seven</key>
 		<integer>-15</integer>
 		<key>three</key>
 		<integer>-15</integer>
-		<key>trademark</key>
-		<integer>30</integer>
 		<key>two</key>
 		<integer>-15</integer>
 		<key>x</key>
@@ -2776,6 +2476,10 @@
 		<integer>-15</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-15</integer>
+		<key>@MMK_R_percent</key>
+		<integer>-15</integer>
+		<key>@MMK_R_pi</key>
+		<integer>-15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>30</integer>
 		<key>@MMK_R_r</key>
@@ -2790,6 +2494,8 @@
 		<integer>-15</integer>
 		<key>@MMK_R_tau</key>
 		<integer>30</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>15</integer>
 		<key>@MMK_R_u</key>
 		<integer>-15</integer>
 		<key>@MMK_R_upsilon</key>
@@ -2822,8 +2528,6 @@
 		<integer>-30</integer>
 		<key>ellipsis</key>
 		<integer>-15</integer>
-		<key>eng</key>
-		<integer>-15</integer>
 		<key>five</key>
 		<integer>-30</integer>
 		<key>fl</key>
@@ -2834,44 +2538,16 @@
 		<integer>15</integer>
 		<key>nine</key>
 		<integer>30</integer>
-		<key>one</key>
-		<integer>30</integer>
-		<key>ordfeminine</key>
-		<integer>30</integer>
-		<key>oslash</key>
-		<integer>-30</integer>
 		<key>p</key>
 		<integer>-30</integer>
 		<key>paragraph</key>
 		<integer>15</integer>
-		<key>parenleft</key>
-		<integer>-30</integer>
-		<key>parenright</key>
-		<integer>-15</integer>
-		<key>percent</key>
-		<integer>-15</integer>
-		<key>period</key>
-		<integer>-15</integer>
-		<key>perthousand</key>
-		<integer>-15</integer>
-		<key>pi</key>
-		<integer>-15</integer>
-		<key>plus</key>
-		<integer>15</integer>
-		<key>plusminus</key>
-		<integer>-15</integer>
-		<key>q</key>
-		<integer>-15</integer>
-		<key>question</key>
-		<integer>45</integer>
 		<key>rho</key>
 		<integer>-30</integer>
 		<key>seven</key>
 		<integer>-30</integer>
 		<key>three</key>
 		<integer>-45</integer>
-		<key>trademark</key>
-		<integer>15</integer>
 		<key>two</key>
 		<integer>-30</integer>
 		<key>x</key>
@@ -2961,6 +2637,10 @@
 		<integer>30</integer>
 		<key>@MMK_R_omega</key>
 		<integer>30</integer>
+		<key>@MMK_R_percent</key>
+		<integer>-15</integer>
+		<key>@MMK_R_pi</key>
+		<integer>15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>15</integer>
 		<key>@MMK_R_r</key>
@@ -2975,6 +2655,8 @@
 		<integer>15</integer>
 		<key>@MMK_R_tau</key>
 		<integer>-30</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>30</integer>
 		<key>@MMK_R_u</key>
 		<integer>30</integer>
 		<key>@MMK_R_upsilon</key>
@@ -3007,48 +2689,16 @@
 		<integer>30</integer>
 		<key>ellipsis</key>
 		<integer>-15</integer>
-		<key>eng</key>
-		<integer>15</integer>
 		<key>fl</key>
 		<integer>15</integer>
 		<key>four</key>
 		<integer>30</integer>
-		<key>guillemotright</key>
-		<integer>30</integer>
 		<key>lslash</key>
 		<integer>15</integer>
-		<key>multiply</key>
-		<integer>30</integer>
 		<key>nine</key>
 		<integer>-30</integer>
-		<key>numbersign</key>
-		<integer>30</integer>
-		<key>one</key>
-		<integer>30</integer>
-		<key>ordfeminine</key>
-		<integer>-30</integer>
-		<key>oslash</key>
-		<integer>15</integer>
 		<key>p</key>
 		<integer>-15</integer>
-		<key>parenleft</key>
-		<integer>15</integer>
-		<key>parenright</key>
-		<integer>-15</integer>
-		<key>percent</key>
-		<integer>-15</integer>
-		<key>period</key>
-		<integer>-15</integer>
-		<key>perthousand</key>
-		<integer>-15</integer>
-		<key>pi</key>
-		<integer>15</integer>
-		<key>plus</key>
-		<integer>15</integer>
-		<key>plusminus</key>
-		<integer>30</integer>
-		<key>q</key>
-		<integer>30</integer>
 		<key>rho</key>
 		<integer>-15</integer>
 		<key>seven</key>
@@ -3057,8 +2707,6 @@
 		<integer>30</integer>
 		<key>three</key>
 		<integer>15</integer>
-		<key>trademark</key>
-		<integer>30</integer>
 		<key>two</key>
 		<integer>15</integer>
 		<key>x</key>
@@ -3148,6 +2796,8 @@
 		<integer>-30</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-30</integer>
+		<key>@MMK_R_pi</key>
+		<integer>-15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>45</integer>
 		<key>@MMK_R_r</key>
@@ -3160,6 +2810,8 @@
 		<integer>-30</integer>
 		<key>@MMK_R_tau</key>
 		<integer>-15</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>60</integer>
 		<key>@MMK_R_u</key>
 		<integer>-30</integer>
 		<key>@MMK_R_upsilon</key>
@@ -3184,8 +2836,6 @@
 		<integer>-30</integer>
 		<key>eight</key>
 		<integer>-30</integer>
-		<key>eng</key>
-		<integer>-15</integer>
 		<key>five</key>
 		<integer>-15</integer>
 		<key>fl</key>
@@ -3196,22 +2846,10 @@
 		<integer>-30</integer>
 		<key>nine</key>
 		<integer>15</integer>
-		<key>one</key>
-		<integer>45</integer>
-		<key>ordfeminine</key>
-		<integer>15</integer>
-		<key>oslash</key>
-		<integer>-15</integer>
 		<key>p</key>
 		<integer>-15</integer>
 		<key>paragraph</key>
 		<integer>-15</integer>
-		<key>pi</key>
-		<integer>-15</integer>
-		<key>q</key>
-		<integer>-30</integer>
-		<key>question</key>
-		<integer>30</integer>
 		<key>rho</key>
 		<integer>-15</integer>
 		<key>seven</key>
@@ -3220,8 +2858,6 @@
 		<integer>-30</integer>
 		<key>three</key>
 		<integer>-15</integer>
-		<key>trademark</key>
-		<integer>60</integer>
 		<key>two</key>
 		<integer>-15</integer>
 		<key>x</key>
@@ -3311,6 +2947,8 @@
 		<integer>-15</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-30</integer>
+		<key>@MMK_R_pi</key>
+		<integer>-15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>45</integer>
 		<key>@MMK_R_r</key>
@@ -3323,6 +2961,8 @@
 		<integer>-30</integer>
 		<key>@MMK_R_tau</key>
 		<integer>15</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>60</integer>
 		<key>@MMK_R_u</key>
 		<integer>-30</integer>
 		<key>@MMK_R_upsilon</key>
@@ -3349,8 +2989,6 @@
 		<integer>-30</integer>
 		<key>eight</key>
 		<integer>-15</integer>
-		<key>eng</key>
-		<integer>-15</integer>
 		<key>five</key>
 		<integer>-15</integer>
 		<key>fl</key>
@@ -3359,20 +2997,8 @@
 		<integer>15</integer>
 		<key>nine</key>
 		<integer>15</integer>
-		<key>one</key>
-		<integer>45</integer>
-		<key>ordfeminine</key>
-		<integer>15</integer>
-		<key>oslash</key>
-		<integer>-15</integer>
 		<key>p</key>
 		<integer>-15</integer>
-		<key>pi</key>
-		<integer>-15</integer>
-		<key>q</key>
-		<integer>-30</integer>
-		<key>question</key>
-		<integer>30</integer>
 		<key>rho</key>
 		<integer>-15</integer>
 		<key>seven</key>
@@ -3381,8 +3007,6 @@
 		<integer>-15</integer>
 		<key>three</key>
 		<integer>-15</integer>
-		<key>trademark</key>
-		<integer>60</integer>
 		<key>two</key>
 		<integer>-15</integer>
 		<key>x</key>
@@ -3472,6 +3096,8 @@
 		<integer>-30</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-30</integer>
+		<key>@MMK_R_pi</key>
+		<integer>-15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>30</integer>
 		<key>@MMK_R_r</key>
@@ -3484,6 +3110,8 @@
 		<integer>-30</integer>
 		<key>@MMK_R_tau</key>
 		<integer>-30</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>60</integer>
 		<key>@MMK_R_u</key>
 		<integer>-30</integer>
 		<key>@MMK_R_upsilon</key>
@@ -3510,8 +3138,6 @@
 		<integer>-30</integer>
 		<key>eight</key>
 		<integer>-30</integer>
-		<key>eng</key>
-		<integer>-15</integer>
 		<key>five</key>
 		<integer>-15</integer>
 		<key>fl</key>
@@ -3522,30 +3148,14 @@
 		<integer>-30</integer>
 		<key>nine</key>
 		<integer>-15</integer>
-		<key>one</key>
-		<integer>45</integer>
-		<key>ordfeminine</key>
-		<integer>-15</integer>
-		<key>oslash</key>
-		<integer>-15</integer>
 		<key>paragraph</key>
 		<integer>-30</integer>
-		<key>parenright</key>
-		<integer>15</integer>
-		<key>pi</key>
-		<integer>-15</integer>
-		<key>q</key>
-		<integer>-30</integer>
-		<key>question</key>
-		<integer>15</integer>
 		<key>seven</key>
 		<integer>-15</integer>
 		<key>six</key>
 		<integer>-30</integer>
 		<key>three</key>
 		<integer>-15</integer>
-		<key>trademark</key>
-		<integer>60</integer>
 		<key>two</key>
 		<integer>-15</integer>
 		<key>x</key>
@@ -3635,6 +3245,8 @@
 		<integer>-30</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-30</integer>
+		<key>@MMK_R_pi</key>
+		<integer>-15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>30</integer>
 		<key>@MMK_R_r</key>
@@ -3647,6 +3259,8 @@
 		<integer>-30</integer>
 		<key>@MMK_R_tau</key>
 		<integer>-30</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>60</integer>
 		<key>@MMK_R_u</key>
 		<integer>-30</integer>
 		<key>@MMK_R_upsilon</key>
@@ -3671,8 +3285,6 @@
 		<integer>-30</integer>
 		<key>eight</key>
 		<integer>-30</integer>
-		<key>eng</key>
-		<integer>-15</integer>
 		<key>five</key>
 		<integer>-15</integer>
 		<key>fl</key>
@@ -3683,19 +3295,7 @@
 		<integer>-30</integer>
 		<key>nine</key>
 		<integer>-30</integer>
-		<key>one</key>
-		<integer>30</integer>
-		<key>ordfeminine</key>
-		<integer>-45</integer>
-		<key>oslash</key>
-		<integer>-15</integer>
 		<key>paragraph</key>
-		<integer>-30</integer>
-		<key>parenright</key>
-		<integer>15</integer>
-		<key>pi</key>
-		<integer>-15</integer>
-		<key>q</key>
 		<integer>-30</integer>
 		<key>seven</key>
 		<integer>-15</integer>
@@ -3703,8 +3303,6 @@
 		<integer>-30</integer>
 		<key>three</key>
 		<integer>-15</integer>
-		<key>trademark</key>
-		<integer>60</integer>
 		<key>two</key>
 		<integer>-15</integer>
 		<key>x</key>
@@ -3796,6 +3394,8 @@
 		<integer>-15</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-30</integer>
+		<key>@MMK_R_pi</key>
+		<integer>-15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>45</integer>
 		<key>@MMK_R_r</key>
@@ -3808,6 +3408,8 @@
 		<integer>-30</integer>
 		<key>@MMK_R_tau</key>
 		<integer>15</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>60</integer>
 		<key>@MMK_R_u</key>
 		<integer>-30</integer>
 		<key>@MMK_R_upsilon</key>
@@ -3834,8 +3436,6 @@
 		<integer>-30</integer>
 		<key>eight</key>
 		<integer>-15</integer>
-		<key>eng</key>
-		<integer>-15</integer>
 		<key>five</key>
 		<integer>-15</integer>
 		<key>fl</key>
@@ -3844,20 +3444,8 @@
 		<integer>15</integer>
 		<key>nine</key>
 		<integer>15</integer>
-		<key>one</key>
-		<integer>45</integer>
-		<key>ordfeminine</key>
-		<integer>15</integer>
-		<key>oslash</key>
-		<integer>-15</integer>
 		<key>p</key>
 		<integer>-15</integer>
-		<key>pi</key>
-		<integer>-15</integer>
-		<key>q</key>
-		<integer>-30</integer>
-		<key>question</key>
-		<integer>30</integer>
 		<key>rho</key>
 		<integer>-15</integer>
 		<key>seven</key>
@@ -3866,8 +3454,6 @@
 		<integer>-15</integer>
 		<key>three</key>
 		<integer>-15</integer>
-		<key>trademark</key>
-		<integer>60</integer>
 		<key>two</key>
 		<integer>-15</integer>
 		<key>x</key>
@@ -3957,6 +3543,8 @@
 		<integer>-30</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-30</integer>
+		<key>@MMK_R_pi</key>
+		<integer>-15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>45</integer>
 		<key>@MMK_R_r</key>
@@ -3969,6 +3557,8 @@
 		<integer>-30</integer>
 		<key>@MMK_R_tau</key>
 		<integer>-15</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>60</integer>
 		<key>@MMK_R_u</key>
 		<integer>-30</integer>
 		<key>@MMK_R_upsilon</key>
@@ -3993,8 +3583,6 @@
 		<integer>-30</integer>
 		<key>eight</key>
 		<integer>-30</integer>
-		<key>eng</key>
-		<integer>-15</integer>
 		<key>five</key>
 		<integer>-15</integer>
 		<key>fl</key>
@@ -4005,22 +3593,10 @@
 		<integer>-30</integer>
 		<key>nine</key>
 		<integer>15</integer>
-		<key>one</key>
-		<integer>45</integer>
-		<key>ordfeminine</key>
-		<integer>15</integer>
-		<key>oslash</key>
-		<integer>-15</integer>
 		<key>p</key>
 		<integer>-15</integer>
 		<key>paragraph</key>
 		<integer>-15</integer>
-		<key>pi</key>
-		<integer>-15</integer>
-		<key>q</key>
-		<integer>-30</integer>
-		<key>question</key>
-		<integer>30</integer>
 		<key>rho</key>
 		<integer>-15</integer>
 		<key>seven</key>
@@ -4029,8 +3605,6 @@
 		<integer>-30</integer>
 		<key>three</key>
 		<integer>-15</integer>
-		<key>trademark</key>
-		<integer>60</integer>
 		<key>two</key>
 		<integer>-15</integer>
 		<key>x</key>
@@ -4072,6 +3646,8 @@
 		<integer>15</integer>
 		<key>@MMK_R_tau</key>
 		<integer>45</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>15</integer>
 		<key>@MMK_R_v</key>
 		<integer>60</integer>
 		<key>@MMK_R_z</key>
@@ -4094,33 +3670,17 @@
 		<integer>30</integer>
 		<key>lslash</key>
 		<integer>30</integer>
-		<key>multiply</key>
-		<integer>15</integer>
 		<key>nine</key>
-		<integer>45</integer>
-		<key>numbersign</key>
-		<integer>15</integer>
-		<key>one</key>
-		<integer>30</integer>
-		<key>ordfeminine</key>
 		<integer>45</integer>
 		<key>p</key>
 		<integer>-15</integer>
 		<key>paragraph</key>
 		<integer>30</integer>
-		<key>parenleft</key>
-		<integer>-15</integer>
-		<key>plus</key>
-		<integer>30</integer>
-		<key>question</key>
-		<integer>45</integer>
 		<key>rho</key>
 		<integer>-15</integer>
 		<key>seven</key>
 		<integer>-15</integer>
 		<key>six</key>
-		<integer>15</integer>
-		<key>trademark</key>
 		<integer>15</integer>
 		<key>two</key>
 		<integer>-15</integer>
@@ -4179,6 +3739,8 @@
 		<integer>15</integer>
 		<key>@MMK_R_omega</key>
 		<integer>15</integer>
+		<key>@MMK_R_percent</key>
+		<integer>-15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>-30</integer>
 		<key>@MMK_R_semicolon</key>
@@ -4187,6 +3749,8 @@
 		<integer>-15</integer>
 		<key>@MMK_R_tau</key>
 		<integer>45</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>-30</integer>
 		<key>@MMK_R_upsilon</key>
 		<integer>15</integer>
 		<key>@MMK_R_v</key>
@@ -4217,48 +3781,20 @@
 		<integer>-15</integer>
 		<key>four</key>
 		<integer>45</integer>
-		<key>guillemotright</key>
-		<integer>15</integer>
-		<key>hbar</key>
-		<integer>-15</integer>
 		<key>lslash</key>
 		<integer>45</integer>
-		<key>multiply</key>
-		<integer>30</integer>
 		<key>nine</key>
-		<integer>30</integer>
-		<key>numbersign</key>
-		<integer>15</integer>
-		<key>one</key>
-		<integer>-30</integer>
-		<key>ordfeminine</key>
 		<integer>30</integer>
 		<key>p</key>
 		<integer>-30</integer>
 		<key>paragraph</key>
 		<integer>30</integer>
-		<key>parenright</key>
-		<integer>-15</integer>
-		<key>percent</key>
-		<integer>-15</integer>
-		<key>period</key>
-		<integer>-15</integer>
-		<key>perthousand</key>
-		<integer>-15</integer>
-		<key>plus</key>
-		<integer>30</integer>
-		<key>plusminus</key>
-		<integer>15</integer>
-		<key>q</key>
-		<integer>15</integer>
 		<key>rho</key>
 		<integer>-30</integer>
 		<key>seven</key>
 		<integer>-30</integer>
 		<key>six</key>
 		<integer>15</integer>
-		<key>trademark</key>
-		<integer>-30</integer>
 		<key>x</key>
 		<integer>-30</integer>
 	</dict>
@@ -4306,6 +3842,8 @@
 		<integer>-15</integer>
 		<key>@MMK_R_tau</key>
 		<integer>-15</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>30</integer>
 		<key>@MMK_R_u</key>
 		<integer>-15</integer>
 		<key>@MMK_R_upsilon</key>
@@ -4332,28 +3870,14 @@
 		<integer>-15</integer>
 		<key>lslash</key>
 		<integer>-15</integer>
-		<key>multiply</key>
-		<integer>-15</integer>
-		<key>one</key>
-		<integer>15</integer>
-		<key>ordfeminine</key>
-		<integer>-15</integer>
 		<key>p</key>
 		<integer>15</integer>
 		<key>paragraph</key>
 		<integer>-30</integer>
-		<key>parenleft</key>
-		<integer>-15</integer>
-		<key>plus</key>
-		<integer>-15</integer>
-		<key>q</key>
-		<integer>-15</integer>
 		<key>rho</key>
 		<integer>15</integer>
 		<key>six</key>
 		<integer>-15</integer>
-		<key>trademark</key>
-		<integer>30</integer>
 	</dict>
 	<key>@MMK_L_beta</key>
 	<dict>
@@ -4401,6 +3925,8 @@
 		<integer>15</integer>
 		<key>@MMK_R_omega</key>
 		<integer>15</integer>
+		<key>@MMK_R_percent</key>
+		<integer>-30</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>15</integer>
 		<key>@MMK_R_s</key>
@@ -4412,6 +3938,8 @@
 		<key>@MMK_R_t</key>
 		<integer>15</integer>
 		<key>@MMK_R_tau</key>
+		<integer>15</integer>
+		<key>@MMK_R_trademark</key>
 		<integer>15</integer>
 		<key>@MMK_R_u</key>
 		<integer>15</integer>
@@ -4443,37 +3971,11 @@
 		<integer>-15</integer>
 		<key>four</key>
 		<integer>45</integer>
-		<key>guillemotright</key>
-		<integer>30</integer>
 		<key>lslash</key>
 		<integer>30</integer>
-		<key>multiply</key>
-		<integer>30</integer>
-		<key>numbersign</key>
-		<integer>15</integer>
-		<key>one</key>
-		<integer>15</integer>
-		<key>oslash</key>
-		<integer>15</integer>
 		<key>p</key>
 		<integer>-15</integer>
 		<key>paragraph</key>
-		<integer>15</integer>
-		<key>parenright</key>
-		<integer>-30</integer>
-		<key>percent</key>
-		<integer>-30</integer>
-		<key>period</key>
-		<integer>-15</integer>
-		<key>perthousand</key>
-		<integer>-30</integer>
-		<key>plus</key>
-		<integer>45</integer>
-		<key>plusminus</key>
-		<integer>15</integer>
-		<key>q</key>
-		<integer>15</integer>
-		<key>question</key>
 		<integer>15</integer>
 		<key>rho</key>
 		<integer>-15</integer>
@@ -4482,8 +3984,6 @@
 		<key>six</key>
 		<integer>30</integer>
 		<key>three</key>
-		<integer>15</integer>
-		<key>trademark</key>
 		<integer>15</integer>
 		<key>x</key>
 		<integer>-30</integer>
@@ -4534,6 +4034,8 @@
 		<integer>-15</integer>
 		<key>@MMK_R_tau</key>
 		<integer>45</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>15</integer>
 		<key>@MMK_R_upsilon</key>
 		<integer>15</integer>
 		<key>@MMK_R_v</key>
@@ -4556,38 +4058,18 @@
 		<integer>-15</integer>
 		<key>lslash</key>
 		<integer>15</integer>
-		<key>multiply</key>
-		<integer>30</integer>
 		<key>nine</key>
 		<integer>45</integer>
-		<key>numbersign</key>
-		<integer>15</integer>
-		<key>one</key>
-		<integer>30</integer>
-		<key>ordfeminine</key>
-		<integer>45</integer>
-		<key>oslash</key>
-		<integer>-30</integer>
 		<key>p</key>
 		<integer>-15</integer>
 		<key>paragraph</key>
 		<integer>30</integer>
-		<key>plus</key>
-		<integer>30</integer>
-		<key>plusminus</key>
-		<integer>15</integer>
-		<key>q</key>
-		<integer>-15</integer>
-		<key>question</key>
-		<integer>45</integer>
 		<key>rho</key>
 		<integer>-15</integer>
 		<key>six</key>
 		<integer>15</integer>
 		<key>three</key>
 		<integer>-15</integer>
-		<key>trademark</key>
-		<integer>15</integer>
 	</dict>
 	<key>@MMK_L_copyright</key>
 	<dict>
@@ -4627,12 +4109,16 @@
 		<integer>-15</integer>
 		<key>@MMK_R_o</key>
 		<integer>15</integer>
+		<key>@MMK_R_percent</key>
+		<integer>-30</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>-30</integer>
 		<key>@MMK_R_slash</key>
 		<integer>-30</integer>
 		<key>@MMK_R_tau</key>
 		<integer>30</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>-30</integer>
 		<key>@MMK_R_v</key>
 		<integer>15</integer>
 		<key>@MMK_R_z</key>
@@ -4657,39 +4143,13 @@
 		<integer>-15</integer>
 		<key>four</key>
 		<integer>30</integer>
-		<key>guillemotright</key>
-		<integer>15</integer>
-		<key>hbar</key>
-		<integer>-15</integer>
 		<key>lslash</key>
 		<integer>45</integer>
-		<key>multiply</key>
-		<integer>15</integer>
 		<key>nine</key>
-		<integer>15</integer>
-		<key>numbersign</key>
-		<integer>15</integer>
-		<key>one</key>
-		<integer>-30</integer>
-		<key>ordfeminine</key>
 		<integer>15</integer>
 		<key>p</key>
 		<integer>-15</integer>
 		<key>paragraph</key>
-		<integer>15</integer>
-		<key>parenleft</key>
-		<integer>-15</integer>
-		<key>parenright</key>
-		<integer>-30</integer>
-		<key>percent</key>
-		<integer>-30</integer>
-		<key>period</key>
-		<integer>-30</integer>
-		<key>perthousand</key>
-		<integer>-30</integer>
-		<key>plus</key>
-		<integer>30</integer>
-		<key>plusminus</key>
 		<integer>15</integer>
 		<key>rho</key>
 		<integer>-15</integer>
@@ -4697,8 +4157,6 @@
 		<integer>-15</integer>
 		<key>six</key>
 		<integer>15</integer>
-		<key>trademark</key>
-		<integer>-30</integer>
 		<key>two</key>
 		<integer>-15</integer>
 		<key>x</key>
@@ -4788,6 +4246,8 @@
 		<integer>-15</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-30</integer>
+		<key>@MMK_R_pi</key>
+		<integer>-15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>45</integer>
 		<key>@MMK_R_r</key>
@@ -4800,6 +4260,8 @@
 		<integer>-30</integer>
 		<key>@MMK_R_tau</key>
 		<integer>15</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>60</integer>
 		<key>@MMK_R_u</key>
 		<integer>-30</integer>
 		<key>@MMK_R_upsilon</key>
@@ -4826,8 +4288,6 @@
 		<integer>-30</integer>
 		<key>eight</key>
 		<integer>-15</integer>
-		<key>eng</key>
-		<integer>-15</integer>
 		<key>five</key>
 		<integer>-15</integer>
 		<key>fl</key>
@@ -4836,20 +4296,8 @@
 		<integer>15</integer>
 		<key>nine</key>
 		<integer>15</integer>
-		<key>one</key>
-		<integer>45</integer>
-		<key>ordfeminine</key>
-		<integer>15</integer>
-		<key>oslash</key>
-		<integer>-15</integer>
 		<key>p</key>
 		<integer>-15</integer>
-		<key>pi</key>
-		<integer>-15</integer>
-		<key>q</key>
-		<integer>-30</integer>
-		<key>question</key>
-		<integer>30</integer>
 		<key>rho</key>
 		<integer>-15</integer>
 		<key>seven</key>
@@ -4858,8 +4306,6 @@
 		<integer>-15</integer>
 		<key>three</key>
 		<integer>-15</integer>
-		<key>trademark</key>
-		<integer>60</integer>
 		<key>two</key>
 		<integer>-15</integer>
 		<key>x</key>
@@ -4919,6 +4365,8 @@
 		<integer>15</integer>
 		<key>@MMK_R_omega</key>
 		<integer>15</integer>
+		<key>@MMK_R_percent</key>
+		<integer>-15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>-30</integer>
 		<key>@MMK_R_s</key>
@@ -4931,6 +4379,8 @@
 		<integer>15</integer>
 		<key>@MMK_R_tau</key>
 		<integer>45</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>-30</integer>
 		<key>@MMK_R_u</key>
 		<integer>15</integer>
 		<key>@MMK_R_upsilon</key>
@@ -4965,50 +4415,20 @@
 		<integer>-15</integer>
 		<key>four</key>
 		<integer>45</integer>
-		<key>guillemotright</key>
-		<integer>15</integer>
 		<key>lslash</key>
 		<integer>45</integer>
-		<key>multiply</key>
-		<integer>30</integer>
 		<key>nine</key>
 		<integer>30</integer>
-		<key>numbersign</key>
-		<integer>15</integer>
-		<key>one</key>
-		<integer>-30</integer>
-		<key>ordfeminine</key>
-		<integer>30</integer>
-		<key>oslash</key>
-		<integer>15</integer>
 		<key>p</key>
 		<integer>-30</integer>
 		<key>paragraph</key>
 		<integer>30</integer>
-		<key>parenright</key>
-		<integer>-15</integer>
-		<key>percent</key>
-		<integer>-15</integer>
-		<key>period</key>
-		<integer>-15</integer>
-		<key>perthousand</key>
-		<integer>-15</integer>
-		<key>plus</key>
-		<integer>45</integer>
-		<key>plusminus</key>
-		<integer>15</integer>
-		<key>q</key>
-		<integer>15</integer>
-		<key>question</key>
-		<integer>-15</integer>
 		<key>rho</key>
 		<integer>-30</integer>
 		<key>seven</key>
 		<integer>-15</integer>
 		<key>six</key>
 		<integer>30</integer>
-		<key>trademark</key>
-		<integer>-30</integer>
 		<key>two</key>
 		<integer>-15</integer>
 		<key>x</key>
@@ -5104,6 +4524,10 @@
 		<integer>15</integer>
 		<key>@MMK_R_omega</key>
 		<integer>15</integer>
+		<key>@MMK_R_percent</key>
+		<integer>30</integer>
+		<key>@MMK_R_pi</key>
+		<integer>45</integer>
 		<key>@MMK_R_r</key>
 		<integer>45</integer>
 		<key>@MMK_R_s</key>
@@ -5116,6 +4540,8 @@
 		<integer>30</integer>
 		<key>@MMK_R_tau</key>
 		<integer>15</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>-15</integer>
 		<key>@MMK_R_u</key>
 		<integer>15</integer>
 		<key>@MMK_R_upsilon</key>
@@ -5148,50 +4574,18 @@
 		<integer>15</integer>
 		<key>ellipsis</key>
 		<integer>30</integer>
-		<key>eng</key>
-		<integer>45</integer>
 		<key>five</key>
 		<integer>45</integer>
 		<key>fl</key>
 		<integer>45</integer>
 		<key>four</key>
 		<integer>15</integer>
-		<key>guillemotright</key>
-		<integer>15</integer>
-		<key>hbar</key>
-		<integer>30</integer>
 		<key>lslash</key>
 		<integer>15</integer>
 		<key>nine</key>
 		<integer>30</integer>
-		<key>numbersign</key>
-		<integer>30</integer>
-		<key>one</key>
-		<integer>15</integer>
-		<key>ordfeminine</key>
-		<integer>15</integer>
 		<key>p</key>
 		<integer>15</integer>
-		<key>parenleft</key>
-		<integer>30</integer>
-		<key>parenright</key>
-		<integer>30</integer>
-		<key>percent</key>
-		<integer>30</integer>
-		<key>period</key>
-		<integer>30</integer>
-		<key>perthousand</key>
-		<integer>30</integer>
-		<key>pi</key>
-		<integer>45</integer>
-		<key>plus</key>
-		<integer>15</integer>
-		<key>plusminus</key>
-		<integer>15</integer>
-		<key>q</key>
-		<integer>15</integer>
-		<key>question</key>
-		<integer>30</integer>
 		<key>rho</key>
 		<integer>15</integer>
 		<key>seven</key>
@@ -5200,8 +4594,6 @@
 		<integer>15</integer>
 		<key>three</key>
 		<integer>30</integer>
-		<key>trademark</key>
-		<integer>-15</integer>
 		<key>two</key>
 		<integer>45</integer>
 		<key>x</key>
@@ -5251,31 +4643,11 @@
 		<integer>15</integer>
 		<key>four</key>
 		<integer>30</integer>
-		<key>guillemotright</key>
-		<integer>15</integer>
-		<key>hbar</key>
-		<integer>-15</integer>
 		<key>lslash</key>
 		<integer>45</integer>
-		<key>multiply</key>
-		<integer>15</integer>
 		<key>nine</key>
 		<integer>45</integer>
-		<key>numbersign</key>
-		<integer>15</integer>
-		<key>ordfeminine</key>
-		<integer>45</integer>
 		<key>paragraph</key>
-		<integer>30</integer>
-		<key>parenleft</key>
-		<integer>-15</integer>
-		<key>period</key>
-		<integer>15</integer>
-		<key>plus</key>
-		<integer>30</integer>
-		<key>plusminus</key>
-		<integer>15</integer>
-		<key>question</key>
 		<integer>30</integer>
 		<key>six</key>
 		<integer>15</integer>
@@ -5316,12 +4688,16 @@
 		<integer>15</integer>
 		<key>@MMK_R_omega</key>
 		<integer>15</integer>
+		<key>@MMK_R_percent</key>
+		<integer>-15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>-30</integer>
 		<key>@MMK_R_slash</key>
 		<integer>-15</integer>
 		<key>@MMK_R_tau</key>
 		<integer>45</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>-30</integer>
 		<key>@MMK_R_upsilon</key>
 		<integer>15</integer>
 		<key>@MMK_R_v</key>
@@ -5348,37 +4724,13 @@
 		<integer>-15</integer>
 		<key>four</key>
 		<integer>45</integer>
-		<key>guillemotright</key>
-		<integer>15</integer>
-		<key>hbar</key>
-		<integer>-15</integer>
 		<key>lslash</key>
 		<integer>45</integer>
-		<key>multiply</key>
-		<integer>15</integer>
 		<key>nine</key>
 		<integer>30</integer>
-		<key>numbersign</key>
-		<integer>15</integer>
-		<key>one</key>
-		<integer>-30</integer>
-		<key>ordfeminine</key>
-		<integer>15</integer>
 		<key>p</key>
 		<integer>-30</integer>
 		<key>paragraph</key>
-		<integer>15</integer>
-		<key>parenright</key>
-		<integer>-15</integer>
-		<key>percent</key>
-		<integer>-15</integer>
-		<key>period</key>
-		<integer>-15</integer>
-		<key>perthousand</key>
-		<integer>-15</integer>
-		<key>plus</key>
-		<integer>30</integer>
-		<key>plusminus</key>
 		<integer>15</integer>
 		<key>rho</key>
 		<integer>-30</integer>
@@ -5386,8 +4738,6 @@
 		<integer>15</integer>
 		<key>three</key>
 		<integer>15</integer>
-		<key>trademark</key>
-		<integer>-30</integer>
 	</dict>
 	<key>@MMK_L_exclam</key>
 	<dict>
@@ -5431,6 +4781,8 @@
 		<integer>-15</integer>
 		<key>@MMK_R_t</key>
 		<integer>-15</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>45</integer>
 		<key>@MMK_R_u</key>
 		<integer>-15</integer>
 		<key>@MMK_R_upsilon</key>
@@ -5463,36 +4815,12 @@
 		<integer>-15</integer>
 		<key>four</key>
 		<integer>-15</integer>
-		<key>guillemotright</key>
-		<integer>-15</integer>
-		<key>multiply</key>
-		<integer>-15</integer>
 		<key>nine</key>
-		<integer>15</integer>
-		<key>numbersign</key>
-		<integer>-15</integer>
-		<key>one</key>
-		<integer>45</integer>
-		<key>ordfeminine</key>
 		<integer>15</integer>
 		<key>paragraph</key>
 		<integer>-15</integer>
-		<key>parenleft</key>
-		<integer>-15</integer>
-		<key>period</key>
-		<integer>-15</integer>
-		<key>plus</key>
-		<integer>-15</integer>
-		<key>plusminus</key>
-		<integer>-15</integer>
-		<key>q</key>
-		<integer>-15</integer>
-		<key>question</key>
-		<integer>30</integer>
 		<key>six</key>
 		<integer>-15</integer>
-		<key>trademark</key>
-		<integer>45</integer>
 	</dict>
 	<key>@MMK_L_f</key>
 	<dict>
@@ -5578,6 +4906,8 @@
 		<integer>-30</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-30</integer>
+		<key>@MMK_R_pi</key>
+		<integer>-15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>30</integer>
 		<key>@MMK_R_r</key>
@@ -5588,6 +4918,8 @@
 		<integer>15</integer>
 		<key>@MMK_R_t</key>
 		<integer>-30</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>60</integer>
 		<key>@MMK_R_u</key>
 		<integer>-30</integer>
 		<key>@MMK_R_upsilon</key>
@@ -5616,34 +4948,20 @@
 		<integer>-30</integer>
 		<key>eight</key>
 		<integer>-30</integer>
-		<key>eng</key>
-		<integer>-15</integer>
 		<key>five</key>
 		<integer>-15</integer>
 		<key>fl</key>
 		<integer>-15</integer>
 		<key>four</key>
 		<integer>-30</integer>
-		<key>hbar</key>
-		<integer>-15</integer>
 		<key>lslash</key>
 		<integer>-30</integer>
 		<key>nine</key>
 		<integer>15</integer>
-		<key>one</key>
-		<integer>45</integer>
-		<key>oslash</key>
-		<integer>-15</integer>
 		<key>p</key>
 		<integer>-15</integer>
 		<key>paragraph</key>
 		<integer>-15</integer>
-		<key>pi</key>
-		<integer>-15</integer>
-		<key>q</key>
-		<integer>-30</integer>
-		<key>question</key>
-		<integer>15</integer>
 		<key>rho</key>
 		<integer>-15</integer>
 		<key>seven</key>
@@ -5652,8 +4970,6 @@
 		<integer>-30</integer>
 		<key>three</key>
 		<integer>-15</integer>
-		<key>trademark</key>
-		<integer>60</integer>
 		<key>two</key>
 		<integer>-15</integer>
 		<key>x</key>
@@ -5721,12 +5037,16 @@
 		<integer>-15</integer>
 		<key>@MMK_R_n</key>
 		<integer>-15</integer>
+		<key>@MMK_R_pi</key>
+		<integer>-15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>30</integer>
 		<key>@MMK_R_r</key>
 		<integer>-15</integer>
 		<key>@MMK_R_tau</key>
 		<integer>45</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>15</integer>
 		<key>@MMK_R_v</key>
 		<integer>60</integer>
 		<key>@MMK_R_z</key>
@@ -5747,43 +5067,21 @@
 		<integer>15</integer>
 		<key>ellipsis</key>
 		<integer>-15</integer>
-		<key>eng</key>
-		<integer>-15</integer>
 		<key>fl</key>
 		<integer>-15</integer>
 		<key>four</key>
 		<integer>30</integer>
-		<key>hbar</key>
-		<integer>15</integer>
 		<key>lslash</key>
 		<integer>45</integer>
-		<key>multiply</key>
-		<integer>15</integer>
 		<key>nine</key>
-		<integer>45</integer>
-		<key>one</key>
-		<integer>30</integer>
-		<key>ordfeminine</key>
 		<integer>45</integer>
 		<key>p</key>
 		<integer>-15</integer>
 		<key>paragraph</key>
 		<integer>30</integer>
-		<key>parenleft</key>
-		<integer>-15</integer>
-		<key>period</key>
-		<integer>-15</integer>
-		<key>pi</key>
-		<integer>-15</integer>
-		<key>plus</key>
-		<integer>30</integer>
-		<key>question</key>
-		<integer>45</integer>
 		<key>rho</key>
 		<integer>-15</integer>
 		<key>six</key>
-		<integer>15</integer>
-		<key>trademark</key>
 		<integer>15</integer>
 		<key>two</key>
 		<integer>-15</integer>
@@ -5826,12 +5124,16 @@
 		<integer>15</integer>
 		<key>@MMK_R_omega</key>
 		<integer>15</integer>
+		<key>@MMK_R_percent</key>
+		<integer>-15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>-30</integer>
 		<key>@MMK_R_slash</key>
 		<integer>-15</integer>
 		<key>@MMK_R_tau</key>
 		<integer>45</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>-30</integer>
 		<key>@MMK_R_upsilon</key>
 		<integer>15</integer>
 		<key>@MMK_R_v</key>
@@ -5856,35 +5158,13 @@
 		<integer>15</integer>
 		<key>four</key>
 		<integer>45</integer>
-		<key>guillemotright</key>
-		<integer>15</integer>
-		<key>hbar</key>
-		<integer>-15</integer>
 		<key>lslash</key>
 		<integer>45</integer>
-		<key>multiply</key>
-		<integer>15</integer>
 		<key>nine</key>
 		<integer>30</integer>
-		<key>numbersign</key>
-		<integer>15</integer>
-		<key>one</key>
-		<integer>-30</integer>
-		<key>ordfeminine</key>
-		<integer>15</integer>
 		<key>p</key>
 		<integer>-30</integer>
 		<key>paragraph</key>
-		<integer>15</integer>
-		<key>parenright</key>
-		<integer>-15</integer>
-		<key>percent</key>
-		<integer>-15</integer>
-		<key>perthousand</key>
-		<integer>-15</integer>
-		<key>plus</key>
-		<integer>30</integer>
-		<key>plusminus</key>
 		<integer>15</integer>
 		<key>rho</key>
 		<integer>-30</integer>
@@ -5892,8 +5172,6 @@
 		<integer>15</integer>
 		<key>three</key>
 		<integer>15</integer>
-		<key>trademark</key>
-		<integer>-30</integer>
 	</dict>
 	<key>@MMK_L_i</key>
 	<dict>
@@ -5983,6 +5261,8 @@
 		<integer>-30</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-30</integer>
+		<key>@MMK_R_pi</key>
+		<integer>-15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>45</integer>
 		<key>@MMK_R_r</key>
@@ -5993,6 +5273,8 @@
 		<integer>-30</integer>
 		<key>@MMK_R_tau</key>
 		<integer>15</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>60</integer>
 		<key>@MMK_R_u</key>
 		<integer>-30</integer>
 		<key>@MMK_R_upsilon</key>
@@ -6019,8 +5301,6 @@
 		<integer>-30</integer>
 		<key>eight</key>
 		<integer>-15</integer>
-		<key>eng</key>
-		<integer>-15</integer>
 		<key>five</key>
 		<integer>-15</integer>
 		<key>fl</key>
@@ -6029,20 +5309,8 @@
 		<integer>15</integer>
 		<key>nine</key>
 		<integer>15</integer>
-		<key>one</key>
-		<integer>45</integer>
-		<key>ordfeminine</key>
-		<integer>15</integer>
-		<key>oslash</key>
-		<integer>-15</integer>
 		<key>p</key>
 		<integer>-15</integer>
-		<key>pi</key>
-		<integer>-15</integer>
-		<key>q</key>
-		<integer>-30</integer>
-		<key>question</key>
-		<integer>30</integer>
 		<key>rho</key>
 		<integer>-15</integer>
 		<key>seven</key>
@@ -6051,8 +5319,6 @@
 		<integer>-15</integer>
 		<key>three</key>
 		<integer>-15</integer>
-		<key>trademark</key>
-		<integer>60</integer>
 		<key>two</key>
 		<integer>-15</integer>
 		<key>x</key>
@@ -6146,6 +5412,8 @@
 		<integer>-30</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-30</integer>
+		<key>@MMK_R_pi</key>
+		<integer>-15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>45</integer>
 		<key>@MMK_R_r</key>
@@ -6156,6 +5424,8 @@
 		<integer>-30</integer>
 		<key>@MMK_R_tau</key>
 		<integer>15</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>60</integer>
 		<key>@MMK_R_u</key>
 		<integer>-30</integer>
 		<key>@MMK_R_upsilon</key>
@@ -6184,8 +5454,6 @@
 		<integer>-30</integer>
 		<key>eight</key>
 		<integer>-15</integer>
-		<key>eng</key>
-		<integer>-15</integer>
 		<key>five</key>
 		<integer>-15</integer>
 		<key>fl</key>
@@ -6194,20 +5462,8 @@
 		<integer>15</integer>
 		<key>nine</key>
 		<integer>15</integer>
-		<key>one</key>
-		<integer>60</integer>
-		<key>ordfeminine</key>
-		<integer>15</integer>
-		<key>oslash</key>
-		<integer>-15</integer>
 		<key>p</key>
 		<integer>-15</integer>
-		<key>pi</key>
-		<integer>-15</integer>
-		<key>q</key>
-		<integer>-30</integer>
-		<key>question</key>
-		<integer>30</integer>
 		<key>rho</key>
 		<integer>-15</integer>
 		<key>seven</key>
@@ -6216,8 +5472,6 @@
 		<integer>-15</integer>
 		<key>three</key>
 		<integer>-15</integer>
-		<key>trademark</key>
-		<integer>60</integer>
 		<key>two</key>
 		<integer>-15</integer>
 		<key>x</key>
@@ -6299,6 +5553,10 @@
 		<integer>45</integer>
 		<key>@MMK_R_omega</key>
 		<integer>15</integer>
+		<key>@MMK_R_percent</key>
+		<integer>45</integer>
+		<key>@MMK_R_pi</key>
+		<integer>45</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>-45</integer>
 		<key>@MMK_R_r</key>
@@ -6311,6 +5569,8 @@
 		<integer>15</integer>
 		<key>@MMK_R_tau</key>
 		<integer>30</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>-30</integer>
 		<key>@MMK_R_u</key>
 		<integer>15</integer>
 		<key>@MMK_R_v</key>
@@ -6339,49 +5599,17 @@
 		<integer>15</integer>
 		<key>ellipsis</key>
 		<integer>45</integer>
-		<key>eng</key>
-		<integer>45</integer>
 		<key>five</key>
 		<integer>45</integer>
 		<key>fl</key>
 		<integer>45</integer>
 		<key>four</key>
 		<integer>-30</integer>
-		<key>guillemotright</key>
-		<integer>-15</integer>
-		<key>hbar</key>
-		<integer>45</integer>
 		<key>nine</key>
-		<integer>30</integer>
-		<key>numbersign</key>
-		<integer>45</integer>
-		<key>one</key>
-		<integer>15</integer>
-		<key>ordfeminine</key>
-		<integer>15</integer>
-		<key>oslash</key>
 		<integer>30</integer>
 		<key>p</key>
 		<integer>30</integer>
 		<key>paragraph</key>
-		<integer>15</integer>
-		<key>parenleft</key>
-		<integer>30</integer>
-		<key>parenright</key>
-		<integer>45</integer>
-		<key>percent</key>
-		<integer>45</integer>
-		<key>period</key>
-		<integer>45</integer>
-		<key>perthousand</key>
-		<integer>45</integer>
-		<key>pi</key>
-		<integer>45</integer>
-		<key>plus</key>
-		<integer>15</integer>
-		<key>plusminus</key>
-		<integer>-15</integer>
-		<key>q</key>
 		<integer>15</integer>
 		<key>rho</key>
 		<integer>15</integer>
@@ -6389,8 +5617,6 @@
 		<integer>60</integer>
 		<key>three</key>
 		<integer>30</integer>
-		<key>trademark</key>
-		<integer>-30</integer>
 		<key>two</key>
 		<integer>45</integer>
 		<key>x</key>
@@ -6424,6 +5650,8 @@
 		<integer>30</integer>
 		<key>@MMK_R_tau</key>
 		<integer>45</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>15</integer>
 		<key>@MMK_R_v</key>
 		<integer>60</integer>
 		<key>Hbar</key>
@@ -6440,37 +5668,19 @@
 		<integer>-15</integer>
 		<key>four</key>
 		<integer>-30</integer>
-		<key>hbar</key>
-		<integer>15</integer>
 		<key>lslash</key>
 		<integer>-30</integer>
-		<key>multiply</key>
-		<integer>15</integer>
 		<key>nine</key>
 		<integer>45</integer>
-		<key>one</key>
-		<integer>30</integer>
-		<key>ordfeminine</key>
-		<integer>45</integer>
-		<key>oslash</key>
-		<integer>-15</integer>
 		<key>p</key>
 		<integer>-15</integer>
 		<key>paragraph</key>
 		<integer>30</integer>
-		<key>parenleft</key>
-		<integer>-15</integer>
-		<key>plus</key>
-		<integer>15</integer>
-		<key>question</key>
-		<integer>45</integer>
 		<key>rho</key>
 		<integer>-15</integer>
 		<key>seven</key>
 		<integer>-15</integer>
 		<key>six</key>
-		<integer>15</integer>
-		<key>trademark</key>
 		<integer>15</integer>
 	</dict>
 	<key>@MMK_L_l</key>
@@ -6557,6 +5767,8 @@
 		<integer>-15</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-30</integer>
+		<key>@MMK_R_pi</key>
+		<integer>-15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>45</integer>
 		<key>@MMK_R_r</key>
@@ -6569,6 +5781,8 @@
 		<integer>-30</integer>
 		<key>@MMK_R_tau</key>
 		<integer>15</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>60</integer>
 		<key>@MMK_R_u</key>
 		<integer>-30</integer>
 		<key>@MMK_R_upsilon</key>
@@ -6595,28 +5809,14 @@
 		<integer>-30</integer>
 		<key>eight</key>
 		<integer>-15</integer>
-		<key>eng</key>
-		<integer>-15</integer>
 		<key>five</key>
 		<integer>-15</integer>
 		<key>lslash</key>
 		<integer>15</integer>
 		<key>nine</key>
 		<integer>15</integer>
-		<key>one</key>
-		<integer>45</integer>
-		<key>ordfeminine</key>
-		<integer>15</integer>
-		<key>oslash</key>
-		<integer>-15</integer>
 		<key>p</key>
 		<integer>-15</integer>
-		<key>pi</key>
-		<integer>-15</integer>
-		<key>q</key>
-		<integer>-30</integer>
-		<key>question</key>
-		<integer>30</integer>
 		<key>rho</key>
 		<integer>-15</integer>
 		<key>seven</key>
@@ -6625,8 +5825,6 @@
 		<integer>-15</integer>
 		<key>three</key>
 		<integer>-15</integer>
-		<key>trademark</key>
-		<integer>60</integer>
 		<key>two</key>
 		<integer>-15</integer>
 		<key>x</key>
@@ -6690,6 +5888,8 @@
 		<integer>15</integer>
 		<key>@MMK_R_l</key>
 		<integer>15</integer>
+		<key>@MMK_R_pi</key>
+		<integer>15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>30</integer>
 		<key>@MMK_R_r</key>
@@ -6698,6 +5898,8 @@
 		<integer>-15</integer>
 		<key>@MMK_R_tau</key>
 		<integer>30</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>15</integer>
 		<key>@MMK_R_v</key>
 		<integer>45</integer>
 		<key>@MMK_R_z</key>
@@ -6714,43 +5916,23 @@
 		<integer>30</integer>
 		<key>degree</key>
 		<integer>45</integer>
-		<key>eng</key>
-		<integer>15</integer>
 		<key>five</key>
 		<integer>15</integer>
 		<key>fl</key>
 		<integer>15</integer>
 		<key>four</key>
 		<integer>30</integer>
-		<key>hbar</key>
-		<integer>15</integer>
 		<key>lslash</key>
 		<integer>30</integer>
-		<key>multiply</key>
-		<integer>15</integer>
 		<key>nine</key>
 		<integer>45</integer>
-		<key>one</key>
-		<integer>30</integer>
-		<key>ordfeminine</key>
-		<integer>45</integer>
-		<key>oslash</key>
-		<integer>-15</integer>
 		<key>p</key>
 		<integer>-15</integer>
 		<key>paragraph</key>
 		<integer>15</integer>
-		<key>pi</key>
-		<integer>15</integer>
-		<key>plus</key>
-		<integer>30</integer>
-		<key>question</key>
-		<integer>45</integer>
 		<key>rho</key>
 		<integer>-15</integer>
 		<key>seven</key>
-		<integer>15</integer>
-		<key>trademark</key>
 		<integer>15</integer>
 		<key>two</key>
 		<integer>15</integer>
@@ -6793,12 +5975,16 @@
 		<integer>15</integer>
 		<key>@MMK_R_omega</key>
 		<integer>15</integer>
+		<key>@MMK_R_percent</key>
+		<integer>-15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>-30</integer>
 		<key>@MMK_R_slash</key>
 		<integer>-15</integer>
 		<key>@MMK_R_tau</key>
 		<integer>45</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>-30</integer>
 		<key>@MMK_R_upsilon</key>
 		<integer>15</integer>
 		<key>@MMK_R_v</key>
@@ -6825,37 +6011,13 @@
 		<integer>-15</integer>
 		<key>four</key>
 		<integer>45</integer>
-		<key>guillemotright</key>
-		<integer>15</integer>
-		<key>hbar</key>
-		<integer>-15</integer>
 		<key>lslash</key>
 		<integer>45</integer>
-		<key>multiply</key>
-		<integer>15</integer>
 		<key>nine</key>
 		<integer>30</integer>
-		<key>numbersign</key>
-		<integer>15</integer>
-		<key>one</key>
-		<integer>-30</integer>
-		<key>ordfeminine</key>
-		<integer>15</integer>
 		<key>p</key>
 		<integer>-30</integer>
 		<key>paragraph</key>
-		<integer>15</integer>
-		<key>parenright</key>
-		<integer>-15</integer>
-		<key>percent</key>
-		<integer>-15</integer>
-		<key>period</key>
-		<integer>-15</integer>
-		<key>perthousand</key>
-		<integer>-15</integer>
-		<key>plus</key>
-		<integer>30</integer>
-		<key>plusminus</key>
 		<integer>15</integer>
 		<key>rho</key>
 		<integer>-30</integer>
@@ -6863,8 +6025,6 @@
 		<integer>15</integer>
 		<key>three</key>
 		<integer>15</integer>
-		<key>trademark</key>
-		<integer>-30</integer>
 	</dict>
 	<key>@MMK_L_o</key>
 	<dict>
@@ -6914,6 +6074,8 @@
 		<integer>-30</integer>
 		<key>@MMK_R_omega</key>
 		<integer>15</integer>
+		<key>@MMK_R_percent</key>
+		<integer>-15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>-45</integer>
 		<key>@MMK_R_semicolon</key>
@@ -6922,6 +6084,8 @@
 		<integer>-15</integer>
 		<key>@MMK_R_tau</key>
 		<integer>45</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>-45</integer>
 		<key>@MMK_R_u</key>
 		<integer>15</integer>
 		<key>@MMK_R_upsilon</key>
@@ -6958,46 +6122,18 @@
 		<integer>-15</integer>
 		<key>four</key>
 		<integer>45</integer>
-		<key>guillemotright</key>
-		<integer>15</integer>
 		<key>lslash</key>
 		<integer>45</integer>
-		<key>multiply</key>
-		<integer>30</integer>
 		<key>nine</key>
 		<integer>30</integer>
-		<key>numbersign</key>
-		<integer>15</integer>
-		<key>one</key>
-		<integer>-30</integer>
-		<key>ordfeminine</key>
-		<integer>15</integer>
 		<key>p</key>
 		<integer>-30</integer>
 		<key>paragraph</key>
 		<integer>30</integer>
-		<key>parenright</key>
-		<integer>-15</integer>
-		<key>percent</key>
-		<integer>-15</integer>
-		<key>period</key>
-		<integer>-15</integer>
-		<key>perthousand</key>
-		<integer>-15</integer>
-		<key>plus</key>
-		<integer>30</integer>
-		<key>plusminus</key>
-		<integer>15</integer>
-		<key>q</key>
-		<integer>15</integer>
-		<key>question</key>
-		<integer>-15</integer>
 		<key>seven</key>
 		<integer>-30</integer>
 		<key>six</key>
 		<integer>15</integer>
-		<key>trademark</key>
-		<integer>-45</integer>
 		<key>x</key>
 		<integer>-30</integer>
 	</dict>
@@ -7047,6 +6183,8 @@
 		<integer>-30</integer>
 		<key>@MMK_R_o</key>
 		<integer>15</integer>
+		<key>@MMK_R_percent</key>
+		<integer>-15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>-45</integer>
 		<key>@MMK_R_semicolon</key>
@@ -7057,6 +6195,8 @@
 		<integer>15</integer>
 		<key>@MMK_R_tau</key>
 		<integer>45</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>-45</integer>
 		<key>@MMK_R_u</key>
 		<integer>15</integer>
 		<key>@MMK_R_upsilon</key>
@@ -7089,42 +6229,14 @@
 		<integer>-15</integer>
 		<key>four</key>
 		<integer>45</integer>
-		<key>guillemotright</key>
-		<integer>15</integer>
 		<key>lslash</key>
 		<integer>45</integer>
-		<key>multiply</key>
-		<integer>30</integer>
 		<key>nine</key>
 		<integer>30</integer>
-		<key>numbersign</key>
-		<integer>15</integer>
-		<key>one</key>
-		<integer>-30</integer>
-		<key>ordfeminine</key>
-		<integer>15</integer>
-		<key>oslash</key>
-		<integer>15</integer>
 		<key>p</key>
 		<integer>-30</integer>
 		<key>paragraph</key>
 		<integer>30</integer>
-		<key>parenright</key>
-		<integer>-15</integer>
-		<key>percent</key>
-		<integer>-15</integer>
-		<key>period</key>
-		<integer>-15</integer>
-		<key>perthousand</key>
-		<integer>-15</integer>
-		<key>plus</key>
-		<integer>45</integer>
-		<key>plusminus</key>
-		<integer>15</integer>
-		<key>q</key>
-		<integer>15</integer>
-		<key>question</key>
-		<integer>-15</integer>
 		<key>rho</key>
 		<integer>-30</integer>
 		<key>seven</key>
@@ -7133,10 +6245,210 @@
 		<integer>15</integer>
 		<key>three</key>
 		<integer>15</integer>
-		<key>trademark</key>
-		<integer>-45</integer>
 		<key>x</key>
 		<integer>-30</integer>
+	</dict>
+	<key>@MMK_L_percent</key>
+	<dict>
+		<key>@MMK_R_C</key>
+		<integer>-15</integer>
+		<key>@MMK_R_G</key>
+		<integer>-15</integer>
+		<key>@MMK_R_I</key>
+		<integer>15</integer>
+		<key>@MMK_R_O</key>
+		<integer>-15</integer>
+		<key>@MMK_R_T</key>
+		<integer>45</integer>
+		<key>@MMK_R_U</key>
+		<integer>-15</integer>
+		<key>@MMK_R_V</key>
+		<integer>45</integer>
+		<key>@MMK_R_alpha</key>
+		<integer>-15</integer>
+		<key>@MMK_R_beta</key>
+		<integer>15</integer>
+		<key>@MMK_R_c</key>
+		<integer>-15</integer>
+		<key>@MMK_R_copyright</key>
+		<integer>-15</integer>
+		<key>@MMK_R_d</key>
+		<integer>-15</integer>
+		<key>@MMK_R_equal</key>
+		<integer>-15</integer>
+		<key>@MMK_R_g</key>
+		<integer>-15</integer>
+		<key>@MMK_R_j</key>
+		<integer>15</integer>
+		<key>@MMK_R_o</key>
+		<integer>-15</integer>
+		<key>@MMK_R_omega</key>
+		<integer>-15</integer>
+		<key>@MMK_R_quotedblleft</key>
+		<integer>15</integer>
+		<key>@MMK_R_semicolon</key>
+		<integer>-15</integer>
+		<key>@MMK_R_t</key>
+		<integer>-15</integer>
+		<key>@MMK_R_tau</key>
+		<integer>-15</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>45</integer>
+		<key>@MMK_R_u</key>
+		<integer>-15</integer>
+		<key>@MMK_R_upsilon</key>
+		<integer>-15</integer>
+		<key>@MMK_R_v</key>
+		<integer>-15</integer>
+		<key>@MMK_R_y</key>
+		<integer>-15</integer>
+		<key>Hbar</key>
+		<integer>-15</integer>
+		<key>OE</key>
+		<integer>-15</integer>
+		<key>Y_upper_alt</key>
+		<integer>60</integer>
+		<key>asciitilde</key>
+		<integer>-15</integer>
+		<key>asterisk</key>
+		<integer>-15</integer>
+		<key>backslash</key>
+		<integer>45</integer>
+		<key>commaturnedabove</key>
+		<integer>30</integer>
+		<key>dslash</key>
+		<integer>-15</integer>
+		<key>four</key>
+		<integer>-15</integer>
+		<key>lslash</key>
+		<integer>-15</integer>
+		<key>nine</key>
+		<integer>-30</integer>
+		<key>p</key>
+		<integer>15</integer>
+		<key>paragraph</key>
+		<integer>-30</integer>
+		<key>rho</key>
+		<integer>15</integer>
+		<key>six</key>
+		<integer>-15</integer>
+	</dict>
+	<key>@MMK_L_pi</key>
+	<dict>
+		<key>@MMK_R_A</key>
+		<integer>15</integer>
+		<key>@MMK_R_B</key>
+		<integer>15</integer>
+		<key>@MMK_R_D</key>
+		<integer>15</integer>
+		<key>@MMK_R_E</key>
+		<integer>15</integer>
+		<key>@MMK_R_F</key>
+		<integer>15</integer>
+		<key>@MMK_R_H</key>
+		<integer>15</integer>
+		<key>@MMK_R_J</key>
+		<integer>30</integer>
+		<key>@MMK_R_K</key>
+		<integer>15</integer>
+		<key>@MMK_R_L</key>
+		<integer>15</integer>
+		<key>@MMK_R_M</key>
+		<integer>15</integer>
+		<key>@MMK_R_N</key>
+		<integer>15</integer>
+		<key>@MMK_R_Omegagreek</key>
+		<integer>15</integer>
+		<key>@MMK_R_P</key>
+		<integer>15</integer>
+		<key>@MMK_R_V</key>
+		<integer>30</integer>
+		<key>@MMK_R_X</key>
+		<integer>15</integer>
+		<key>@MMK_R_Y</key>
+		<integer>30</integer>
+		<key>@MMK_R_Z</key>
+		<integer>15</integer>
+		<key>@MMK_R_b</key>
+		<integer>15</integer>
+		<key>@MMK_R_bar</key>
+		<integer>-15</integer>
+		<key>@MMK_R_beta</key>
+		<integer>-15</integer>
+		<key>@MMK_R_e</key>
+		<integer>15</integer>
+		<key>@MMK_R_eta</key>
+		<integer>15</integer>
+		<key>@MMK_R_exclam</key>
+		<integer>15</integer>
+		<key>@MMK_R_f</key>
+		<integer>15</integer>
+		<key>@MMK_R_h</key>
+		<integer>15</integer>
+		<key>@MMK_R_i</key>
+		<integer>15</integer>
+		<key>@MMK_R_j</key>
+		<integer>-15</integer>
+		<key>@MMK_R_k</key>
+		<integer>15</integer>
+		<key>@MMK_R_kappa</key>
+		<integer>15</integer>
+		<key>@MMK_R_l</key>
+		<integer>15</integer>
+		<key>@MMK_R_n</key>
+		<integer>15</integer>
+		<key>@MMK_R_quotedblleft</key>
+		<integer>15</integer>
+		<key>@MMK_R_r</key>
+		<integer>15</integer>
+		<key>@MMK_R_s</key>
+		<integer>15</integer>
+		<key>@MMK_R_t</key>
+		<integer>15</integer>
+		<key>@MMK_R_tau</key>
+		<integer>30</integer>
+		<key>@MMK_R_v</key>
+		<integer>45</integer>
+		<key>@MMK_R_z</key>
+		<integer>15</integer>
+		<key>Hbar</key>
+		<integer>15</integer>
+		<key>Tbar</key>
+		<integer>30</integer>
+		<key>asciitilde</key>
+		<integer>30</integer>
+		<key>asterisk</key>
+		<integer>30</integer>
+		<key>commaturnedabove</key>
+		<integer>15</integer>
+		<key>degree</key>
+		<integer>30</integer>
+		<key>ellipsis</key>
+		<integer>15</integer>
+		<key>five</key>
+		<integer>30</integer>
+		<key>fl</key>
+		<integer>15</integer>
+		<key>four</key>
+		<integer>30</integer>
+		<key>lslash</key>
+		<integer>30</integer>
+		<key>nine</key>
+		<integer>45</integer>
+		<key>p</key>
+		<integer>-15</integer>
+		<key>paragraph</key>
+		<integer>15</integer>
+		<key>rho</key>
+		<integer>-15</integer>
+		<key>seven</key>
+		<integer>15</integer>
+		<key>three</key>
+		<integer>15</integer>
+		<key>two</key>
+		<integer>15</integer>
+		<key>x</key>
+		<integer>15</integer>
 	</dict>
 	<key>@MMK_L_quotedblleft</key>
 	<dict>
@@ -7182,6 +6494,8 @@
 		<integer>15</integer>
 		<key>@MMK_R_t</key>
 		<integer>-15</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>45</integer>
 		<key>@MMK_R_u</key>
 		<integer>-15</integer>
 		<key>@MMK_R_upsilon</key>
@@ -7218,38 +6532,14 @@
 		<integer>15</integer>
 		<key>four</key>
 		<integer>-15</integer>
-		<key>guillemotright</key>
-		<integer>15</integer>
 		<key>lslash</key>
-		<integer>-15</integer>
-		<key>multiply</key>
 		<integer>-15</integer>
 		<key>nine</key>
 		<integer>15</integer>
-		<key>numbersign</key>
-		<integer>-15</integer>
-		<key>one</key>
-		<integer>45</integer>
-		<key>ordfeminine</key>
-		<integer>15</integer>
 		<key>paragraph</key>
 		<integer>-15</integer>
-		<key>parenleft</key>
-		<integer>-15</integer>
-		<key>period</key>
-		<integer>15</integer>
-		<key>plus</key>
-		<integer>-15</integer>
-		<key>plusminus</key>
-		<integer>-15</integer>
-		<key>q</key>
-		<integer>-15</integer>
-		<key>question</key>
-		<integer>45</integer>
 		<key>six</key>
 		<integer>-15</integer>
-		<key>trademark</key>
-		<integer>45</integer>
 	</dict>
 	<key>@MMK_L_r</key>
 	<dict>
@@ -7309,6 +6599,8 @@
 		<integer>-15</integer>
 		<key>@MMK_R_tau</key>
 		<integer>45</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>15</integer>
 		<key>@MMK_R_v</key>
 		<integer>60</integer>
 		<key>@MMK_R_z</key>
@@ -7333,34 +6625,14 @@
 		<integer>-15</integer>
 		<key>four</key>
 		<integer>-15</integer>
-		<key>hbar</key>
-		<integer>15</integer>
 		<key>lslash</key>
 		<integer>30</integer>
-		<key>multiply</key>
-		<integer>15</integer>
 		<key>nine</key>
 		<integer>45</integer>
-		<key>numbersign</key>
-		<integer>15</integer>
-		<key>one</key>
-		<integer>30</integer>
-		<key>ordfeminine</key>
-		<integer>45</integer>
-		<key>oslash</key>
-		<integer>-15</integer>
 		<key>p</key>
 		<integer>-15</integer>
 		<key>paragraph</key>
 		<integer>30</integer>
-		<key>parenleft</key>
-		<integer>-15</integer>
-		<key>plus</key>
-		<integer>30</integer>
-		<key>q</key>
-		<integer>-15</integer>
-		<key>question</key>
-		<integer>45</integer>
 		<key>rho</key>
 		<integer>-15</integer>
 		<key>seven</key>
@@ -7369,8 +6641,6 @@
 		<integer>15</integer>
 		<key>three</key>
 		<integer>-15</integer>
-		<key>trademark</key>
-		<integer>15</integer>
 		<key>two</key>
 		<integer>-15</integer>
 	</dict>
@@ -7464,6 +6734,10 @@
 		<integer>30</integer>
 		<key>@MMK_R_omega</key>
 		<integer>30</integer>
+		<key>@MMK_R_percent</key>
+		<integer>-15</integer>
+		<key>@MMK_R_pi</key>
+		<integer>30</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>-15</integer>
 		<key>@MMK_R_r</key>
@@ -7476,6 +6750,8 @@
 		<integer>30</integer>
 		<key>@MMK_R_tau</key>
 		<integer>30</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>-15</integer>
 		<key>@MMK_R_u</key>
 		<integer>30</integer>
 		<key>@MMK_R_upsilon</key>
@@ -7508,45 +6784,13 @@
 		<integer>45</integer>
 		<key>ellipsis</key>
 		<integer>15</integer>
-		<key>eng</key>
-		<integer>30</integer>
 		<key>five</key>
 		<integer>15</integer>
 		<key>fl</key>
 		<integer>30</integer>
-		<key>guillemotright</key>
-		<integer>45</integer>
-		<key>hbar</key>
-		<integer>15</integer>
-		<key>multiply</key>
-		<integer>30</integer>
 		<key>nine</key>
 		<integer>30</integer>
-		<key>numbersign</key>
-		<integer>30</integer>
-		<key>ordfeminine</key>
-		<integer>30</integer>
-		<key>oslash</key>
-		<integer>30</integer>
 		<key>paragraph</key>
-		<integer>15</integer>
-		<key>parenleft</key>
-		<integer>30</integer>
-		<key>parenright</key>
-		<integer>-15</integer>
-		<key>percent</key>
-		<integer>-15</integer>
-		<key>period</key>
-		<integer>15</integer>
-		<key>perthousand</key>
-		<integer>-15</integer>
-		<key>pi</key>
-		<integer>30</integer>
-		<key>plusminus</key>
-		<integer>45</integer>
-		<key>q</key>
-		<integer>30</integer>
-		<key>question</key>
 		<integer>15</integer>
 		<key>seven</key>
 		<integer>-15</integer>
@@ -7554,8 +6798,6 @@
 		<integer>45</integer>
 		<key>three</key>
 		<integer>30</integer>
-		<key>trademark</key>
-		<integer>-15</integer>
 		<key>two</key>
 		<integer>30</integer>
 		<key>x</key>
@@ -7603,12 +6845,16 @@
 		<integer>15</integer>
 		<key>@MMK_R_omega</key>
 		<integer>15</integer>
+		<key>@MMK_R_percent</key>
+		<integer>-15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>-15</integer>
 		<key>@MMK_R_slash</key>
 		<integer>-15</integer>
 		<key>@MMK_R_tau</key>
 		<integer>45</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>-15</integer>
 		<key>@MMK_R_u</key>
 		<integer>15</integer>
 		<key>@MMK_R_upsilon</key>
@@ -7643,46 +6889,16 @@
 		<integer>-15</integer>
 		<key>four</key>
 		<integer>30</integer>
-		<key>guillemotright</key>
-		<integer>15</integer>
-		<key>hbar</key>
-		<integer>-15</integer>
 		<key>lslash</key>
 		<integer>45</integer>
-		<key>multiply</key>
-		<integer>15</integer>
 		<key>nine</key>
-		<integer>30</integer>
-		<key>numbersign</key>
-		<integer>15</integer>
-		<key>one</key>
-		<integer>-30</integer>
-		<key>ordfeminine</key>
 		<integer>30</integer>
 		<key>paragraph</key>
 		<integer>30</integer>
-		<key>parenright</key>
-		<integer>-15</integer>
-		<key>percent</key>
-		<integer>-15</integer>
-		<key>period</key>
-		<integer>-15</integer>
-		<key>perthousand</key>
-		<integer>-15</integer>
-		<key>plus</key>
-		<integer>45</integer>
-		<key>plusminus</key>
-		<integer>15</integer>
-		<key>q</key>
-		<integer>15</integer>
-		<key>question</key>
-		<integer>-30</integer>
 		<key>six</key>
 		<integer>15</integer>
 		<key>three</key>
 		<integer>15</integer>
-		<key>trademark</key>
-		<integer>-15</integer>
 	</dict>
 	<key>@MMK_L_slash</key>
 	<dict>
@@ -7750,26 +6966,12 @@
 		<integer>-15</integer>
 		<key>lslash</key>
 		<integer>-15</integer>
-		<key>multiply</key>
-		<integer>-15</integer>
 		<key>nine</key>
-		<integer>-30</integer>
-		<key>one</key>
-		<integer>-15</integer>
-		<key>ordfeminine</key>
 		<integer>-30</integer>
 		<key>p</key>
 		<integer>15</integer>
 		<key>paragraph</key>
 		<integer>-30</integer>
-		<key>parenleft</key>
-		<integer>-15</integer>
-		<key>plus</key>
-		<integer>-15</integer>
-		<key>q</key>
-		<integer>-15</integer>
-		<key>question</key>
-		<integer>-15</integer>
 		<key>rho</key>
 		<integer>15</integer>
 		<key>seven</key>
@@ -7835,6 +7037,8 @@
 		<integer>-15</integer>
 		<key>@MMK_R_tau</key>
 		<integer>45</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>15</integer>
 		<key>@MMK_R_v</key>
 		<integer>60</integer>
 		<key>@MMK_R_z</key>
@@ -7859,34 +7063,14 @@
 		<integer>-15</integer>
 		<key>four</key>
 		<integer>-15</integer>
-		<key>hbar</key>
-		<integer>15</integer>
 		<key>lslash</key>
-		<integer>15</integer>
-		<key>multiply</key>
 		<integer>15</integer>
 		<key>nine</key>
 		<integer>45</integer>
-		<key>numbersign</key>
-		<integer>15</integer>
-		<key>one</key>
-		<integer>30</integer>
-		<key>ordfeminine</key>
-		<integer>45</integer>
-		<key>oslash</key>
-		<integer>-15</integer>
 		<key>p</key>
 		<integer>-15</integer>
 		<key>paragraph</key>
 		<integer>30</integer>
-		<key>parenleft</key>
-		<integer>-15</integer>
-		<key>plus</key>
-		<integer>15</integer>
-		<key>q</key>
-		<integer>-15</integer>
-		<key>question</key>
-		<integer>45</integer>
 		<key>rho</key>
 		<integer>-15</integer>
 		<key>seven</key>
@@ -7895,8 +7079,6 @@
 		<integer>15</integer>
 		<key>three</key>
 		<integer>-15</integer>
-		<key>trademark</key>
-		<integer>15</integer>
 		<key>two</key>
 		<integer>-15</integer>
 	</dict>
@@ -7972,12 +7154,16 @@
 		<integer>-15</integer>
 		<key>@MMK_R_n</key>
 		<integer>-15</integer>
+		<key>@MMK_R_pi</key>
+		<integer>-15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>30</integer>
 		<key>@MMK_R_r</key>
 		<integer>-15</integer>
 		<key>@MMK_R_s</key>
 		<integer>-15</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>15</integer>
 		<key>@MMK_R_v</key>
 		<integer>60</integer>
 		<key>@MMK_R_z</key>
@@ -7996,40 +7182,20 @@
 		<integer>45</integer>
 		<key>eight</key>
 		<integer>-30</integer>
-		<key>eng</key>
-		<integer>-15</integer>
 		<key>five</key>
 		<integer>-15</integer>
 		<key>fl</key>
 		<integer>-15</integer>
 		<key>four</key>
 		<integer>15</integer>
-		<key>guillemotright</key>
-		<integer>15</integer>
-		<key>hbar</key>
-		<integer>15</integer>
 		<key>lslash</key>
 		<integer>45</integer>
-		<key>multiply</key>
-		<integer>15</integer>
 		<key>nine</key>
-		<integer>45</integer>
-		<key>one</key>
-		<integer>30</integer>
-		<key>ordfeminine</key>
 		<integer>45</integer>
 		<key>p</key>
 		<integer>-15</integer>
 		<key>paragraph</key>
 		<integer>30</integer>
-		<key>parenleft</key>
-		<integer>-15</integer>
-		<key>pi</key>
-		<integer>-15</integer>
-		<key>plus</key>
-		<integer>30</integer>
-		<key>question</key>
-		<integer>45</integer>
 		<key>rho</key>
 		<integer>-15</integer>
 		<key>seven</key>
@@ -8038,9 +7204,96 @@
 		<integer>15</integer>
 		<key>three</key>
 		<integer>-30</integer>
-		<key>trademark</key>
-		<integer>15</integer>
 		<key>two</key>
+		<integer>-15</integer>
+	</dict>
+	<key>@MMK_L_trademark</key>
+	<dict>
+		<key>@MMK_R_C</key>
+		<integer>-15</integer>
+		<key>@MMK_R_G</key>
+		<integer>-15</integer>
+		<key>@MMK_R_I</key>
+		<integer>15</integer>
+		<key>@MMK_R_O</key>
+		<integer>-15</integer>
+		<key>@MMK_R_T</key>
+		<integer>45</integer>
+		<key>@MMK_R_U</key>
+		<integer>-15</integer>
+		<key>@MMK_R_V</key>
+		<integer>45</integer>
+		<key>@MMK_R_alpha</key>
+		<integer>-15</integer>
+		<key>@MMK_R_beta</key>
+		<integer>15</integer>
+		<key>@MMK_R_c</key>
+		<integer>-15</integer>
+		<key>@MMK_R_copyright</key>
+		<integer>-30</integer>
+		<key>@MMK_R_d</key>
+		<integer>-15</integer>
+		<key>@MMK_R_epsilon</key>
+		<integer>-15</integer>
+		<key>@MMK_R_equal</key>
+		<integer>-15</integer>
+		<key>@MMK_R_g</key>
+		<integer>-15</integer>
+		<key>@MMK_R_j</key>
+		<integer>15</integer>
+		<key>@MMK_R_o</key>
+		<integer>-15</integer>
+		<key>@MMK_R_omega</key>
+		<integer>-15</integer>
+		<key>@MMK_R_quotedblleft</key>
+		<integer>30</integer>
+		<key>@MMK_R_semicolon</key>
+		<integer>15</integer>
+		<key>@MMK_R_t</key>
+		<integer>-15</integer>
+		<key>@MMK_R_u</key>
+		<integer>-15</integer>
+		<key>@MMK_R_upsilon</key>
+		<integer>-15</integer>
+		<key>@MMK_R_v</key>
+		<integer>15</integer>
+		<key>@MMK_R_y</key>
+		<integer>-15</integer>
+		<key>OE</key>
+		<integer>-15</integer>
+		<key>Y_upper_alt</key>
+		<integer>60</integer>
+		<key>asciitilde</key>
+		<integer>15</integer>
+		<key>asterisk</key>
+		<integer>30</integer>
+		<key>backslash</key>
+		<integer>45</integer>
+		<key>commaturnedabove</key>
+		<integer>30</integer>
+		<key>currency</key>
+		<integer>-15</integer>
+		<key>degree</key>
+		<integer>15</integer>
+		<key>dslash</key>
+		<integer>-15</integer>
+		<key>eight</key>
+		<integer>-15</integer>
+		<key>ellipsis</key>
+		<integer>15</integer>
+		<key>four</key>
+		<integer>-15</integer>
+		<key>lslash</key>
+		<integer>-15</integer>
+		<key>nine</key>
+		<integer>15</integer>
+		<key>p</key>
+		<integer>15</integer>
+		<key>paragraph</key>
+		<integer>-15</integer>
+		<key>rho</key>
+		<integer>15</integer>
+		<key>six</key>
 		<integer>-15</integer>
 	</dict>
 	<key>@MMK_L_u</key>
@@ -8103,12 +7356,16 @@
 		<integer>-15</integer>
 		<key>@MMK_R_n</key>
 		<integer>-15</integer>
+		<key>@MMK_R_pi</key>
+		<integer>-15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>30</integer>
 		<key>@MMK_R_r</key>
 		<integer>-15</integer>
 		<key>@MMK_R_tau</key>
 		<integer>45</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>15</integer>
 		<key>@MMK_R_v</key>
 		<integer>60</integer>
 		<key>@MMK_R_z</key>
@@ -8129,43 +7386,21 @@
 		<integer>15</integer>
 		<key>ellipsis</key>
 		<integer>-15</integer>
-		<key>eng</key>
-		<integer>-15</integer>
 		<key>fl</key>
 		<integer>-15</integer>
 		<key>four</key>
 		<integer>30</integer>
-		<key>hbar</key>
-		<integer>15</integer>
 		<key>lslash</key>
 		<integer>45</integer>
-		<key>multiply</key>
-		<integer>15</integer>
 		<key>nine</key>
-		<integer>45</integer>
-		<key>one</key>
-		<integer>30</integer>
-		<key>ordfeminine</key>
 		<integer>45</integer>
 		<key>p</key>
 		<integer>-15</integer>
 		<key>paragraph</key>
 		<integer>30</integer>
-		<key>parenleft</key>
-		<integer>-15</integer>
-		<key>period</key>
-		<integer>-15</integer>
-		<key>pi</key>
-		<integer>-15</integer>
-		<key>plus</key>
-		<integer>30</integer>
-		<key>question</key>
-		<integer>45</integer>
 		<key>rho</key>
 		<integer>-15</integer>
 		<key>six</key>
-		<integer>15</integer>
-		<key>trademark</key>
 		<integer>15</integer>
 		<key>two</key>
 		<integer>-15</integer>
@@ -8238,6 +7473,8 @@
 		<integer>-15</integer>
 		<key>@MMK_R_n</key>
 		<integer>-15</integer>
+		<key>@MMK_R_pi</key>
+		<integer>-15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>30</integer>
 		<key>@MMK_R_r</key>
@@ -8246,6 +7483,8 @@
 		<integer>-15</integer>
 		<key>@MMK_R_tau</key>
 		<integer>45</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>15</integer>
 		<key>@MMK_R_v</key>
 		<integer>60</integer>
 		<key>@MMK_R_z</key>
@@ -8264,47 +7503,25 @@
 		<integer>45</integer>
 		<key>eight</key>
 		<integer>15</integer>
-		<key>eng</key>
-		<integer>-15</integer>
 		<key>five</key>
 		<integer>-15</integer>
 		<key>fl</key>
 		<integer>-15</integer>
 		<key>four</key>
 		<integer>30</integer>
-		<key>guillemotright</key>
-		<integer>15</integer>
-		<key>hbar</key>
-		<integer>15</integer>
 		<key>lslash</key>
 		<integer>45</integer>
-		<key>multiply</key>
-		<integer>15</integer>
 		<key>nine</key>
-		<integer>45</integer>
-		<key>one</key>
-		<integer>30</integer>
-		<key>ordfeminine</key>
 		<integer>45</integer>
 		<key>p</key>
 		<integer>-15</integer>
 		<key>paragraph</key>
 		<integer>30</integer>
-		<key>parenleft</key>
-		<integer>-15</integer>
-		<key>pi</key>
-		<integer>-15</integer>
-		<key>plus</key>
-		<integer>30</integer>
-		<key>question</key>
-		<integer>45</integer>
 		<key>rho</key>
 		<integer>-15</integer>
 		<key>seven</key>
 		<integer>-15</integer>
 		<key>six</key>
-		<integer>15</integer>
-		<key>trademark</key>
 		<integer>15</integer>
 		<key>two</key>
 		<integer>-15</integer>
@@ -8369,6 +7586,8 @@
 		<integer>-15</integer>
 		<key>@MMK_R_tau</key>
 		<integer>45</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>15</integer>
 		<key>@MMK_R_upsilon</key>
 		<integer>15</integer>
 		<key>@MMK_R_z</key>
@@ -8395,32 +7614,14 @@
 		<integer>-15</integer>
 		<key>four</key>
 		<integer>-15</integer>
-		<key>hbar</key>
-		<integer>15</integer>
 		<key>lslash</key>
-		<integer>15</integer>
-		<key>multiply</key>
 		<integer>15</integer>
 		<key>nine</key>
 		<integer>45</integer>
-		<key>numbersign</key>
-		<integer>15</integer>
-		<key>one</key>
-		<integer>30</integer>
-		<key>ordfeminine</key>
-		<integer>45</integer>
-		<key>oslash</key>
-		<integer>-15</integer>
 		<key>p</key>
 		<integer>-15</integer>
 		<key>paragraph</key>
 		<integer>30</integer>
-		<key>plus</key>
-		<integer>15</integer>
-		<key>q</key>
-		<integer>-30</integer>
-		<key>question</key>
-		<integer>45</integer>
 		<key>rho</key>
 		<integer>-15</integer>
 		<key>seven</key>
@@ -8429,8 +7630,6 @@
 		<integer>15</integer>
 		<key>three</key>
 		<integer>-15</integer>
-		<key>trademark</key>
-		<integer>15</integer>
 		<key>two</key>
 		<integer>-15</integer>
 	</dict>
@@ -8510,31 +7709,13 @@
 		<integer>-15</integer>
 		<key>five</key>
 		<integer>-15</integer>
-		<key>guillemotright</key>
-		<integer>15</integer>
 		<key>lslash</key>
 		<integer>30</integer>
-		<key>multiply</key>
-		<integer>30</integer>
 		<key>nine</key>
-		<integer>45</integer>
-		<key>numbersign</key>
-		<integer>15</integer>
-		<key>one</key>
-		<integer>15</integer>
-		<key>ordfeminine</key>
 		<integer>45</integer>
 		<key>p</key>
 		<integer>-15</integer>
 		<key>paragraph</key>
-		<integer>30</integer>
-		<key>period</key>
-		<integer>-15</integer>
-		<key>plus</key>
-		<integer>45</integer>
-		<key>plusminus</key>
-		<integer>15</integer>
-		<key>question</key>
 		<integer>30</integer>
 		<key>rho</key>
 		<integer>-15</integer>
@@ -8577,6 +7758,8 @@
 		<integer>15</integer>
 		<key>@MMK_R_tau</key>
 		<integer>45</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>15</integer>
 		<key>@MMK_R_v</key>
 		<integer>45</integer>
 		<key>Hbar</key>
@@ -8591,35 +7774,19 @@
 		<integer>15</integer>
 		<key>degree</key>
 		<integer>45</integer>
-		<key>hbar</key>
-		<integer>15</integer>
 		<key>lslash</key>
 		<integer>30</integer>
-		<key>multiply</key>
-		<integer>15</integer>
 		<key>nine</key>
 		<integer>45</integer>
-		<key>one</key>
-		<integer>30</integer>
-		<key>ordfeminine</key>
-		<integer>45</integer>
-		<key>oslash</key>
-		<integer>-15</integer>
 		<key>p</key>
 		<integer>-15</integer>
 		<key>paragraph</key>
 		<integer>30</integer>
-		<key>plus</key>
-		<integer>30</integer>
-		<key>question</key>
-		<integer>45</integer>
 		<key>rho</key>
 		<integer>-15</integer>
 		<key>six</key>
 		<integer>15</integer>
 		<key>three</key>
-		<integer>15</integer>
-		<key>trademark</key>
 		<integer>15</integer>
 	</dict>
 	<key>Hbar</key>
@@ -8708,6 +7875,8 @@
 		<integer>-30</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-30</integer>
+		<key>@MMK_R_pi</key>
+		<integer>-15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>60</integer>
 		<key>@MMK_R_r</key>
@@ -8718,6 +7887,8 @@
 		<integer>-15</integer>
 		<key>@MMK_R_tau</key>
 		<integer>30</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>45</integer>
 		<key>@MMK_R_u</key>
 		<integer>-15</integer>
 		<key>@MMK_R_upsilon</key>
@@ -8746,40 +7917,20 @@
 		<integer>-30</integer>
 		<key>eight</key>
 		<integer>-30</integer>
-		<key>eng</key>
-		<integer>-15</integer>
 		<key>five</key>
 		<integer>-15</integer>
 		<key>four</key>
 		<integer>-30</integer>
-		<key>hbar</key>
-		<integer>15</integer>
 		<key>lslash</key>
 		<integer>-15</integer>
 		<key>nine</key>
 		<integer>30</integer>
-		<key>one</key>
-		<integer>60</integer>
-		<key>ordfeminine</key>
-		<integer>30</integer>
-		<key>oslash</key>
-		<integer>-15</integer>
 		<key>p</key>
 		<integer>-15</integer>
-		<key>paragraph</key>
-		<integer>15</integer>
-		<key>pi</key>
-		<integer>-15</integer>
-		<key>q</key>
-		<integer>-30</integer>
-		<key>question</key>
-		<integer>45</integer>
 		<key>seven</key>
 		<integer>-15</integer>
 		<key>three</key>
 		<integer>-15</integer>
-		<key>trademark</key>
-		<integer>45</integer>
 		<key>two</key>
 		<integer>-15</integer>
 		<key>x</key>
@@ -8873,6 +8024,8 @@
 		<integer>-15</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-30</integer>
+		<key>@MMK_R_pi</key>
+		<integer>-15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>45</integer>
 		<key>@MMK_R_r</key>
@@ -8885,6 +8038,8 @@
 		<integer>-30</integer>
 		<key>@MMK_R_tau</key>
 		<integer>15</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>60</integer>
 		<key>@MMK_R_u</key>
 		<integer>-30</integer>
 		<key>@MMK_R_upsilon</key>
@@ -8907,36 +8062,20 @@
 		<integer>-30</integer>
 		<key>eight</key>
 		<integer>-30</integer>
-		<key>eng</key>
-		<integer>-15</integer>
 		<key>five</key>
 		<integer>-15</integer>
 		<key>lslash</key>
 		<integer>15</integer>
 		<key>nine</key>
 		<integer>15</integer>
-		<key>one</key>
-		<integer>45</integer>
-		<key>ordfeminine</key>
-		<integer>15</integer>
-		<key>oslash</key>
-		<integer>-15</integer>
 		<key>p</key>
 		<integer>-15</integer>
-		<key>pi</key>
-		<integer>-15</integer>
-		<key>q</key>
-		<integer>-30</integer>
-		<key>question</key>
-		<integer>30</integer>
 		<key>seven</key>
 		<integer>-15</integer>
 		<key>six</key>
 		<integer>-15</integer>
 		<key>three</key>
 		<integer>-15</integer>
-		<key>trademark</key>
-		<integer>60</integer>
 		<key>two</key>
 		<integer>-15</integer>
 		<key>x</key>
@@ -9028,6 +8167,8 @@
 		<integer>-30</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-30</integer>
+		<key>@MMK_R_pi</key>
+		<integer>-15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>30</integer>
 		<key>@MMK_R_r</key>
@@ -9040,6 +8181,8 @@
 		<integer>-30</integer>
 		<key>@MMK_R_tau</key>
 		<integer>-30</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>60</integer>
 		<key>@MMK_R_u</key>
 		<integer>-30</integer>
 		<key>@MMK_R_upsilon</key>
@@ -9062,8 +8205,6 @@
 		<integer>-30</integer>
 		<key>eight</key>
 		<integer>-30</integer>
-		<key>eng</key>
-		<integer>-15</integer>
 		<key>five</key>
 		<integer>-15</integer>
 		<key>four</key>
@@ -9072,28 +8213,12 @@
 		<integer>-30</integer>
 		<key>nine</key>
 		<integer>-30</integer>
-		<key>one</key>
-		<integer>30</integer>
-		<key>ordfeminine</key>
-		<integer>-30</integer>
-		<key>oslash</key>
-		<integer>-15</integer>
-		<key>paragraph</key>
-		<integer>-30</integer>
-		<key>parenright</key>
-		<integer>15</integer>
-		<key>pi</key>
-		<integer>-15</integer>
-		<key>q</key>
-		<integer>-30</integer>
 		<key>seven</key>
 		<integer>-15</integer>
 		<key>six</key>
 		<integer>-30</integer>
 		<key>three</key>
 		<integer>-15</integer>
-		<key>trademark</key>
-		<integer>60</integer>
 		<key>two</key>
 		<integer>-15</integer>
 		<key>x</key>
@@ -9181,6 +8306,10 @@
 		<integer>30</integer>
 		<key>@MMK_R_omega</key>
 		<integer>30</integer>
+		<key>@MMK_R_percent</key>
+		<integer>-15</integer>
+		<key>@MMK_R_pi</key>
+		<integer>15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>-15</integer>
 		<key>@MMK_R_r</key>
@@ -9195,6 +8324,8 @@
 		<integer>15</integer>
 		<key>@MMK_R_tau</key>
 		<integer>15</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>-15</integer>
 		<key>@MMK_R_u</key>
 		<integer>15</integer>
 		<key>@MMK_R_upsilon</key>
@@ -9225,48 +8356,12 @@
 		<integer>30</integer>
 		<key>eight</key>
 		<integer>30</integer>
-		<key>eng</key>
-		<integer>15</integer>
 		<key>four</key>
 		<integer>60</integer>
-		<key>guillemotright</key>
-		<integer>-15</integer>
 		<key>lslash</key>
 		<integer>45</integer>
-		<key>multiply</key>
-		<integer>15</integer>
-		<key>numbersign</key>
-		<integer>30</integer>
-		<key>one</key>
-		<integer>-15</integer>
-		<key>ordfeminine</key>
-		<integer>-15</integer>
-		<key>oslash</key>
-		<integer>15</integer>
-		<key>paragraph</key>
-		<integer>30</integer>
-		<key>parenleft</key>
-		<integer>15</integer>
-		<key>parenright</key>
-		<integer>-15</integer>
-		<key>percent</key>
-		<integer>-15</integer>
-		<key>perthousand</key>
-		<integer>-15</integer>
-		<key>pi</key>
-		<integer>15</integer>
-		<key>plus</key>
-		<integer>45</integer>
-		<key>plusminus</key>
-		<integer>30</integer>
-		<key>q</key>
-		<integer>30</integer>
-		<key>question</key>
-		<integer>-30</integer>
 		<key>six</key>
 		<integer>30</integer>
-		<key>trademark</key>
-		<integer>-15</integer>
 		<key>two</key>
 		<integer>-15</integer>
 		<key>x</key>
@@ -9312,6 +8407,8 @@
 		<integer>-15</integer>
 		<key>@MMK_R_tau</key>
 		<integer>30</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>30</integer>
 		<key>@MMK_R_u</key>
 		<integer>-15</integer>
 		<key>@MMK_R_upsilon</key>
@@ -9344,35 +8441,9 @@
 		<integer>15</integer>
 		<key>four</key>
 		<integer>-15</integer>
-		<key>guillemotright</key>
-		<integer>-15</integer>
-		<key>hbar</key>
-		<integer>15</integer>
 		<key>lslash</key>
 		<integer>-15</integer>
-		<key>multiply</key>
-		<integer>-15</integer>
 		<key>nine</key>
-		<integer>30</integer>
-		<key>numbersign</key>
-		<integer>-15</integer>
-		<key>one</key>
-		<integer>45</integer>
-		<key>ordfeminine</key>
-		<integer>30</integer>
-		<key>paragraph</key>
-		<integer>15</integer>
-		<key>parenleft</key>
-		<integer>-15</integer>
-		<key>period</key>
-		<integer>15</integer>
-		<key>plusminus</key>
-		<integer>-15</integer>
-		<key>q</key>
-		<integer>-15</integer>
-		<key>question</key>
-		<integer>45</integer>
-		<key>trademark</key>
 		<integer>30</integer>
 	</dict>
 	<key>backslash</key>
@@ -9467,6 +8538,10 @@
 		<integer>15</integer>
 		<key>@MMK_R_omega</key>
 		<integer>15</integer>
+		<key>@MMK_R_percent</key>
+		<integer>30</integer>
+		<key>@MMK_R_pi</key>
+		<integer>45</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>-45</integer>
 		<key>@MMK_R_r</key>
@@ -9481,6 +8556,8 @@
 		<integer>15</integer>
 		<key>@MMK_R_tau</key>
 		<integer>-30</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>-45</integer>
 		<key>@MMK_R_u</key>
 		<integer>15</integer>
 		<key>@MMK_R_v</key>
@@ -9511,56 +8588,20 @@
 		<integer>15</integer>
 		<key>ellipsis</key>
 		<integer>30</integer>
-		<key>eng</key>
-		<integer>45</integer>
 		<key>five</key>
 		<integer>30</integer>
 		<key>four</key>
 		<integer>-30</integer>
-		<key>hbar</key>
-		<integer>30</integer>
 		<key>lslash</key>
-		<integer>-15</integer>
-		<key>multiply</key>
 		<integer>-15</integer>
 		<key>nine</key>
 		<integer>-45</integer>
-		<key>numbersign</key>
-		<integer>30</integer>
-		<key>one</key>
-		<integer>15</integer>
-		<key>ordfeminine</key>
-		<integer>-45</integer>
-		<key>oslash</key>
-		<integer>45</integer>
 		<key>p</key>
 		<integer>60</integer>
-		<key>paragraph</key>
-		<integer>-45</integer>
-		<key>parenleft</key>
-		<integer>30</integer>
-		<key>parenright</key>
-		<integer>45</integer>
-		<key>percent</key>
-		<integer>30</integer>
-		<key>period</key>
-		<integer>30</integer>
-		<key>perthousand</key>
-		<integer>30</integer>
-		<key>pi</key>
-		<integer>45</integer>
-		<key>plus</key>
-		<integer>-30</integer>
-		<key>q</key>
-		<integer>15</integer>
-		<key>question</key>
-		<integer>-15</integer>
 		<key>seven</key>
 		<integer>45</integer>
 		<key>three</key>
 		<integer>30</integer>
-		<key>trademark</key>
-		<integer>-45</integer>
 		<key>two</key>
 		<integer>45</integer>
 		<key>x</key>
@@ -9660,6 +8701,8 @@
 		<integer>-30</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-30</integer>
+		<key>@MMK_R_pi</key>
+		<integer>-15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>60</integer>
 		<key>@MMK_R_r</key>
@@ -9670,6 +8713,8 @@
 		<integer>15</integer>
 		<key>@MMK_R_t</key>
 		<integer>-15</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>60</integer>
 		<key>@MMK_R_u</key>
 		<integer>-30</integer>
 		<key>@MMK_R_upsilon</key>
@@ -9702,48 +8747,22 @@
 		<integer>-30</integer>
 		<key>ellipsis</key>
 		<integer>30</integer>
-		<key>eng</key>
-		<integer>-15</integer>
 		<key>five</key>
 		<integer>-15</integer>
 		<key>four</key>
 		<integer>-30</integer>
-		<key>guillemotright</key>
-		<integer>15</integer>
-		<key>hbar</key>
-		<integer>15</integer>
 		<key>lslash</key>
 		<integer>-30</integer>
 		<key>nine</key>
 		<integer>15</integer>
-		<key>one</key>
-		<integer>60</integer>
-		<key>ordfeminine</key>
-		<integer>15</integer>
-		<key>oslash</key>
-		<integer>-15</integer>
 		<key>p</key>
 		<integer>-15</integer>
-		<key>paragraph</key>
-		<integer>-15</integer>
-		<key>period</key>
-		<integer>30</integer>
-		<key>pi</key>
-		<integer>-15</integer>
-		<key>plus</key>
-		<integer>-15</integer>
-		<key>q</key>
-		<integer>-30</integer>
-		<key>question</key>
-		<integer>45</integer>
 		<key>seven</key>
 		<integer>-15</integer>
 		<key>six</key>
 		<integer>-30</integer>
 		<key>three</key>
 		<integer>-15</integer>
-		<key>trademark</key>
-		<integer>60</integer>
 		<key>two</key>
 		<integer>-15</integer>
 		<key>x</key>
@@ -9783,6 +8802,8 @@
 		<integer>15</integer>
 		<key>@MMK_R_tau</key>
 		<integer>45</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>-15</integer>
 		<key>@MMK_R_upsilon</key>
 		<integer>15</integer>
 		<key>@MMK_R_v</key>
@@ -9807,36 +8828,14 @@
 		<integer>15</integer>
 		<key>ellipsis</key>
 		<integer>-15</integer>
-		<key>guillemotright</key>
-		<integer>15</integer>
-		<key>hbar</key>
-		<integer>-15</integer>
 		<key>lslash</key>
-		<integer>30</integer>
-		<key>multiply</key>
 		<integer>30</integer>
 		<key>nine</key>
 		<integer>45</integer>
-		<key>numbersign</key>
-		<integer>15</integer>
-		<key>one</key>
-		<integer>-15</integer>
-		<key>ordfeminine</key>
-		<integer>45</integer>
-		<key>paragraph</key>
-		<integer>30</integer>
-		<key>period</key>
-		<integer>-15</integer>
-		<key>plus</key>
-		<integer>45</integer>
-		<key>plusminus</key>
-		<integer>15</integer>
 		<key>six</key>
 		<integer>15</integer>
 		<key>three</key>
 		<integer>15</integer>
-		<key>trademark</key>
-		<integer>-15</integer>
 	</dict>
 	<key>degree</key>
 	<dict>
@@ -9882,6 +8881,8 @@
 		<integer>-15</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-15</integer>
+		<key>@MMK_R_percent</key>
+		<integer>-15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>45</integer>
 		<key>@MMK_R_semicolon</key>
@@ -9890,6 +8891,8 @@
 		<integer>-15</integer>
 		<key>@MMK_R_tau</key>
 		<integer>15</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>45</integer>
 		<key>@MMK_R_u</key>
 		<integer>-15</integer>
 		<key>@MMK_R_upsilon</key>
@@ -9920,44 +8923,12 @@
 		<integer>15</integer>
 		<key>four</key>
 		<integer>-15</integer>
-		<key>guillemotright</key>
-		<integer>-15</integer>
-		<key>hbar</key>
-		<integer>15</integer>
 		<key>lslash</key>
-		<integer>-15</integer>
-		<key>multiply</key>
 		<integer>-15</integer>
 		<key>nine</key>
 		<integer>30</integer>
-		<key>numbersign</key>
-		<integer>-15</integer>
-		<key>one</key>
-		<integer>45</integer>
-		<key>ordfeminine</key>
-		<integer>30</integer>
-		<key>parenleft</key>
-		<integer>-15</integer>
-		<key>parenright</key>
-		<integer>-15</integer>
-		<key>percent</key>
-		<integer>-15</integer>
-		<key>period</key>
-		<integer>15</integer>
-		<key>perthousand</key>
-		<integer>-15</integer>
-		<key>plus</key>
-		<integer>-15</integer>
-		<key>plusminus</key>
-		<integer>-15</integer>
-		<key>q</key>
-		<integer>-15</integer>
-		<key>question</key>
-		<integer>45</integer>
 		<key>six</key>
 		<integer>-15</integer>
-		<key>trademark</key>
-		<integer>45</integer>
 	</dict>
 	<key>dslash</key>
 	<dict>
@@ -10051,6 +9022,8 @@
 		<integer>-30</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-30</integer>
+		<key>@MMK_R_pi</key>
+		<integer>-15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>45</integer>
 		<key>@MMK_R_r</key>
@@ -10061,6 +9034,8 @@
 		<integer>-15</integer>
 		<key>@MMK_R_tau</key>
 		<integer>15</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>60</integer>
 		<key>@MMK_R_u</key>
 		<integer>-15</integer>
 		<key>@MMK_R_upsilon</key>
@@ -10089,42 +9064,22 @@
 		<integer>-30</integer>
 		<key>eight</key>
 		<integer>-30</integer>
-		<key>eng</key>
-		<integer>-15</integer>
 		<key>five</key>
 		<integer>-15</integer>
 		<key>four</key>
 		<integer>-30</integer>
-		<key>hbar</key>
-		<integer>15</integer>
 		<key>lslash</key>
 		<integer>-30</integer>
 		<key>nine</key>
 		<integer>30</integer>
-		<key>one</key>
-		<integer>60</integer>
-		<key>ordfeminine</key>
-		<integer>30</integer>
-		<key>oslash</key>
-		<integer>-15</integer>
 		<key>p</key>
 		<integer>-15</integer>
-		<key>pi</key>
-		<integer>-15</integer>
-		<key>plus</key>
-		<integer>-15</integer>
-		<key>q</key>
-		<integer>-30</integer>
-		<key>question</key>
-		<integer>45</integer>
 		<key>seven</key>
 		<integer>-15</integer>
 		<key>six</key>
 		<integer>-15</integer>
 		<key>three</key>
 		<integer>-15</integer>
-		<key>trademark</key>
-		<integer>60</integer>
 		<key>two</key>
 		<integer>-15</integer>
 		<key>x</key>
@@ -10188,6 +9143,8 @@
 		<integer>15</integer>
 		<key>@MMK_R_omega</key>
 		<integer>15</integer>
+		<key>@MMK_R_percent</key>
+		<integer>-15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>30</integer>
 		<key>@MMK_R_semicolon</key>
@@ -10197,6 +9154,8 @@
 		<key>@MMK_R_t</key>
 		<integer>15</integer>
 		<key>@MMK_R_tau</key>
+		<integer>15</integer>
+		<key>@MMK_R_trademark</key>
 		<integer>15</integer>
 		<key>@MMK_R_u</key>
 		<integer>15</integer>
@@ -10232,44 +9191,14 @@
 		<integer>-15</integer>
 		<key>four</key>
 		<integer>30</integer>
-		<key>guillemotright</key>
-		<integer>15</integer>
-		<key>multiply</key>
-		<integer>30</integer>
 		<key>nine</key>
 		<integer>30</integer>
-		<key>numbersign</key>
-		<integer>15</integer>
-		<key>one</key>
-		<integer>30</integer>
-		<key>ordfeminine</key>
-		<integer>30</integer>
-		<key>oslash</key>
-		<integer>15</integer>
 		<key>p</key>
 		<integer>-30</integer>
-		<key>parenright</key>
-		<integer>-15</integer>
-		<key>percent</key>
-		<integer>-15</integer>
-		<key>period</key>
-		<integer>-15</integer>
-		<key>perthousand</key>
-		<integer>-15</integer>
-		<key>plus</key>
-		<integer>15</integer>
-		<key>plusminus</key>
-		<integer>15</integer>
-		<key>q</key>
-		<integer>15</integer>
-		<key>question</key>
-		<integer>30</integer>
 		<key>seven</key>
 		<integer>-30</integer>
 		<key>six</key>
 		<integer>30</integer>
-		<key>trademark</key>
-		<integer>15</integer>
 		<key>x</key>
 		<integer>-30</integer>
 	</dict>
@@ -10371,6 +9300,10 @@
 		<integer>30</integer>
 		<key>@MMK_R_omega</key>
 		<integer>30</integer>
+		<key>@MMK_R_percent</key>
+		<integer>30</integer>
+		<key>@MMK_R_pi</key>
+		<integer>45</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>-30</integer>
 		<key>@MMK_R_r</key>
@@ -10385,6 +9318,8 @@
 		<integer>30</integer>
 		<key>@MMK_R_tau</key>
 		<integer>-15</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>-30</integer>
 		<key>@MMK_R_u</key>
 		<integer>30</integer>
 		<key>@MMK_R_upsilon</key>
@@ -10419,173 +9354,26 @@
 		<integer>30</integer>
 		<key>ellipsis</key>
 		<integer>45</integer>
-		<key>eng</key>
-		<integer>45</integer>
 		<key>five</key>
 		<integer>45</integer>
 		<key>four</key>
 		<integer>-30</integer>
-		<key>guillemotright</key>
-		<integer>15</integer>
-		<key>hbar</key>
-		<integer>30</integer>
 		<key>lslash</key>
-		<integer>-15</integer>
-		<key>multiply</key>
 		<integer>-15</integer>
 		<key>nine</key>
 		<integer>-45</integer>
-		<key>numbersign</key>
-		<integer>30</integer>
-		<key>one</key>
-		<integer>15</integer>
-		<key>ordfeminine</key>
-		<integer>-30</integer>
-		<key>oslash</key>
-		<integer>15</integer>
 		<key>p</key>
 		<integer>15</integer>
-		<key>paragraph</key>
-		<integer>-60</integer>
-		<key>parenleft</key>
-		<integer>30</integer>
-		<key>parenright</key>
-		<integer>30</integer>
-		<key>percent</key>
-		<integer>30</integer>
-		<key>period</key>
-		<integer>45</integer>
-		<key>perthousand</key>
-		<integer>30</integer>
-		<key>pi</key>
-		<integer>45</integer>
-		<key>plus</key>
-		<integer>-15</integer>
-		<key>plusminus</key>
-		<integer>15</integer>
-		<key>q</key>
-		<integer>30</integer>
 		<key>seven</key>
 		<integer>45</integer>
 		<key>six</key>
 		<integer>15</integer>
 		<key>three</key>
 		<integer>45</integer>
-		<key>trademark</key>
-		<integer>-30</integer>
 		<key>two</key>
 		<integer>45</integer>
 		<key>x</key>
 		<integer>45</integer>
-	</dict>
-	<key>eng</key>
-	<dict>
-		<key>@MMK_R_C</key>
-		<integer>15</integer>
-		<key>@MMK_R_G</key>
-		<integer>15</integer>
-		<key>@MMK_R_I</key>
-		<integer>-15</integer>
-		<key>@MMK_R_S</key>
-		<integer>15</integer>
-		<key>@MMK_R_T</key>
-		<integer>-60</integer>
-		<key>@MMK_R_U</key>
-		<integer>15</integer>
-		<key>@MMK_R_Y</key>
-		<integer>30</integer>
-		<key>@MMK_R_alpha</key>
-		<integer>15</integer>
-		<key>@MMK_R_bar</key>
-		<integer>-15</integer>
-		<key>@MMK_R_beta</key>
-		<integer>-30</integer>
-		<key>@MMK_R_c</key>
-		<integer>15</integer>
-		<key>@MMK_R_e</key>
-		<integer>15</integer>
-		<key>@MMK_R_epsilon</key>
-		<integer>15</integer>
-		<key>@MMK_R_equal</key>
-		<integer>15</integer>
-		<key>@MMK_R_j</key>
-		<integer>-30</integer>
-		<key>@MMK_R_mu</key>
-		<integer>-30</integer>
-		<key>@MMK_R_o</key>
-		<integer>15</integer>
-		<key>@MMK_R_omega</key>
-		<integer>15</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-30</integer>
-		<key>@MMK_R_slash</key>
-		<integer>-15</integer>
-		<key>@MMK_R_tau</key>
-		<integer>45</integer>
-		<key>@MMK_R_upsilon</key>
-		<integer>15</integer>
-		<key>@MMK_R_v</key>
-		<integer>30</integer>
-		<key>Hbar</key>
-		<integer>-15</integer>
-		<key>Tbar</key>
-		<integer>30</integer>
-		<key>Y_upper_alt</key>
-		<integer>-45</integer>
-		<key>asciitilde</key>
-		<integer>30</integer>
-		<key>asterisk</key>
-		<integer>15</integer>
-		<key>backslash</key>
-		<integer>-30</integer>
-		<key>commaturnedabove</key>
-		<integer>-60</integer>
-		<key>currency</key>
-		<integer>15</integer>
-		<key>eight</key>
-		<integer>15</integer>
-		<key>ellipsis</key>
-		<integer>-15</integer>
-		<key>four</key>
-		<integer>45</integer>
-		<key>guillemotright</key>
-		<integer>15</integer>
-		<key>hbar</key>
-		<integer>-15</integer>
-		<key>lslash</key>
-		<integer>45</integer>
-		<key>multiply</key>
-		<integer>15</integer>
-		<key>nine</key>
-		<integer>30</integer>
-		<key>numbersign</key>
-		<integer>15</integer>
-		<key>one</key>
-		<integer>-30</integer>
-		<key>ordfeminine</key>
-		<integer>15</integer>
-		<key>p</key>
-		<integer>-30</integer>
-		<key>paragraph</key>
-		<integer>15</integer>
-		<key>parenright</key>
-		<integer>-15</integer>
-		<key>percent</key>
-		<integer>-15</integer>
-		<key>period</key>
-		<integer>-15</integer>
-		<key>perthousand</key>
-		<integer>-15</integer>
-		<key>plus</key>
-		<integer>30</integer>
-		<key>plusminus</key>
-		<integer>15</integer>
-		<key>six</key>
-		<integer>15</integer>
-		<key>three</key>
-		<integer>15</integer>
-		<key>trademark</key>
-		<integer>-30</integer>
 	</dict>
 	<key>five</key>
 	<dict>
@@ -10641,6 +9429,8 @@
 		<integer>15</integer>
 		<key>@MMK_R_omega</key>
 		<integer>15</integer>
+		<key>@MMK_R_percent</key>
+		<integer>-15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>30</integer>
 		<key>@MMK_R_semicolon</key>
@@ -10649,6 +9439,8 @@
 		<integer>15</integer>
 		<key>@MMK_R_tau</key>
 		<integer>-15</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>45</integer>
 		<key>@MMK_R_u</key>
 		<integer>15</integer>
 		<key>@MMK_R_upsilon</key>
@@ -10683,42 +9475,14 @@
 		<integer>-15</integer>
 		<key>four</key>
 		<integer>30</integer>
-		<key>guillemotright</key>
-		<integer>15</integer>
 		<key>lslash</key>
-		<integer>15</integer>
-		<key>multiply</key>
-		<integer>30</integer>
-		<key>numbersign</key>
-		<integer>15</integer>
-		<key>one</key>
-		<integer>30</integer>
-		<key>oslash</key>
 		<integer>15</integer>
 		<key>p</key>
 		<integer>-30</integer>
-		<key>parenright</key>
-		<integer>-15</integer>
-		<key>percent</key>
-		<integer>-15</integer>
-		<key>period</key>
-		<integer>-15</integer>
-		<key>perthousand</key>
-		<integer>-15</integer>
-		<key>plus</key>
-		<integer>15</integer>
-		<key>plusminus</key>
-		<integer>15</integer>
-		<key>q</key>
-		<integer>15</integer>
-		<key>question</key>
-		<integer>15</integer>
 		<key>seven</key>
 		<integer>-30</integer>
 		<key>six</key>
 		<integer>30</integer>
-		<key>trademark</key>
-		<integer>45</integer>
 		<key>x</key>
 		<integer>-30</integer>
 	</dict>
@@ -10782,6 +9546,8 @@
 		<integer>15</integer>
 		<key>@MMK_R_tau</key>
 		<integer>45</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>30</integer>
 		<key>@MMK_R_u</key>
 		<integer>15</integer>
 		<key>@MMK_R_upsilon</key>
@@ -10816,335 +9582,21 @@
 		<integer>-15</integer>
 		<key>four</key>
 		<integer>30</integer>
-		<key>guillemotright</key>
-		<integer>15</integer>
 		<key>lslash</key>
 		<integer>45</integer>
-		<key>multiply</key>
-		<integer>15</integer>
 		<key>nine</key>
 		<integer>45</integer>
-		<key>numbersign</key>
-		<integer>15</integer>
-		<key>one</key>
-		<integer>15</integer>
-		<key>ordfeminine</key>
-		<integer>30</integer>
 		<key>p</key>
 		<integer>-15</integer>
-		<key>paragraph</key>
-		<integer>30</integer>
-		<key>period</key>
-		<integer>-15</integer>
-		<key>plus</key>
-		<integer>45</integer>
-		<key>plusminus</key>
-		<integer>15</integer>
-		<key>q</key>
-		<integer>15</integer>
 		<key>seven</key>
 		<integer>-30</integer>
 		<key>six</key>
 		<integer>15</integer>
 		<key>three</key>
 		<integer>-30</integer>
-		<key>trademark</key>
-		<integer>30</integer>
 		<key>two</key>
 		<integer>-30</integer>
 		<key>x</key>
-		<integer>-30</integer>
-	</dict>
-	<key>guillemotright</key>
-	<dict>
-		<key>@MMK_R_A</key>
-		<integer>-15</integer>
-		<key>@MMK_R_B</key>
-		<integer>15</integer>
-		<key>@MMK_R_C</key>
-		<integer>30</integer>
-		<key>@MMK_R_D</key>
-		<integer>15</integer>
-		<key>@MMK_R_E</key>
-		<integer>15</integer>
-		<key>@MMK_R_F</key>
-		<integer>15</integer>
-		<key>@MMK_R_G</key>
-		<integer>30</integer>
-		<key>@MMK_R_H</key>
-		<integer>15</integer>
-		<key>@MMK_R_I</key>
-		<integer>15</integer>
-		<key>@MMK_R_J</key>
-		<integer>-15</integer>
-		<key>@MMK_R_K</key>
-		<integer>15</integer>
-		<key>@MMK_R_L</key>
-		<integer>15</integer>
-		<key>@MMK_R_M</key>
-		<integer>15</integer>
-		<key>@MMK_R_N</key>
-		<integer>15</integer>
-		<key>@MMK_R_O</key>
-		<integer>30</integer>
-		<key>@MMK_R_P</key>
-		<integer>15</integer>
-		<key>@MMK_R_S</key>
-		<integer>-15</integer>
-		<key>@MMK_R_T</key>
-		<integer>-30</integer>
-		<key>@MMK_R_U</key>
-		<integer>30</integer>
-		<key>@MMK_R_X</key>
-		<integer>-15</integer>
-		<key>@MMK_R_Y</key>
-		<integer>30</integer>
-		<key>@MMK_R_Z</key>
-		<integer>-15</integer>
-		<key>@MMK_R_alpha</key>
-		<integer>30</integer>
-		<key>@MMK_R_b</key>
-		<integer>15</integer>
-		<key>@MMK_R_c</key>
-		<integer>30</integer>
-		<key>@MMK_R_copyright</key>
-		<integer>15</integer>
-		<key>@MMK_R_d</key>
-		<integer>30</integer>
-		<key>@MMK_R_e</key>
-		<integer>30</integer>
-		<key>@MMK_R_epsilon</key>
-		<integer>15</integer>
-		<key>@MMK_R_equal</key>
-		<integer>45</integer>
-		<key>@MMK_R_eta</key>
-		<integer>15</integer>
-		<key>@MMK_R_f</key>
-		<integer>15</integer>
-		<key>@MMK_R_g</key>
-		<integer>30</integer>
-		<key>@MMK_R_h</key>
-		<integer>15</integer>
-		<key>@MMK_R_i</key>
-		<integer>15</integer>
-		<key>@MMK_R_k</key>
-		<integer>15</integer>
-		<key>@MMK_R_kappa</key>
-		<integer>15</integer>
-		<key>@MMK_R_l</key>
-		<integer>15</integer>
-		<key>@MMK_R_n</key>
-		<integer>15</integer>
-		<key>@MMK_R_o</key>
-		<integer>30</integer>
-		<key>@MMK_R_omega</key>
-		<integer>30</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-15</integer>
-		<key>@MMK_R_r</key>
-		<integer>15</integer>
-		<key>@MMK_R_s</key>
-		<integer>-15</integer>
-		<key>@MMK_R_semicolon</key>
-		<integer>-15</integer>
-		<key>@MMK_R_slash</key>
-		<integer>-15</integer>
-		<key>@MMK_R_t</key>
-		<integer>30</integer>
-		<key>@MMK_R_tau</key>
-		<integer>-30</integer>
-		<key>@MMK_R_u</key>
-		<integer>30</integer>
-		<key>@MMK_R_upsilon</key>
-		<integer>30</integer>
-		<key>@MMK_R_v</key>
-		<integer>15</integer>
-		<key>@MMK_R_y</key>
-		<integer>30</integer>
-		<key>@MMK_R_z</key>
-		<integer>-15</integer>
-		<key>Tbar</key>
-		<integer>30</integer>
-		<key>Y_upper_alt</key>
-		<integer>-30</integer>
-		<key>asciitilde</key>
-		<integer>30</integer>
-		<key>asterisk</key>
-		<integer>-30</integer>
-		<key>backslash</key>
-		<integer>-30</integer>
-		<key>commaturnedabove</key>
-		<integer>-15</integer>
-		<key>currency</key>
-		<integer>-15</integer>
-		<key>degree</key>
-		<integer>-45</integer>
-		<key>dslash</key>
-		<integer>30</integer>
-		<key>eight</key>
-		<integer>30</integer>
-		<key>ellipsis</key>
-		<integer>-15</integer>
-		<key>eng</key>
-		<integer>15</integer>
-		<key>five</key>
-		<integer>-15</integer>
-		<key>four</key>
-		<integer>45</integer>
-		<key>guillemotright</key>
-		<integer>-15</integer>
-		<key>hbar</key>
-		<integer>15</integer>
-		<key>lslash</key>
-		<integer>30</integer>
-		<key>multiply</key>
-		<integer>45</integer>
-		<key>nine</key>
-		<integer>-30</integer>
-		<key>numbersign</key>
-		<integer>30</integer>
-		<key>one</key>
-		<integer>-15</integer>
-		<key>ordfeminine</key>
-		<integer>-45</integer>
-		<key>oslash</key>
-		<integer>30</integer>
-		<key>paragraph</key>
-		<integer>15</integer>
-		<key>parenleft</key>
-		<integer>15</integer>
-		<key>parenright</key>
-		<integer>-15</integer>
-		<key>percent</key>
-		<integer>-15</integer>
-		<key>period</key>
-		<integer>-15</integer>
-		<key>perthousand</key>
-		<integer>-15</integer>
-		<key>pi</key>
-		<integer>15</integer>
-		<key>plus</key>
-		<integer>45</integer>
-		<key>plusminus</key>
-		<integer>30</integer>
-		<key>q</key>
-		<integer>30</integer>
-		<key>question</key>
-		<integer>-30</integer>
-		<key>seven</key>
-		<integer>-15</integer>
-		<key>six</key>
-		<integer>45</integer>
-		<key>trademark</key>
-		<integer>-15</integer>
-		<key>two</key>
-		<integer>-15</integer>
-		<key>x</key>
-		<integer>-15</integer>
-	</dict>
-	<key>hbar</key>
-	<dict>
-		<key>@MMK_R_C</key>
-		<integer>15</integer>
-		<key>@MMK_R_G</key>
-		<integer>15</integer>
-		<key>@MMK_R_I</key>
-		<integer>-15</integer>
-		<key>@MMK_R_S</key>
-		<integer>15</integer>
-		<key>@MMK_R_T</key>
-		<integer>-60</integer>
-		<key>@MMK_R_U</key>
-		<integer>15</integer>
-		<key>@MMK_R_Y</key>
-		<integer>30</integer>
-		<key>@MMK_R_alpha</key>
-		<integer>15</integer>
-		<key>@MMK_R_bar</key>
-		<integer>-15</integer>
-		<key>@MMK_R_beta</key>
-		<integer>-30</integer>
-		<key>@MMK_R_c</key>
-		<integer>15</integer>
-		<key>@MMK_R_e</key>
-		<integer>15</integer>
-		<key>@MMK_R_epsilon</key>
-		<integer>15</integer>
-		<key>@MMK_R_equal</key>
-		<integer>15</integer>
-		<key>@MMK_R_j</key>
-		<integer>-30</integer>
-		<key>@MMK_R_mu</key>
-		<integer>-30</integer>
-		<key>@MMK_R_o</key>
-		<integer>15</integer>
-		<key>@MMK_R_omega</key>
-		<integer>15</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-30</integer>
-		<key>@MMK_R_slash</key>
-		<integer>-15</integer>
-		<key>@MMK_R_tau</key>
-		<integer>45</integer>
-		<key>@MMK_R_upsilon</key>
-		<integer>15</integer>
-		<key>@MMK_R_v</key>
-		<integer>30</integer>
-		<key>Hbar</key>
-		<integer>-15</integer>
-		<key>Tbar</key>
-		<integer>30</integer>
-		<key>Y_upper_alt</key>
-		<integer>-45</integer>
-		<key>asciitilde</key>
-		<integer>30</integer>
-		<key>asterisk</key>
-		<integer>15</integer>
-		<key>backslash</key>
-		<integer>-30</integer>
-		<key>commaturnedabove</key>
-		<integer>-60</integer>
-		<key>currency</key>
-		<integer>15</integer>
-		<key>eight</key>
-		<integer>15</integer>
-		<key>four</key>
-		<integer>45</integer>
-		<key>guillemotright</key>
-		<integer>15</integer>
-		<key>hbar</key>
-		<integer>-15</integer>
-		<key>lslash</key>
-		<integer>45</integer>
-		<key>multiply</key>
-		<integer>15</integer>
-		<key>nine</key>
-		<integer>30</integer>
-		<key>numbersign</key>
-		<integer>15</integer>
-		<key>one</key>
-		<integer>-30</integer>
-		<key>ordfeminine</key>
-		<integer>15</integer>
-		<key>p</key>
-		<integer>-30</integer>
-		<key>paragraph</key>
-		<integer>15</integer>
-		<key>parenright</key>
-		<integer>-15</integer>
-		<key>percent</key>
-		<integer>-15</integer>
-		<key>perthousand</key>
-		<integer>-15</integer>
-		<key>plus</key>
-		<integer>30</integer>
-		<key>plusminus</key>
-		<integer>15</integer>
-		<key>six</key>
-		<integer>15</integer>
-		<key>three</key>
-		<integer>15</integer>
-		<key>trademark</key>
 		<integer>-30</integer>
 	</dict>
 	<key>lslash</key>
@@ -11203,6 +9655,8 @@
 		<integer>15</integer>
 		<key>@MMK_R_tau</key>
 		<integer>60</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>-15</integer>
 		<key>@MMK_R_u</key>
 		<integer>15</integer>
 		<key>@MMK_R_upsilon</key>
@@ -11237,131 +9691,22 @@
 		<integer>-15</integer>
 		<key>four</key>
 		<integer>15</integer>
-		<key>guillemotright</key>
-		<integer>15</integer>
 		<key>lslash</key>
 		<integer>45</integer>
-		<key>multiply</key>
-		<integer>15</integer>
 		<key>nine</key>
 		<integer>45</integer>
-		<key>numbersign</key>
-		<integer>15</integer>
-		<key>ordfeminine</key>
-		<integer>30</integer>
 		<key>p</key>
 		<integer>-15</integer>
-		<key>paragraph</key>
-		<integer>30</integer>
-		<key>period</key>
-		<integer>-15</integer>
-		<key>plus</key>
-		<integer>45</integer>
-		<key>plusminus</key>
-		<integer>15</integer>
-		<key>q</key>
-		<integer>15</integer>
-		<key>question</key>
-		<integer>15</integer>
 		<key>seven</key>
 		<integer>-30</integer>
 		<key>six</key>
 		<integer>30</integer>
 		<key>three</key>
 		<integer>-30</integer>
-		<key>trademark</key>
-		<integer>-15</integer>
 		<key>two</key>
 		<integer>-30</integer>
 		<key>x</key>
 		<integer>-30</integer>
-	</dict>
-	<key>multiply</key>
-	<dict>
-		<key>@MMK_R_C</key>
-		<integer>15</integer>
-		<key>@MMK_R_G</key>
-		<integer>15</integer>
-		<key>@MMK_R_I</key>
-		<integer>-15</integer>
-		<key>@MMK_R_T</key>
-		<integer>-15</integer>
-		<key>@MMK_R_U</key>
-		<integer>15</integer>
-		<key>@MMK_R_V</key>
-		<integer>30</integer>
-		<key>@MMK_R_Y</key>
-		<integer>45</integer>
-		<key>@MMK_R_alpha</key>
-		<integer>15</integer>
-		<key>@MMK_R_c</key>
-		<integer>15</integer>
-		<key>@MMK_R_e</key>
-		<integer>15</integer>
-		<key>@MMK_R_equal</key>
-		<integer>15</integer>
-		<key>@MMK_R_exclam</key>
-		<integer>-15</integer>
-		<key>@MMK_R_o</key>
-		<integer>15</integer>
-		<key>@MMK_R_omega</key>
-		<integer>15</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-15</integer>
-		<key>@MMK_R_tau</key>
-		<integer>45</integer>
-		<key>@MMK_R_upsilon</key>
-		<integer>15</integer>
-		<key>@MMK_R_v</key>
-		<integer>45</integer>
-		<key>Hbar</key>
-		<integer>15</integer>
-		<key>Tbar</key>
-		<integer>30</integer>
-		<key>Y_upper_alt</key>
-		<integer>-15</integer>
-		<key>asciitilde</key>
-		<integer>-15</integer>
-		<key>asterisk</key>
-		<integer>30</integer>
-		<key>commaturnedabove</key>
-		<integer>-30</integer>
-		<key>currency</key>
-		<integer>15</integer>
-		<key>degree</key>
-		<integer>30</integer>
-		<key>eight</key>
-		<integer>15</integer>
-		<key>ellipsis</key>
-		<integer>15</integer>
-		<key>four</key>
-		<integer>-15</integer>
-		<key>hbar</key>
-		<integer>-15</integer>
-		<key>lslash</key>
-		<integer>15</integer>
-		<key>multiply</key>
-		<integer>30</integer>
-		<key>nine</key>
-		<integer>45</integer>
-		<key>numbersign</key>
-		<integer>15</integer>
-		<key>ordfeminine</key>
-		<integer>45</integer>
-		<key>paragraph</key>
-		<integer>30</integer>
-		<key>period</key>
-		<integer>-15</integer>
-		<key>plus</key>
-		<integer>30</integer>
-		<key>plusminus</key>
-		<integer>15</integer>
-		<key>question</key>
-		<integer>15</integer>
-		<key>six</key>
-		<integer>15</integer>
-		<key>trademark</key>
-		<integer>-15</integer>
 	</dict>
 	<key>nine</key>
 	<dict>
@@ -11431,6 +9776,8 @@
 		<integer>-15</integer>
 		<key>@MMK_R_n</key>
 		<integer>-15</integer>
+		<key>@MMK_R_pi</key>
+		<integer>-15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>45</integer>
 		<key>@MMK_R_r</key>
@@ -11440,6 +9787,8 @@
 		<key>@MMK_R_t</key>
 		<integer>-15</integer>
 		<key>@MMK_R_tau</key>
+		<integer>30</integer>
+		<key>@MMK_R_trademark</key>
 		<integer>30</integer>
 		<key>@MMK_R_u</key>
 		<integer>-15</integer>
@@ -11467,646 +9816,22 @@
 		<integer>45</integer>
 		<key>ellipsis</key>
 		<integer>-15</integer>
-		<key>eng</key>
-		<integer>-15</integer>
 		<key>five</key>
 		<integer>-30</integer>
 		<key>four</key>
 		<integer>30</integer>
-		<key>hbar</key>
-		<integer>15</integer>
 		<key>lslash</key>
 		<integer>30</integer>
-		<key>multiply</key>
-		<integer>15</integer>
 		<key>nine</key>
 		<integer>45</integer>
-		<key>one</key>
-		<integer>30</integer>
-		<key>ordfeminine</key>
-		<integer>45</integer>
-		<key>oslash</key>
-		<integer>-15</integer>
 		<key>p</key>
 		<integer>-15</integer>
-		<key>paragraph</key>
-		<integer>15</integer>
-		<key>parenleft</key>
-		<integer>-15</integer>
-		<key>period</key>
-		<integer>-15</integer>
-		<key>pi</key>
-		<integer>-15</integer>
-		<key>plus</key>
-		<integer>30</integer>
-		<key>question</key>
-		<integer>45</integer>
 		<key>seven</key>
 		<integer>-30</integer>
 		<key>three</key>
 		<integer>-30</integer>
-		<key>trademark</key>
-		<integer>30</integer>
 		<key>two</key>
 		<integer>-30</integer>
-		<key>x</key>
-		<integer>-15</integer>
-	</dict>
-	<key>numbersign</key>
-	<dict>
-		<key>@MMK_R_C</key>
-		<integer>-15</integer>
-		<key>@MMK_R_G</key>
-		<integer>-15</integer>
-		<key>@MMK_R_I</key>
-		<integer>15</integer>
-		<key>@MMK_R_O</key>
-		<integer>-15</integer>
-		<key>@MMK_R_T</key>
-		<integer>45</integer>
-		<key>@MMK_R_U</key>
-		<integer>-15</integer>
-		<key>@MMK_R_V</key>
-		<integer>45</integer>
-		<key>@MMK_R_Y</key>
-		<integer>15</integer>
-		<key>@MMK_R_alpha</key>
-		<integer>-15</integer>
-		<key>@MMK_R_c</key>
-		<integer>-15</integer>
-		<key>@MMK_R_copyright</key>
-		<integer>-15</integer>
-		<key>@MMK_R_d</key>
-		<integer>-15</integer>
-		<key>@MMK_R_epsilon</key>
-		<integer>-15</integer>
-		<key>@MMK_R_g</key>
-		<integer>-15</integer>
-		<key>@MMK_R_j</key>
-		<integer>15</integer>
-		<key>@MMK_R_o</key>
-		<integer>-15</integer>
-		<key>@MMK_R_omega</key>
-		<integer>-15</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>15</integer>
-		<key>@MMK_R_semicolon</key>
-		<integer>-15</integer>
-		<key>@MMK_R_t</key>
-		<integer>-15</integer>
-		<key>@MMK_R_tau</key>
-		<integer>30</integer>
-		<key>@MMK_R_u</key>
-		<integer>-15</integer>
-		<key>@MMK_R_upsilon</key>
-		<integer>-15</integer>
-		<key>@MMK_R_v</key>
-		<integer>30</integer>
-		<key>@MMK_R_y</key>
-		<integer>-15</integer>
-		<key>Tbar</key>
-		<integer>15</integer>
-		<key>Y_upper_alt</key>
-		<integer>60</integer>
-		<key>asciitilde</key>
-		<integer>15</integer>
-		<key>asterisk</key>
-		<integer>15</integer>
-		<key>backslash</key>
-		<integer>45</integer>
-		<key>commaturnedabove</key>
-		<integer>30</integer>
-		<key>currency</key>
-		<integer>-15</integer>
-		<key>degree</key>
-		<integer>15</integer>
-		<key>dslash</key>
-		<integer>-15</integer>
-		<key>ellipsis</key>
-		<integer>-15</integer>
-		<key>four</key>
-		<integer>15</integer>
-		<key>guillemotright</key>
-		<integer>-15</integer>
-		<key>lslash</key>
-		<integer>30</integer>
-		<key>nine</key>
-		<integer>30</integer>
-		<key>numbersign</key>
-		<integer>-15</integer>
-		<key>one</key>
-		<integer>30</integer>
-		<key>ordfeminine</key>
-		<integer>30</integer>
-		<key>paragraph</key>
-		<integer>15</integer>
-		<key>parenleft</key>
-		<integer>-15</integer>
-		<key>period</key>
-		<integer>-15</integer>
-		<key>plus</key>
-		<integer>15</integer>
-		<key>plusminus</key>
-		<integer>-15</integer>
-		<key>q</key>
-		<integer>-15</integer>
-		<key>question</key>
-		<integer>15</integer>
-		<key>trademark</key>
-		<integer>45</integer>
-	</dict>
-	<key>one</key>
-	<dict>
-		<key>@MMK_R_A</key>
-		<integer>-15</integer>
-		<key>@MMK_R_B</key>
-		<integer>-15</integer>
-		<key>@MMK_R_C</key>
-		<integer>-15</integer>
-		<key>@MMK_R_D</key>
-		<integer>-15</integer>
-		<key>@MMK_R_E</key>
-		<integer>-15</integer>
-		<key>@MMK_R_F</key>
-		<integer>-15</integer>
-		<key>@MMK_R_G</key>
-		<integer>-15</integer>
-		<key>@MMK_R_H</key>
-		<integer>-15</integer>
-		<key>@MMK_R_I</key>
-		<integer>15</integer>
-		<key>@MMK_R_J</key>
-		<integer>-15</integer>
-		<key>@MMK_R_K</key>
-		<integer>-15</integer>
-		<key>@MMK_R_L</key>
-		<integer>-15</integer>
-		<key>@MMK_R_M</key>
-		<integer>-15</integer>
-		<key>@MMK_R_N</key>
-		<integer>-15</integer>
-		<key>@MMK_R_O</key>
-		<integer>-30</integer>
-		<key>@MMK_R_Omegagreek</key>
-		<integer>-15</integer>
-		<key>@MMK_R_P</key>
-		<integer>-15</integer>
-		<key>@MMK_R_S</key>
-		<integer>-15</integer>
-		<key>@MMK_R_T</key>
-		<integer>45</integer>
-		<key>@MMK_R_U</key>
-		<integer>-15</integer>
-		<key>@MMK_R_V</key>
-		<integer>60</integer>
-		<key>@MMK_R_X</key>
-		<integer>-15</integer>
-		<key>@MMK_R_Z</key>
-		<integer>-15</integer>
-		<key>@MMK_R_alpha</key>
-		<integer>-30</integer>
-		<key>@MMK_R_b</key>
-		<integer>-15</integer>
-		<key>@MMK_R_beta</key>
-		<integer>-15</integer>
-		<key>@MMK_R_c</key>
-		<integer>-30</integer>
-		<key>@MMK_R_copyright</key>
-		<integer>-15</integer>
-		<key>@MMK_R_d</key>
-		<integer>-30</integer>
-		<key>@MMK_R_e</key>
-		<integer>-30</integer>
-		<key>@MMK_R_epsilon</key>
-		<integer>-30</integer>
-		<key>@MMK_R_eta</key>
-		<integer>-15</integer>
-		<key>@MMK_R_f</key>
-		<integer>-15</integer>
-		<key>@MMK_R_g</key>
-		<integer>-30</integer>
-		<key>@MMK_R_h</key>
-		<integer>-15</integer>
-		<key>@MMK_R_i</key>
-		<integer>-15</integer>
-		<key>@MMK_R_k</key>
-		<integer>-15</integer>
-		<key>@MMK_R_kappa</key>
-		<integer>-15</integer>
-		<key>@MMK_R_l</key>
-		<integer>-15</integer>
-		<key>@MMK_R_mu</key>
-		<integer>-15</integer>
-		<key>@MMK_R_n</key>
-		<integer>-15</integer>
-		<key>@MMK_R_o</key>
-		<integer>-15</integer>
-		<key>@MMK_R_omega</key>
-		<integer>-30</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>45</integer>
-		<key>@MMK_R_r</key>
-		<integer>-15</integer>
-		<key>@MMK_R_s</key>
-		<integer>-15</integer>
-		<key>@MMK_R_slash</key>
-		<integer>15</integer>
-		<key>@MMK_R_t</key>
-		<integer>-30</integer>
-		<key>@MMK_R_tau</key>
-		<integer>15</integer>
-		<key>@MMK_R_u</key>
-		<integer>-30</integer>
-		<key>@MMK_R_upsilon</key>
-		<integer>-30</integer>
-		<key>@MMK_R_v</key>
-		<integer>30</integer>
-		<key>@MMK_R_y</key>
-		<integer>-30</integer>
-		<key>@MMK_R_z</key>
-		<integer>-15</integer>
-		<key>Y_upper_alt</key>
-		<integer>60</integer>
-		<key>asterisk</key>
-		<integer>30</integer>
-		<key>backslash</key>
-		<integer>45</integer>
-		<key>commaturnedabove</key>
-		<integer>45</integer>
-		<key>degree</key>
-		<integer>30</integer>
-		<key>dslash</key>
-		<integer>-30</integer>
-		<key>eight</key>
-		<integer>-15</integer>
-		<key>eng</key>
-		<integer>-15</integer>
-		<key>five</key>
-		<integer>-15</integer>
-		<key>lslash</key>
-		<integer>15</integer>
-		<key>nine</key>
-		<integer>15</integer>
-		<key>one</key>
-		<integer>45</integer>
-		<key>ordfeminine</key>
-		<integer>15</integer>
-		<key>oslash</key>
-		<integer>-15</integer>
-		<key>p</key>
-		<integer>-15</integer>
-		<key>pi</key>
-		<integer>-15</integer>
-		<key>q</key>
-		<integer>-30</integer>
-		<key>question</key>
-		<integer>30</integer>
-		<key>seven</key>
-		<integer>-15</integer>
-		<key>six</key>
-		<integer>-15</integer>
-		<key>three</key>
-		<integer>-15</integer>
-		<key>trademark</key>
-		<integer>60</integer>
-		<key>two</key>
-		<integer>-15</integer>
-		<key>x</key>
-		<integer>-15</integer>
-	</dict>
-	<key>ordfeminine</key>
-	<dict>
-		<key>@MMK_R_A</key>
-		<integer>-15</integer>
-		<key>@MMK_R_B</key>
-		<integer>-15</integer>
-		<key>@MMK_R_D</key>
-		<integer>-15</integer>
-		<key>@MMK_R_E</key>
-		<integer>-15</integer>
-		<key>@MMK_R_F</key>
-		<integer>-15</integer>
-		<key>@MMK_R_H</key>
-		<integer>-15</integer>
-		<key>@MMK_R_I</key>
-		<integer>30</integer>
-		<key>@MMK_R_J</key>
-		<integer>-15</integer>
-		<key>@MMK_R_K</key>
-		<integer>-15</integer>
-		<key>@MMK_R_L</key>
-		<integer>-15</integer>
-		<key>@MMK_R_M</key>
-		<integer>-15</integer>
-		<key>@MMK_R_N</key>
-		<integer>-15</integer>
-		<key>@MMK_R_O</key>
-		<integer>-15</integer>
-		<key>@MMK_R_Omegagreek</key>
-		<integer>-15</integer>
-		<key>@MMK_R_P</key>
-		<integer>-15</integer>
-		<key>@MMK_R_S</key>
-		<integer>-30</integer>
-		<key>@MMK_R_T</key>
-		<integer>60</integer>
-		<key>@MMK_R_V</key>
-		<integer>45</integer>
-		<key>@MMK_R_X</key>
-		<integer>-15</integer>
-		<key>@MMK_R_Y</key>
-		<integer>15</integer>
-		<key>@MMK_R_Z</key>
-		<integer>-15</integer>
-		<key>@MMK_R_alpha</key>
-		<integer>-15</integer>
-		<key>@MMK_R_b</key>
-		<integer>-15</integer>
-		<key>@MMK_R_beta</key>
-		<integer>-15</integer>
-		<key>@MMK_R_c</key>
-		<integer>-15</integer>
-		<key>@MMK_R_copyright</key>
-		<integer>-15</integer>
-		<key>@MMK_R_d</key>
-		<integer>-15</integer>
-		<key>@MMK_R_e</key>
-		<integer>-15</integer>
-		<key>@MMK_R_epsilon</key>
-		<integer>-30</integer>
-		<key>@MMK_R_eta</key>
-		<integer>-15</integer>
-		<key>@MMK_R_f</key>
-		<integer>-15</integer>
-		<key>@MMK_R_g</key>
-		<integer>-15</integer>
-		<key>@MMK_R_h</key>
-		<integer>-15</integer>
-		<key>@MMK_R_i</key>
-		<integer>-15</integer>
-		<key>@MMK_R_j</key>
-		<integer>-15</integer>
-		<key>@MMK_R_k</key>
-		<integer>-15</integer>
-		<key>@MMK_R_kappa</key>
-		<integer>-15</integer>
-		<key>@MMK_R_l</key>
-		<integer>-15</integer>
-		<key>@MMK_R_mu</key>
-		<integer>-15</integer>
-		<key>@MMK_R_n</key>
-		<integer>-15</integer>
-		<key>@MMK_R_o</key>
-		<integer>-15</integer>
-		<key>@MMK_R_omega</key>
-		<integer>-15</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>45</integer>
-		<key>@MMK_R_r</key>
-		<integer>-15</integer>
-		<key>@MMK_R_s</key>
-		<integer>-15</integer>
-		<key>@MMK_R_semicolon</key>
-		<integer>-15</integer>
-		<key>@MMK_R_t</key>
-		<integer>-15</integer>
-		<key>@MMK_R_tau</key>
-		<integer>30</integer>
-		<key>@MMK_R_u</key>
-		<integer>-15</integer>
-		<key>@MMK_R_upsilon</key>
-		<integer>-15</integer>
-		<key>@MMK_R_v</key>
-		<integer>45</integer>
-		<key>@MMK_R_y</key>
-		<integer>-15</integer>
-		<key>@MMK_R_z</key>
-		<integer>-15</integer>
-		<key>Hbar</key>
-		<integer>15</integer>
-		<key>Tbar</key>
-		<integer>15</integer>
-		<key>Y_upper_alt</key>
-		<integer>45</integer>
-		<key>asterisk</key>
-		<integer>45</integer>
-		<key>backslash</key>
-		<integer>30</integer>
-		<key>commaturnedabove</key>
-		<integer>60</integer>
-		<key>degree</key>
-		<integer>45</integer>
-		<key>dslash</key>
-		<integer>-15</integer>
-		<key>eight</key>
-		<integer>-30</integer>
-		<key>ellipsis</key>
-		<integer>15</integer>
-		<key>eng</key>
-		<integer>-15</integer>
-		<key>five</key>
-		<integer>-15</integer>
-		<key>hbar</key>
-		<integer>15</integer>
-		<key>lslash</key>
-		<integer>30</integer>
-		<key>multiply</key>
-		<integer>-15</integer>
-		<key>nine</key>
-		<integer>30</integer>
-		<key>one</key>
-		<integer>45</integer>
-		<key>ordfeminine</key>
-		<integer>30</integer>
-		<key>oslash</key>
-		<integer>-15</integer>
-		<key>p</key>
-		<integer>-15</integer>
-		<key>parenleft</key>
-		<integer>-15</integer>
-		<key>period</key>
-		<integer>15</integer>
-		<key>pi</key>
-		<integer>-15</integer>
-		<key>plus</key>
-		<integer>15</integer>
-		<key>q</key>
-		<integer>-15</integer>
-		<key>question</key>
-		<integer>45</integer>
-		<key>seven</key>
-		<integer>-15</integer>
-		<key>three</key>
-		<integer>-15</integer>
-		<key>trademark</key>
-		<integer>45</integer>
-		<key>two</key>
-		<integer>-15</integer>
-		<key>x</key>
-		<integer>-15</integer>
-	</dict>
-	<key>oslash</key>
-	<dict>
-		<key>@MMK_R_A</key>
-		<integer>-15</integer>
-		<key>@MMK_R_B</key>
-		<integer>-15</integer>
-		<key>@MMK_R_D</key>
-		<integer>-15</integer>
-		<key>@MMK_R_E</key>
-		<integer>-15</integer>
-		<key>@MMK_R_F</key>
-		<integer>-15</integer>
-		<key>@MMK_R_H</key>
-		<integer>-15</integer>
-		<key>@MMK_R_I</key>
-		<integer>30</integer>
-		<key>@MMK_R_J</key>
-		<integer>-15</integer>
-		<key>@MMK_R_K</key>
-		<integer>-15</integer>
-		<key>@MMK_R_L</key>
-		<integer>-15</integer>
-		<key>@MMK_R_M</key>
-		<integer>-15</integer>
-		<key>@MMK_R_N</key>
-		<integer>-15</integer>
-		<key>@MMK_R_O</key>
-		<integer>-15</integer>
-		<key>@MMK_R_Omegagreek</key>
-		<integer>-15</integer>
-		<key>@MMK_R_P</key>
-		<integer>-15</integer>
-		<key>@MMK_R_S</key>
-		<integer>-15</integer>
-		<key>@MMK_R_T</key>
-		<integer>60</integer>
-		<key>@MMK_R_V</key>
-		<integer>45</integer>
-		<key>@MMK_R_X</key>
-		<integer>-15</integer>
-		<key>@MMK_R_Y</key>
-		<integer>30</integer>
-		<key>@MMK_R_Z</key>
-		<integer>-15</integer>
-		<key>@MMK_R_alpha</key>
-		<integer>-30</integer>
-		<key>@MMK_R_b</key>
-		<integer>-15</integer>
-		<key>@MMK_R_beta</key>
-		<integer>-15</integer>
-		<key>@MMK_R_c</key>
-		<integer>-30</integer>
-		<key>@MMK_R_copyright</key>
-		<integer>-15</integer>
-		<key>@MMK_R_d</key>
-		<integer>-30</integer>
-		<key>@MMK_R_e</key>
-		<integer>-30</integer>
-		<key>@MMK_R_epsilon</key>
-		<integer>-30</integer>
-		<key>@MMK_R_eta</key>
-		<integer>-15</integer>
-		<key>@MMK_R_f</key>
-		<integer>-15</integer>
-		<key>@MMK_R_g</key>
-		<integer>-30</integer>
-		<key>@MMK_R_h</key>
-		<integer>-15</integer>
-		<key>@MMK_R_i</key>
-		<integer>-15</integer>
-		<key>@MMK_R_j</key>
-		<integer>-15</integer>
-		<key>@MMK_R_k</key>
-		<integer>-15</integer>
-		<key>@MMK_R_kappa</key>
-		<integer>-15</integer>
-		<key>@MMK_R_l</key>
-		<integer>-15</integer>
-		<key>@MMK_R_mu</key>
-		<integer>-15</integer>
-		<key>@MMK_R_n</key>
-		<integer>-15</integer>
-		<key>@MMK_R_o</key>
-		<integer>-30</integer>
-		<key>@MMK_R_omega</key>
-		<integer>-30</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>60</integer>
-		<key>@MMK_R_r</key>
-		<integer>-15</integer>
-		<key>@MMK_R_s</key>
-		<integer>-15</integer>
-		<key>@MMK_R_t</key>
-		<integer>-15</integer>
-		<key>@MMK_R_tau</key>
-		<integer>15</integer>
-		<key>@MMK_R_u</key>
-		<integer>-30</integer>
-		<key>@MMK_R_upsilon</key>
-		<integer>-30</integer>
-		<key>@MMK_R_v</key>
-		<integer>30</integer>
-		<key>@MMK_R_y</key>
-		<integer>-30</integer>
-		<key>@MMK_R_z</key>
-		<integer>-15</integer>
-		<key>Hbar</key>
-		<integer>15</integer>
-		<key>Tbar</key>
-		<integer>15</integer>
-		<key>Y_upper_alt</key>
-		<integer>30</integer>
-		<key>asterisk</key>
-		<integer>60</integer>
-		<key>backslash</key>
-		<integer>30</integer>
-		<key>commaturnedabove</key>
-		<integer>60</integer>
-		<key>degree</key>
-		<integer>45</integer>
-		<key>dslash</key>
-		<integer>-30</integer>
-		<key>eight</key>
-		<integer>-30</integer>
-		<key>eng</key>
-		<integer>-15</integer>
-		<key>five</key>
-		<integer>-15</integer>
-		<key>four</key>
-		<integer>-15</integer>
-		<key>hbar</key>
-		<integer>15</integer>
-		<key>lslash</key>
-		<integer>-15</integer>
-		<key>nine</key>
-		<integer>30</integer>
-		<key>one</key>
-		<integer>45</integer>
-		<key>ordfeminine</key>
-		<integer>30</integer>
-		<key>oslash</key>
-		<integer>-15</integer>
-		<key>p</key>
-		<integer>-15</integer>
-		<key>pi</key>
-		<integer>-15</integer>
-		<key>plus</key>
-		<integer>-15</integer>
-		<key>q</key>
-		<integer>-30</integer>
-		<key>question</key>
-		<integer>45</integer>
-		<key>seven</key>
-		<integer>-15</integer>
-		<key>six</key>
-		<integer>-15</integer>
-		<key>three</key>
-		<integer>-15</integer>
-		<key>trademark</key>
-		<integer>30</integer>
-		<key>two</key>
-		<integer>-15</integer>
 		<key>x</key>
 		<integer>-15</integer>
 	</dict>
@@ -12164,6 +9889,8 @@
 		<integer>15</integer>
 		<key>@MMK_R_omega</key>
 		<integer>15</integer>
+		<key>@MMK_R_percent</key>
+		<integer>-15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>-30</integer>
 		<key>@MMK_R_semicolon</key>
@@ -12172,6 +9899,8 @@
 		<integer>-15</integer>
 		<key>@MMK_R_tau</key>
 		<integer>45</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>-30</integer>
 		<key>@MMK_R_u</key>
 		<integer>15</integer>
 		<key>@MMK_R_upsilon</key>
@@ -12206,1479 +9935,20 @@
 		<integer>-15</integer>
 		<key>four</key>
 		<integer>45</integer>
-		<key>guillemotright</key>
-		<integer>15</integer>
-		<key>hbar</key>
-		<integer>-15</integer>
 		<key>lslash</key>
 		<integer>45</integer>
-		<key>multiply</key>
-		<integer>30</integer>
 		<key>nine</key>
-		<integer>30</integer>
-		<key>numbersign</key>
-		<integer>15</integer>
-		<key>one</key>
-		<integer>-15</integer>
-		<key>ordfeminine</key>
 		<integer>30</integer>
 		<key>p</key>
 		<integer>-30</integer>
-		<key>paragraph</key>
-		<integer>30</integer>
-		<key>parenright</key>
-		<integer>-15</integer>
-		<key>percent</key>
-		<integer>-15</integer>
-		<key>period</key>
-		<integer>-15</integer>
-		<key>perthousand</key>
-		<integer>-15</integer>
-		<key>plus</key>
-		<integer>45</integer>
-		<key>plusminus</key>
-		<integer>15</integer>
-		<key>q</key>
-		<integer>15</integer>
 		<key>seven</key>
 		<integer>-30</integer>
 		<key>six</key>
 		<integer>15</integer>
 		<key>three</key>
 		<integer>15</integer>
-		<key>trademark</key>
-		<integer>-30</integer>
 		<key>x</key>
 		<integer>-30</integer>
-	</dict>
-	<key>paragraph</key>
-	<dict>
-		<key>@MMK_R_C</key>
-		<integer>-15</integer>
-		<key>@MMK_R_G</key>
-		<integer>-15</integer>
-		<key>@MMK_R_I</key>
-		<integer>15</integer>
-		<key>@MMK_R_O</key>
-		<integer>-15</integer>
-		<key>@MMK_R_T</key>
-		<integer>45</integer>
-		<key>@MMK_R_U</key>
-		<integer>-15</integer>
-		<key>@MMK_R_V</key>
-		<integer>45</integer>
-		<key>@MMK_R_alpha</key>
-		<integer>-15</integer>
-		<key>@MMK_R_beta</key>
-		<integer>15</integer>
-		<key>@MMK_R_c</key>
-		<integer>-15</integer>
-		<key>@MMK_R_copyright</key>
-		<integer>-30</integer>
-		<key>@MMK_R_d</key>
-		<integer>-15</integer>
-		<key>@MMK_R_epsilon</key>
-		<integer>-15</integer>
-		<key>@MMK_R_equal</key>
-		<integer>-15</integer>
-		<key>@MMK_R_g</key>
-		<integer>-15</integer>
-		<key>@MMK_R_j</key>
-		<integer>15</integer>
-		<key>@MMK_R_mu</key>
-		<integer>15</integer>
-		<key>@MMK_R_o</key>
-		<integer>-15</integer>
-		<key>@MMK_R_omega</key>
-		<integer>-15</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>30</integer>
-		<key>@MMK_R_semicolon</key>
-		<integer>-15</integer>
-		<key>@MMK_R_t</key>
-		<integer>-15</integer>
-		<key>@MMK_R_u</key>
-		<integer>-15</integer>
-		<key>@MMK_R_upsilon</key>
-		<integer>-15</integer>
-		<key>@MMK_R_v</key>
-		<integer>15</integer>
-		<key>@MMK_R_y</key>
-		<integer>-15</integer>
-		<key>Y_upper_alt</key>
-		<integer>60</integer>
-		<key>asterisk</key>
-		<integer>30</integer>
-		<key>backslash</key>
-		<integer>45</integer>
-		<key>commaturnedabove</key>
-		<integer>30</integer>
-		<key>currency</key>
-		<integer>-15</integer>
-		<key>degree</key>
-		<integer>15</integer>
-		<key>dslash</key>
-		<integer>-15</integer>
-		<key>eight</key>
-		<integer>-15</integer>
-		<key>guillemotright</key>
-		<integer>-15</integer>
-		<key>multiply</key>
-		<integer>-15</integer>
-		<key>nine</key>
-		<integer>15</integer>
-		<key>numbersign</key>
-		<integer>-15</integer>
-		<key>one</key>
-		<integer>45</integer>
-		<key>ordfeminine</key>
-		<integer>15</integer>
-		<key>p</key>
-		<integer>15</integer>
-		<key>paragraph</key>
-		<integer>-15</integer>
-		<key>parenleft</key>
-		<integer>-15</integer>
-		<key>plusminus</key>
-		<integer>-15</integer>
-		<key>q</key>
-		<integer>-15</integer>
-		<key>question</key>
-		<integer>30</integer>
-		<key>six</key>
-		<integer>-15</integer>
-		<key>trademark</key>
-		<integer>45</integer>
-	</dict>
-	<key>parenleft</key>
-	<dict>
-		<key>@MMK_R_C</key>
-		<integer>-15</integer>
-		<key>@MMK_R_G</key>
-		<integer>-15</integer>
-		<key>@MMK_R_O</key>
-		<integer>-15</integer>
-		<key>@MMK_R_T</key>
-		<integer>30</integer>
-		<key>@MMK_R_U</key>
-		<integer>-15</integer>
-		<key>@MMK_R_V</key>
-		<integer>45</integer>
-		<key>@MMK_R_alpha</key>
-		<integer>-15</integer>
-		<key>@MMK_R_beta</key>
-		<integer>15</integer>
-		<key>@MMK_R_c</key>
-		<integer>-15</integer>
-		<key>@MMK_R_copyright</key>
-		<integer>-15</integer>
-		<key>@MMK_R_d</key>
-		<integer>-15</integer>
-		<key>@MMK_R_equal</key>
-		<integer>-15</integer>
-		<key>@MMK_R_g</key>
-		<integer>-15</integer>
-		<key>@MMK_R_j</key>
-		<integer>15</integer>
-		<key>@MMK_R_mu</key>
-		<integer>15</integer>
-		<key>@MMK_R_o</key>
-		<integer>-15</integer>
-		<key>@MMK_R_omega</key>
-		<integer>-15</integer>
-		<key>@MMK_R_semicolon</key>
-		<integer>-15</integer>
-		<key>@MMK_R_t</key>
-		<integer>-15</integer>
-		<key>@MMK_R_tau</key>
-		<integer>-15</integer>
-		<key>@MMK_R_u</key>
-		<integer>-15</integer>
-		<key>@MMK_R_upsilon</key>
-		<integer>-15</integer>
-		<key>@MMK_R_v</key>
-		<integer>-15</integer>
-		<key>@MMK_R_y</key>
-		<integer>-15</integer>
-		<key>Hbar</key>
-		<integer>-15</integer>
-		<key>Tbar</key>
-		<integer>-15</integer>
-		<key>Y_upper_alt</key>
-		<integer>60</integer>
-		<key>asciitilde</key>
-		<integer>-15</integer>
-		<key>asterisk</key>
-		<integer>-15</integer>
-		<key>backslash</key>
-		<integer>45</integer>
-		<key>commaturnedabove</key>
-		<integer>15</integer>
-		<key>degree</key>
-		<integer>-30</integer>
-		<key>dslash</key>
-		<integer>-15</integer>
-		<key>lslash</key>
-		<integer>-15</integer>
-		<key>multiply</key>
-		<integer>-15</integer>
-		<key>nine</key>
-		<integer>-30</integer>
-		<key>one</key>
-		<integer>-15</integer>
-		<key>ordfeminine</key>
-		<integer>-30</integer>
-		<key>p</key>
-		<integer>15</integer>
-		<key>paragraph</key>
-		<integer>-30</integer>
-		<key>parenleft</key>
-		<integer>-15</integer>
-		<key>plus</key>
-		<integer>-15</integer>
-		<key>q</key>
-		<integer>-15</integer>
-		<key>question</key>
-		<integer>-15</integer>
-		<key>six</key>
-		<integer>-15</integer>
-		<key>trademark</key>
-		<integer>45</integer>
-	</dict>
-	<key>parenright</key>
-	<dict>
-		<key>@MMK_R_C</key>
-		<integer>-15</integer>
-		<key>@MMK_R_G</key>
-		<integer>-15</integer>
-		<key>@MMK_R_I</key>
-		<integer>15</integer>
-		<key>@MMK_R_O</key>
-		<integer>-15</integer>
-		<key>@MMK_R_T</key>
-		<integer>45</integer>
-		<key>@MMK_R_U</key>
-		<integer>-15</integer>
-		<key>@MMK_R_V</key>
-		<integer>45</integer>
-		<key>@MMK_R_alpha</key>
-		<integer>-15</integer>
-		<key>@MMK_R_c</key>
-		<integer>-15</integer>
-		<key>@MMK_R_copyright</key>
-		<integer>-30</integer>
-		<key>@MMK_R_d</key>
-		<integer>-15</integer>
-		<key>@MMK_R_e</key>
-		<integer>-15</integer>
-		<key>@MMK_R_epsilon</key>
-		<integer>-15</integer>
-		<key>@MMK_R_equal</key>
-		<integer>-15</integer>
-		<key>@MMK_R_exclam</key>
-		<integer>-15</integer>
-		<key>@MMK_R_g</key>
-		<integer>-15</integer>
-		<key>@MMK_R_o</key>
-		<integer>-15</integer>
-		<key>@MMK_R_omega</key>
-		<integer>-15</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>45</integer>
-		<key>@MMK_R_semicolon</key>
-		<integer>-15</integer>
-		<key>@MMK_R_t</key>
-		<integer>-15</integer>
-		<key>@MMK_R_tau</key>
-		<integer>15</integer>
-		<key>@MMK_R_u</key>
-		<integer>-15</integer>
-		<key>@MMK_R_upsilon</key>
-		<integer>-15</integer>
-		<key>@MMK_R_v</key>
-		<integer>30</integer>
-		<key>@MMK_R_y</key>
-		<integer>-15</integer>
-		<key>Y_upper_alt</key>
-		<integer>45</integer>
-		<key>asterisk</key>
-		<integer>30</integer>
-		<key>backslash</key>
-		<integer>30</integer>
-		<key>commaturnedabove</key>
-		<integer>45</integer>
-		<key>currency</key>
-		<integer>-15</integer>
-		<key>degree</key>
-		<integer>30</integer>
-		<key>dslash</key>
-		<integer>-15</integer>
-		<key>eight</key>
-		<integer>-15</integer>
-		<key>ellipsis</key>
-		<integer>-15</integer>
-		<key>guillemotright</key>
-		<integer>-15</integer>
-		<key>lslash</key>
-		<integer>15</integer>
-		<key>multiply</key>
-		<integer>-15</integer>
-		<key>nine</key>
-		<integer>15</integer>
-		<key>numbersign</key>
-		<integer>-15</integer>
-		<key>one</key>
-		<integer>45</integer>
-		<key>ordfeminine</key>
-		<integer>15</integer>
-		<key>parenleft</key>
-		<integer>-15</integer>
-		<key>percent</key>
-		<integer>-15</integer>
-		<key>period</key>
-		<integer>-15</integer>
-		<key>perthousand</key>
-		<integer>-15</integer>
-		<key>plusminus</key>
-		<integer>-15</integer>
-		<key>q</key>
-		<integer>-15</integer>
-		<key>question</key>
-		<integer>30</integer>
-		<key>six</key>
-		<integer>-15</integer>
-		<key>trademark</key>
-		<integer>45</integer>
-	</dict>
-	<key>percent</key>
-	<dict>
-		<key>@MMK_R_C</key>
-		<integer>-15</integer>
-		<key>@MMK_R_G</key>
-		<integer>-15</integer>
-		<key>@MMK_R_I</key>
-		<integer>15</integer>
-		<key>@MMK_R_O</key>
-		<integer>-15</integer>
-		<key>@MMK_R_T</key>
-		<integer>45</integer>
-		<key>@MMK_R_U</key>
-		<integer>-15</integer>
-		<key>@MMK_R_V</key>
-		<integer>45</integer>
-		<key>@MMK_R_alpha</key>
-		<integer>-15</integer>
-		<key>@MMK_R_beta</key>
-		<integer>15</integer>
-		<key>@MMK_R_c</key>
-		<integer>-15</integer>
-		<key>@MMK_R_copyright</key>
-		<integer>-15</integer>
-		<key>@MMK_R_d</key>
-		<integer>-15</integer>
-		<key>@MMK_R_equal</key>
-		<integer>-15</integer>
-		<key>@MMK_R_g</key>
-		<integer>-15</integer>
-		<key>@MMK_R_j</key>
-		<integer>15</integer>
-		<key>@MMK_R_mu</key>
-		<integer>15</integer>
-		<key>@MMK_R_o</key>
-		<integer>-15</integer>
-		<key>@MMK_R_omega</key>
-		<integer>-15</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>15</integer>
-		<key>@MMK_R_semicolon</key>
-		<integer>-15</integer>
-		<key>@MMK_R_t</key>
-		<integer>-15</integer>
-		<key>@MMK_R_tau</key>
-		<integer>-15</integer>
-		<key>@MMK_R_u</key>
-		<integer>-15</integer>
-		<key>@MMK_R_upsilon</key>
-		<integer>-15</integer>
-		<key>@MMK_R_v</key>
-		<integer>-15</integer>
-		<key>@MMK_R_y</key>
-		<integer>-15</integer>
-		<key>Hbar</key>
-		<integer>-15</integer>
-		<key>Y_upper_alt</key>
-		<integer>60</integer>
-		<key>asciitilde</key>
-		<integer>-15</integer>
-		<key>asterisk</key>
-		<integer>-15</integer>
-		<key>backslash</key>
-		<integer>45</integer>
-		<key>commaturnedabove</key>
-		<integer>30</integer>
-		<key>dslash</key>
-		<integer>-15</integer>
-		<key>four</key>
-		<integer>-15</integer>
-		<key>lslash</key>
-		<integer>-15</integer>
-		<key>multiply</key>
-		<integer>-15</integer>
-		<key>nine</key>
-		<integer>-30</integer>
-		<key>numbersign</key>
-		<integer>-15</integer>
-		<key>one</key>
-		<integer>30</integer>
-		<key>ordfeminine</key>
-		<integer>-30</integer>
-		<key>p</key>
-		<integer>15</integer>
-		<key>paragraph</key>
-		<integer>-30</integer>
-		<key>parenleft</key>
-		<integer>-15</integer>
-		<key>plus</key>
-		<integer>-15</integer>
-		<key>plusminus</key>
-		<integer>-15</integer>
-		<key>q</key>
-		<integer>-15</integer>
-		<key>question</key>
-		<integer>-15</integer>
-		<key>six</key>
-		<integer>-15</integer>
-		<key>trademark</key>
-		<integer>45</integer>
-	</dict>
-	<key>period</key>
-	<dict>
-		<key>@MMK_R_A</key>
-		<integer>45</integer>
-		<key>@MMK_R_B</key>
-		<integer>45</integer>
-		<key>@MMK_R_C</key>
-		<integer>30</integer>
-		<key>@MMK_R_D</key>
-		<integer>45</integer>
-		<key>@MMK_R_E</key>
-		<integer>45</integer>
-		<key>@MMK_R_F</key>
-		<integer>45</integer>
-		<key>@MMK_R_G</key>
-		<integer>30</integer>
-		<key>@MMK_R_H</key>
-		<integer>45</integer>
-		<key>@MMK_R_I</key>
-		<integer>30</integer>
-		<key>@MMK_R_J</key>
-		<integer>45</integer>
-		<key>@MMK_R_K</key>
-		<integer>45</integer>
-		<key>@MMK_R_L</key>
-		<integer>45</integer>
-		<key>@MMK_R_M</key>
-		<integer>45</integer>
-		<key>@MMK_R_N</key>
-		<integer>45</integer>
-		<key>@MMK_R_O</key>
-		<integer>30</integer>
-		<key>@MMK_R_Omegagreek</key>
-		<integer>45</integer>
-		<key>@MMK_R_P</key>
-		<integer>45</integer>
-		<key>@MMK_R_S</key>
-		<integer>30</integer>
-		<key>@MMK_R_T</key>
-		<integer>-15</integer>
-		<key>@MMK_R_U</key>
-		<integer>30</integer>
-		<key>@MMK_R_V</key>
-		<integer>-30</integer>
-		<key>@MMK_R_X</key>
-		<integer>45</integer>
-		<key>@MMK_R_Y</key>
-		<integer>-45</integer>
-		<key>@MMK_R_Z</key>
-		<integer>45</integer>
-		<key>@MMK_R_alpha</key>
-		<integer>30</integer>
-		<key>@MMK_R_b</key>
-		<integer>45</integer>
-		<key>@MMK_R_bar</key>
-		<integer>15</integer>
-		<key>@MMK_R_beta</key>
-		<integer>15</integer>
-		<key>@MMK_R_c</key>
-		<integer>30</integer>
-		<key>@MMK_R_copyright</key>
-		<integer>15</integer>
-		<key>@MMK_R_d</key>
-		<integer>30</integer>
-		<key>@MMK_R_e</key>
-		<integer>45</integer>
-		<key>@MMK_R_epsilon</key>
-		<integer>30</integer>
-		<key>@MMK_R_equal</key>
-		<integer>-15</integer>
-		<key>@MMK_R_eta</key>
-		<integer>45</integer>
-		<key>@MMK_R_exclam</key>
-		<integer>45</integer>
-		<key>@MMK_R_f</key>
-		<integer>45</integer>
-		<key>@MMK_R_g</key>
-		<integer>30</integer>
-		<key>@MMK_R_h</key>
-		<integer>45</integer>
-		<key>@MMK_R_i</key>
-		<integer>45</integer>
-		<key>@MMK_R_j</key>
-		<integer>-15</integer>
-		<key>@MMK_R_k</key>
-		<integer>45</integer>
-		<key>@MMK_R_kappa</key>
-		<integer>45</integer>
-		<key>@MMK_R_l</key>
-		<integer>45</integer>
-		<key>@MMK_R_mu</key>
-		<integer>15</integer>
-		<key>@MMK_R_n</key>
-		<integer>45</integer>
-		<key>@MMK_R_o</key>
-		<integer>30</integer>
-		<key>@MMK_R_omega</key>
-		<integer>30</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-30</integer>
-		<key>@MMK_R_r</key>
-		<integer>45</integer>
-		<key>@MMK_R_s</key>
-		<integer>45</integer>
-		<key>@MMK_R_semicolon</key>
-		<integer>30</integer>
-		<key>@MMK_R_slash</key>
-		<integer>-15</integer>
-		<key>@MMK_R_t</key>
-		<integer>30</integer>
-		<key>@MMK_R_tau</key>
-		<integer>-15</integer>
-		<key>@MMK_R_u</key>
-		<integer>30</integer>
-		<key>@MMK_R_upsilon</key>
-		<integer>30</integer>
-		<key>@MMK_R_v</key>
-		<integer>-30</integer>
-		<key>@MMK_R_y</key>
-		<integer>30</integer>
-		<key>@MMK_R_z</key>
-		<integer>45</integer>
-		<key>Hbar</key>
-		<integer>30</integer>
-		<key>Tbar</key>
-		<integer>-45</integer>
-		<key>Y_upper_alt</key>
-		<integer>-30</integer>
-		<key>asciitilde</key>
-		<integer>-15</integer>
-		<key>asterisk</key>
-		<integer>-30</integer>
-		<key>backslash</key>
-		<integer>-45</integer>
-		<key>commaturnedabove</key>
-		<integer>-30</integer>
-		<key>currency</key>
-		<integer>15</integer>
-		<key>degree</key>
-		<integer>-30</integer>
-		<key>dslash</key>
-		<integer>30</integer>
-		<key>eight</key>
-		<integer>30</integer>
-		<key>ellipsis</key>
-		<integer>45</integer>
-		<key>eng</key>
-		<integer>45</integer>
-		<key>five</key>
-		<integer>45</integer>
-		<key>four</key>
-		<integer>-30</integer>
-		<key>guillemotright</key>
-		<integer>15</integer>
-		<key>hbar</key>
-		<integer>30</integer>
-		<key>lslash</key>
-		<integer>-15</integer>
-		<key>multiply</key>
-		<integer>-45</integer>
-		<key>nine</key>
-		<integer>-45</integer>
-		<key>numbersign</key>
-		<integer>30</integer>
-		<key>one</key>
-		<integer>15</integer>
-		<key>ordfeminine</key>
-		<integer>-30</integer>
-		<key>oslash</key>
-		<integer>15</integer>
-		<key>p</key>
-		<integer>15</integer>
-		<key>paragraph</key>
-		<integer>-60</integer>
-		<key>parenleft</key>
-		<integer>30</integer>
-		<key>parenright</key>
-		<integer>30</integer>
-		<key>percent</key>
-		<integer>30</integer>
-		<key>period</key>
-		<integer>45</integer>
-		<key>perthousand</key>
-		<integer>30</integer>
-		<key>pi</key>
-		<integer>45</integer>
-		<key>plus</key>
-		<integer>-15</integer>
-		<key>plusminus</key>
-		<integer>15</integer>
-		<key>q</key>
-		<integer>30</integer>
-		<key>seven</key>
-		<integer>45</integer>
-		<key>six</key>
-		<integer>15</integer>
-		<key>three</key>
-		<integer>45</integer>
-		<key>trademark</key>
-		<integer>-30</integer>
-		<key>two</key>
-		<integer>45</integer>
-		<key>x</key>
-		<integer>45</integer>
-	</dict>
-	<key>perthousand</key>
-	<dict>
-		<key>@MMK_R_A</key>
-		<integer>15</integer>
-		<key>@MMK_R_B</key>
-		<integer>30</integer>
-		<key>@MMK_R_C</key>
-		<integer>30</integer>
-		<key>@MMK_R_D</key>
-		<integer>30</integer>
-		<key>@MMK_R_E</key>
-		<integer>30</integer>
-		<key>@MMK_R_F</key>
-		<integer>30</integer>
-		<key>@MMK_R_G</key>
-		<integer>30</integer>
-		<key>@MMK_R_H</key>
-		<integer>30</integer>
-		<key>@MMK_R_I</key>
-		<integer>15</integer>
-		<key>@MMK_R_J</key>
-		<integer>30</integer>
-		<key>@MMK_R_K</key>
-		<integer>30</integer>
-		<key>@MMK_R_L</key>
-		<integer>30</integer>
-		<key>@MMK_R_M</key>
-		<integer>30</integer>
-		<key>@MMK_R_N</key>
-		<integer>30</integer>
-		<key>@MMK_R_O</key>
-		<integer>30</integer>
-		<key>@MMK_R_Omegagreek</key>
-		<integer>15</integer>
-		<key>@MMK_R_P</key>
-		<integer>30</integer>
-		<key>@MMK_R_S</key>
-		<integer>45</integer>
-		<key>@MMK_R_T</key>
-		<integer>-30</integer>
-		<key>@MMK_R_U</key>
-		<integer>30</integer>
-		<key>@MMK_R_V</key>
-		<integer>-30</integer>
-		<key>@MMK_R_Y</key>
-		<integer>-30</integer>
-		<key>@MMK_R_Z</key>
-		<integer>30</integer>
-		<key>@MMK_R_alpha</key>
-		<integer>30</integer>
-		<key>@MMK_R_b</key>
-		<integer>30</integer>
-		<key>@MMK_R_c</key>
-		<integer>30</integer>
-		<key>@MMK_R_copyright</key>
-		<integer>30</integer>
-		<key>@MMK_R_d</key>
-		<integer>30</integer>
-		<key>@MMK_R_e</key>
-		<integer>45</integer>
-		<key>@MMK_R_epsilon</key>
-		<integer>45</integer>
-		<key>@MMK_R_equal</key>
-		<integer>30</integer>
-		<key>@MMK_R_eta</key>
-		<integer>30</integer>
-		<key>@MMK_R_exclam</key>
-		<integer>15</integer>
-		<key>@MMK_R_f</key>
-		<integer>30</integer>
-		<key>@MMK_R_g</key>
-		<integer>30</integer>
-		<key>@MMK_R_h</key>
-		<integer>30</integer>
-		<key>@MMK_R_i</key>
-		<integer>30</integer>
-		<key>@MMK_R_j</key>
-		<integer>-15</integer>
-		<key>@MMK_R_k</key>
-		<integer>30</integer>
-		<key>@MMK_R_kappa</key>
-		<integer>30</integer>
-		<key>@MMK_R_l</key>
-		<integer>30</integer>
-		<key>@MMK_R_n</key>
-		<integer>30</integer>
-		<key>@MMK_R_o</key>
-		<integer>30</integer>
-		<key>@MMK_R_omega</key>
-		<integer>30</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-45</integer>
-		<key>@MMK_R_r</key>
-		<integer>30</integer>
-		<key>@MMK_R_s</key>
-		<integer>30</integer>
-		<key>@MMK_R_semicolon</key>
-		<integer>30</integer>
-		<key>@MMK_R_slash</key>
-		<integer>-30</integer>
-		<key>@MMK_R_t</key>
-		<integer>30</integer>
-		<key>@MMK_R_tau</key>
-		<integer>-15</integer>
-		<key>@MMK_R_u</key>
-		<integer>30</integer>
-		<key>@MMK_R_upsilon</key>
-		<integer>30</integer>
-		<key>@MMK_R_v</key>
-		<integer>-15</integer>
-		<key>@MMK_R_y</key>
-		<integer>30</integer>
-		<key>@MMK_R_z</key>
-		<integer>30</integer>
-		<key>Hbar</key>
-		<integer>15</integer>
-		<key>Tbar</key>
-		<integer>-45</integer>
-		<key>Y_upper_alt</key>
-		<integer>-45</integer>
-		<key>asciitilde</key>
-		<integer>-15</integer>
-		<key>asterisk</key>
-		<integer>-45</integer>
-		<key>backslash</key>
-		<integer>-45</integer>
-		<key>commaturnedabove</key>
-		<integer>-45</integer>
-		<key>currency</key>
-		<integer>45</integer>
-		<key>degree</key>
-		<integer>-60</integer>
-		<key>dslash</key>
-		<integer>30</integer>
-		<key>eight</key>
-		<integer>45</integer>
-		<key>ellipsis</key>
-		<integer>15</integer>
-		<key>eng</key>
-		<integer>30</integer>
-		<key>five</key>
-		<integer>30</integer>
-		<key>four</key>
-		<integer>-15</integer>
-		<key>guillemotright</key>
-		<integer>45</integer>
-		<key>hbar</key>
-		<integer>15</integer>
-		<key>lslash</key>
-		<integer>-15</integer>
-		<key>multiply</key>
-		<integer>30</integer>
-		<key>nine</key>
-		<integer>-60</integer>
-		<key>numbersign</key>
-		<integer>30</integer>
-		<key>ordfeminine</key>
-		<integer>-60</integer>
-		<key>oslash</key>
-		<integer>30</integer>
-		<key>paragraph</key>
-		<integer>-30</integer>
-		<key>parenleft</key>
-		<integer>30</integer>
-		<key>parenright</key>
-		<integer>-30</integer>
-		<key>period</key>
-		<integer>15</integer>
-		<key>pi</key>
-		<integer>30</integer>
-		<key>plus</key>
-		<integer>-30</integer>
-		<key>plusminus</key>
-		<integer>45</integer>
-		<key>q</key>
-		<integer>30</integer>
-		<key>question</key>
-		<integer>-15</integer>
-		<key>six</key>
-		<integer>30</integer>
-		<key>three</key>
-		<integer>45</integer>
-		<key>trademark</key>
-		<integer>-45</integer>
-		<key>two</key>
-		<integer>30</integer>
-	</dict>
-	<key>pi</key>
-	<dict>
-		<key>@MMK_R_A</key>
-		<integer>15</integer>
-		<key>@MMK_R_B</key>
-		<integer>15</integer>
-		<key>@MMK_R_D</key>
-		<integer>15</integer>
-		<key>@MMK_R_E</key>
-		<integer>15</integer>
-		<key>@MMK_R_F</key>
-		<integer>15</integer>
-		<key>@MMK_R_H</key>
-		<integer>15</integer>
-		<key>@MMK_R_J</key>
-		<integer>30</integer>
-		<key>@MMK_R_K</key>
-		<integer>15</integer>
-		<key>@MMK_R_L</key>
-		<integer>15</integer>
-		<key>@MMK_R_M</key>
-		<integer>15</integer>
-		<key>@MMK_R_N</key>
-		<integer>15</integer>
-		<key>@MMK_R_Omegagreek</key>
-		<integer>15</integer>
-		<key>@MMK_R_P</key>
-		<integer>15</integer>
-		<key>@MMK_R_V</key>
-		<integer>30</integer>
-		<key>@MMK_R_X</key>
-		<integer>15</integer>
-		<key>@MMK_R_Y</key>
-		<integer>30</integer>
-		<key>@MMK_R_Z</key>
-		<integer>15</integer>
-		<key>@MMK_R_b</key>
-		<integer>15</integer>
-		<key>@MMK_R_bar</key>
-		<integer>-15</integer>
-		<key>@MMK_R_beta</key>
-		<integer>-15</integer>
-		<key>@MMK_R_e</key>
-		<integer>15</integer>
-		<key>@MMK_R_eta</key>
-		<integer>15</integer>
-		<key>@MMK_R_exclam</key>
-		<integer>15</integer>
-		<key>@MMK_R_f</key>
-		<integer>15</integer>
-		<key>@MMK_R_h</key>
-		<integer>15</integer>
-		<key>@MMK_R_i</key>
-		<integer>15</integer>
-		<key>@MMK_R_j</key>
-		<integer>-15</integer>
-		<key>@MMK_R_k</key>
-		<integer>15</integer>
-		<key>@MMK_R_kappa</key>
-		<integer>15</integer>
-		<key>@MMK_R_l</key>
-		<integer>15</integer>
-		<key>@MMK_R_mu</key>
-		<integer>-15</integer>
-		<key>@MMK_R_n</key>
-		<integer>15</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>15</integer>
-		<key>@MMK_R_r</key>
-		<integer>15</integer>
-		<key>@MMK_R_s</key>
-		<integer>15</integer>
-		<key>@MMK_R_t</key>
-		<integer>15</integer>
-		<key>@MMK_R_tau</key>
-		<integer>30</integer>
-		<key>@MMK_R_v</key>
-		<integer>45</integer>
-		<key>@MMK_R_z</key>
-		<integer>15</integer>
-		<key>Hbar</key>
-		<integer>15</integer>
-		<key>Tbar</key>
-		<integer>30</integer>
-		<key>asciitilde</key>
-		<integer>30</integer>
-		<key>asterisk</key>
-		<integer>30</integer>
-		<key>commaturnedabove</key>
-		<integer>15</integer>
-		<key>degree</key>
-		<integer>30</integer>
-		<key>ellipsis</key>
-		<integer>15</integer>
-		<key>eng</key>
-		<integer>15</integer>
-		<key>five</key>
-		<integer>30</integer>
-		<key>four</key>
-		<integer>30</integer>
-		<key>lslash</key>
-		<integer>30</integer>
-		<key>multiply</key>
-		<integer>15</integer>
-		<key>nine</key>
-		<integer>45</integer>
-		<key>one</key>
-		<integer>15</integer>
-		<key>ordfeminine</key>
-		<integer>30</integer>
-		<key>p</key>
-		<integer>-15</integer>
-		<key>paragraph</key>
-		<integer>15</integer>
-		<key>parenleft</key>
-		<integer>15</integer>
-		<key>parenright</key>
-		<integer>-15</integer>
-		<key>period</key>
-		<integer>15</integer>
-		<key>pi</key>
-		<integer>15</integer>
-		<key>plus</key>
-		<integer>30</integer>
-		<key>question</key>
-		<integer>45</integer>
-		<key>seven</key>
-		<integer>15</integer>
-		<key>three</key>
-		<integer>15</integer>
-		<key>two</key>
-		<integer>15</integer>
-		<key>x</key>
-		<integer>15</integer>
-	</dict>
-	<key>plus</key>
-	<dict>
-		<key>@MMK_R_C</key>
-		<integer>15</integer>
-		<key>@MMK_R_G</key>
-		<integer>15</integer>
-		<key>@MMK_R_I</key>
-		<integer>-15</integer>
-		<key>@MMK_R_O</key>
-		<integer>15</integer>
-		<key>@MMK_R_T</key>
-		<integer>-30</integer>
-		<key>@MMK_R_U</key>
-		<integer>15</integer>
-		<key>@MMK_R_V</key>
-		<integer>15</integer>
-		<key>@MMK_R_Y</key>
-		<integer>45</integer>
-		<key>@MMK_R_alpha</key>
-		<integer>15</integer>
-		<key>@MMK_R_bar</key>
-		<integer>-15</integer>
-		<key>@MMK_R_c</key>
-		<integer>15</integer>
-		<key>@MMK_R_d</key>
-		<integer>15</integer>
-		<key>@MMK_R_e</key>
-		<integer>15</integer>
-		<key>@MMK_R_equal</key>
-		<integer>30</integer>
-		<key>@MMK_R_exclam</key>
-		<integer>-15</integer>
-		<key>@MMK_R_g</key>
-		<integer>15</integer>
-		<key>@MMK_R_o</key>
-		<integer>15</integer>
-		<key>@MMK_R_omega</key>
-		<integer>15</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-30</integer>
-		<key>@MMK_R_semicolon</key>
-		<integer>15</integer>
-		<key>@MMK_R_tau</key>
-		<integer>45</integer>
-		<key>@MMK_R_u</key>
-		<integer>15</integer>
-		<key>@MMK_R_upsilon</key>
-		<integer>15</integer>
-		<key>@MMK_R_v</key>
-		<integer>45</integer>
-		<key>@MMK_R_y</key>
-		<integer>15</integer>
-		<key>Hbar</key>
-		<integer>-15</integer>
-		<key>Tbar</key>
-		<integer>45</integer>
-		<key>Y_upper_alt</key>
-		<integer>-30</integer>
-		<key>asciitilde</key>
-		<integer>45</integer>
-		<key>asterisk</key>
-		<integer>30</integer>
-		<key>backslash</key>
-		<integer>-15</integer>
-		<key>commaturnedabove</key>
-		<integer>-30</integer>
-		<key>degree</key>
-		<integer>15</integer>
-		<key>dslash</key>
-		<integer>15</integer>
-		<key>eight</key>
-		<integer>15</integer>
-		<key>ellipsis</key>
-		<integer>15</integer>
-		<key>four</key>
-		<integer>45</integer>
-		<key>guillemotright</key>
-		<integer>15</integer>
-		<key>hbar</key>
-		<integer>-15</integer>
-		<key>lslash</key>
-		<integer>45</integer>
-		<key>multiply</key>
-		<integer>15</integer>
-		<key>nine</key>
-		<integer>45</integer>
-		<key>numbersign</key>
-		<integer>15</integer>
-		<key>one</key>
-		<integer>-30</integer>
-		<key>ordfeminine</key>
-		<integer>30</integer>
-		<key>paragraph</key>
-		<integer>30</integer>
-		<key>parenright</key>
-		<integer>-15</integer>
-		<key>percent</key>
-		<integer>-15</integer>
-		<key>period</key>
-		<integer>15</integer>
-		<key>perthousand</key>
-		<integer>-15</integer>
-		<key>plus</key>
-		<integer>45</integer>
-		<key>plusminus</key>
-		<integer>15</integer>
-		<key>q</key>
-		<integer>15</integer>
-		<key>question</key>
-		<integer>-30</integer>
-		<key>six</key>
-		<integer>15</integer>
-		<key>trademark</key>
-		<integer>-30</integer>
-	</dict>
-	<key>plusminus</key>
-	<dict>
-		<key>@MMK_R_C</key>
-		<integer>15</integer>
-		<key>@MMK_R_G</key>
-		<integer>15</integer>
-		<key>@MMK_R_I</key>
-		<integer>-15</integer>
-		<key>@MMK_R_S</key>
-		<integer>15</integer>
-		<key>@MMK_R_T</key>
-		<integer>-30</integer>
-		<key>@MMK_R_U</key>
-		<integer>15</integer>
-		<key>@MMK_R_V</key>
-		<integer>30</integer>
-		<key>@MMK_R_Y</key>
-		<integer>30</integer>
-		<key>@MMK_R_c</key>
-		<integer>15</integer>
-		<key>@MMK_R_e</key>
-		<integer>15</integer>
-		<key>@MMK_R_equal</key>
-		<integer>15</integer>
-		<key>@MMK_R_exclam</key>
-		<integer>-15</integer>
-		<key>@MMK_R_o</key>
-		<integer>15</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>-15</integer>
-		<key>@MMK_R_tau</key>
-		<integer>45</integer>
-		<key>@MMK_R_upsilon</key>
-		<integer>15</integer>
-		<key>@MMK_R_v</key>
-		<integer>45</integer>
-		<key>Hbar</key>
-		<integer>15</integer>
-		<key>Tbar</key>
-		<integer>30</integer>
-		<key>Y_upper_alt</key>
-		<integer>-15</integer>
-		<key>asciitilde</key>
-		<integer>30</integer>
-		<key>asterisk</key>
-		<integer>30</integer>
-		<key>backslash</key>
-		<integer>-15</integer>
-		<key>commaturnedabove</key>
-		<integer>-30</integer>
-		<key>currency</key>
-		<integer>15</integer>
-		<key>degree</key>
-		<integer>30</integer>
-		<key>eight</key>
-		<integer>15</integer>
-		<key>ellipsis</key>
-		<integer>-15</integer>
-		<key>four</key>
-		<integer>30</integer>
-		<key>guillemotright</key>
-		<integer>15</integer>
-		<key>hbar</key>
-		<integer>-15</integer>
-		<key>lslash</key>
-		<integer>45</integer>
-		<key>multiply</key>
-		<integer>30</integer>
-		<key>nine</key>
-		<integer>45</integer>
-		<key>numbersign</key>
-		<integer>15</integer>
-		<key>ordfeminine</key>
-		<integer>45</integer>
-		<key>paragraph</key>
-		<integer>30</integer>
-		<key>period</key>
-		<integer>-15</integer>
-		<key>plus</key>
-		<integer>30</integer>
-		<key>plusminus</key>
-		<integer>15</integer>
-		<key>question</key>
-		<integer>15</integer>
-		<key>six</key>
-		<integer>15</integer>
-	</dict>
-	<key>q</key>
-	<dict>
-		<key>@MMK_R_A</key>
-		<integer>-15</integer>
-		<key>@MMK_R_B</key>
-		<integer>-15</integer>
-		<key>@MMK_R_D</key>
-		<integer>-15</integer>
-		<key>@MMK_R_E</key>
-		<integer>-15</integer>
-		<key>@MMK_R_F</key>
-		<integer>-15</integer>
-		<key>@MMK_R_H</key>
-		<integer>-15</integer>
-		<key>@MMK_R_I</key>
-		<integer>-15</integer>
-		<key>@MMK_R_K</key>
-		<integer>-15</integer>
-		<key>@MMK_R_L</key>
-		<integer>-15</integer>
-		<key>@MMK_R_M</key>
-		<integer>-15</integer>
-		<key>@MMK_R_N</key>
-		<integer>-15</integer>
-		<key>@MMK_R_Omegagreek</key>
-		<integer>-15</integer>
-		<key>@MMK_R_P</key>
-		<integer>-15</integer>
-		<key>@MMK_R_S</key>
-		<integer>15</integer>
-		<key>@MMK_R_T</key>
-		<integer>15</integer>
-		<key>@MMK_R_V</key>
-		<integer>30</integer>
-		<key>@MMK_R_Y</key>
-		<integer>30</integer>
-		<key>@MMK_R_Z</key>
-		<integer>-15</integer>
-		<key>@MMK_R_b</key>
-		<integer>-15</integer>
-		<key>@MMK_R_beta</key>
-		<integer>-15</integer>
-		<key>@MMK_R_equal</key>
-		<integer>15</integer>
-		<key>@MMK_R_eta</key>
-		<integer>-15</integer>
-		<key>@MMK_R_f</key>
-		<integer>-15</integer>
-		<key>@MMK_R_h</key>
-		<integer>-15</integer>
-		<key>@MMK_R_i</key>
-		<integer>-15</integer>
-		<key>@MMK_R_j</key>
-		<integer>-15</integer>
-		<key>@MMK_R_k</key>
-		<integer>-15</integer>
-		<key>@MMK_R_kappa</key>
-		<integer>-15</integer>
-		<key>@MMK_R_l</key>
-		<integer>-15</integer>
-		<key>@MMK_R_mu</key>
-		<integer>-15</integer>
-		<key>@MMK_R_n</key>
-		<integer>-15</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>30</integer>
-		<key>@MMK_R_r</key>
-		<integer>-15</integer>
-		<key>@MMK_R_tau</key>
-		<integer>45</integer>
-		<key>@MMK_R_v</key>
-		<integer>60</integer>
-		<key>@MMK_R_z</key>
-		<integer>-15</integer>
-		<key>Hbar</key>
-		<integer>30</integer>
-		<key>Tbar</key>
-		<integer>30</integer>
-		<key>asciitilde</key>
-		<integer>30</integer>
-		<key>asterisk</key>
-		<integer>45</integer>
-		<key>commaturnedabove</key>
-		<integer>15</integer>
-		<key>degree</key>
-		<integer>45</integer>
-		<key>eight</key>
-		<integer>15</integer>
-		<key>ellipsis</key>
-		<integer>-15</integer>
-		<key>eng</key>
-		<integer>-15</integer>
-		<key>four</key>
-		<integer>30</integer>
-		<key>hbar</key>
-		<integer>15</integer>
-		<key>lslash</key>
-		<integer>45</integer>
-		<key>multiply</key>
-		<integer>15</integer>
-		<key>nine</key>
-		<integer>45</integer>
-		<key>one</key>
-		<integer>30</integer>
-		<key>ordfeminine</key>
-		<integer>45</integer>
-		<key>p</key>
-		<integer>-15</integer>
-		<key>paragraph</key>
-		<integer>30</integer>
-		<key>parenleft</key>
-		<integer>-15</integer>
-		<key>period</key>
-		<integer>-15</integer>
-		<key>pi</key>
-		<integer>-15</integer>
-		<key>plus</key>
-		<integer>30</integer>
-		<key>question</key>
-		<integer>45</integer>
-		<key>six</key>
-		<integer>15</integer>
-		<key>trademark</key>
-		<integer>15</integer>
-		<key>two</key>
-		<integer>-15</integer>
-		<key>x</key>
-		<integer>-15</integer>
-	</dict>
-	<key>question</key>
-	<dict>
-		<key>@MMK_R_B</key>
-		<integer>-15</integer>
-		<key>@MMK_R_C</key>
-		<integer>-15</integer>
-		<key>@MMK_R_D</key>
-		<integer>-15</integer>
-		<key>@MMK_R_E</key>
-		<integer>-15</integer>
-		<key>@MMK_R_F</key>
-		<integer>-15</integer>
-		<key>@MMK_R_G</key>
-		<integer>-15</integer>
-		<key>@MMK_R_H</key>
-		<integer>-15</integer>
-		<key>@MMK_R_I</key>
-		<integer>15</integer>
-		<key>@MMK_R_J</key>
-		<integer>-15</integer>
-		<key>@MMK_R_K</key>
-		<integer>-15</integer>
-		<key>@MMK_R_L</key>
-		<integer>-15</integer>
-		<key>@MMK_R_M</key>
-		<integer>-15</integer>
-		<key>@MMK_R_N</key>
-		<integer>-15</integer>
-		<key>@MMK_R_O</key>
-		<integer>-15</integer>
-		<key>@MMK_R_P</key>
-		<integer>-15</integer>
-		<key>@MMK_R_S</key>
-		<integer>-15</integer>
-		<key>@MMK_R_T</key>
-		<integer>45</integer>
-		<key>@MMK_R_U</key>
-		<integer>-15</integer>
-		<key>@MMK_R_V</key>
-		<integer>30</integer>
-		<key>@MMK_R_Y</key>
-		<integer>15</integer>
-		<key>@MMK_R_alpha</key>
-		<integer>-15</integer>
-		<key>@MMK_R_b</key>
-		<integer>-15</integer>
-		<key>@MMK_R_bar</key>
-		<integer>-15</integer>
-		<key>@MMK_R_c</key>
-		<integer>-15</integer>
-		<key>@MMK_R_copyright</key>
-		<integer>-30</integer>
-		<key>@MMK_R_d</key>
-		<integer>-15</integer>
-		<key>@MMK_R_e</key>
-		<integer>-15</integer>
-		<key>@MMK_R_epsilon</key>
-		<integer>-15</integer>
-		<key>@MMK_R_eta</key>
-		<integer>-15</integer>
-		<key>@MMK_R_exclam</key>
-		<integer>-15</integer>
-		<key>@MMK_R_f</key>
-		<integer>-15</integer>
-		<key>@MMK_R_g</key>
-		<integer>-30</integer>
-		<key>@MMK_R_h</key>
-		<integer>-15</integer>
-		<key>@MMK_R_i</key>
-		<integer>-15</integer>
-		<key>@MMK_R_k</key>
-		<integer>-15</integer>
-		<key>@MMK_R_kappa</key>
-		<integer>-15</integer>
-		<key>@MMK_R_l</key>
-		<integer>-15</integer>
-		<key>@MMK_R_n</key>
-		<integer>-15</integer>
-		<key>@MMK_R_o</key>
-		<integer>-15</integer>
-		<key>@MMK_R_omega</key>
-		<integer>-30</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>45</integer>
-		<key>@MMK_R_r</key>
-		<integer>-15</integer>
-		<key>@MMK_R_s</key>
-		<integer>-15</integer>
-		<key>@MMK_R_semicolon</key>
-		<integer>-15</integer>
-		<key>@MMK_R_slash</key>
-		<integer>-15</integer>
-		<key>@MMK_R_t</key>
-		<integer>-15</integer>
-		<key>@MMK_R_tau</key>
-		<integer>30</integer>
-		<key>@MMK_R_u</key>
-		<integer>-15</integer>
-		<key>@MMK_R_upsilon</key>
-		<integer>-15</integer>
-		<key>@MMK_R_v</key>
-		<integer>45</integer>
-		<key>@MMK_R_y</key>
-		<integer>-15</integer>
-		<key>@MMK_R_z</key>
-		<integer>-15</integer>
-		<key>Hbar</key>
-		<integer>15</integer>
-		<key>Y_upper_alt</key>
-		<integer>15</integer>
-		<key>asciitilde</key>
-		<integer>-30</integer>
-		<key>asterisk</key>
-		<integer>45</integer>
-		<key>commaturnedabove</key>
-		<integer>45</integer>
-		<key>currency</key>
-		<integer>-15</integer>
-		<key>degree</key>
-		<integer>30</integer>
-		<key>dslash</key>
-		<integer>-15</integer>
-		<key>eight</key>
-		<integer>-15</integer>
-		<key>ellipsis</key>
-		<integer>-15</integer>
-		<key>eng</key>
-		<integer>-15</integer>
-		<key>four</key>
-		<integer>-15</integer>
-		<key>guillemotright</key>
-		<integer>-15</integer>
-		<key>hbar</key>
-		<integer>15</integer>
-		<key>lslash</key>
-		<integer>-15</integer>
-		<key>nine</key>
-		<integer>30</integer>
-		<key>numbersign</key>
-		<integer>-15</integer>
-		<key>one</key>
-		<integer>30</integer>
-		<key>ordfeminine</key>
-		<integer>30</integer>
-		<key>oslash</key>
-		<integer>-15</integer>
-		<key>parenleft</key>
-		<integer>-15</integer>
-		<key>parenright</key>
-		<integer>-15</integer>
-		<key>percent</key>
-		<integer>-15</integer>
-		<key>period</key>
-		<integer>-15</integer>
-		<key>perthousand</key>
-		<integer>-15</integer>
-		<key>pi</key>
-		<integer>-15</integer>
-		<key>plusminus</key>
-		<integer>-15</integer>
-		<key>q</key>
-		<integer>-30</integer>
-		<key>question</key>
-		<integer>45</integer>
-		<key>six</key>
-		<integer>-15</integer>
-		<key>three</key>
-		<integer>-15</integer>
-		<key>trademark</key>
-		<integer>30</integer>
 	</dict>
 	<key>seven</key>
 	<dict>
@@ -13768,6 +10038,8 @@
 		<integer>-30</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-30</integer>
+		<key>@MMK_R_pi</key>
+		<integer>-15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>45</integer>
 		<key>@MMK_R_r</key>
@@ -13780,6 +10052,8 @@
 		<integer>-30</integer>
 		<key>@MMK_R_tau</key>
 		<integer>-15</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>60</integer>
 		<key>@MMK_R_u</key>
 		<integer>-30</integer>
 		<key>@MMK_R_upsilon</key>
@@ -13802,8 +10076,6 @@
 		<integer>-30</integer>
 		<key>eight</key>
 		<integer>-30</integer>
-		<key>eng</key>
-		<integer>-15</integer>
 		<key>five</key>
 		<integer>-15</integer>
 		<key>four</key>
@@ -13812,30 +10084,14 @@
 		<integer>-30</integer>
 		<key>nine</key>
 		<integer>15</integer>
-		<key>one</key>
-		<integer>45</integer>
-		<key>ordfeminine</key>
-		<integer>15</integer>
-		<key>oslash</key>
-		<integer>-15</integer>
 		<key>p</key>
 		<integer>-15</integer>
-		<key>paragraph</key>
-		<integer>-15</integer>
-		<key>pi</key>
-		<integer>-15</integer>
-		<key>q</key>
-		<integer>-30</integer>
-		<key>question</key>
-		<integer>30</integer>
 		<key>seven</key>
 		<integer>-15</integer>
 		<key>six</key>
 		<integer>-30</integer>
 		<key>three</key>
 		<integer>-15</integer>
-		<key>trademark</key>
-		<integer>60</integer>
 		<key>two</key>
 		<integer>-15</integer>
 		<key>x</key>
@@ -13931,6 +10187,10 @@
 		<integer>30</integer>
 		<key>@MMK_R_omega</key>
 		<integer>30</integer>
+		<key>@MMK_R_percent</key>
+		<integer>-30</integer>
+		<key>@MMK_R_pi</key>
+		<integer>15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>-45</integer>
 		<key>@MMK_R_r</key>
@@ -13945,6 +10205,8 @@
 		<integer>30</integer>
 		<key>@MMK_R_tau</key>
 		<integer>-15</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>-30</integer>
 		<key>@MMK_R_u</key>
 		<integer>30</integer>
 		<key>@MMK_R_upsilon</key>
@@ -13977,60 +10239,20 @@
 		<integer>45</integer>
 		<key>ellipsis</key>
 		<integer>-15</integer>
-		<key>eng</key>
-		<integer>15</integer>
 		<key>four</key>
 		<integer>45</integer>
-		<key>guillemotright</key>
-		<integer>30</integer>
-		<key>hbar</key>
-		<integer>15</integer>
 		<key>lslash</key>
 		<integer>30</integer>
-		<key>multiply</key>
-		<integer>45</integer>
 		<key>nine</key>
 		<integer>-15</integer>
-		<key>numbersign</key>
-		<integer>30</integer>
-		<key>one</key>
-		<integer>-15</integer>
-		<key>ordfeminine</key>
-		<integer>-45</integer>
-		<key>oslash</key>
-		<integer>30</integer>
 		<key>p</key>
 		<integer>-15</integer>
-		<key>paragraph</key>
-		<integer>15</integer>
-		<key>parenleft</key>
-		<integer>15</integer>
-		<key>parenright</key>
-		<integer>-15</integer>
-		<key>percent</key>
-		<integer>-30</integer>
-		<key>period</key>
-		<integer>-15</integer>
-		<key>perthousand</key>
-		<integer>-30</integer>
-		<key>pi</key>
-		<integer>15</integer>
-		<key>plus</key>
-		<integer>30</integer>
-		<key>plusminus</key>
-		<integer>30</integer>
-		<key>q</key>
-		<integer>30</integer>
-		<key>question</key>
-		<integer>-30</integer>
 		<key>seven</key>
 		<integer>-30</integer>
 		<key>six</key>
 		<integer>45</integer>
 		<key>three</key>
 		<integer>15</integer>
-		<key>trademark</key>
-		<integer>-30</integer>
 		<key>two</key>
 		<integer>15</integer>
 		<key>x</key>
@@ -14090,6 +10312,8 @@
 		<integer>15</integer>
 		<key>@MMK_R_omega</key>
 		<integer>15</integer>
+		<key>@MMK_R_percent</key>
+		<integer>-15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>30</integer>
 		<key>@MMK_R_semicolon</key>
@@ -14098,6 +10322,8 @@
 		<integer>15</integer>
 		<key>@MMK_R_tau</key>
 		<integer>-30</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>45</integer>
 		<key>@MMK_R_u</key>
 		<integer>15</integer>
 		<key>@MMK_R_upsilon</key>
@@ -14132,153 +10358,14 @@
 		<integer>-15</integer>
 		<key>four</key>
 		<integer>30</integer>
-		<key>guillemotright</key>
-		<integer>15</integer>
-		<key>multiply</key>
-		<integer>30</integer>
-		<key>numbersign</key>
-		<integer>15</integer>
-		<key>one</key>
-		<integer>30</integer>
-		<key>oslash</key>
-		<integer>15</integer>
 		<key>p</key>
 		<integer>-30</integer>
-		<key>parenright</key>
-		<integer>-15</integer>
-		<key>percent</key>
-		<integer>-15</integer>
-		<key>period</key>
-		<integer>-15</integer>
-		<key>perthousand</key>
-		<integer>-15</integer>
-		<key>plus</key>
-		<integer>15</integer>
-		<key>plusminus</key>
-		<integer>15</integer>
-		<key>q</key>
-		<integer>15</integer>
-		<key>question</key>
-		<integer>15</integer>
 		<key>seven</key>
 		<integer>-30</integer>
 		<key>six</key>
 		<integer>30</integer>
-		<key>trademark</key>
-		<integer>45</integer>
 		<key>x</key>
 		<integer>-30</integer>
-	</dict>
-	<key>trademark</key>
-	<dict>
-		<key>@MMK_R_C</key>
-		<integer>-15</integer>
-		<key>@MMK_R_G</key>
-		<integer>-15</integer>
-		<key>@MMK_R_I</key>
-		<integer>15</integer>
-		<key>@MMK_R_O</key>
-		<integer>-15</integer>
-		<key>@MMK_R_T</key>
-		<integer>45</integer>
-		<key>@MMK_R_U</key>
-		<integer>-15</integer>
-		<key>@MMK_R_V</key>
-		<integer>45</integer>
-		<key>@MMK_R_alpha</key>
-		<integer>-15</integer>
-		<key>@MMK_R_beta</key>
-		<integer>15</integer>
-		<key>@MMK_R_c</key>
-		<integer>-15</integer>
-		<key>@MMK_R_copyright</key>
-		<integer>-30</integer>
-		<key>@MMK_R_d</key>
-		<integer>-15</integer>
-		<key>@MMK_R_epsilon</key>
-		<integer>-15</integer>
-		<key>@MMK_R_equal</key>
-		<integer>-15</integer>
-		<key>@MMK_R_g</key>
-		<integer>-15</integer>
-		<key>@MMK_R_j</key>
-		<integer>15</integer>
-		<key>@MMK_R_mu</key>
-		<integer>15</integer>
-		<key>@MMK_R_o</key>
-		<integer>-15</integer>
-		<key>@MMK_R_omega</key>
-		<integer>-15</integer>
-		<key>@MMK_R_quotedblleft</key>
-		<integer>30</integer>
-		<key>@MMK_R_semicolon</key>
-		<integer>15</integer>
-		<key>@MMK_R_t</key>
-		<integer>-15</integer>
-		<key>@MMK_R_u</key>
-		<integer>-15</integer>
-		<key>@MMK_R_upsilon</key>
-		<integer>-15</integer>
-		<key>@MMK_R_v</key>
-		<integer>15</integer>
-		<key>@MMK_R_y</key>
-		<integer>-15</integer>
-		<key>Y_upper_alt</key>
-		<integer>60</integer>
-		<key>asciitilde</key>
-		<integer>15</integer>
-		<key>asterisk</key>
-		<integer>30</integer>
-		<key>backslash</key>
-		<integer>45</integer>
-		<key>commaturnedabove</key>
-		<integer>30</integer>
-		<key>currency</key>
-		<integer>-15</integer>
-		<key>degree</key>
-		<integer>15</integer>
-		<key>dslash</key>
-		<integer>-15</integer>
-		<key>eight</key>
-		<integer>-15</integer>
-		<key>ellipsis</key>
-		<integer>15</integer>
-		<key>four</key>
-		<integer>-15</integer>
-		<key>guillemotright</key>
-		<integer>15</integer>
-		<key>lslash</key>
-		<integer>-15</integer>
-		<key>multiply</key>
-		<integer>-15</integer>
-		<key>nine</key>
-		<integer>15</integer>
-		<key>numbersign</key>
-		<integer>-15</integer>
-		<key>one</key>
-		<integer>45</integer>
-		<key>ordfeminine</key>
-		<integer>15</integer>
-		<key>p</key>
-		<integer>15</integer>
-		<key>paragraph</key>
-		<integer>-15</integer>
-		<key>parenleft</key>
-		<integer>-15</integer>
-		<key>period</key>
-		<integer>15</integer>
-		<key>plus</key>
-		<integer>-15</integer>
-		<key>plusminus</key>
-		<integer>-15</integer>
-		<key>q</key>
-		<integer>-15</integer>
-		<key>question</key>
-		<integer>30</integer>
-		<key>six</key>
-		<integer>-15</integer>
-		<key>trademark</key>
-		<integer>45</integer>
 	</dict>
 	<key>two</key>
 	<dict>
@@ -14378,6 +10465,10 @@
 		<integer>-15</integer>
 		<key>@MMK_R_omega</key>
 		<integer>-15</integer>
+		<key>@MMK_R_percent</key>
+		<integer>-15</integer>
+		<key>@MMK_R_pi</key>
+		<integer>-15</integer>
 		<key>@MMK_R_quotedblleft</key>
 		<integer>45</integer>
 		<key>@MMK_R_r</key>
@@ -14389,6 +10480,8 @@
 		<key>@MMK_R_t</key>
 		<integer>-15</integer>
 		<key>@MMK_R_tau</key>
+		<integer>30</integer>
+		<key>@MMK_R_trademark</key>
 		<integer>30</integer>
 		<key>@MMK_R_u</key>
 		<integer>-15</integer>
@@ -14422,56 +10515,22 @@
 		<integer>-15</integer>
 		<key>ellipsis</key>
 		<integer>-15</integer>
-		<key>eng</key>
-		<integer>-15</integer>
 		<key>five</key>
 		<integer>-15</integer>
 		<key>four</key>
 		<integer>-45</integer>
-		<key>guillemotright</key>
-		<integer>-15</integer>
-		<key>hbar</key>
-		<integer>15</integer>
 		<key>lslash</key>
 		<integer>-15</integer>
 		<key>nine</key>
 		<integer>30</integer>
-		<key>numbersign</key>
-		<integer>-15</integer>
-		<key>one</key>
-		<integer>45</integer>
-		<key>ordfeminine</key>
-		<integer>30</integer>
-		<key>oslash</key>
-		<integer>-30</integer>
 		<key>p</key>
 		<integer>-30</integer>
-		<key>parenleft</key>
-		<integer>-15</integer>
-		<key>parenright</key>
-		<integer>-15</integer>
-		<key>percent</key>
-		<integer>-15</integer>
-		<key>period</key>
-		<integer>-15</integer>
-		<key>perthousand</key>
-		<integer>-15</integer>
-		<key>pi</key>
-		<integer>-15</integer>
-		<key>plusminus</key>
-		<integer>-15</integer>
-		<key>q</key>
-		<integer>-15</integer>
-		<key>question</key>
-		<integer>45</integer>
 		<key>seven</key>
 		<integer>-15</integer>
 		<key>six</key>
 		<integer>-15</integer>
 		<key>three</key>
 		<integer>-15</integer>
-		<key>trademark</key>
-		<integer>30</integer>
 		<key>two</key>
 		<integer>-15</integer>
 		<key>x</key>
@@ -14537,6 +10596,8 @@
 		<integer>-15</integer>
 		<key>@MMK_R_tau</key>
 		<integer>45</integer>
+		<key>@MMK_R_trademark</key>
+		<integer>15</integer>
 		<key>@MMK_R_upsilon</key>
 		<integer>15</integer>
 		<key>@MMK_R_v</key>
@@ -14563,40 +10624,18 @@
 		<integer>-15</integer>
 		<key>four</key>
 		<integer>-30</integer>
-		<key>hbar</key>
-		<integer>15</integer>
 		<key>lslash</key>
 		<integer>-15</integer>
-		<key>multiply</key>
-		<integer>15</integer>
 		<key>nine</key>
 		<integer>45</integer>
-		<key>numbersign</key>
-		<integer>15</integer>
-		<key>one</key>
-		<integer>30</integer>
-		<key>ordfeminine</key>
-		<integer>45</integer>
-		<key>oslash</key>
-		<integer>-15</integer>
 		<key>p</key>
 		<integer>-15</integer>
-		<key>paragraph</key>
-		<integer>30</integer>
-		<key>plus</key>
-		<integer>15</integer>
-		<key>q</key>
-		<integer>-30</integer>
-		<key>question</key>
-		<integer>45</integer>
 		<key>seven</key>
 		<integer>-15</integer>
 		<key>six</key>
 		<integer>15</integer>
 		<key>three</key>
 		<integer>-15</integer>
-		<key>trademark</key>
-		<integer>15</integer>
 		<key>two</key>
 		<integer>-15</integer>
 	</dict>
