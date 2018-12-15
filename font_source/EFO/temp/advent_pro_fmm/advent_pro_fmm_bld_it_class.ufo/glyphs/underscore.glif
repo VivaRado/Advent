@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="underscore">
+ <advance width="383"/>
+ <unicode hex="005F"/>
+ <outline>
+  <contour>
+   <point type="line" x="15" y="-77"/>
+   <point type="line" x="334" y="-77"/>
+   <point type="line" x="348" y="0"/>
+   <point type="line" x="29" y="0"/>
+  </contour>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <integer>
+     1
+    </integer>
+    <real>
+     0.694
+    </real>
+    <integer>
+     1
+    </integer>
+   </array>
+  </dict>
+ </lib>
+</glyph>

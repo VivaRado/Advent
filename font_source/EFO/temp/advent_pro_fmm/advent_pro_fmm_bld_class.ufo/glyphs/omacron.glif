@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="omacron">
+ <advance width="433"/>
+ <unicode hex="014D"/>
+ <outline>
+  <contour>
+   <point smooth="yes" type="curve" x="400" y="184"/>
+   <point smooth="yes" type="line" x="400" y="316"/>
+   <point x="400" y="437"/>
+   <point x="334" y="510"/>
+   <point smooth="yes" type="curve" x="218" y="510"/>
+   <point x="97" y="510"/>
+   <point x="31" y="443"/>
+   <point smooth="yes" type="curve" x="31" y="316"/>
+   <point smooth="yes" type="line" x="31" y="184"/>
+   <point x="31" y="82"/>
+   <point x="86" y="-10"/>
+   <point smooth="yes" type="curve" x="218" y="-10"/>
+   <point x="342" y="-10"/>
+   <point x="400" y="71"/>
+  </contour>
+  <contour>
+   <point smooth="yes" type="curve" x="287" y="322"/>
+   <point smooth="yes" type="line" x="287" y="176"/>
+   <point x="287" y="131"/>
+   <point x="267" y="98"/>
+   <point smooth="yes" type="curve" x="217" y="98"/>
+   <point x="164" y="98"/>
+   <point x="142" y="135"/>
+   <point smooth="yes" type="curve" x="142" y="176"/>
+   <point smooth="yes" type="line" x="142" y="322"/>
+   <point x="142" y="373"/>
+   <point x="169" y="400"/>
+   <point smooth="yes" type="curve" x="217" y="400"/>
+   <point x="264" y="400"/>
+   <point x="287" y="370"/>
+  </contour>
+  <contour>
+   <point type="line" x="243" y="708"/>
+   <point type="line" x="22" y="708"/>
+   <point type="line" x="22" y="618"/>
+   <point type="line" x="243" y="618"/>
+  </contour>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <integer>
+     1
+    </integer>
+    <real>
+     0.694
+    </real>
+    <integer>
+     1
+    </integer>
+   </array>
+  </dict>
+ </lib>
+</glyph>

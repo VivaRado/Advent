@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="rcaron">
+ <advance width="393"/>
+ <unicode hex="0159"/>
+ <outline>
+  <contour>
+   <point type="curve" x="364" y="409"/>
+   <point type="line" x="395" y="499"/>
+   <point x="376" y="507"/>
+   <point x="349" y="514"/>
+   <point smooth="yes" type="curve" x="319" y="514"/>
+   <point x="276" y="514"/>
+   <point x="231" y="501"/>
+   <point type="curve" x="194" y="479"/>
+   <point type="line" x="197" y="499"/>
+   <point type="line" x="87" y="499"/>
+   <point type="line" x="0" y="0"/>
+   <point type="line" x="110" y="0"/>
+   <point type="line" x="178" y="388"/>
+   <point x="223" y="407"/>
+   <point x="268" y="416"/>
+   <point smooth="yes" type="curve" x="313" y="416"/>
+   <point x="349" y="416"/>
+   <point x="364" y="409"/>
+  </contour>
+  <contour>
+   <point type="line" x="263" y="716"/>
+   <point type="line" x="217" y="771"/>
+   <point type="line" x="122" y="689"/>
+   <point type="line" x="65" y="767"/>
+   <point type="line" x="3" y="715"/>
+   <point type="line" x="108" y="588"/>
+  </contour>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <integer>
+     1
+    </integer>
+    <real>
+     0.694
+    </real>
+    <integer>
+     1
+    </integer>
+   </array>
+  </dict>
+ </lib>
+</glyph>

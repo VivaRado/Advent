@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="uhungarumlaut">
+ <advance width="462"/>
+ <unicode hex="0171"/>
+ <outline>
+  <contour>
+   <point type="curve" x="256" y="26"/>
+   <point type="line" x="252" y="0"/>
+   <point type="line" x="362" y="0"/>
+   <point type="line" x="450" y="501"/>
+   <point type="line" x="340" y="501"/>
+   <point smooth="yes" type="line" x="282" y="175"/>
+   <point x="274" y="129"/>
+   <point x="233" y="94"/>
+   <point smooth="yes" type="curve" x="188" y="94"/>
+   <point x="148" y="94"/>
+   <point x="125" y="124"/>
+   <point smooth="yes" type="curve" x="132" y="159"/>
+   <point type="line" x="192" y="501"/>
+   <point type="line" x="81" y="501"/>
+   <point smooth="yes" type="line" x="20" y="157"/>
+   <point x="-2" y="29"/>
+   <point x="73" y="-7"/>
+   <point smooth="yes" type="curve" x="151" y="-7"/>
+   <point x="193" y="-7"/>
+   <point x="241" y="12"/>
+  </contour>
+  <contour>
+   <point type="line" x="171" y="645"/>
+   <point x="194" y="667"/>
+   <point x="200" y="702"/>
+   <point smooth="yes" type="curve" x="177" y="716"/>
+   <point x="154" y="730"/>
+   <point x="117" y="710"/>
+   <point smooth="yes" type="curve" x="106" y="685"/>
+   <point type="line" x="56" y="569"/>
+   <point type="line" x="100" y="569"/>
+  </contour>
+  <contour>
+   <point type="line" x="284" y="645"/>
+   <point x="306" y="667"/>
+   <point x="312" y="702"/>
+   <point smooth="yes" type="curve" x="289" y="716"/>
+   <point x="263" y="730"/>
+   <point x="230" y="711"/>
+   <point smooth="yes" type="curve" x="218" y="685"/>
+   <point type="line" x="168" y="569"/>
+   <point type="line" x="212" y="569"/>
+  </contour>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <integer>
+     1
+    </integer>
+    <real>
+     0.694
+    </real>
+    <integer>
+     1
+    </integer>
+   </array>
+  </dict>
+ </lib>
+</glyph>

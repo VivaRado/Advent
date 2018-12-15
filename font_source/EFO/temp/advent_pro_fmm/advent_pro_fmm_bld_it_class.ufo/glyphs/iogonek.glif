@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="iogonek">
+ <advance width="310"/>
+ <unicode hex="012F"/>
+ <outline>
+  <contour>
+   <point type="line" x="0" y="0"/>
+   <point type="line" x="110" y="0"/>
+   <point type="line" x="197" y="499"/>
+   <point type="line" x="87" y="499"/>
+  </contour>
+  <contour>
+   <point type="line" x="185" y="16"/>
+   <point type="line" x="94" y="7"/>
+   <point type="line" x="93" y="3"/>
+   <point smooth="yes" type="line" x="22" y="-87"/>
+   <point x="-42" y="-175"/>
+   <point x="11" y="-251"/>
+   <point smooth="yes" type="curve" x="108" y="-224"/>
+   <point x="131" y="-218"/>
+   <point x="218" y="-190"/>
+   <point type="curve" x="219" y="-190"/>
+   <point type="line" x="207" y="-118"/>
+   <point x="207" y="-118"/>
+   <point x="127" y="-144"/>
+   <point smooth="yes" type="curve" x="97" y="-154"/>
+   <point x="72" y="-164"/>
+   <point x="64" y="-142"/>
+   <point smooth="yes" type="curve" x="79" y="-123"/>
+   <point type="line" x="183" y="2"/>
+  </contour>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <integer>
+     1
+    </integer>
+    <real>
+     0.694
+    </real>
+    <integer>
+     1
+    </integer>
+   </array>
+  </dict>
+ </lib>
+</glyph>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="Aogonek">
+ <advance width="532"/>
+ <unicode hex="0104"/>
+ <outline>
+  <contour>
+   <point type="line" x="484" y="0"/>
+   <point type="line" x="435" y="698"/>
+   <point type="line" x="280" y="698"/>
+   <point type="line" x="-12" y="0"/>
+   <point type="line" x="112" y="0"/>
+   <point type="line" x="184" y="183"/>
+   <point type="line" x="345" y="183"/>
+   <point type="line" x="353" y="0"/>
+  </contour>
+  <contour>
+   <point type="line" x="231" y="300"/>
+   <point type="line" x="323" y="515"/>
+   <point type="line" x="340" y="300"/>
+  </contour>
+  <contour>
+   <point type="line" x="185" y="16"/>
+   <point type="line" x="94" y="7"/>
+   <point type="line" x="93" y="3"/>
+   <point smooth="yes" type="line" x="22" y="-87"/>
+   <point x="-42" y="-175"/>
+   <point x="11" y="-251"/>
+   <point smooth="yes" type="curve" x="108" y="-224"/>
+   <point x="131" y="-218"/>
+   <point x="218" y="-190"/>
+   <point type="curve" x="219" y="-190"/>
+   <point type="line" x="207" y="-118"/>
+   <point x="207" y="-118"/>
+   <point x="127" y="-144"/>
+   <point smooth="yes" type="curve" x="97" y="-154"/>
+   <point x="72" y="-164"/>
+   <point x="64" y="-142"/>
+   <point smooth="yes" type="curve" x="79" y="-123"/>
+   <point type="line" x="183" y="2"/>
+  </contour>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <integer>
+     1
+    </integer>
+    <real>
+     0.694
+    </real>
+    <integer>
+     1
+    </integer>
+   </array>
+  </dict>
+ </lib>
+</glyph>
