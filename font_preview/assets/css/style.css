@@ -113,6 +113,8 @@ h2 {
 	font-size: 3em;
 	/*letter-spacing: 0.05em;*/
 	font-feature-settings: "kern" 1;
+	font-weight: 100; 
+	font-variation-settings: "wght" 700, "ital" 0;
 }
 .sample,
 .sample *{

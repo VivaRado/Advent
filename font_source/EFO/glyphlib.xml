@@ -1,7 +1,6 @@
 <?xml version="1.0" ?>
 <glyphlib>
 	<glyph glif="_notdef" name=".notdef" unicode="25A1"/>
-	<glyph glif="A_E_" name="AE" unicode="00C6"/>
 	<glyph glif="A_" name="A" unicode="0041"/>
 	<glyph glif="A_acute" name="Aacute" unicode="00C1"/>
 	<glyph glif="A_breve" name="Abreve" unicode="0102"/>
@@ -431,4 +430,5 @@
 	<glyph glif="commaturnedbelowcomb" name="commaturnedbelowcomb" unicode=""/>
 	<glyph glif="tonos" name="tonos" unicode="0384"/>
 	<glyph glif="commaturnedabove" name="commaturnedabove" unicode=""/>
+	<glyph glif="A_E_" name="AE" unicode="00C6"/>
 </glyphlib>

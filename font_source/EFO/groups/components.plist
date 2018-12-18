@@ -129,6 +129,7 @@
     <string>D</string>
     <string>Dcaron</string>
     <string>Dcroat</string>
+    <string>Eth</string>
   </array>
   <key>I</key>
   <array>
@@ -163,7 +164,6 @@
     <string>Eogonek</string>
     <string>Epsilon</string>
     <string>Epsilontonos</string>
-    <string>Eth</string>
   </array>
 <!--   <key>dieresis</key>
   <array>
@@ -383,6 +383,7 @@
     <string>Ccedilla</string>
     <string>Ccircumflex</string>
     <string>Cdotaccent</string>
+    <string>Euro</string>
   </array>
   <key>T</key>
   <array>
@@ -442,6 +443,7 @@
     <string>Scedilla</string>
     <string>Scircumflex</string>
     <string>Scommaaccent</string>
+    <string>dollar</string>
   </array>
   <key>t</key>
   <array>
@@ -475,6 +477,7 @@
     <string>Etatonos</string>
     <string>H</string>
     <string>Hcircumflex</string>
+    <string>Hbar</string>
   </array>
   <key>epsilon</key>
   <array>
@@ -490,6 +493,7 @@
   <array>
     <string>d</string>
     <string>dcaron</string>
+    <string>dslash</string>
   </array>
   <key>Omegagreek</key>
   <array>
