@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="commaturnedabovecomb">
+ <advance width="266"/>
+ <outline>
+  <contour>
+   <point type="curve" x="186" y="726"/>
+   <point type="line" x="163" y="741"/>
+   <point x="163" y="741"/>
+   <point x="89" y="700"/>
+   <point smooth="yes" type="curve" x="73" y="609"/>
+   <point x="67" y="576"/>
+   <point x="89" y="550"/>
+   <point smooth="yes" type="curve" x="122" y="550"/>
+   <point x="155" y="550"/>
+   <point x="187" y="576"/>
+   <point smooth="yes" type="curve" x="193" y="609"/>
+   <point x="198" y="637"/>
+   <point x="182" y="661"/>
+   <point type="curve" x="159" y="667"/>
+   <point x="163" y="686"/>
+   <point x="172" y="708"/>
+  </contour>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <real>
+     0.609
+    </real>
+    <integer>
+     1
+    </integer>
+    <integer>
+     1
+    </integer>
+   </array>
+  </dict>
+ </lib>
+</glyph>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="asciitilde">
+ <advance width="266"/>
+ <unicode hex="007E"/>
+ <outline>
+  <contour>
+   <point type="curve" x="291" y="299"/>
+   <point type="line" x="258" y="355"/>
+   <point x="234" y="337"/>
+   <point x="213" y="331"/>
+   <point smooth="yes" type="curve" x="195" y="331"/>
+   <point x="153" y="331"/>
+   <point x="116" y="360"/>
+   <point smooth="yes" type="curve" x="70" y="360"/>
+   <point x="33" y="360"/>
+   <point x="2" y="341"/>
+   <point type="curve" x="-25" y="319"/>
+   <point type="line" x="8" y="263"/>
+   <point x="32" y="279"/>
+   <point x="54" y="286"/>
+   <point smooth="yes" type="curve" x="74" y="286"/>
+   <point x="115" y="285"/>
+   <point x="151" y="257"/>
+   <point smooth="yes" type="curve" x="194" y="256"/>
+   <point x="234" y="256"/>
+   <point x="265" y="276"/>
+  </contour>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <integer>
+     1
+    </integer>
+    <real>
+     0.732
+    </real>
+    <integer>
+     1
+    </integer>
+   </array>
+  </dict>
+ </lib>
+</glyph>

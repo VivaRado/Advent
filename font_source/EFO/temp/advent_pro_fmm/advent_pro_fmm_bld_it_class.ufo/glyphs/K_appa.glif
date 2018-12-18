@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="Kappa">
+ <advance width="529"/>
+ <unicode hex="039A"/>
+ <outline>
+  <contour>
+   <point type="line" x="197" y="449"/>
+   <point type="line" x="241" y="700"/>
+   <point type="line" x="123" y="700"/>
+   <point type="line" x="0" y="0"/>
+   <point type="line" x="118" y="0"/>
+   <point type="line" x="163" y="263"/>
+   <point type="line" x="197" y="305"/>
+   <point type="line" x="313" y="0"/>
+   <point type="line" x="451" y="0"/>
+   <point type="line" x="277" y="389"/>
+   <point type="line" x="536" y="700"/>
+   <point type="line" x="396" y="700"/>
+  </contour>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <integer>
+     1
+    </integer>
+    <real>
+     0.694
+    </real>
+    <integer>
+     1
+    </integer>
+   </array>
+  </dict>
+ </lib>
+</glyph>

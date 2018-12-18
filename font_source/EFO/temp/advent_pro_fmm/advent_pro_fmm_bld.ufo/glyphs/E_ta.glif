@@ -18,10 +18,10 @@
       <point x="362" y="698" type="line"/>
     </contour>
     <contour>
-      <point x="257" y="735" type="move" name="top"/>
+      <point x="85" y="700" type="move" name="tonos"/>
     </contour>
     <contour>
-      <point x="85" y="700" type="move" name="tonos"/>
+      <point x="257" y="735" type="move" name="top"/>
     </contour>
   </outline>
   <lib>

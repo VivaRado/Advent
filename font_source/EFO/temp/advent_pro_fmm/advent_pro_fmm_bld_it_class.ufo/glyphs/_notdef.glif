@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name=".notdef">
+ <advance width="619"/>
+ <outline>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <integer>
+     1
+    </integer>
+    <real>
+     0.694
+    </real>
+    <integer>
+     1
+    </integer>
+   </array>
+  </dict>
+ </lib>
+</glyph>

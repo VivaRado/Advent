@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="Lcommaaccent">
+ <advance width="404"/>
+ <unicode hex="013B"/>
+ <outline>
+  <contour>
+   <point type="line" x="0" y="0"/>
+   <point type="line" x="361" y="0"/>
+   <point type="line" x="378" y="101"/>
+   <point type="line" x="127" y="101"/>
+   <point type="line" x="233" y="698"/>
+   <point type="line" x="123" y="698"/>
+  </contour>
+  <contour>
+   <point type="curve" x="81" y="-236"/>
+   <point type="line" x="102" y="-253"/>
+   <point x="102" y="-253"/>
+   <point x="176" y="-211"/>
+   <point smooth="yes" type="curve" x="192" y="-120"/>
+   <point x="198" y="-88"/>
+   <point x="177" y="-61"/>
+   <point smooth="yes" type="curve" x="145" y="-61"/>
+   <point x="112" y="-61"/>
+   <point x="80" y="-88"/>
+   <point smooth="yes" type="curve" x="74" y="-120"/>
+   <point x="69" y="-148"/>
+   <point x="83" y="-171"/>
+   <point type="curve" x="109" y="-178"/>
+   <point x="102" y="-198"/>
+   <point x="94" y="-218"/>
+  </contour>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.mark
+   </key>
+   <array>
+    <real>
+     0.6
+    </real>
+    <integer>
+     1
+    </integer>
+    <real>
+     0.694
+    </real>
+    <integer>
+     1
+    </integer>
+   </array>
+  </dict>
+ </lib>
+</glyph>
