@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macroncomb" format="1">
+  <advance width="266"/>
+  <unicode hex="0304"/>
+  <outline>
+    <contour>
+      <point x="248" y="675" type="line"/>
+      <point x="28" y="675" type="line"/>
+      <point x="17" y="617" type="line"/>
+      <point x="237" y="617" type="line"/>
+    </contour>
+    <contour>
+      <point x="133" y="750" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="133" y="600" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.59999999999999998</real>
+        <real>0.60899999999999999</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

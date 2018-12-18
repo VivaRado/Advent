@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tbar" format="1">
+  <advance width="284"/>
+  <unicode hex="0167"/>
+  <outline>
+    <contour>
+      <point x="254" y="339" type="line"/>
+      <point x="254" y="355" type="line"/>
+      <point x="24" y="355" type="line"/>
+      <point x="24" y="339" type="line"/>
+    </contour>
+    <component base="t" xOffset="40"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.59999999999999998</real>
+        <integer>1</integer>
+        <real>0.69399999999999995</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

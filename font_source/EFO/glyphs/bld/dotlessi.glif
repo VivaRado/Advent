@@ -10,13 +10,13 @@
       <point x="39" y="499" type="line"/>
     </contour>
     <contour>
+      <point x="94" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
       <point x="31" y="700" type="move" name="tonos"/>
     </contour>
     <contour>
       <point x="94" y="735" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="94" y="0" type="move" name="ogonek"/>
     </contour>
   </outline>
   <lib>
