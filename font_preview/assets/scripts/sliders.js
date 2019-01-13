@@ -16,6 +16,7 @@ function axisSlidersToSamples(sliders, samples) {
 		
 		for (i=0, l=outputs.length; i<l; i++) {
 			outputs[i].style.fontVariationSettings = ffs;
+			$(".typeface h2")[0].style.fontVariationSettings = ffs;
 		}
 	}
 	
@@ -59,9 +60,7 @@ $(function(){
 	var targ = $('#advent_thnregbld-wght');
 	var targ_2 = $('#advent_thnregbld-ital');
 	//
-	//
 	//fluctuate_slider(targ, 40);
-	//
 	//
 	//fluctuate_slider(targ_2, 100);
 	//

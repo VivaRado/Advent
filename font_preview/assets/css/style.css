@@ -30,10 +30,7 @@ header {
 header a:link {
 	text-decoration: none;
 }
-/*h1, h2, h3 {}
-h2, h3 {
-	font-variation-settings: 'wght' 500;
-}*/
+
 h3 {
 	margin-top: 2em;
 	color: #F06;
@@ -110,11 +107,10 @@ color: #ddd;
 h2 {
 	line-height: 0.8em;
 	font-family: 'AdventProVar';
-	font-size: 3em;
+	font-size: 6em;
 	/*letter-spacing: 0.05em;*/
 	font-feature-settings: "kern" 1;
-	font-weight: 100; 
-	font-variation-settings: "wght" 700, "ital" 0;
+	font-variation-settings: "wght" 100, "ital" 0;
 }
 .sample,
 .sample *{
