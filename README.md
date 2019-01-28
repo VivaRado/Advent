@@ -86,7 +86,7 @@ Work was done on a Linux box with VirtualBox running Windows 8 and Mac OSX Lion.
     1.  **smb_it**   600     Italic Semi Bold (Demi Bold)
     1.  **bld_it**    700     Italic Bold *MM*
     1.  ~~xbd_it       800     Extra Bold (Ultra Bold)~~
-    1.  ~~blk_it       900     Black (Heavy)~
+    1.  ~~blk_it       900     Black (Heavy)~~
 
 
 **  **
