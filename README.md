@@ -209,6 +209,10 @@ The Proposed glyph list is ~1500 Glyphs not including the glyphs for Opentype Fe
 
 Advent has NO features. The plan is to create all the features available in popular scripts. Additionally Glyphs exist for ligatures like the standard set fl, ffl … but the current version has no opentype features written to substitute the ligatures.
 
+At this point we have delivered Kerning and we can continue to add the basic features before exploring further features that require extension of the glyphlist.
+
+VivaRado is at the moment working on Cyrillic and Kazakh - Kazakh Latin Glyphlist Extension that will also bring small/tiny adaptations to existing glyphs.
+
 
 **Intended Opentype Feature Support:**
 
