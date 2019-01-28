@@ -1,6 +1,0 @@
-# Languagesystems Start
-# Prefix: Languagesystems
-languagesystem DFLT dflt;
-languagesystem grek dflt;
-languagesystem latn dflt;
-# Languagesystems End
