@@ -218,15 +218,15 @@ Eventually Delivered in January 28 2019.
 
 **  **
 
-1.  **Research:**
+**Research:**
 
 Encoding files based on Adobe Glyph list,  Operational Illustrator Adobe script to create layers from encoding file. Installed python 2.7 x32 for Fontlab, EPS export with proportional resize and proper positioning, fontlab script to import EPS.
 
-1.  **Design:**
+**Design:**
 
 Started Componentizing Advent, smart object placement scripts.
 
-1.  **Post Production:**
+**Post Production:**
 
 VRD TYPL for kerning - kerning compression and componentization
 
