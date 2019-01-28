@@ -240,12 +240,6 @@ VRD created EFO (Extraordinary Font Object) and utilises VRD Typography Library 
 
 **  **
 
-**Design / Design Methods / Method Structure**
-
-Just like in a UFO, all glyphs should be visible and editable through any vector editor. Even if the original design is made using Adobe Illustrator CC. To achieve this, we export all glyphs from the UFOs
-that are located in the EFO, to SVG and later when design is finished we import them back to the EFO and we can export our UFOs.
-
-
 **Script Extension**
 
 Every modern font needs a set of OpenType features, especially if it is served by google!
