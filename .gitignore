@@ -1,6 +1,7 @@
 /_planning
 /_scripts
-/_old
+_old*
+_old/
 __pycache__*
 __pycache__/
 temp*
