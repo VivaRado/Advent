@@ -1,5 +1,7 @@
 # Advent Pro VARIABLE 2019
 
+![Screenshot](https://github.com/VivaRado/Advent/font_preview/master/Lib/kerning_adjust/assets/img/kerning_adjust_preview.gif)
+
 **Introduction**
 
 *   Company: VivaRado LLP
