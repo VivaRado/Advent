@@ -222,9 +222,8 @@ VivaRado is at the moment working on Cyrillic and Kazakh - Kazakh Latin Glyphlis
 
 **Timeline**
 
-July 2018 to December 1 - assuming final will be released in about 7 - 14 days. Hopefully before the New Year.
-
-Eventually Delivered in January 28 2019.
+ - July 01 2018: Start of Redesign
+ - January 28 2019: Final Kerning for CB for G and L.
 
 **  **
 
