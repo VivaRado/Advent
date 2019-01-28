@@ -108,17 +108,17 @@ VivaRado standard kerning sets are defined as follows:
  - Class Based(CB):
 
   - Latin Capitals(CBLC):
-   - ```A B C G D E I J H O P R S M F K L T U V Y Z```
+    - ```A B C G D E I J H O P R S M F K L T U V Y Z```
   - Latin SmallCase(CBLS):
-   - ```a e o c d m i t g h k l r s u v y j z f t b ß```
+    - ```a e o c d m i t g h k l r s u v y j z f t b ß```
   - Greek (GREEK UNICODES)(CBGC):
-   - ```Α Β Γ Ε Ι Χ Μ Ψ Κ Ο Ω Υ Ρ Τ```
+    - ```Α Β Γ Ε Ι Χ Μ Ψ Κ Ο Ω Υ Ρ Τ```
   - Greek SmallCase(CBGS):
-   - ```α β ι ο χ ε γ μ ω```
+    - ```α β ι ο χ ε γ μ ω```
   - Symbols(CBSY):
-   - ```~ | " % @ * / ```
+    - ```~ | " % @ * / ```
   - Numbers(CBNU):
-   - ```8```
+    - ```8```
  
  - Letter Based(LB):
 
@@ -137,32 +137,32 @@ VivaRado standard kerning sets are defined as follows:
 
   - Class Based Permutations (CB):
 
-   - Latin VS Latin Capitals Class Based Permutation (CBLCLC)
-   - Latin VS Latin SmallCase Class Based Permutation (CBLSLS)
-   - Latin Capitals VS Latin SmallCase Class Based Permutation (CBLCLS)
+    - Latin VS Latin Capitals Class Based Permutation (CBLCLC)
+    - Latin VS Latin SmallCase Class Based Permutation (CBLSLS)
+    - Latin Capitals VS Latin SmallCase Class Based Permutation (CBLCLS)
 
-   - Greek VS Greek Capitals Class Based Permutation (CBGCGC)
-   - Greek VS Greek SmallCase Class Based Permutation (CBGSGS)
-   - Greek Capitals VS Greek SmallCase Class Based Permutation (CBGCGS)
+    - Greek VS Greek Capitals Class Based Permutation (CBGCGC)
+    - Greek VS Greek SmallCase Class Based Permutation (CBGSGS)
+    - Greek Capitals VS Greek SmallCase Class Based Permutation (CBGCGS)
 
   - Letter Based Permutations (LB):
 
-   - Latin VS Latin Capitals Letter Based Permutation (LBLCLC)
-   - Latin VS Latin SmallCase Letter Based Permutation (LBLSLS)
-   - Latin Capitals VS Latin SmallCase Letter Based Permutation (LBLCLS)
+    - Latin VS Latin Capitals Letter Based Permutation (LBLCLC)
+    - Latin VS Latin SmallCase Letter Based Permutation (LBLSLS)
+    - Latin Capitals VS Latin SmallCase Letter Based Permutation (LBLCLS)
 
-   - Greek VS Greek Capitals Letter Based Permutation (LBGCGC)
-   - Greek VS Greek SmallCase Letter Based Permutation (LBGSGS)
-   - Greek Capitals VS Greek SmallCase Letter Based Permutation (LBGCGS)
+    - Greek VS Greek Capitals Letter Based Permutation (LBGCGC)
+    - Greek VS Greek SmallCase Letter Based Permutation (LBGSGS)
+    - Greek Capitals VS Greek SmallCase Letter Based Permutation (LBGCGS)
 
  - Letter to Letter Adjustments:
-  - These are small adjustments due to design quirks, and when we decide that a glyph doesn't fit into classes or the class is not satisfying the kerning requirements completely.
+    - These are small adjustments due to design quirks, and when we decide that a glyph doesn't fit into classes or the class is not satisfying the kerning requirements completely.
  - Ommited:
-  - Cross Language System Kerning (grek to latn and latn to grek).
-  - Greek "sigma1" on the Left Side for all grek.
+    - Cross Language System Kerning (grek to latn and latn to grek).
+    - Greek "sigma1" on the Left Side for all grek.
  - Glossary:
-  - Class Based (CB): One letter from each class.
-  - Letter Based (LB): Alphabet / Complete Range.
+    - Class Based (CB): One letter from each class.
+    - Letter Based (LB): Alphabet / Complete Range.
 
 More information in ```kerning_adjustments/kerning_pair_details```
 
