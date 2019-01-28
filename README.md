@@ -298,5 +298,10 @@ Here is what VivaRado wants to add to Advent font!
 
 **Thank You**
 
-Thanks goes to Dave Crossland for his initiative to regenerate Advent and quite frankly the desire to make quality typography once again and Michael LaGattuta for all his attention to detail and great ideas.
+Thanks goes to Dave Crossland for his initiative to regenerate Advent and quite frankly the desire to make quality typography once again and Michael LaGattuta for all his attention to detail and great ideas. Thanks to Mike LaGattuta for his attention to detail. Behdad Esfahbod for helping solve a fontmake issue and clarifying classification.
+
+Most of all thanks to VivaRado Madina Akhmatova for helping with the Flat Kerning Compression Logic that allowed us to balance our numbers.
+
+To all users of this font we at VivaRado hope you will enjoy it and find the Italic flavor usefull.
+
 Releases and news will be public through all the VivaRado accounts.
