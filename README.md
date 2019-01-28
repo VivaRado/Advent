@@ -224,25 +224,11 @@ Eventually Delivered in January 28 2019.
 
 **  **
 
-**Research:**
-
-Encoding files based on Adobe Glyph list,  Operational Illustrator Adobe script to create layers from encoding file. Installed python 2.7 x32 for Fontlab, EPS export with proportional resize and proper positioning, fontlab script to import EPS.
-
-**Design:**
-
-Started Componentizing Advent, smart object placement scripts.
-
-**Post Production:**
-
-VRD TYPL for kerning - kerning compression and componentization
-
-**  **
-
 **Delivery**
 
-Advent Pro Variable will be delivered in 7 Weights and Variable format. All the Adobe Illustrator scripts, Fontlab Python and additional scripts will be provided. Forks of the original libraries with their alterations, and Encoding Files.
+Advent Pro Variable will be delivered in 7 Weights & 7 Italic Weights and Variable format. All the Adobe Illustrator scripts, Fontlab Python and additional scripts will be provided. Forks of the original libraries with their alterations, and Encoding Files.
 
-The delivered font files are provided in UFO, EPS, VFB, OTF.
+The delivered font files are provided in UFO, WOFF, WOFF2, OTF, TTF, EFO.
 
 All the above files are available on VivaRado Github Account.
 
