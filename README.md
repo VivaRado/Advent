@@ -294,11 +294,9 @@ Here is what VivaRado wants to add to Advent font!
     Capital Spacing
     Access all Alternates
 
-
-
 **Thank You**
 
-Thanks goes to Dave Crossland for his initiative to regenerate Advent and quite frankly the desire to make quality typography once again and Michael LaGattuta for all his attention to detail and great ideas. Thanks to Mike LaGattuta for his attention to detail. Behdad Esfahbod for helping solve a fontmake issue and clarifying classification.
+Thanks goes to Dave Crossland for his initiative to regenerate Advent and quite frankly the desire to make quality typography once again and Michael LaGattuta for all his attention to detail and great ideas - may he always be successful. Behdad Esfahbod for helping solve a fontmake issue and clarifying classification.
 
 Most of all thanks to VivaRado Madina Akhmatova for helping with the Flat Kerning Compression Logic that allowed us to balance our numbers.
 
