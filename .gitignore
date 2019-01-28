@@ -3,5 +3,7 @@
 /_old
 __pycache__*
 __pycache__/
+temp*
+temp/
 *.pyc
 *.pyo

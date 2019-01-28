@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="3">
+ <axes>
+  <axis minimum="1" tag="wght" default="400" name="weight" maximum="1000">
+   <labelname xml:lang="en">Weight</labelname>
+  </axis>
+  <axis minimum="0" tag="ital" default="500" name="italic" maximum="1">
+   <labelname xml:lang="en">Italic</labelname>
+  </axis>
+ </axes>
+ <sources>
+  <source familyname="advent pro" name="thn" filename="masters/adventpro-Thin.ufo" stylename="Thin">
+   <lib copy="1"/>
+   <groups copy="1"/>
+   <info copy="1"/>
+   <features copy="1"/>
+   <location>
+    <dimension xvalue="100" name="weight"/>
+    <dimension xvalue="0" name="italic"/>
+   </location>
+  </source>
+  <source familyname="advent pro" name="thn_it" filename="masters/adventpro-ThinItalic.ufo" stylename="Thin Italic">
+   <location>
+    <dimension xvalue="100" name="weight"/>
+    <dimension xvalue="1" name="italic"/>
+   </location>
+  </source>
+  <source familyname="advent pro" name="reg" filename="masters/adventpro-Regular.ufo" stylename="Regular">
+   <location>
+    <dimension xvalue="400" name="weight"/>
+    <dimension xvalue="0" name="italic"/>
+   </location>
+  </source>
+  <source familyname="advent pro" name="reg_it" filename="masters/adventpro-RegularItalic.ufo" stylename="Regular Italic">
+   <location>
+    <dimension xvalue="400" name="weight"/>
+    <dimension xvalue="1" name="italic"/>
+   </location>
+  </source>
+  <source familyname="advent pro" name="bld" filename="masters/adventpro-Bold.ufo" stylename="Bold">
+   <location>
+    <dimension xvalue="700" name="weight"/>
+    <dimension xvalue="0" name="italic"/>
+   </location>
+  </source>
+  <source familyname="advent pro" name="bld_it" filename="masters/adventpro-Bolditalic.ufo" stylename="Bold italic">
+   <location>
+    <dimension xvalue="700" name="weight"/>
+    <dimension xvalue="1" name="italic"/>
+   </location>
+  </source>
+ </sources>
+ <instances>
+  <instance familyname="advent pro" name="Thin" filename="instances/adventpro-Thin.ufo" stylename="Thin">
+   <location>
+    <dimension xvalue="0" name="italic"/>
+    <dimension xvalue="100" name="weight"/>
+   </location>
+  </instance>
+  <instance familyname="advent pro" name="Extra Light" filename="instances/adventpro-ExtraLight.ufo" stylename="Extra Light">
+   <location>
+    <dimension xvalue="0" name="italic"/>
+    <dimension xvalue="200" name="weight"/>
+   </location>
+  </instance>
+  <instance familyname="advent pro" name="Light" filename="instances/adventpro-Light.ufo" stylename="Light">
+   <location>
+    <dimension xvalue="0" name="italic"/>
+    <dimension xvalue="300" name="weight"/>
+   </location>
+  </instance>
+  <instance familyname="advent pro" name="Regular" filename="instances/adventpro-Regular.ufo" stylename="Regular">
+   <location>
+    <dimension xvalue="0" name="italic"/>
+    <dimension xvalue="400" name="weight"/>
+   </location>
+  </instance>
+  <instance familyname="advent pro" name="Medium" filename="instances/adventpro-Medium.ufo" stylename="Medium">
+   <location>
+    <dimension xvalue="0" name="italic"/>
+    <dimension xvalue="500" name="weight"/>
+   </location>
+  </instance>
+  <instance familyname="advent pro" name="Semi Bold" filename="instances/adventpro-SemiBold.ufo" stylename="Semi Bold">
+   <location>
+    <dimension xvalue="0" name="italic"/>
+    <dimension xvalue="600" name="weight"/>
+   </location>
+  </instance>
+  <instance familyname="advent pro" name="Bold" filename="instances/adventpro-Bold.ufo" stylename="Bold">
+   <location>
+    <dimension xvalue="0" name="italic"/>
+    <dimension xvalue="700" name="weight"/>
+   </location>
+  </instance>
+  <instance familyname="advent pro" name="Thin Italic" filename="instances/adventpro-ThinItalic.ufo" stylename="Thin Italic">
+   <location>
+    <dimension xvalue="1" name="italic"/>
+    <dimension xvalue="100" name="weight"/>
+   </location>
+  </instance>
+  <instance familyname="advent pro" name="Extra Light Italic" filename="instances/adventpro-ExtraLightItalic.ufo" stylename="Extra Light Italic">
+   <location>
+    <dimension xvalue="1" name="italic"/>
+    <dimension xvalue="200" name="weight"/>
+   </location>
+  </instance>
+  <instance familyname="advent pro" name="Light Italic" filename="instances/adventpro-LightItalic.ufo" stylename="Light Italic">
+   <location>
+    <dimension xvalue="1" name="italic"/>
+    <dimension xvalue="300" name="weight"/>
+   </location>
+  </instance>
+  <instance familyname="advent pro" name="Italic" filename="instances/adventpro-Italic.ufo" stylename="Italic">
+   <location>
+    <dimension xvalue="1" name="italic"/>
+    <dimension xvalue="400" name="weight"/>
+   </location>
+  </instance>
+  <instance familyname="advent pro" name="Medium Italic" filename="instances/adventpro-MediumItalic.ufo" stylename="Medium Italic">
+   <location>
+    <dimension xvalue="1" name="italic"/>
+    <dimension xvalue="500" name="weight"/>
+   </location>
+  </instance>
+  <instance familyname="advent pro" name="Semi Bold Italic" filename="instances/adventpro-SemiBoldItalic.ufo" stylename="Semi Bold Italic">
+   <location>
+    <dimension xvalue="1" name="italic"/>
+    <dimension xvalue="600" name="weight"/>
+   </location>
+  </instance>
+  <instance familyname="advent pro" name="Bold Italic" filename="instances/adventpro-BoldItalic.ufo" stylename="Bold Italic">
+   <location>
+    <dimension xvalue="1" name="italic"/>
+    <dimension xvalue="700" name="weight"/>
+   </location>
+  </instance>
+ </instances>
+</designspace>

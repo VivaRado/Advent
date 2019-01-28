@@ -209,3 +209,13 @@ input[type=range]::-moz-range-thumb {
 	display: block;
 	width: 100%;
 }
+
+/**/
+.info_perm {
+	font-family: monospace;
+	font-size: 0.3em;
+	clear: both;
+	position: relative;
+	display: block;
+	margin-bottom: 1rem;
+}

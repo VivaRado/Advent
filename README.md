@@ -86,16 +86,90 @@ Work was done on a Linux box with VirtualBox running Windows 8 and Mac OSX Lion.
     1.  **smb_it**   600     Italic Semi Bold (Demi Bold)
     1.  **bld_it**    700     Italic Bold *MM*
     1.  ~~xbd_it       800     Extra Bold (Ultra Bold)~~
-    1.  ~~blk_it       900     Black (Heavy)~~
+    1.  ~~blk_it       900     Black (Heavy)~
 
-- **Master A**: thn - reg = thn - xlg - lgt - reg
-- **Master B**: reg - bld = reg - med - smb - bld ~~- xbd - blk~~
 
 **  **
 
 **Kerning**
 
-Kerning was done by utilizing Typefacets Autokern Python3 Updated Script by using VRD TYPL/kerning_autokern.py: [VRD-Typography-Library](https://github.com/VivaRado/VRD-Typography-Library)
+With the help of Typefacet Integrated Autokern, we have obtained the first layer of kerning for the upright bold.
+By using VRD TYPL Kerning Adjust, 
+we made the corrections, and the rest of the optimisations required per weight.
+
+We have Classified our glyphs in a way where no kerning loss is observed. By dividing by Language Set, without language intrusion between classes.
+Small Case and Capitals are also ~ non intruding. This increases size minimally but maintains kerning pair loss at zero.
+
+During the process we attempted to maintain the Italics width according to the contour. This created a larger alteration size and jittering italics transition due to changing width - even if the kerning was precise. We eventually opted for the slant-to-right-side-corner and maintained the regular kerning along to the italics and smoother animation on Italics.
+
+This brings us to kern a specific set of letters, the other letters are left to your creative kerning.
+VivaRado standard kerning sets are defined as follows:
+
+ - Class Based(CB):
+
+  - Latin Capitals(CBLC):
+   - ```A B C G D E I J H O P R S M F K L T U V Y Z```
+  - Latin SmallCase(CBLS):
+   - ```a e o c d m i t g h k l r s u v y j z f t b ß```
+  - Greek (GREEK UNICODES)(CBGC):
+   - ```Α Β Γ Ε Ι Χ Μ Ψ Κ Ο Ω Υ Ρ Τ```
+  - Greek SmallCase(CBGS):
+   - ```α β ι ο χ ε γ μ ω```
+  - Symbols(CBSY):
+   - ```~ | " % @ * / ```
+  - Numbers(CBNU):
+   - ```8```
+ 
+ - Letter Based(LB):
+
+  - Latin Capitals(LBLC):
+   - ```A B C D E F G H I J K L M N O P Q R S T U V W X Y Z```
+  - Latin SmallCase(LBLS):
+   - ```a b c d e f g h i j k l m n o p q r s t u v w x y```
+  - Greek (GREEK UNICODES)(LBGC):
+   - ```Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω```
+  - Greek SmallCase(LBGS):
+   - ```α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ σ ς τ υ φ χ ψ ω```
+  - Numbers(LBNU):
+   - ```0 1 2 3 4 5 6 7 8 9```
+
+ - Resulting Permutations that have been Adjusted:
+
+  - Class Based Permutations (CB):
+
+   - Latin VS Latin Capitals Class Based Permutation (CBLCLC)
+   - Latin VS Latin SmallCase Class Based Permutation (CBLSLS)
+   - Latin Capitals VS Latin SmallCase Class Based Permutation (CBLCLS)
+
+   - Greek VS Greek Capitals Class Based Permutation (CBGCGC)
+   - Greek VS Greek SmallCase Class Based Permutation (CBGSGS)
+   - Greek Capitals VS Greek SmallCase Class Based Permutation (CBGCGS)
+
+  - Letter Based Permutations (LB):
+
+   - Latin VS Latin Capitals Letter Based Permutation (LBLCLC)
+   - Latin VS Latin SmallCase Letter Based Permutation (LBLSLS)
+   - Latin Capitals VS Latin SmallCase Letter Based Permutation (LBLCLS)
+
+   - Greek VS Greek Capitals Letter Based Permutation (LBGCGC)
+   - Greek VS Greek SmallCase Letter Based Permutation (LBGSGS)
+   - Greek Capitals VS Greek SmallCase Letter Based Permutation (LBGCGS)
+
+ - Letter to Letter Adjustments:
+  - These are small adjustments due to design quirks, and when we decide that a glyph doesn't fit into classes or the class is not satisfying the kerning requirements completely.
+ - Ommited:
+  - Cross Language System Kerning (grek to latn and latn to grek).
+  - Greek "sigma1" on the Left Side for all grek.
+ - Glossary:
+  - Class Based (CB): One letter from each class.
+  - Letter Based (LB): Alphabet / Complete Range.
+
+More information in ```kerning_adjustments/kerning_pair_details```
+
+**If you notice a possible kerning improvement we would like to hear about it.**
+
+VRD TYPL/kerning_adjust.py: [VRD-Typography-Library-Kerning-Adjust](https://github.com/VivaRado/VRD-Typography-Library/tree/master/Lib/kerning_adjust)
+VRD TYPL/kerning_autokern.py: [VRD-Typography-Library-Autokern](https://github.com/VivaRado/VRD-Typography-Library/tree/master/Lib/kerning)
 
 **  **
 
@@ -138,7 +212,9 @@ Advent has NO features. The plan is to create all the features available in popu
 
 **Timeline**
 
-July 2018 to December 1 - assuming final will be released in about 7 - 14 days. Hopefully before the New Year
+July 2018 to December 1 - assuming final will be released in about 7 - 14 days. Hopefully before the New Year.
+
+Eventually Delivered in January 28 2019.
 
 **  **
 

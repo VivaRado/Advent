@@ -18,7 +18,11 @@
             "trademark": "",
             "versionMajor": 1,
             "versionMinor": 0,
-            "year": 2018
+            "year": 2018,
+            "ascender": 750,
+            "capHeight": 700,
+            "copyright": "VivaRado, Andreas Kalpakidis",
+            "descender": -250
         }
     },
     {
@@ -35,10 +39,6 @@
         "font_info": [
             {
                 "thn": {
-                    "ascender": 750,
-                    "capHeight": 700,
-                    "copyright": "",
-                    "descender": -250,
                     "italicAngle": 0,
                     "macintoshFONDName": "advent pro fmm Thin",
                     "openTypeHeadFlags": [],
@@ -107,10 +107,6 @@
             },
             {
                 "reg": {
-                    "ascender": 750,
-                    "capHeight": 700,
-                    "copyright": "",
-                    "descender": -250,
                     "italicAngle": 0,
                     "macintoshFONDName": "advent pro fmm",
                     "openTypeHeadFlags": [],
@@ -179,10 +175,6 @@
             },
             {
                 "bld": {
-                    "ascender": 750,
-                    "capHeight": 700,
-                    "copyright": "",
-                    "descender": -250,
                     "italicAngle": 0,
                     "macintoshFONDName": "advent pro fmm Bold",
                     "openTypeHeadFlags": [],
@@ -251,11 +243,7 @@
             },
             {
                 "thn_it": {
-                    "ascender": 750,
-                    "capHeight": 700,
-                    "copyright": "",
-                    "descender": -250,
-                    "italicAngle": 0,
+                    "italicAngle": 12,
                     "macintoshFONDName": "advent pro fmm Thin",
                     "openTypeHeadFlags": [],
                     "openTypeHheaAscender": 750,
@@ -323,11 +311,7 @@
             },
             {
                 "reg_it": {
-                    "ascender": 750,
-                    "capHeight": 700,
-                    "copyright": "",
-                    "descender": -250,
-                    "italicAngle": 0,
+                    "italicAngle": 12,
                     "macintoshFONDName": "advent pro fmm",
                     "openTypeHeadFlags": [],
                     "openTypeHheaAscender": 750,
@@ -395,11 +379,7 @@
             },
             {
                 "bld_it": {
-                    "ascender": 750,
-                    "capHeight": 700,
-                    "copyright": "",
-                    "descender": -250,
-                    "italicAngle": 0,
+                    "italicAngle": 12,
                     "macintoshFONDName": "advent pro fmm Bold",
                     "openTypeHeadFlags": [],
                     "openTypeHheaAscender": 750,
@@ -482,9 +462,9 @@
             },
             {
                 "reg": {
-                    "--intrusion-tolerance-ems": 0.04,
-                    "--max-distance-ems": 0.04,
-                    "--min-distance-ems": 0.015,
+                    "--intrusion-tolerance-ems": 0,
+                    "--max-distance-ems": 0,
+                    "--min-distance-ems": 0,
                     "--max-x-extrema-overlap-ems": 0,
                     "--precision-ems": 0.01,
                     "--kerning-threshold-ems": 0,

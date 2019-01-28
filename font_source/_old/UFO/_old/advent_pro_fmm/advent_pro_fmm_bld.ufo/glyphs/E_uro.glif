@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Euro" format="1">
+  <advance width="426"/>
+  <unicode hex="20AC"/>
+  <outline>
+    <contour>
+      <point x="-1" y="376" type="line"/>
+      <point x="356" y="376" type="line"/>
+      <point x="356" y="481" type="line"/>
+      <point x="-1" y="481" type="line"/>
+    </contour>
+    <contour>
+      <point x="-1" y="224" type="line"/>
+      <point x="356" y="224" type="line"/>
+      <point x="356" y="329" type="line"/>
+      <point x="-1" y="329" type="line"/>
+    </contour>
+    <component base="C"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.59999999999999998</real>
+        <integer>1</integer>
+        <real>0.69399999999999995</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

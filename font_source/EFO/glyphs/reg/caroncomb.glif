@@ -1,31 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="caroncomb" format="1">
   <advance width="266"/>
+    <anchor name="top" x="133" y="750"/>
+    <anchor name="_top" x="133" y="600"/>
+    <anchor name="top.1" x="133" y="750"/>
+    <anchor name="_top.1" x="133" y="600"/>
   <outline>
-    <contour>
-      <point x="263" y="715" type="line"/>
-      <point x="224" y="752" type="line"/>
-      <point x="131" y="663" type="line"/>
-      <point x="42" y="751" type="line"/>
-      <point x="3" y="713" type="line"/>
-      <point x="131" y="587" type="line"/>
-    </contour>
-    <contour>
-      <point x="133" y="750" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="133" y="600" type="move" name="_top"/>
-    </contour>
+    <component base="caron"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.59999999999999998</real>
-        <real>0.60899999999999999</real>
-        <integer>1</integer>
-        <integer>1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

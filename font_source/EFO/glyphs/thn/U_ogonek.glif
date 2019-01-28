@@ -4,17 +4,6 @@
   <unicode hex="0172"/>
   <outline>
     <component base="U"/>
-    <component base="ogonekcomb" xOffset="135" yOffset="-5"/>
+    <component base="ogonek" xOffset="135" yOffset="-5"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.59999999999999998</real>
-        <integer>1</integer>
-        <real>0.69399999999999995</real>
-        <integer>1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

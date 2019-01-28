@@ -2,34 +2,11 @@
 <glyph name="acutecomb" format="1">
   <advance width="266"/>
   <unicode hex="0301"/>
+    <anchor name="top" x="292.417" y="750"/>
+    <anchor name="_top" x="260.534" y="600"/>
+    <anchor name="top.1" x="292.417" y="750"/>
+    <anchor name="_top.1" x="260.534" y="600"/>
   <outline>
-    <contour>
-      <point x="216" y="686" type="line" smooth="yes"/>
-      <point x="223" y="694"/>
-      <point x="225" y="705"/>
-      <point x="217" y="710" type="curve" smooth="yes"/>
-      <point x="209" y="714"/>
-      <point x="199" y="710"/>
-      <point x="194" y="701" type="curve" smooth="yes"/>
-      <point x="122" y="586" type="line"/>
-      <point x="143" y="586" type="line"/>
-    </contour>
-    <contour>
-      <point x="133" y="750" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="133" y="600" type="move" name="_top"/>
-    </contour>
+    <component base="acute"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.59999999999999998</real>
-        <real>0.60899999999999999</real>
-        <integer>1</integer>
-        <integer>1</integer>
-      </array>
-    </dict>
-  </lib>
 </glyph>

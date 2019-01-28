@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zeta" format="1">
+  <advance width="584"/>
+  <unicode hex="0396"/>
+  <outline>
+    <contour>
+      <point x="595" y="698" type="line"/>
+      <point x="128" y="698" type="line"/>
+      <point x="119" y="647" type="line"/>
+      <point x="515" y="647" type="line"/>
+      <point x="0" y="50" type="line"/>
+      <point x="-8" y="0" type="line"/>
+      <point x="478" y="0" type="line"/>
+      <point x="486" y="51" type="line"/>
+      <point x="72" y="51" type="line"/>
+      <point x="586" y="648" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.59999999999999998</real>
+        <integer>1</integer>
+        <real>0.69399999999999995</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

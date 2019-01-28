@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="o" format="1">
+  <advance width="432"/>
+  <unicode hex="006F"/>
+    <anchor name="top" x="331.843" y="545"/>
+    <anchor name="tonos" x="331.843" y="545"/>
+  <outline>
+    <contour>
+      <point x="439.11" y="184" type="line" smooth="yes"/>
+      <point x="421.043" y="99"/>
+      <point x="308.874" y="-10"/>
+      <point x="215.874" y="-10" type="qcurve" smooth="yes"/>
+      <point x="149.874" y="-10"/>
+      <point x="79.565" y="45"/>
+      <point x="59.27" y="133"/>
+      <point x="70.1104" y="184" type="qcurve" smooth="yes"/>
+      <point x="98.1679" y="316" type="line" smooth="yes"/>
+      <point x="118.361" y="411"/>
+      <point x="235.404" y="510"/>
+      <point x="326.404" y="510" type="qcurve" smooth="yes"/>
+      <point x="413.404" y="510"/>
+      <point x="486.511" y="407"/>
+      <point x="467.168" y="316" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="355.443" y="322" type="line" smooth="yes"/>
+      <point x="363.095" y="358"/>
+      <point x="337.023" y="400"/>
+      <point x="302.023" y="400" type="qcurve" smooth="yes"/>
+      <point x="266.023" y="400"/>
+      <point x="218.52" y="360"/>
+      <point x="210.443" y="322" type="qcurve" smooth="yes"/>
+      <point x="179.41" y="176" type="line" smooth="yes"/>
+      <point x="175.159" y="156"/>
+      <point x="182.507" y="120"/>
+      <point x="211.831" y="98"/>
+      <point x="237.831" y="98" type="qcurve" smooth="yes"/>
+      <point x="262.831" y="98"/>
+      <point x="298.082" y="118"/>
+      <point x="319.734" y="154"/>
+      <point x="324.41" y="176" type="qcurve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="331.843" y="545" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="331.843" y="545" type="move" name="tonos"/>
+    </contour>
+  </outline>
+</glyph>

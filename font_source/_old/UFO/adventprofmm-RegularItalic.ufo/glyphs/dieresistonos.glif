@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresistonos" format="1">
+  <advance width="266"/>
+  <unicode hex="0385"/>
+  <outline>
+    <contour>
+      <point x="233.664" y="690" type="qcurve" smooth="yes"/>
+      <point x="230.688" y="676"/>
+      <point x="207.65" y="657"/>
+      <point x="193.65" y="657" type="qcurve" smooth="yes"/>
+      <point x="179.65" y="657"/>
+      <point x="163.688" y="676"/>
+      <point x="166.664" y="690" type="qcurve" smooth="yes"/>
+      <point x="169.64" y="704"/>
+      <point x="193.678" y="723"/>
+      <point x="207.678" y="723" type="qcurve" smooth="yes"/>
+      <point x="221.678" y="723"/>
+      <point x="236.64" y="704"/>
+    </contour>
+    <contour>
+      <point x="391.664" y="690" type="qcurve" smooth="yes"/>
+      <point x="388.688" y="676"/>
+      <point x="364.65" y="657"/>
+      <point x="350.65" y="657" type="qcurve" smooth="yes"/>
+      <point x="337.65" y="657"/>
+      <point x="321.688" y="676"/>
+      <point x="324.664" y="690" type="qcurve" smooth="yes"/>
+      <point x="327.64" y="704"/>
+      <point x="351.678" y="723"/>
+      <point x="364.678" y="723" type="qcurve" smooth="yes"/>
+      <point x="378.678" y="723"/>
+      <point x="394.64" y="704"/>
+    </contour>
+    <contour>
+      <point x="367.808" y="813" type="qcurve"/>
+      <point x="298.017" y="734" type="line"/>
+      <point x="262.017" y="734" type="line"/>
+      <point x="322.548" y="840" type="line" smooth="yes"/>
+      <point x="330.523" y="854"/>
+      <point x="359.499" y="868"/>
+      <point x="370.799" y="860" type="qcurve"/>
+      <point x="383.311" y="853"/>
+      <point x="379.147" y="824"/>
+    </contour>
+  </outline>
+</glyph>
