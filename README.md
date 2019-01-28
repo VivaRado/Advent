@@ -1,5 +1,3 @@
-# Advent Pro VARIABLE 2019
-
 ![Screenshot](https://github.com/VivaRado/Advent/blob/master/font_preview/assets/img/adventprovar.gif)
 
 **Introduction**
