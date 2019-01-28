@@ -164,6 +164,14 @@ VivaRado standard kerning sets are defined as follows:
     - Class Based (CB): One letter from each class.
     - Letter Based (LB): Alphabet / Complete Range.
 
+The resulting kerning is:
+
+```{'GG': 4629, 'GL': 800, 'LG': 780, 'LL': 191}```
+
+Total Pairs: ```6400```
+
+``````
+
 More information in ```kerning_adjustments/kerning_pair_details```
 
 **If you notice a possible kerning improvement we would like to hear about it.**
