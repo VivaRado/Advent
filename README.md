@@ -224,6 +224,7 @@ VivaRado is at the moment working on Cyrillic and Kazakh - Kazakh Latin Glyphlis
 
  - July 01 2018: Start of Redesign
  - January 28 2019: Final Kerning for CB for G and L.
+ - January 31 2019: Contour Fixes, Updates for all weights and anchor alignments.
 
 **  **
 
