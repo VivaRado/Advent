@@ -431,4 +431,5 @@
 	<glyph glif="tonos" name="tonos" unicode="0384"/>
 	<glyph glif="commaturnedabove" name="commaturnedabove" unicode=""/>
 	<glyph glif="A_E_" name="AE" unicode="00C6"/>
+	<glyph glif="U_psilondieresis" name="Upsilondieresis" unicode="03AB"/>
 </glyphlib>

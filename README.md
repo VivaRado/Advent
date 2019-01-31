@@ -1,4 +1,4 @@
-![Screenshot](https://github.com/VivaRado/Advent/blob/master/font_preview/assets/img/adventprovar.gif)
+![Screenshot](https://github.com/VivaRado/Advent/blob/master/assets/img/adventprovar.gif)
 
 **Introduction**
 
@@ -233,7 +233,19 @@ Advent Pro Variable will be delivered in 7 Weights & 7 Italic Weights and Variab
 
 The delivered font files are provided in UFO, WOFF, WOFF2, OTF, TTF, EFO.
 
-All the above files are available on VivaRado Github Account.
+All the above files are available here.
+
+Variable font flavors designspace:
+ - [Variable with weight axis only](https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/weight.designspace)
+ - [Variable with weight and italic axis](https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/weight_italic.designspace)
+
+To compile from UFO:
+
+```fontmake -o variable -m '/font.designspace' --output-path '/adventpro-VF.ttf'```
+
+Or from EFO:
+
+```python3 '/efo_to_var.py' -s '/font_source/EFO' -o '/adventpro-VF.ttf'```
 
 **  **
 

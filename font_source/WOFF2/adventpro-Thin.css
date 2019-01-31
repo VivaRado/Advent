@@ -1,9 +1,0 @@
-/* Webfont: adventpro-Thin */@font-face {
-    font-family: 'adventprofmmThin';
-    src: url('adventpro-Thin.woff2') format('woff2'), /* Modern Browsers */
-         url('adventpro-Thin.ttf') format('truetype'); /* Safari, Android, iOS */
-             font-style: normal;
-    font-weight: normal;
-    text-rendering: optimizeLegibility;
-}
-

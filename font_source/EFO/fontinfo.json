@@ -1,7 +1,7 @@
 [
     {
         "shared_info": {
-            "familyName": "advent pro fmm",
+            "familyName": "advent pro ",
             "macintoshFONDFamilyID": 128,
             "openTypeHeadCreated": "2018/08/21 13:22:21",
             "openTypeNameDescription": "",
@@ -14,7 +14,7 @@
             "openTypeNameSampleText": "",
             "openTypeNameUniqueID": "",
             "openTypeNameVersion": "",
-            "styleMapFamilyName": "advent pro fmm",
+            "styleMapFamilyName": "advent pro ",
             "trademark": "",
             "versionMajor": 1,
             "versionMinor": 0,
@@ -40,7 +40,7 @@
             {
                 "thn": {
                     "italicAngle": 0,
-                    "macintoshFONDName": "advent pro fmm Thin",
+                    "macintoshFONDName": "advent pro Thin",
                     "openTypeHeadFlags": [],
                     "openTypeHheaAscender": 750,
                     "openTypeHheaDescender": -250,
@@ -91,9 +91,9 @@
                         -20,
                         0
                     ],
-                    "postscriptFontName": "adventprofmm-Thin",
+                    "postscriptFontName": "adventpro-Thin",
                     "postscriptForceBold": false,
-                    "postscriptFullName": "advent pro fmm Thin",
+                    "postscriptFullName": "advent pro Thin",
                     "postscriptIsFixedPitch": false,
                     "postscriptUnderlinePosition": -75,
                     "postscriptUnderlineThickness": 50,
@@ -108,7 +108,7 @@
             {
                 "reg": {
                     "italicAngle": 0,
-                    "macintoshFONDName": "advent pro fmm",
+                    "macintoshFONDName": "advent pro ",
                     "openTypeHeadFlags": [],
                     "openTypeHheaAscender": 750,
                     "openTypeHheaDescender": -250,
@@ -159,9 +159,9 @@
                         -20,
                         0
                     ],
-                    "postscriptFontName": "adventprofmm-Regular",
+                    "postscriptFontName": "adventpro-Regular",
                     "postscriptForceBold": false,
-                    "postscriptFullName": "advent pro fmm Regular",
+                    "postscriptFullName": "advent pro Regular",
                     "postscriptIsFixedPitch": false,
                     "postscriptUnderlinePosition": -75,
                     "postscriptUnderlineThickness": 50,
@@ -176,7 +176,7 @@
             {
                 "bld": {
                     "italicAngle": 0,
-                    "macintoshFONDName": "advent pro fmm Bold",
+                    "macintoshFONDName": "advent pro Bold",
                     "openTypeHeadFlags": [],
                     "openTypeHheaAscender": 750,
                     "openTypeHheaDescender": -250,
@@ -227,9 +227,9 @@
                         -20,
                         0
                     ],
-                    "postscriptFontName": "adventprofmm-Bold",
+                    "postscriptFontName": "adventpro-Bold",
                     "postscriptForceBold": false,
-                    "postscriptFullName": "advent pro fmm Bold",
+                    "postscriptFullName": "advent pro Bold",
                     "postscriptIsFixedPitch": false,
                     "postscriptUnderlinePosition": -75,
                     "postscriptUnderlineThickness": 50,
@@ -244,7 +244,7 @@
             {
                 "thn_it": {
                     "italicAngle": 12,
-                    "macintoshFONDName": "advent pro fmm Thin",
+                    "macintoshFONDName": "advent pro Thin",
                     "openTypeHeadFlags": [],
                     "openTypeHheaAscender": 750,
                     "openTypeHheaDescender": -250,
@@ -295,9 +295,9 @@
                         -20,
                         0
                     ],
-                    "postscriptFontName": "adventprofmm-Thin",
+                    "postscriptFontName": "adventpro-Thin",
                     "postscriptForceBold": false,
-                    "postscriptFullName": "advent pro fmm Thin",
+                    "postscriptFullName": "advent pro Thin",
                     "postscriptIsFixedPitch": false,
                     "postscriptUnderlinePosition": -75,
                     "postscriptUnderlineThickness": 50,
@@ -312,7 +312,7 @@
             {
                 "reg_it": {
                     "italicAngle": 12,
-                    "macintoshFONDName": "advent pro fmm",
+                    "macintoshFONDName": "advent pro ",
                     "openTypeHeadFlags": [],
                     "openTypeHheaAscender": 750,
                     "openTypeHheaDescender": -250,
@@ -363,9 +363,9 @@
                         -20,
                         0
                     ],
-                    "postscriptFontName": "adventprofmm-Regular",
+                    "postscriptFontName": "adventpro-Regular",
                     "postscriptForceBold": false,
-                    "postscriptFullName": "advent pro fmm Regular",
+                    "postscriptFullName": "advent pro Regular",
                     "postscriptIsFixedPitch": false,
                     "postscriptUnderlinePosition": -75,
                     "postscriptUnderlineThickness": 50,
@@ -380,7 +380,7 @@
             {
                 "bld_it": {
                     "italicAngle": 12,
-                    "macintoshFONDName": "advent pro fmm Bold",
+                    "macintoshFONDName": "advent pro Bold",
                     "openTypeHeadFlags": [],
                     "openTypeHheaAscender": 750,
                     "openTypeHheaDescender": -250,
@@ -431,9 +431,9 @@
                         -20,
                         0
                     ],
-                    "postscriptFontName": "adventprofmm-Bold",
+                    "postscriptFontName": "adventpro-Bold",
                     "postscriptForceBold": false,
-                    "postscriptFullName": "advent pro fmm Bold",
+                    "postscriptFullName": "advent pro Bold",
                     "postscriptIsFixedPitch": false,
                     "postscriptUnderlinePosition": -75,
                     "postscriptUnderlineThickness": 50,

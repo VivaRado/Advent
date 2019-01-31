@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="commaturnedbelowcomb" format="1">
   <advance width="266"/>
-    <anchor name="bottom" x="79.8609" y="-250"/>
-    <anchor name="_bottom" x="133" y="0"/>
-    <anchor name="top" x="292.417" y="750"/>
-    <anchor name="_top" x="260.534" y="600"/>
   <outline>
     <component base="commaaccent"/>
   </outline>

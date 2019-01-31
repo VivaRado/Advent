@@ -4,6 +4,6 @@
   <unicode hex="016A"/>
   <outline>
     <component base="U"/>
-    <component base="overscore" yxScale="-0.2125" xOffset="83.1185" yOffset="150"/>
+    <component base="overscore" yxScale="-0.2125" xOffset="146.883" yOffset="150"/>
   </outline>
 </glyph>

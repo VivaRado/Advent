@@ -2,8 +2,6 @@
 <glyph name="Y" format="1">
   <advance width="513"/>
   <unicode hex="0059"/>
-    <anchor name="tonos" x="85" y="700"/>
-    <anchor name="top" x="256" y="735"/>
   <outline>
     <component base="Upsilon"/>
   </outline>

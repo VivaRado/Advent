@@ -864,5 +864,7 @@
   <string>commaturnedabove.glif</string>
   <key>AE</key>
   <string>A_E_.glif</string>
+  <key>Upsilondieresis</key>
+  <string>U_psilondieresis.glif</string>
 </dict>
 </plist>

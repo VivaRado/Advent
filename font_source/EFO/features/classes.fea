@@ -67,8 +67,8 @@
 @Omicron1 = [Omicron Omicrontonos Theta Phi];
 @Omegagreek = [Omegagreek Omegatonos];
 @Omegagreek1 = [Omegagreek Omegatonos];
-@Upsilon = [Upsilon Upsilontonos];
-@Upsilon1 = [Upsilon Upsilontonos];
+@Upsilon = [Upsilon Upsilontonos Upsilondieresis];
+@Upsilon1 = [Upsilon Upsilontonos Upsilondieresis];
 @Rho = [Rho ];
 @Rho1 = [Rho ];
 @Gamma = [Gamma ];

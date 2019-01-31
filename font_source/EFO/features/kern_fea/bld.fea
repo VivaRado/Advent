@@ -6436,7 +6436,7 @@ feature kern { # Kerning
 
     script grek; # Greek
     script latn; # Latin
-    script DFLT; # Default
+    #script DFLT; # Default
     lookup kern_Group_To_Group;
     lookup kern_Group_To_Letter;
     lookup kern_Letter_To_Group;
