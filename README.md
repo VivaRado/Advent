@@ -1,4 +1,4 @@
-![Screenshot](https://github.com/VivaRado/Advent/blob/master/assets/img/adventprovar.gif)
+![Screenshot](https://github.com/VivaRado/Advent/blob/master/docs/img/adventprovar.gif)
 
 **Introduction**
 
@@ -170,7 +170,7 @@ The resulting kerning is:
 
 Total Pairs: ```6400```
 
-More information in: [Kerning Pair Details](https://github.com/VivaRado/Advent/blob/master/kerning_adjustments/kerning_pair_details)
+More information in: [Kerning Pair Details](https://github.com/VivaRado/Advent/blob/master/docs/kerning_adjustments/kerning_pair_details)
 
 **If you notice a possible kerning improvement we would like to hear about it.**
 

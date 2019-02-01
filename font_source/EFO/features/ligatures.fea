@@ -4,5 +4,8 @@ feature liga {
 	sub f i by fi;
 	sub f f l by ffl;
 	sub f t by ft;
+	#
+	sub t t by t_t;
+	sub w w w by w_w_w;
 } liga;
 # Ligatures End

@@ -665,6 +665,8 @@
       <string>tcedilla</string>
       <string>tbar</string>
       <string>uni021B</string>
+      
+      <string>t_t</string>
     </array>
     <key>@MMK_R_t</key>
     <array>
@@ -673,6 +675,8 @@
       <string>tcedilla</string>
       <string>tbar</string>
       <string>uni021B</string>
+      
+      <string>t_t</string>
     </array>
     <key>@MMK_L_e</key>
     <array>
@@ -987,6 +991,7 @@
       <string>wgrave</string>
       
       <string>y_lower_alt</string>
+      <string>w_w_w</string>
     </array>
     <key>@MMK_R_v</key>
     <array>
@@ -998,6 +1003,7 @@
       <string>wgrave</string>
       
       <string>y_lower_alt</string>
+      <string>w_w_w</string>
     </array>
     <key>@MMK_L_y</key>
     <array>

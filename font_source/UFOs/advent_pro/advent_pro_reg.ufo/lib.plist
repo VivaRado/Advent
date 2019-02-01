@@ -205,7 +205,7 @@
 		<string>dotaccent</string>
 		<string>dotlessi</string>
 		<string>dotlessj</string>
-		<string>dslash</string>
+		<string>dcroat</string>
 		<string>e</string>
 		<string>eacute</string>
 		<string>ecaron</string>
@@ -436,6 +436,8 @@
 		<string>commaturnedabove</string>
 		<string>AE</string>
 		<string>Upsilondieresis</string>
+		<string>w_w_w</string>
+		<string>t_t</string>
 	</array>
 </dict>
 </plist>

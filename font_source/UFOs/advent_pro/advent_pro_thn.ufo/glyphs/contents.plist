@@ -404,8 +404,8 @@
 	<string>dotlessi.glif</string>
 	<key>dotlessj</key>
 	<string>dotlessj.glif</string>
-	<key>dslash</key>
-	<string>dslash.glif</string>
+	<key>dcroat</key>
+	<string>dcroat.glif</string>
 	<key>e</key>
 	<string>e.glif</string>
 	<key>eacute</key>
@@ -866,5 +866,9 @@
 	<string>A_E_.glif</string>
 	<key>Upsilondieresis</key>
 	<string>U_psilondieresis.glif</string>
+	<key>w_w_w</key>
+	<string>w_w_w.glif</string>
+	<key>t_t</key>
+	<string>t_t.glif</string>
 </dict>
 </plist>

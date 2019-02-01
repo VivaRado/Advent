@@ -201,7 +201,7 @@
 	<glyph glif="dotaccent" name="dotaccent" unicode="02D9"/>
 	<glyph glif="dotlessi" name="dotlessi" unicode="0131"/>
 	<glyph glif="dotlessj" name="dotlessj" unicode="F6BE"/>
-	<glyph glif="dslash" name="dslash" unicode="0111"/>
+	<glyph glif="dcroat" name="dcroat" unicode="0111"/>
 	<glyph glif="e" name="e" unicode="0065"/>
 	<glyph glif="eacute" name="eacute" unicode="00E9"/>
 	<glyph glif="ecaron" name="ecaron" unicode="011B"/>
@@ -432,4 +432,6 @@
 	<glyph glif="commaturnedabove" name="commaturnedabove" unicode=""/>
 	<glyph glif="A_E_" name="AE" unicode="00C6"/>
 	<glyph glif="U_psilondieresis" name="Upsilondieresis" unicode="03AB"/>
+	<glyph glif="w_w_w" name="w_w_w" unicode=""/>
+	<glyph glif="t_t" name="t_t" unicode=""/>
 </glyphlib>
