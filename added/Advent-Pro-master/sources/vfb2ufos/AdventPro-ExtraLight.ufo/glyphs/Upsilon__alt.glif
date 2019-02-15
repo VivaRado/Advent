@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Upsilon_alt" format="1">
+  <advance width="523"/>
+  <outline>
+    <contour>
+      <point x="265" y="0" type="line"/>
+      <point x="234" y="0" type="line"/>
+      <point x="234" y="341" type="line"/>
+      <point x="14" y="700" type="line"/>
+      <point x="51" y="700" type="line"/>
+      <point x="249" y="377" type="line"/>
+      <point x="449" y="700" type="line"/>
+      <point x="486" y="700" type="line"/>
+      <point x="265" y="342" type="line"/>
+    </contour>
+  </outline>
+</glyph>

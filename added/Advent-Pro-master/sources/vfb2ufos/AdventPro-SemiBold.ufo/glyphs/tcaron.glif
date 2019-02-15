@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcaron" format="1">
+  <advance width="358"/>
+  <unicode hex="0165"/>
+  <outline>
+    <contour>
+      <point x="283" y="59" type="qcurve"/>
+      <point x="256" y="-13" type="line"/>
+      <point x="120" y="-1"/>
+      <point x="120" y="132" type="qcurve"/>
+      <point x="120" y="700" type="line"/>
+      <point x="212" y="700" type="line"/>
+      <point x="212" y="501" type="line"/>
+      <point x="316" y="501" type="line"/>
+      <point x="292" y="415" type="line"/>
+      <point x="212" y="415" type="line"/>
+      <point x="212" y="132" type="line"/>
+      <point x="212" y="69"/>
+    </contour>
+    <contour>
+      <point x="334" y="875" type="line"/>
+      <point x="192" y="734" type="line"/>
+      <point x="44" y="875" type="line"/>
+      <point x="100" y="914" type="line"/>
+      <point x="191" y="823" type="line"/>
+      <point x="277" y="914" type="line"/>
+    </contour>
+  </outline>
+</glyph>

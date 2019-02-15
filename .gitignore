@@ -2,11 +2,14 @@
 /_scripts
 _old*
 _old/
-kerning_adjustments/screens/_old*
-kerning_adjustments/screens/_old/
+/font_source/_old*
+/font_source/_old/
+/docs/kerning_adjustments/screens/_old*
+/docs/kerning_adjustments/screens/_old/
 __pycache__*
 __pycache__/
 temp*
 temp/
 *.pyc
 *.pyo
+.DS_Store

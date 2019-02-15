@@ -1,35 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="P" format="1">
-  <advance width="502"/>
+  <advance width="504"/>
   <unicode hex="0050"/>
   <outline>
     <contour>
-      <point x="290" y="698" type="line" smooth="yes"/>
-      <point x="416.407" y="698"/>
-      <point x="474" y="621.022"/>
-      <point x="474" y="492" type="curve" smooth="yes"/>
-      <point x="474" y="353.437"/>
-      <point x="417.433" y="280"/>
-      <point x="283" y="280" type="curve" smooth="yes"/>
-      <point x="224.118" y="280"/>
-      <point x="139.118" y="280"/>
-      <point x="60" y="280" type="curve"/>
+      <point x="291" y="700" type="line" smooth="yes"/>
+      <point x="418" y="700"/>
+      <point x="476" y="623"/>
+      <point x="476" y="494" type="curve" smooth="yes"/>
+      <point x="476" y="355"/>
+      <point x="419" y="281"/>
+      <point x="284" y="281" type="curve" smooth="yes"/>
+      <point x="60" y="281" type="line"/>
       <point x="60" y="0" type="line"/>
       <point x="41" y="0" type="line"/>
-      <point x="41" y="698" type="line"/>
+      <point x="41" y="700" type="line"/>
     </contour>
     <contour>
-      <point x="60" y="299" type="line"/>
-      <point x="147.5" y="299"/>
-      <point x="228.25" y="299"/>
-      <point x="282" y="299" type="curve" smooth="yes"/>
-      <point x="403.633" y="299"/>
-      <point x="455" y="366.933"/>
-      <point x="455" y="492" type="curve" smooth="yes"/>
-      <point x="455" y="609.7"/>
-      <point x="406.633" y="678"/>
-      <point x="291" y="678" type="curve" smooth="yes"/>
-      <point x="60" y="678" type="line"/>
+      <point x="60" y="300" type="line"/>
+      <point x="283" y="300" type="line" smooth="yes"/>
+      <point x="405" y="300"/>
+      <point x="457" y="368"/>
+      <point x="457" y="494" type="curve" smooth="yes"/>
+      <point x="457" y="611"/>
+      <point x="408" y="680"/>
+      <point x="292" y="680" type="curve" smooth="yes"/>
+      <point x="60" y="680" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblbase" format="1">
+  <advance width="310"/>
+  <unicode hex="201E"/>
+  <outline>
+    <contour>
+      <point x="51" y="-82" type="qcurve"/>
+      <point x="11" y="-54" type="line"/>
+      <point x="56" y="-28"/>
+      <point x="69" y="-8" type="qcurve"/>
+      <point x="74" y="-1" type="line"/>
+      <point x="64" y="2" type="line"/>
+      <point x="46" y="15"/>
+      <point x="47" y="51"/>
+      <point x="66" y="68"/>
+      <point x="80" y="68"/>
+      <point x="94" y="67"/>
+      <point x="115" y="44"/>
+      <point x="115" y="29" type="qcurve"/>
+      <point x="115" y="-29"/>
+    </contour>
+    <contour>
+      <point x="202" y="-82" type="qcurve"/>
+      <point x="162" y="-54" type="line"/>
+      <point x="204" y="-30"/>
+      <point x="220" y="-8" type="qcurve"/>
+      <point x="225" y="-1" type="line"/>
+      <point x="215" y="2" type="line"/>
+      <point x="197" y="15"/>
+      <point x="198" y="51"/>
+      <point x="217" y="68"/>
+      <point x="231" y="68"/>
+      <point x="245" y="67"/>
+      <point x="266" y="44"/>
+      <point x="266" y="29" type="qcurve"/>
+      <point x="266" y="-29"/>
+    </contour>
+  </outline>
+</glyph>

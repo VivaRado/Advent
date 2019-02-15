@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Sigma" format="1">
-  <advance width="523"/>
+  <advance width="525"/>
   <unicode hex="03A3"/>
   <outline>
     <contour>
-      <point x="337.256" y="100" type="line" smooth="yes"/>
-      <point x="389.256" y="100"/>
-      <point x="420.764" y="108.667"/>
-      <point x="442.883" y="150" type="curve"/>
-      <point x="514.531" y="106" type="line"/>
-      <point x="477.327" y="31.3333"/>
-      <point x="426.667" y="0"/>
-      <point x="348" y="0" type="curve" smooth="yes"/>
+      <point x="339" y="101" type="line" smooth="yes"/>
+      <point x="391" y="101"/>
+      <point x="422" y="109"/>
+      <point x="444" y="151" type="curve"/>
+      <point x="516" y="107" type="line"/>
+      <point x="479" y="32"/>
+      <point x="428" y="0"/>
+      <point x="349" y="0" type="curve" smooth="yes"/>
       <point x="25" y="0" type="line"/>
-      <point x="331.622" y="384" type="line"/>
-      <point x="190.427" y="703" type="line"/>
-      <point x="618.427" y="703" type="line"/>
-      <point x="559.983" y="588" type="line"/>
-      <point x="368.983" y="588" type="line"/>
-      <point x="463.047" y="386" type="line"/>
-      <point x="233.256" y="100" type="line"/>
+      <point x="340" y="391" type="line"/>
+      <point x="196" y="705" type="line"/>
+      <point x="620" y="705" type="line"/>
+      <point x="562" y="590" type="line"/>
+      <point x="370" y="590" type="line"/>
+      <point x="465" y="387" type="line"/>
+      <point x="234" y="101" type="line"/>
     </contour>
   </outline>
 </glyph>

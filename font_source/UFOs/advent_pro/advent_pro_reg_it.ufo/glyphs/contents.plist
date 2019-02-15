@@ -870,5 +870,13 @@
 	<string>w_w_w.glif</string>
 	<key>t_t</key>
 	<string>t_t.glif</string>
+	<key>gamma_gamma</key>
+	<string>gamma_gamma.glif</string>
+	<key>gamma_kappa</key>
+	<string>gamma_kappa.glif</string>
+	<key>lambda_lambda</key>
+	<string>lambda_lambda.glif</string>
+	<key>sigma_tau</key>
+	<string>sigma_tau.glif</string>
 </dict>
 </plist>

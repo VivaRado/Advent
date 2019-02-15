@@ -1,51 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="OE" format="1">
-  <advance width="762"/>
+  <advance width="764"/>
   <unicode hex="0152"/>
   <outline>
-    <contour>
-      <point x="397" y="0" type="line"/>
-      <point x="406.14" y="43" type="line"/>
-      <point x="361.837" y="8.15333"/>
-      <point x="304.112" y="-11"/>
-      <point x="242.662" y="-11" type="curve" smooth="yes"/>
-      <point x="124.464" y="-11"/>
-      <point x="45.9066" y="56.0164"/>
-      <point x="73.323" y="185" type="curve" smooth="yes"/>
-      <point x="141.554" y="506" type="line" smooth="yes"/>
-      <point x="170.461" y="642"/>
-      <point x="265.765" y="714"/>
-      <point x="397.765" y="714" type="curve" smooth="yes"/>
-      <point x="461.765" y="714"/>
-      <point x="509.989" y="694.667"/>
-      <point x="537.287" y="660" type="curve"/>
-      <point x="545.364" y="698" type="line"/>
-      <point x="879.364" y="698" type="line"/>
-      <point x="868.312" y="646" type="line"/>
-      <point x="591.312" y="646" type="line"/>
-      <point x="541.361" y="411" type="line"/>
-      <point x="731.361" y="411" type="line"/>
-      <point x="700.67" y="356" type="line"/>
-      <point x="529.67" y="356" type="line"/>
-      <point x="464.628" y="50" type="line"/>
-      <point x="739.628" y="50" type="line"/>
-      <point x="729" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="129.536" y="186" type="line" smooth="yes"/>
-      <point x="109.118" y="89.9435"/>
-      <point x="164.337" y="42"/>
-      <point x="251.927" y="42" type="curve" smooth="yes"/>
-      <point x="336.258" y="42"/>
-      <point x="406.116" y="80.9882"/>
-      <point x="431.859" y="164" type="curve"/>
-      <point x="510.93" y="536" type="line"/>
-      <point x="520.502" y="618.667"/>
-      <point x="470.167" y="661"/>
-      <point x="383.5" y="661" type="curve" smooth="yes"/>
-      <point x="291.5" y="661"/>
-      <point x="220.155" y="612.333"/>
-      <point x="199.467" y="515" type="curve" smooth="yes"/>
-    </contour>
+    <component base="E" xOffset="362"/>
+    <component base="O"/>
   </outline>
 </glyph>

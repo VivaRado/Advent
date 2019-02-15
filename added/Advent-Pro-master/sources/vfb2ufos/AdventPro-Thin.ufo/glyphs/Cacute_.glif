@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Cacute" format="1">
+  <advance width="430"/>
+  <unicode hex="0106"/>
+  <outline>
+    <contour>
+      <point x="253" y="734" type="line"/>
+      <point x="234" y="734" type="line"/>
+      <point x="289" y="862" type="line"/>
+      <point x="294" y="875"/>
+      <point x="304" y="875" type="qcurve"/>
+      <point x="308" y="875"/>
+      <point x="312" y="873" type="qcurve"/>
+      <point x="328" y="866"/>
+      <point x="316" y="847" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="260" y="7" type="qcurve"/>
+      <point x="333" y="7"/>
+      <point x="421" y="41" type="qcurve"/>
+      <point x="427" y="23" type="line"/>
+      <point x="342" y="-10"/>
+      <point x="265" y="-10" type="qcurve"/>
+      <point x="249" y="-10"/>
+      <point x="184" y="-4"/>
+      <point x="111" y="35"/>
+      <point x="66" y="120"/>
+      <point x="66" y="183" type="qcurve"/>
+      <point x="66" y="504" type="line"/>
+      <point x="66" y="580"/>
+      <point x="109" y="658"/>
+      <point x="153" y="685" type="qcurve"/>
+      <point x="197" y="710"/>
+      <point x="260" y="710" type="qcurve"/>
+      <point x="341" y="710"/>
+      <point x="402" y="677" type="qcurve"/>
+      <point x="394" y="660" type="line"/>
+      <point x="324" y="691"/>
+      <point x="263" y="691" type="qcurve"/>
+      <point x="218" y="691"/>
+      <point x="150" y="664"/>
+      <point x="112" y="627"/>
+      <point x="85" y="559"/>
+      <point x="85" y="513" type="qcurve"/>
+      <point x="85" y="185" type="line"/>
+      <point x="85" y="120"/>
+      <point x="138" y="35"/>
+      <point x="218" y="7"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iotadieresis" format="1">
+  <advance width="278"/>
+  <unicode hex="03CA"/>
+  <outline>
+    <contour>
+      <point x="176" y="0" type="line"/>
+      <point x="85" y="0" type="line"/>
+      <point x="85" y="501" type="line"/>
+      <point x="176" y="501" type="line"/>
+    </contour>
+    <contour>
+      <point x="88" y="608" type="qcurve"/>
+      <point x="100" y="596"/>
+      <point x="100" y="562"/>
+      <point x="76" y="539"/>
+      <point x="42" y="539"/>
+      <point x="19" y="562"/>
+      <point x="19" y="596"/>
+      <point x="42" y="620"/>
+      <point x="76" y="620"/>
+    </contour>
+    <contour>
+      <point x="229" y="551" type="qcurve"/>
+      <point x="217" y="539"/>
+      <point x="183" y="539"/>
+      <point x="159" y="563"/>
+      <point x="159" y="596"/>
+      <point x="184" y="621"/>
+      <point x="217" y="621"/>
+      <point x="241" y="597"/>
+      <point x="241" y="563"/>
+    </contour>
+  </outline>
+</glyph>

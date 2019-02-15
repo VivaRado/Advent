@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zacute" format="1">
+  <advance width="482"/>
+  <unicode hex="017A"/>
+  <outline>
+    <contour>
+      <point x="445" y="0" type="line"/>
+      <point x="78" y="0" type="line"/>
+      <point x="78" y="85" type="line"/>
+      <point x="310" y="416" type="line"/>
+      <point x="87" y="416" type="line"/>
+      <point x="87" y="501" type="line"/>
+      <point x="431" y="501" type="line"/>
+      <point x="431" y="418" type="line"/>
+      <point x="198" y="85" type="line"/>
+      <point x="445" y="85" type="line"/>
+    </contour>
+    <contour>
+      <point x="287" y="538" type="line"/>
+      <point x="224" y="538" type="line"/>
+      <point x="272" y="649" type="line"/>
+      <point x="284" y="679"/>
+      <point x="317" y="679" type="qcurve"/>
+      <point x="324" y="679"/>
+      <point x="331" y="676" type="qcurve"/>
+      <point x="355" y="666"/>
+      <point x="355" y="627"/>
+      <point x="343" y="611" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

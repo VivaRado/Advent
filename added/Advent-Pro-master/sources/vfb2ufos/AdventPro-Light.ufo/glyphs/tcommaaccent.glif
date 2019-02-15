@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcommaaccent" format="1">
+  <advance width="267"/>
+  <unicode hex="0163"/>
+  <outline>
+    <contour>
+      <point x="58" y="700" type="line"/>
+      <point x="103" y="700" type="line"/>
+      <point x="103" y="501" type="line"/>
+      <point x="234" y="501" type="line"/>
+      <point x="214" y="458" type="line"/>
+      <point x="103" y="458" type="line"/>
+      <point x="103" y="132" type="line"/>
+      <point x="103" y="47"/>
+      <point x="177" y="23" type="qcurve"/>
+      <point x="164" y="-13" type="line"/>
+      <point x="108" y="3"/>
+      <point x="58" y="73"/>
+      <point x="58" y="132" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="106" y="-102" type="qcurve"/>
+      <point x="99" y="-100" type="line"/>
+      <point x="82" y="-90"/>
+      <point x="83" y="-59"/>
+      <point x="98" y="-45"/>
+      <point x="110" y="-45"/>
+      <point x="122" y="-46"/>
+      <point x="140" y="-65"/>
+      <point x="140" y="-76" type="qcurve"/>
+      <point x="140" y="-131"/>
+      <point x="76" y="-184" type="qcurve"/>
+      <point x="44" y="-161" type="line"/>
+      <point x="66" y="-149"/>
+      <point x="97" y="-119"/>
+    </contour>
+  </outline>
+</glyph>

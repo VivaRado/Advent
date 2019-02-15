@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zacute" format="1">
+  <advance width="550"/>
+  <unicode hex="0179"/>
+  <outline>
+    <contour>
+      <point x="518" y="0" type="line"/>
+      <point x="31" y="0" type="line"/>
+      <point x="31" y="101" type="line"/>
+      <point x="373" y="590" type="line"/>
+      <point x="44" y="590" type="line"/>
+      <point x="44" y="700" type="line"/>
+      <point x="512" y="700" type="line"/>
+      <point x="512" y="590" type="line"/>
+      <point x="168" y="104" type="line"/>
+      <point x="518" y="104" type="line"/>
+    </contour>
+    <contour>
+      <point x="277" y="785" type="line"/>
+      <point x="204" y="785" type="line"/>
+      <point x="250" y="893" type="line"/>
+      <point x="260" y="916"/>
+      <point x="283" y="924" type="qcurve"/>
+      <point x="294" y="927"/>
+      <point x="302" y="927" type="qcurve"/>
+      <point x="311" y="927"/>
+      <point x="317" y="923" type="qcurve"/>
+      <point x="337" y="913"/>
+      <point x="341" y="894" type="qcurve"/>
+      <point x="342" y="890"/>
+      <point x="342" y="887" type="qcurve"/>
+      <point x="342" y="869"/>
+      <point x="326" y="848" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>

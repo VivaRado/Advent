@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ellipsis" format="1">
+  <advance width="485"/>
+  <unicode hex="2026"/>
+  <outline>
+    <contour>
+      <point x="73" y="11" type="qcurve"/>
+      <point x="62" y="0"/>
+      <point x="30" y="0"/>
+      <point x="8" y="22"/>
+      <point x="8" y="54"/>
+      <point x="30" y="76"/>
+      <point x="62" y="76"/>
+      <point x="84" y="54"/>
+      <point x="84" y="22"/>
+    </contour>
+    <contour>
+      <point x="251" y="11" type="qcurve"/>
+      <point x="240" y="0"/>
+      <point x="208" y="0"/>
+      <point x="186" y="22"/>
+      <point x="186" y="54"/>
+      <point x="208" y="76"/>
+      <point x="240" y="76"/>
+      <point x="262" y="54"/>
+      <point x="262" y="22"/>
+    </contour>
+    <contour>
+      <point x="431" y="11" type="qcurve"/>
+      <point x="420" y="0"/>
+      <point x="388" y="0"/>
+      <point x="366" y="22"/>
+      <point x="366" y="54"/>
+      <point x="388" y="76"/>
+      <point x="420" y="76"/>
+      <point x="442" y="54"/>
+      <point x="442" y="22"/>
+    </contour>
+  </outline>
+</glyph>

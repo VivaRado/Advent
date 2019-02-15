@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ncaron" format="1">
+  <advance width="484"/>
+  <unicode hex="0148"/>
+  <outline>
+    <contour>
+      <point x="168" y="485" type="line"/>
+      <point x="212" y="509"/>
+      <point x="318" y="509"/>
+      <point x="362" y="491" type="qcurve"/>
+      <point x="447" y="452"/>
+      <point x="447" y="346" type="qcurve"/>
+      <point x="447" y="0" type="line"/>
+      <point x="356" y="0" type="line"/>
+      <point x="356" y="325" type="line"/>
+      <point x="356" y="373"/>
+      <point x="298" y="423"/>
+      <point x="212" y="423"/>
+      <point x="168" y="400" type="qcurve"/>
+      <point x="168" y="0" type="line"/>
+      <point x="78" y="0" type="line"/>
+      <point x="78" y="501" type="line"/>
+      <point x="161" y="501" type="line"/>
+    </contour>
+    <contour>
+      <point x="421" y="732" type="line"/>
+      <point x="279" y="591" type="line"/>
+      <point x="131" y="732" type="line"/>
+      <point x="187" y="771" type="line"/>
+      <point x="278" y="680" type="line"/>
+      <point x="364" y="771" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="delta" format="1">
+  <advance width="490"/>
+  <unicode hex="03B4"/>
+  <outline>
+    <contour>
+      <point x="451" y="288" type="qcurve"/>
+      <point x="451" y="184" type="line"/>
+      <point x="451" y="-10"/>
+      <point x="266" y="-10" type="qcurve"/>
+      <point x="171" y="-10"/>
+      <point x="78" y="93"/>
+      <point x="78" y="184" type="qcurve"/>
+      <point x="78" y="310" type="line"/>
+      <point x="78" y="383"/>
+      <point x="131" y="471"/>
+      <point x="166" y="486" type="qcurve"/>
+      <point x="140" y="511"/>
+      <point x="132" y="548" type="qcurve"/>
+      <point x="130" y="563"/>
+      <point x="130" y="576" type="qcurve"/>
+      <point x="130" y="599"/>
+      <point x="138" y="620" type="qcurve"/>
+      <point x="150" y="655"/>
+      <point x="232" y="705"/>
+      <point x="293" y="705" type="qcurve"/>
+      <point x="348" y="705" type="line"/>
+      <point x="327" y="590" type="line"/>
+      <point x="284" y="590" type="line"/>
+      <point x="269" y="590"/>
+      <point x="247" y="574"/>
+      <point x="253" y="542"/>
+      <point x="279" y="524" type="qcurve"/>
+      <point x="368" y="460"/>
+      <point x="393" y="433" type="qcurve"/>
+      <point x="451" y="373"/>
+    </contour>
+    <contour>
+      <point x="342" y="178" type="qcurve"/>
+      <point x="342" y="256" type="line"/>
+      <point x="342" y="313"/>
+      <point x="322" y="346" type="qcurve"/>
+      <point x="299" y="382"/>
+      <point x="255" y="407" type="qcurve"/>
+      <point x="235" y="405"/>
+      <point x="207" y="391"/>
+      <point x="193" y="375"/>
+      <point x="186" y="344"/>
+      <point x="186" y="328"/>
+      <point x="187" y="291"/>
+      <point x="187" y="287" type="qcurve"/>
+      <point x="187" y="178" type="line"/>
+      <point x="187" y="138"/>
+      <point x="236" y="97"/>
+      <point x="266" y="97" type="qcurve"/>
+      <point x="295" y="97"/>
+      <point x="342" y="133"/>
+    </contour>
+  </outline>
+</glyph>

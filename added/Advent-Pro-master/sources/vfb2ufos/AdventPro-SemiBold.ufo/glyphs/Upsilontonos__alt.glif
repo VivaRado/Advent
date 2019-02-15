@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Upsilontonos_alt" format="1">
+  <advance width="718"/>
+  <outline>
+    <contour>
+      <point x="141" y="568" type="line"/>
+      <point x="78" y="568" type="line"/>
+      <point x="126" y="679" type="line"/>
+      <point x="138" y="709"/>
+      <point x="171" y="709" type="qcurve"/>
+      <point x="178" y="709"/>
+      <point x="185" y="706" type="qcurve"/>
+      <point x="209" y="696"/>
+      <point x="209" y="657"/>
+      <point x="197" y="641" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="527" y="0" type="line"/>
+      <point x="435" y="0" type="line"/>
+      <point x="435" y="324" type="line"/>
+      <point x="245" y="700" type="line"/>
+      <point x="342" y="700" type="line"/>
+      <point x="480" y="424" type="line"/>
+      <point x="619" y="700" type="line"/>
+      <point x="717" y="700" type="line"/>
+      <point x="527" y="324" type="line"/>
+    </contour>
+  </outline>
+</glyph>

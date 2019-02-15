@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccent" format="1">
+  <advance width="60"/>
+  <unicode hex="02D9"/>
+  <outline>
+    <contour>
+      <point x="44" y="696" type="qcurve"/>
+      <point x="44" y="683"/>
+      <point x="17" y="683"/>
+      <point x="17" y="710"/>
+      <point x="44" y="710"/>
+    </contour>
+  </outline>
+</glyph>

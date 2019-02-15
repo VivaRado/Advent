@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rho" format="1">
+  <advance width="488"/>
+  <unicode hex="03C1"/>
+  <outline>
+    <contour>
+      <point x="168" y="-195" type="line"/>
+      <point x="78" y="-211" type="line"/>
+      <point x="78" y="315" type="line"/>
+      <point x="78" y="404"/>
+      <point x="176" y="507"/>
+      <point x="361" y="507"/>
+      <point x="451" y="400"/>
+      <point x="451" y="307" type="qcurve"/>
+      <point x="451" y="172" type="line"/>
+      <point x="451" y="84"/>
+      <point x="358" y="-10"/>
+      <point x="266" y="-10" type="qcurve"/>
+      <point x="201" y="-10"/>
+      <point x="168" y="18" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="359" y="183" type="qcurve"/>
+      <point x="359" y="303" type="line"/>
+      <point x="359" y="370"/>
+      <point x="310" y="422"/>
+      <point x="264" y="422" type="qcurve"/>
+      <point x="169" y="422"/>
+      <point x="169" y="304" type="qcurve"/>
+      <point x="169" y="183" type="line"/>
+      <point x="169" y="77"/>
+      <point x="266" y="77" type="qcurve"/>
+      <point x="314" y="77"/>
+      <point x="359" y="127"/>
+    </contour>
+  </outline>
+</glyph>

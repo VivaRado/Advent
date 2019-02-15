@@ -1,45 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Theta" format="1">
-  <advance width="486"/>
+  <advance width="488"/>
   <unicode hex="0398"/>
   <outline>
+    <component base="O"/>
     <contour>
-      <point x="140.554" y="506" type="line" smooth="yes"/>
-      <point x="169.461" y="642"/>
-      <point x="264.765" y="714"/>
-      <point x="396.765" y="714" type="curve" smooth="yes"/>
-      <point x="527.432" y="714"/>
-      <point x="586.115" y="635.667"/>
-      <point x="558.341" y="505" type="curve" smooth="yes"/>
-      <point x="490.323" y="185" type="line" smooth="yes"/>
-      <point x="464.375" y="62.9232"/>
-      <point x="365.771" y="-11"/>
-      <point x="240.662" y="-11" type="curve" smooth="yes"/>
-      <point x="124.035" y="-11"/>
-      <point x="44.9013" y="55.9913"/>
-      <point x="72.323" y="185" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="540.979" y="508" type="line" smooth="yes"/>
-      <point x="565.635" y="624"/>
-      <point x="515.968" y="693"/>
-      <point x="389.302" y="693" type="curve" smooth="yes"/>
-      <point x="263.968" y="693"/>
-      <point x="183.927" y="620.667"/>
-      <point x="159.554" y="506" type="curve" smooth="yes"/>
-      <point x="128.308" y="359" type="line"/>
-      <point x="509.308" y="359" type="line"/>
-    </contour>
-    <contour>
-      <point x="244.7" y="8" type="curve" smooth="yes"/>
-      <point x="352.465" y="8"/>
-      <point x="447.093" y="66.3024"/>
-      <point x="472.11" y="184" type="curve" smooth="yes"/>
-      <point x="505.057" y="339" type="line"/>
-      <point x="124.057" y="339" type="line"/>
-      <point x="91.1104" y="184" type="line" smooth="yes"/>
-      <point x="68.3487" y="76.9145"/>
-      <point x="138.432" y="8"/>
+      <point x="124" y="362" type="line"/>
+      <point x="515" y="362" type="line"/>
+      <point x="511" y="340" type="line"/>
+      <point x="121" y="340" type="line"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>angle</key>
+      <real>0</real>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>340</real>
+    </dict>
+  </array>
+  </dict>
+  </lib>
 </glyph>

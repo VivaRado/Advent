@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Upsilondieresis_alt" format="1">
+  <advance width="518"/>
+  <unicode hex="03AB"/>
+  <outline>
+    <contour>
+      <point x="215" y="773" type="qcurve"/>
+      <point x="215" y="755"/>
+      <point x="189" y="729"/>
+      <point x="170" y="729" type="qcurve"/>
+      <point x="152" y="729"/>
+      <point x="126" y="755"/>
+      <point x="126" y="773" type="qcurve"/>
+      <point x="126" y="792"/>
+      <point x="152" y="818"/>
+      <point x="170" y="818" type="qcurve"/>
+      <point x="189" y="818"/>
+      <point x="215" y="792"/>
+    </contour>
+    <contour>
+      <point x="335" y="742" type="qcurve"/>
+      <point x="322" y="729"/>
+      <point x="284" y="729"/>
+      <point x="258" y="755"/>
+      <point x="258" y="793"/>
+      <point x="284" y="819"/>
+      <point x="322" y="819"/>
+      <point x="348" y="793"/>
+      <point x="348" y="755"/>
+    </contour>
+    <contour>
+      <point x="298" y="0" type="line"/>
+      <point x="187" y="0" type="line"/>
+      <point x="187" y="315" type="line"/>
+      <point x="7" y="700" type="line"/>
+      <point x="123" y="700" type="line"/>
+      <point x="242" y="433" type="line"/>
+      <point x="362" y="700" type="line"/>
+      <point x="479" y="700" type="line"/>
+      <point x="298" y="315" type="line"/>
+    </contour>
+  </outline>
+</glyph>

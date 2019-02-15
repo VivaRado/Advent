@@ -438,6 +438,10 @@
 		<string>Upsilondieresis</string>
 		<string>w_w_w</string>
 		<string>t_t</string>
+		<string>gamma_gamma</string>
+		<string>gamma_kappa</string>
+		<string>lambda_lambda</string>
+		<string>sigma_tau</string>
 	</array>
 </dict>
 </plist>

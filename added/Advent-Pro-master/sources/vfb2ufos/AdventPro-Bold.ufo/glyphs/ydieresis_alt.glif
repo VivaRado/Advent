@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ydieresis_alt" format="1">
+  <advance width="550"/>
+  <outline>
+    <contour>
+      <point x="233" y="583" type="qcurve"/>
+      <point x="233" y="565"/>
+      <point x="207" y="539"/>
+      <point x="188" y="539" type="qcurve"/>
+      <point x="170" y="539"/>
+      <point x="144" y="565"/>
+      <point x="144" y="583" type="qcurve"/>
+      <point x="144" y="602"/>
+      <point x="170" y="628"/>
+      <point x="188" y="628" type="qcurve"/>
+      <point x="207" y="628"/>
+      <point x="233" y="602"/>
+    </contour>
+    <contour>
+      <point x="353" y="552" type="qcurve"/>
+      <point x="340" y="539"/>
+      <point x="302" y="539"/>
+      <point x="276" y="565"/>
+      <point x="276" y="603"/>
+      <point x="302" y="629"/>
+      <point x="340" y="629"/>
+      <point x="366" y="603"/>
+      <point x="366" y="565"/>
+    </contour>
+    <contour>
+      <point x="233" y="-198" type="line"/>
+      <point x="111" y="-198" type="line"/>
+      <point x="194" y="0" type="line"/>
+      <point x="5" y="501" type="line"/>
+      <point x="127" y="501" type="line"/>
+      <point x="257" y="149" type="line"/>
+      <point x="392" y="501" type="line"/>
+      <point x="511" y="501" type="line"/>
+    </contour>
+  </outline>
+</glyph>

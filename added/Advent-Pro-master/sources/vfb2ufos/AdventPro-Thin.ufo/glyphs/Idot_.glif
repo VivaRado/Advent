@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idot" format="1">
+  <advance width="267"/>
+  <unicode hex="0130"/>
+  <outline>
+    <contour>
+      <point x="187" y="783" type="qcurve"/>
+      <point x="187" y="770"/>
+      <point x="160" y="770"/>
+      <point x="160" y="797"/>
+      <point x="187" y="797"/>
+    </contour>
+    <contour>
+      <point x="183" y="0" type="line"/>
+      <point x="164" y="0" type="line"/>
+      <point x="164" y="679" type="line"/>
+      <point x="78" y="681" type="line"/>
+      <point x="78" y="700" type="line"/>
+      <point x="183" y="700" type="line"/>
+    </contour>
+  </outline>
+</glyph>

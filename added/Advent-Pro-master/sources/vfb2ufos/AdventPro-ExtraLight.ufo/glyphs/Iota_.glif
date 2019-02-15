@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iota" format="1">
+  <advance width="299"/>
+  <unicode hex="0399"/>
+  <outline>
+    <contour>
+      <point x="192" y="0" type="line"/>
+      <point x="160" y="0" type="line"/>
+      <point x="160" y="668" type="line"/>
+      <point x="80" y="670" type="line"/>
+      <point x="80" y="700" type="line"/>
+      <point x="192" y="700" type="line"/>
+    </contour>
+  </outline>
+</glyph>

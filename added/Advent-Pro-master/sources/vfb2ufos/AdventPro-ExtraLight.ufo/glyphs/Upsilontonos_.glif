@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Upsilontonos" format="1">
+  <advance width="725"/>
+  <unicode hex="038E"/>
+  <outline>
+    <contour>
+      <point x="106" y="568" type="line"/>
+      <point x="78" y="568" type="line"/>
+      <point x="132" y="692" type="line"/>
+      <point x="139" y="709"/>
+      <point x="152" y="709" type="qcurve"/>
+      <point x="170" y="709"/>
+      <point x="174" y="693" type="qcurve"/>
+      <point x="177" y="683"/>
+      <point x="171" y="674" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="584" y="-7" type="qcurve"/>
+      <point x="576" y="18" type="line"/>
+      <point x="593" y="24"/>
+      <point x="609" y="33"/>
+      <point x="625" y="47" type="qcurve"/>
+      <point x="656" y="74"/>
+      <point x="656" y="152" type="qcurve"/>
+      <point x="656" y="325" type="line"/>
+      <point x="627" y="282"/>
+      <point x="522" y="245"/>
+      <point x="474" y="245" type="qcurve"/>
+      <point x="368" y="245"/>
+      <point x="245" y="350"/>
+      <point x="245" y="453" type="qcurve"/>
+      <point x="245" y="700" type="line"/>
+      <point x="277" y="700" type="line"/>
+      <point x="277" y="453" type="line"/>
+      <point x="277" y="368"/>
+      <point x="378" y="277"/>
+      <point x="474" y="277" type="qcurve"/>
+      <point x="547" y="277"/>
+      <point x="646" y="347"/>
+      <point x="656" y="403" type="qcurve"/>
+      <point x="656" y="700" type="line"/>
+      <point x="688" y="700" type="line"/>
+      <point x="688" y="149" type="line"/>
+      <point x="688" y="15"/>
+    </contour>
+  </outline>
+</glyph>

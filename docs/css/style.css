@@ -126,6 +126,7 @@ h2 small {
 	font-size: 2em;
 	/*letter-spacing: 0.04em;*/
 	font-kerning: normal;
+	line-height: 1;
 }
 .sample, .no_sample {
 	font-size: 2em;

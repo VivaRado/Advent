@@ -434,4 +434,8 @@
 	<glyph glif="U_psilondieresis" name="Upsilondieresis" unicode="03AB"/>
 	<glyph glif="w_w_w" name="w_w_w" unicode=""/>
 	<glyph glif="t_t" name="t_t" unicode=""/>
+	<glyph glif="gamma_gamma" name="gamma_gamma" unicode=""/>
+	<glyph glif="gamma_kappa" name="gamma_kappa" unicode=""/>
+	<glyph glif="lambda_lambda" name="lambda_lambda" unicode=""/>
+	<glyph glif="sigma_tau" name="sigma_tau" unicode=""/>
 </glyphlib>

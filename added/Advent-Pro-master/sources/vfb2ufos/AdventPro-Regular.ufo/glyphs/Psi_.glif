@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Psi" format="1">
+  <advance width="632"/>
+  <unicode hex="03A8"/>
+  <outline>
+    <contour>
+      <point x="351" y="0" type="line"/>
+      <point x="294" y="0" type="line"/>
+      <point x="293" y="212" type="line"/>
+      <point x="249" y="212" type="line"/>
+      <point x="154" y="212"/>
+      <point x="61" y="315"/>
+      <point x="61" y="406" type="qcurve"/>
+      <point x="61" y="700" type="line"/>
+      <point x="117" y="700" type="line"/>
+      <point x="117" y="396" type="line"/>
+      <point x="117" y="330"/>
+      <point x="189" y="262"/>
+      <point x="249" y="262" type="qcurve"/>
+      <point x="293" y="262" type="line"/>
+      <point x="293" y="700" type="line"/>
+      <point x="351" y="700" type="line"/>
+      <point x="351" y="262" type="line"/>
+      <point x="400" y="262" type="line"/>
+      <point x="460" y="262"/>
+      <point x="532" y="330"/>
+      <point x="532" y="396" type="qcurve"/>
+      <point x="532" y="564" type="line"/>
+      <point x="532" y="604"/>
+      <point x="518" y="657"/>
+      <point x="504" y="675"/>
+      <point x="487" y="693" type="qcurve"/>
+      <point x="532" y="709" type="line"/>
+      <point x="559" y="692"/>
+      <point x="585" y="633"/>
+      <point x="588" y="591"/>
+      <point x="588" y="549" type="qcurve"/>
+      <point x="588" y="406" type="line"/>
+      <point x="588" y="315"/>
+      <point x="495" y="212"/>
+      <point x="400" y="212" type="qcurve"/>
+      <point x="351" y="212" type="line"/>
+    </contour>
+  </outline>
+</glyph>

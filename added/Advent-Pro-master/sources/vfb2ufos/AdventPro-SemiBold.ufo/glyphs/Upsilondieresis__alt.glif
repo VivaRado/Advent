@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Upsilondieresis_alt" format="1">
+  <advance width="514"/>
+  <unicode hex="03AB"/>
+  <outline>
+    <contour>
+      <point x="193" y="798" type="qcurve"/>
+      <point x="205" y="786"/>
+      <point x="205" y="752"/>
+      <point x="181" y="729"/>
+      <point x="148" y="729"/>
+      <point x="124" y="752"/>
+      <point x="124" y="786"/>
+      <point x="147" y="810"/>
+      <point x="181" y="810"/>
+    </contour>
+    <contour>
+      <point x="334" y="741" type="qcurve"/>
+      <point x="322" y="729"/>
+      <point x="288" y="729"/>
+      <point x="264" y="753"/>
+      <point x="264" y="786"/>
+      <point x="288" y="811"/>
+      <point x="322" y="811"/>
+      <point x="346" y="787"/>
+      <point x="346" y="753"/>
+    </contour>
+    <contour>
+      <point x="287" y="0" type="line"/>
+      <point x="195" y="0" type="line"/>
+      <point x="195" y="324" type="line"/>
+      <point x="5" y="700" type="line"/>
+      <point x="102" y="700" type="line"/>
+      <point x="240" y="424" type="line"/>
+      <point x="379" y="700" type="line"/>
+      <point x="477" y="700" type="line"/>
+      <point x="287" y="324" type="line"/>
+    </contour>
+  </outline>
+</glyph>

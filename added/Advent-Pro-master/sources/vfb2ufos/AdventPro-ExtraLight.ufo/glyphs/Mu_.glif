@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Mu" format="1">
+  <advance width="698"/>
+  <unicode hex="039C"/>
+  <outline>
+    <contour>
+      <point x="616" y="0" type="line"/>
+      <point x="585" y="0" type="line"/>
+      <point x="585" y="608" type="line"/>
+      <point x="364" y="0" type="line"/>
+      <point x="331" y="0" type="line"/>
+      <point x="111" y="608" type="line"/>
+      <point x="111" y="0" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="80" y="700" type="line"/>
+      <point x="111" y="700" type="line"/>
+      <point x="348" y="50" type="line"/>
+      <point x="585" y="700" type="line"/>
+      <point x="616" y="700" type="line"/>
+    </contour>
+  </outline>
+</glyph>

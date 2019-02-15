@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="w_w_w" format="1">
+  <advance width="1916"/>
+  <outline>
+    <contour>
+      <point x="1713" y="0" type="line"/>
+      <point x="1678" y="0" type="line"/>
+      <point x="1555" y="437" type="line"/>
+      <point x="1433" y="0" type="line"/>
+      <point x="1398" y="0" type="line"/>
+      <point x="1251" y="450" type="line"/>
+      <point x="1104" y="0" type="line"/>
+      <point x="1069" y="0" type="line"/>
+      <point x="946" y="437" type="line"/>
+      <point x="824" y="0" type="line"/>
+      <point x="789" y="0" type="line"/>
+      <point x="643" y="449" type="line"/>
+      <point x="496" y="0" type="line"/>
+      <point x="461" y="0" type="line"/>
+      <point x="338" y="437" type="line"/>
+      <point x="216" y="0" type="line"/>
+      <point x="181" y="0" type="line"/>
+      <point x="18" y="501" type="line"/>
+      <point x="52" y="501" type="line"/>
+      <point x="198" y="44" type="line"/>
+      <point x="325" y="501" type="line"/>
+      <point x="352" y="501" type="line"/>
+      <point x="479" y="45" type="line"/>
+      <point x="626" y="501" type="line"/>
+      <point x="660" y="501" type="line"/>
+      <point x="806" y="44" type="line"/>
+      <point x="933" y="501" type="line"/>
+      <point x="960" y="501" type="line"/>
+      <point x="1087" y="45" type="line"/>
+      <point x="1234" y="501" type="line"/>
+      <point x="1269" y="501" type="line"/>
+      <point x="1415" y="44" type="line"/>
+      <point x="1542" y="501" type="line"/>
+      <point x="1569" y="501" type="line"/>
+      <point x="1696" y="45" type="line"/>
+      <point x="1843" y="501" type="line"/>
+      <point x="1877" y="501" type="line"/>
+    </contour>
+  </outline>
+</glyph>

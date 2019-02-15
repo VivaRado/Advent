@@ -1,4 +1,4 @@
-# Kerning Start 
+# Kerning Start;
 
 feature kern { # Kerning
 
@@ -6442,4 +6442,4 @@ feature kern { # Kerning
     lookup kern_Letter_To_Group;
     lookup kern_Letter_To_Letter;
 } kern;
-# Kerning End
+# Kerning End;

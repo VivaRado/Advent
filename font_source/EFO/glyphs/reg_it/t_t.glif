@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="t_t" format="1">
-  <advance width="480"/>
+  <advance width="396"/>
   <outline>
-    <component base="t"/>
-    <component base="t" xOffset="149"/>
+    <component base="t" xOffset="151"/>
+    <contour>
+      <point x="124.908" y="132.37" type="line" smooth="yes"/>
+      <point x="113.609" y="79.2212"/>
+      <point x="128.422" y="45.126"/>
+      <point x="169.347" y="30.084" type="curve"/>
+      <point x="143.132" y="-13.0364" type="line"/>
+      <point x="74.6176" y="9.0252"/>
+      <point x="52.122" y="54.1512"/>
+      <point x="68.7516" y="132.37" type="curve" smooth="yes"/>
+      <point x="189.423" y="699.954" type="line"/>
+      <point x="245.58" y="699.954" type="line"/>
+      <point x="203.153" y="500.397" type="line"/>
+      <point x="311.455" y="500.397" type="line"/>
+      <point x="298.363" y="448.252" type="line"/>
+      <point x="192.066" y="448.252" type="line"/>
+    </contour>
   </outline>
-  <lib>
-  <dict>
-  <key>com.typemytype.robofont.mark</key>
-  <array>
-    <real>1</real>
-    <real>0.6</real>
-    <real>0.741</real>
-    <real>1</real>
-  </array>
-  </dict>
-  </lib>
 </glyph>

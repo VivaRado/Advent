@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="udieresis" format="1">
+  <advance width="490"/>
+  <unicode hex="00FC"/>
+  <outline>
+    <contour>
+      <point x="451" y="0" type="line"/>
+      <point x="348" y="0" type="line"/>
+      <point x="341" y="6" type="line"/>
+      <point x="296" y="-11"/>
+      <point x="266" y="-11" type="qcurve"/>
+      <point x="78" y="-11"/>
+      <point x="78" y="172" type="qcurve"/>
+      <point x="78" y="501" type="line"/>
+      <point x="188" y="501" type="line"/>
+      <point x="188" y="188" type="line"/>
+      <point x="188" y="142"/>
+      <point x="221" y="98"/>
+      <point x="311" y="98"/>
+      <point x="341" y="147"/>
+      <point x="341" y="192" type="qcurve"/>
+      <point x="341" y="501" type="line"/>
+      <point x="451" y="501" type="line"/>
+    </contour>
+    <contour>
+      <point x="243" y="583" type="qcurve"/>
+      <point x="243" y="565"/>
+      <point x="217" y="539"/>
+      <point x="198" y="539" type="qcurve"/>
+      <point x="180" y="539"/>
+      <point x="154" y="565"/>
+      <point x="154" y="583" type="qcurve"/>
+      <point x="154" y="602"/>
+      <point x="180" y="628"/>
+      <point x="198" y="628" type="qcurve"/>
+      <point x="217" y="628"/>
+      <point x="243" y="602"/>
+    </contour>
+    <contour>
+      <point x="363" y="552" type="qcurve"/>
+      <point x="350" y="539"/>
+      <point x="312" y="539"/>
+      <point x="286" y="565"/>
+      <point x="286" y="603"/>
+      <point x="312" y="629"/>
+      <point x="350" y="629"/>
+      <point x="376" y="603"/>
+      <point x="376" y="565"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcommaaccent" format="1">
+  <advance width="440"/>
+  <unicode hex="013B"/>
+  <outline>
+    <contour>
+      <point x="439" y="0" type="line"/>
+      <point x="78" y="0" type="line"/>
+      <point x="78" y="700" type="line"/>
+      <point x="188" y="700" type="line"/>
+      <point x="188" y="101" type="line"/>
+      <point x="439" y="101" type="line"/>
+    </contour>
+    <contour>
+      <point x="250" y="-219" type="qcurve"/>
+      <point x="181" y="-190" type="line"/>
+      <point x="202" y="-178"/>
+      <point x="238" y="-152"/>
+      <point x="246" y="-145" type="qcurve"/>
+      <point x="253" y="-138" type="line"/>
+      <point x="241" y="-135" type="line"/>
+      <point x="211" y="-121"/>
+      <point x="211" y="-87" type="qcurve"/>
+      <point x="211" y="-64"/>
+      <point x="227" y="-48" type="qcurve"/>
+      <point x="242" y="-34"/>
+      <point x="264" y="-34" type="qcurve"/>
+      <point x="266" y="-34"/>
+      <point x="267" y="-34" type="qcurve"/>
+      <point x="293" y="-35"/>
+      <point x="317" y="-75"/>
+      <point x="317" y="-97" type="qcurve"/>
+      <point x="317" y="-131"/>
+      <point x="286" y="-185"/>
+    </contour>
+  </outline>
+</glyph>

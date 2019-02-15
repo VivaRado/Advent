@@ -1,12 +1,14 @@
+# Languagesystems Start;
 
-# Languagesystems Start
 # Prefix: Languagesystems
 languagesystem DFLT dflt;
 languagesystem latn dflt;
 languagesystem grek dflt;
-# Languagesystems End
 
-# Classes Start
+# Languagesystems End;
+
+# Classes Start;
+
 @_A = [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Atilde Aring];
 @_A1 = [A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Atilde Aring];
 @_B = [B];
@@ -192,10 +194,11 @@ languagesystem grek dflt;
 @_fraction1 = [fraction slash];
 @_eight = [eight five four nine one seven six three two zero];
 @_eight1 = [eight five four nine one seven six three two zero];
-# Classes End
 
-# Kerning Start
- 
+# Classes End;
+
+# Kerning Start;
+
 
 feature kern { # Kerning
 
@@ -6640,9 +6643,10 @@ feature kern { # Kerning
     lookup kern_Letter_To_Letter;
 } kern;
 
-# Kerning End
+# Kerning End;
 
-# Ligatures Start
+# Ligatures Start;
+
 feature liga {
 	sub f l by fl;
 	sub f i by fi;
@@ -6651,5 +6655,13 @@ feature liga {
 	#
 	sub t t by t_t;
 	sub w w w by w_w_w;
+	#
+	sub gamma gamma by gamma_gamma;
+	sub gamma kappa by gamma_kappa;
+	sub lambda lambda by lambda_lambda;
+	#sub sigma tau by sigma_tau;
+	#
 } liga;
-# Ligatures End
+
+# Ligatures End;
+

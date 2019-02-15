@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="OHM SIGN" format="1">
+  <advance width="629"/>
+  <unicode hex="2126"/>
+  <outline>
+    <contour>
+      <point x="592" y="0" type="line"/>
+      <point x="364" y="0" type="line"/>
+      <point x="364" y="83" type="line"/>
+      <point x="394" y="83"/>
+      <point x="444" y="98"/>
+      <point x="460" y="113"/>
+      <point x="470" y="124" type="qcurve"/>
+      <point x="488" y="147"/>
+      <point x="488" y="196" type="qcurve"/>
+      <point x="488" y="484" type="line"/>
+      <point x="488" y="545"/>
+      <point x="431" y="613"/>
+      <point x="381" y="613" type="qcurve"/>
+      <point x="292" y="613" type="line"/>
+      <point x="181" y="613"/>
+      <point x="181" y="484" type="qcurve"/>
+      <point x="181" y="195" type="line"/>
+      <point x="181" y="120"/>
+      <point x="230" y="98" type="qcurve"/>
+      <point x="267" y="83"/>
+      <point x="306" y="83" type="qcurve"/>
+      <point x="306" y="0" type="line"/>
+      <point x="78" y="0" type="line"/>
+      <point x="95" y="83" type="line"/>
+      <point x="129" y="83" type="line"/>
+      <point x="91" y="123"/>
+      <point x="91" y="196" type="qcurve"/>
+      <point x="91" y="503" type="line"/>
+      <point x="91" y="595"/>
+      <point x="185" y="707"/>
+      <point x="279" y="707" type="qcurve"/>
+      <point x="391" y="707" type="line"/>
+      <point x="485" y="707"/>
+      <point x="579" y="595"/>
+      <point x="579" y="503" type="qcurve"/>
+      <point x="579" y="196" type="line"/>
+      <point x="579" y="163"/>
+      <point x="570" y="136"/>
+      <point x="567" y="123"/>
+      <point x="556" y="105"/>
+      <point x="553" y="100"/>
+      <point x="546" y="92" type="qcurve"/>
+      <point x="539" y="83" type="line"/>
+      <point x="575" y="83" type="line"/>
+    </contour>
+  </outline>
+</glyph>
