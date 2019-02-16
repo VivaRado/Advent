@@ -7,7 +7,6 @@
 *   Proposal Date: 22/08/2018
 *   Type family name: Advent Pro Var (Advent Professional Variable)
 *   Twitter: [@vivarado](https://twitter.com/VivaRado)
-*   Google+: [+vivarado](https://plus.google.com/u/1/106810481377952020277)
 *   Google Group:[VivaRado Typography Google Group](https://groups.google.com/a/vivarado.com/forum/#!forum/typography)
 
 **Phases**

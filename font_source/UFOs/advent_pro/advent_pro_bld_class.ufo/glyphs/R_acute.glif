@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="Racute">
+ <advance width="511"/>
+ <unicode hex="0154"/>
+ <outline>
+  <contour>
+   <point smooth="yes" type="line" x="258" y="698"/>
+   <point x="362.814" y="698"/>
+   <point x="476" y="648.463"/>
+   <point smooth="yes" type="curve" x="476" y="451"/>
+   <point x="476" y="333.667"/>
+   <point x="443" y="266.667"/>
+   <point type="curve" x="395" y="232"/>
+   <point type="line" x="480" y="0"/>
+   <point type="line" x="363" y="0"/>
+   <point type="line" x="294" y="196"/>
+   <point x="282" y="194.667"/>
+   <point x="270" y="195"/>
+   <point smooth="yes" type="curve" x="258" y="195"/>
+   <point type="line" x="151" y="195"/>
+   <point type="line" x="151" y="0"/>
+   <point type="line" x="41" y="0"/>
+   <point type="line" x="41" y="698"/>
+  </contour>
+  <contour>
+   <point smooth="yes" type="line" x="217" y="300"/>
+   <point x="320.617" y="300"/>
+   <point x="365" y="317.033"/>
+   <point smooth="yes" type="curve" x="365" y="451"/>
+   <point x="365" y="577.433"/>
+   <point x="319.717" y="588"/>
+   <point smooth="yes" type="curve" x="217" y="588"/>
+   <point type="line" x="151" y="588"/>
+   <point type="line" x="151" y="300"/>
+  </contour>
+  <contour>
+   <point smooth="yes" type="curve" x="207" y="671"/>
+   <point type="line" x="149" y="596"/>
+   <point type="line" x="105" y="596"/>
+   <point smooth="yes" type="line" x="135" y="712"/>
+   <point x="141.667" y="738.667"/>
+   <point x="174.069" y="756.013"/>
+   <point smooth="yes" type="curve" x="200" y="741"/>
+   <point x="224.775" y="726.656"/>
+   <point x="225.25" y="694.599"/>
+  </contour>
+ </outline>
+</glyph>

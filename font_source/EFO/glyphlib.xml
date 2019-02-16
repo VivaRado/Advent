@@ -438,4 +438,5 @@
 	<glyph glif="gamma_kappa" name="gamma_kappa" unicode=""/>
 	<glyph glif="lambda_lambda" name="lambda_lambda" unicode=""/>
 	<glyph glif="sigma_tau" name="sigma_tau" unicode=""/>
+	<glyph glif="uni00A_0" name="uni00A0" unicode="00A0"/>
 </glyphlib>

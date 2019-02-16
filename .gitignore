@@ -6,6 +6,8 @@ _added*
 _added/
 /font_source/_old*
 /font_source/_old/
+/font_source/EFO_class_comp*
+/font_source/EFO_class_comp/
 /docs/kerning_adjustments/screens/_old*
 /docs/kerning_adjustments/screens/_old/
 __pycache__*
@@ -15,3 +17,4 @@ temp/
 *.pyc
 *.pyo
 .DS_Store
+

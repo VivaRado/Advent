@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="Chi">
+ <advance width="627"/>
+ <unicode hex="03A7"/>
+ <outline>
+  <contour>
+   <point type="line" x="315" y="466"/>
+   <point type="line" x="455" y="698"/>
+   <point type="line" x="587" y="698"/>
+   <point type="line" x="381" y="359"/>
+   <point type="line" x="603" y="0"/>
+   <point type="line" x="465" y="0"/>
+   <point type="line" x="313" y="248"/>
+   <point type="line" x="163" y="0"/>
+   <point type="line" x="26" y="0"/>
+   <point type="line" x="246" y="358"/>
+   <point type="line" x="38" y="698"/>
+   <point type="line" x="174" y="698"/>
+  </contour>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.guides
+   </key>
+   <array>
+    <dict>
+     <key>
+      angle
+     </key>
+     <real>
+      121.5
+     </real>
+     <key>
+      isGlobal
+     </key>
+     <false/>
+     <key>
+      magnetic
+     </key>
+     <integer>
+      5
+     </integer>
+     <key>
+      x
+     </key>
+     <real>
+      466.7
+     </real>
+     <key>
+      y
+     </key>
+     <real>
+      0.0
+     </real>
+    </dict>
+    <dict>
+     <key>
+      angle
+     </key>
+     <real>
+      58.5
+     </real>
+     <key>
+      isGlobal
+     </key>
+     <false/>
+     <key>
+      magnetic
+     </key>
+     <integer>
+      5
+     </integer>
+     <key>
+      x
+     </key>
+     <real>
+      161.49
+     </real>
+     <key>
+      y
+     </key>
+     <real>
+      0.0
+     </real>
+    </dict>
+    <dict>
+     <key>
+      angle
+     </key>
+     <real>
+      58.5
+     </real>
+     <key>
+      isGlobal
+     </key>
+     <false/>
+     <key>
+      magnetic
+     </key>
+     <integer>
+      5
+     </integer>
+     <key>
+      x
+     </key>
+     <real>
+      28.44
+     </real>
+     <key>
+      y
+     </key>
+     <real>
+      0.0
+     </real>
+    </dict>
+    <dict>
+     <key>
+      angle
+     </key>
+     <real>
+      121.5
+     </real>
+     <key>
+      isGlobal
+     </key>
+     <false/>
+     <key>
+      magnetic
+     </key>
+     <integer>
+      5
+     </integer>
+     <key>
+      x
+     </key>
+     <real>
+      601.0
+     </real>
+     <key>
+      y
+     </key>
+     <real>
+      1.0
+     </real>
+    </dict>
+   </array>
+  </dict>
+ </lib>
+</glyph>

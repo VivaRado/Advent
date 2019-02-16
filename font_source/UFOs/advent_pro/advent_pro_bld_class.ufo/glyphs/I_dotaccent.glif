@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="Idotaccent">
+ <advance width="239"/>
+ <unicode hex="0130"/>
+ <outline>
+  <contour>
+   <point type="line" x="23" y="593"/>
+   <point type="line" x="23" y="698"/>
+   <point type="line" x="196" y="698"/>
+   <point type="line" x="196" y="0"/>
+   <point type="line" x="86" y="0"/>
+   <point type="line" x="86" y="591"/>
+  </contour>
+  <contour>
+   <point smooth="yes" type="curve" x="133" y="774"/>
+   <point x="166.333" y="774"/>
+   <point x="192" y="749.333"/>
+   <point smooth="yes" type="curve" x="192" y="716"/>
+   <point x="192" y="682.667"/>
+   <point x="166.333" y="656"/>
+   <point smooth="yes" type="curve" x="133" y="656"/>
+   <point x="99.6667" y="656"/>
+   <point x="73" y="682.667"/>
+   <point smooth="yes" type="curve" x="73" y="716"/>
+   <point x="73" y="749.333"/>
+   <point x="99.6667" y="774"/>
+  </contour>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.guides
+   </key>
+   <array>
+    <dict>
+     <key>
+      angle
+     </key>
+     <real>
+      90.0
+     </real>
+     <key>
+      isGlobal
+     </key>
+     <false/>
+     <key>
+      magnetic
+     </key>
+     <integer>
+      5
+     </integer>
+     <key>
+      x
+     </key>
+     <real>
+      143.0
+     </real>
+     <key>
+      y
+     </key>
+     <real>
+      0.0
+     </real>
+    </dict>
+   </array>
+  </dict>
+ </lib>
+</glyph>

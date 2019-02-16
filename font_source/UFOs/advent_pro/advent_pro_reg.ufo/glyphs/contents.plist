@@ -878,5 +878,7 @@
 	<string>lambda_lambda.glif</string>
 	<key>sigma_tau</key>
 	<string>sigma_tau.glif</string>
+	<key>uni00A0</key>
+	<string>uni00A_0.glif</string>
 </dict>
 </plist>

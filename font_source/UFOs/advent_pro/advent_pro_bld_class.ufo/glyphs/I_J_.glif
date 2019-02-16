@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="IJ">
+ <advance width="537"/>
+ <unicode hex="0132"/>
+ <outline>
+  <contour>
+   <point type="line" x="507" y="698"/>
+   <point smooth="yes" type="line" x="507" y="190"/>
+   <point x="507" y="61.9162"/>
+   <point x="421.375" y="-11"/>
+   <point smooth="yes" type="curve" x="298" y="-11"/>
+   <point x="174.911" y="-11"/>
+   <point x="87" y="56.6158"/>
+   <point smooth="yes" type="curve" x="87" y="185"/>
+   <point type="line" x="87" y="223"/>
+   <point type="line" x="197" y="223"/>
+   <point smooth="yes" type="line" x="197" y="204"/>
+   <point x="197" y="138.673"/>
+   <point x="231.899" y="101"/>
+   <point smooth="yes" type="curve" x="297" y="101"/>
+   <point x="359.783" y="101"/>
+   <point x="397" y="144.411"/>
+   <point smooth="yes" type="curve" x="397" y="206"/>
+   <point type="line" x="397" y="592"/>
+   <point type="line" x="338" y="593"/>
+   <point type="line" x="338" y="698"/>
+  </contour>
+  <contour>
+   <point type="line" x="197" y="698"/>
+   <point type="line" x="197" y="320"/>
+   <point type="line" x="87" y="320"/>
+   <point type="line" x="87" y="591"/>
+   <point type="line" x="23" y="593"/>
+   <point type="line" x="23" y="698"/>
+  </contour>
+ </outline>
+</glyph>

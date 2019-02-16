@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glyph format="2" name="theta">
+ <advance width="444"/>
+ <unicode hex="03B8"/>
+ <outline>
+  <contour>
+   <point type="curve" x="215" y="708"/>
+   <point x="341.667" y="706.667"/>
+   <point x="407" y="630.667"/>
+   <point smooth="yes" type="curve" x="407" y="504"/>
+   <point smooth="yes" type="line" x="407" y="189"/>
+   <point x="407" y="62.3333"/>
+   <point x="346.333" y="-12"/>
+   <point smooth="yes" type="curve" x="221" y="-12"/>
+   <point x="97" y="-12"/>
+   <point x="34" y="65"/>
+   <point smooth="yes" type="curve" x="34" y="189"/>
+   <point smooth="yes" type="line" x="34" y="287"/>
+   <point x="34" y="364.333"/>
+   <point x="55.9797" y="401.701"/>
+   <point type="curve" x="78.6464" y="423.035"/>
+   <point x="50.7488" y="466.874"/>
+   <point x="45" y="501.908"/>
+   <point smooth="yes" type="curve" x="45" y="548"/>
+   <point x="45" y="636"/>
+   <point x="114.717" y="708"/>
+  </contour>
+  <contour>
+   <point smooth="yes" type="line" x="294" y="505"/>
+   <point x="294" y="567.667"/>
+   <point x="269.333" y="601"/>
+   <point smooth="yes" type="curve" x="220" y="601"/>
+   <point x="174.2" y="601"/>
+   <point x="154" y="573.017"/>
+   <point smooth="yes" type="curve" x="154" y="540"/>
+   <point x="154" y="520"/>
+   <point x="161" y="478"/>
+   <point smooth="yes" type="curve" x="201" y="444"/>
+   <point x="222" y="426"/>
+   <point x="252" y="411"/>
+   <point type="curve" x="294" y="402"/>
+  </contour>
+  <contour>
+   <point smooth="yes" type="curve" x="220" y="97"/>
+   <point x="273.383" y="97"/>
+   <point x="294" y="140.133"/>
+   <point smooth="yes" type="curve" x="294" y="182"/>
+   <point type="line" x="294" y="313.151"/>
+   <point x="257" y="316"/>
+   <point x="196" y="326"/>
+   <point type="curve" x="157" y="350"/>
+   <point x="147.667" y="336.667"/>
+   <point x="148" y="327.667"/>
+   <point smooth="yes" type="curve" x="148" y="293"/>
+   <point smooth="yes" type="line" x="148" y="182"/>
+   <point x="148" y="140.133"/>
+   <point x="169.75" y="97"/>
+  </contour>
+ </outline>
+ <lib>
+  <dict>
+   <key>
+    com.typemytype.robofont.guides
+   </key>
+   <array>
+    <dict>
+     <key>
+      angle
+     </key>
+     <real>
+      0.0
+     </real>
+     <key>
+      isGlobal
+     </key>
+     <false/>
+     <key>
+      magnetic
+     </key>
+     <integer>
+      5
+     </integer>
+     <key>
+      x
+     </key>
+     <real>
+      0.0
+     </real>
+     <key>
+      y
+     </key>
+     <real>
+      816.0
+     </real>
+    </dict>
+   </array>
+  </dict>
+ </lib>
+</glyph>
