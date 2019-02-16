@@ -104,21 +104,8 @@ During the process we attempted to maintain the Italics width according to the c
 This brings us to kern a specific set of letters, the other letters are left to your creative kerning.
 VivaRado standard kerning sets are defined as follows:
 
- - Class Based(CB):
+ - Class Based(CB) DEPRECATED (was good for quick testing only. use LB instead.):
 
-    - Latin Capitals(CBLC):
-      - ```A B C G D E I J H O P R S M F K L T U V Y Z```
-    - Latin SmallCase(CBLS):
-      - ```a e o c d m i t g h k l r s u v y j z f t b ß```
-    - Greek (GREEK UNICODES)(CBGC):
-      - ```Α Β Γ Ε Ι Χ Μ Ψ Κ Ο Ω Υ Ρ Τ```
-    - Greek SmallCase(CBGS):
-      - ```α β ι ο χ ε γ μ ω```
-    - Symbols(CBSY):
-      - ```~ | " % @ * / ```
-    - Numbers(CBNU):
-      - ```8```
- 
  - Letter Based(LB):
 
     - Latin Capitals(LBLC):
@@ -160,14 +147,17 @@ VivaRado standard kerning sets are defined as follows:
     - Cross Language System Kerning (grek to latn and latn to grek).
     - Greek "sigma1" on the Left Side for all grek.
  - Glossary:
-    - Class Based (CB): One letter from each class.
+    - Class Based (CB): One letter from each class. DEPRECATED
     - Letter Based (LB): Alphabet / Complete Range.
 
 The resulting kerning is:
 
-```{'GG': 4629, 'GL': 800, 'LG': 780, 'LL': 191}```
+```{'GG': 4458, 'GL': 761, 'LG': 708, 'LL': 166}```
 
-Total Pairs: ```6400```
+Total Pairs: ```6093```
+
+
+Total Pairs 6093
 
 More information in: [Kerning Pair Details](https://github.com/VivaRado/Advent/blob/master/docs/kerning_adjustments/kerning_pair_details)
 
@@ -225,6 +215,7 @@ VivaRado is at the moment working on Cyrillic and Kazakh - Kazakh Latin Glyphlis
  - January 28 2019: Final Kerning for CB for G and L.
  - January 31 2019: Contour Fixes, Updates for all weights and anchor alignments.
  - February 16 2019: Updated to match contour optimisations of [mjlagattuta fork](https://github.com/mjlagattuta/Advent-Pro). Observe process at [Advent Third Pickup +](https://github.com/VivaRado/Advent/issues/13), Updated sources.
+ - February 17 2019: Updated to match Kerning Classification optimisations of [mjlagattuta fork](https://github.com/mjlagattuta/Advent-Pro). Further Classification updates, reduction of kerning pairs by 307, Updated sources.
 
 **  **
 
@@ -238,6 +229,7 @@ All the above files are available here.
 
 Variable font flavors designspace:
  - [Variable with weight axis only](https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/weight.designspace)
+ - [Variable italic with weight axis](https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/italic.designspace)
  - [Variable with weight and italic axis](https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/weight_italic.designspace)
 
 To compile from UFO:

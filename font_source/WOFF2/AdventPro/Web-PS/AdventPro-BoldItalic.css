@@ -1,9 +1,0 @@
-/* Webfont: AdventPro-BoldItalic */@font-face {
-    font-family: 'adventprofmmThin';
-    src: url('AdventPro-BoldItalic.woff2') format('woff2'), /* Modern Browsers */
-         url('AdventPro-BoldItalic.ttf') format('truetype'); /* Safari, Android, iOS */
-             font-style: normal;
-    font-weight: normal;
-    text-rendering: optimizeLegibility;
-}
-
