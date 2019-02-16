@@ -46,7 +46,7 @@ Decide on the encoding sets and supported language scripts. Decide and plan the 
 
 **Design**
 
-Advent was designed in 2007 by Andreas Kalpakidis, It features as originally intended 7 Weights of geometric sharp curved high rise forms and modernized Greek Letters.
+Advent was designed in 2007 by Andreas Kalpakidis, It features as originally intended 7 Weights of geometric sharp curved high rise forms and modernized Greek Letters. This realease features 14 Weights, the original with italics.
 
 **  **
 
@@ -156,8 +156,6 @@ The resulting kerning is:
 
 Total Pairs: ```6093```
 
-
-Total Pairs 6093
 
 More information in: [Kerning Pair Details](https://github.com/VivaRado/Advent/blob/master/docs/kerning_adjustments/kerning_pair_details)
 
