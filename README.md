@@ -183,6 +183,8 @@ The Proposed glyph list is ~1500 Glyphs not including the glyphs for Opentype Fe
 - *Latin*
 - *Extended Latin*
 - *Greek*
+- *Baltic*
+- *Turkish*
 
 **Intended Character Support:**
 **( Script Extension / Future Script Support )**
