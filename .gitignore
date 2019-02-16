@@ -17,4 +17,6 @@ temp/
 *.pyc
 *.pyo
 .DS_Store
+/font_source/EFO/groups/_old*
+/font_source/EFO/groups/_old/
 

@@ -9,7 +9,7 @@
 # Names should be added to this file as:
 # Name <email address>
 
-VivaRado
+VivaRado <support@vivarado.com>
 Andreas Kalpakides
 Madina Akhmatova
 Dave Crossland
