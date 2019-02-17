@@ -29,13 +29,6 @@
     1.  Future Script Support
     1.  Future Opentype Feature Support
 
-
-**TLDR;**
-
-To make a variable font:
-
-*   Use VRD TYPL
-
 **  **
 
 **Planning and Execution**
