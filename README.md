@@ -646,7 +646,7 @@ sequenceDiagram
 	end
 
 ```
-diagram: #006, ∞0.001, mermaid, Work Breakdown Structure Example describing a bicycle components, using sequence and loop, else.
+diagram: #006, ∞0.001, mermaid, Work Breakdown Structure of Advent
 
 ---
 
