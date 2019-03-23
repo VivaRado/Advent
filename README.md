@@ -691,7 +691,7 @@ For the kerning we depend on TypeFacet Autokern.
 
 Overview:
 
-Overview of the schedule.
+At this point we are waiting a PR and in April we can start the planning for Advent 4 that is the inclusion of Cyrillic.
 
 ```mermaid
 gantt
