@@ -696,7 +696,7 @@ At this point we are waiting a PR and in April we can start the planning for Adv
 ```mermaid
 gantt
         dateFormat  YYYY-MM-DD
-        title Orgdoc Schedule Example
+        title Advent Schedule
         section Advent 3
         A:         done,des1, 2018-08-22,2019-02-16
         B:         done,des2, 2019-02-16, 2019-04-01
