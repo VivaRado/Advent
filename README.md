@@ -371,14 +371,14 @@ The project's **Work Planning / Project Plan** is created outlining the activiti
 Decide on the encoding sets and supported language scripts. Decide and plan the weights and how you will generate each weight. Understand the procedures and steps. Calculate or keep track of timelines, steps procedures and pitfalls.
 
 1.  **Project Plan** Components ∞0.001:
-    1.  **Design**
-    1.  **Production**
-    1.  **Weights and Masters**
+	1.  **Design**
+	1.  **Production**
+	1.  **Weights and Masters**
 	1.  **Kerning**
 	1.  **Components**
-    1.  **Language Scripts and Glyph Range**
-    1.  **Features**
-    1.  **Delivery**
+	1.  **Language Scripts and Glyph Range**
+	1.  **Features**
+	1.  **Delivery**
 
 ---
 
@@ -399,31 +399,31 @@ Work was done on a Linux box with VirtualBox running Windows 8 and Mac OSX Lion.
 ### **Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Weights and Masters**
 
 1.  Masters:
-    1.  Thin (100)
-    1.  Regular (400)
-    1.  Bold (700)
-    1.  Thin Italic (100)
-    1.  Regular Italic (400)
-    1.  Bold Italic(700)
+	1.  Thin (100)
+	1.  Regular (400)
+	1.  Bold (700)
+	1.  Thin Italic (100)
+	1.  Regular Italic (400)
+	1.  Bold Italic(700)
 1.  Master Instances:
-    1.  **thn**      100     Thin (Hairline) *MM*
-    1.  **xlg**      200     Extra Light (Ultra Light)
-    1.  **lgt**      300     Light
-    1.  **reg**      400     Regular *MM*
-    1.  **med**      500     Medium
-    1.  **smb**      600     Semi Bold (Demi Bold)
-    1.  **bld**      700     Bold *MM*
-    1.  ~~xbd      800     Extra Bold (Ultra Bold)~~
-    1.  ~~blk      900     Black (Heavy)~~
-    1.  **thn_it**       100     Italic Thin (Hairline) *MM*
-    1.  **xlg_it**       200     Italic Extra Light (Ultra Light)
-    1.  **lgt_it**       300     Italic Light
-    1.  **reg_it**       400     Italic Regular *MM*
-    1.  **med_it**   500     Italic Medium
-    1.  **smb_it**   600     Italic Semi Bold (Demi Bold)
-    1.  **bld_it**    700     Italic Bold *MM*
-    1.  ~~xbd_it       800     Extra Bold (Ultra Bold)~~
-    1.  ~~blk_it       900     Black (Heavy)~~
+	1.  **thn**      100     Thin (Hairline) *MM*
+	1.  **xlg**      200     Extra Light (Ultra Light)
+	1.  **lgt**      300     Light
+	1.  **reg**      400     Regular *MM*
+	1.  **med**      500     Medium
+	1.  **smb**      600     Semi Bold (Demi Bold)
+	1.  **bld**      700     Bold *MM*
+	1.  ~~xbd      800     Extra Bold (Ultra Bold)~~
+	1.  ~~blk      900     Black (Heavy)~~
+	1.  **thn_it**       100     Italic Thin (Hairline) *MM*
+	1.  **xlg_it**       200     Italic Extra Light (Ultra Light)
+	1.  **lgt_it**       300     Italic Light
+	1.  **reg_it**       400     Italic Regular *MM*
+	1.  **med_it**   500     Italic Medium
+	1.  **smb_it**   600     Italic Semi Bold (Demi Bold)
+	1.  **bld_it**    700     Italic Bold *MM*
+	1.  ~~xbd_it       800     Extra Bold (Ultra Bold)~~
+	1.  ~~blk_it       900     Black (Heavy)~~
 
 
 ---
@@ -449,34 +449,34 @@ VivaRado standard kerning sets are defined as follows:
 
  - Letter Based(LB):
 
-    - Latin Capitals(LBLC):
-      - ```A B C D E F G H I J K L M N O P Q R S T U V W X Y Z```
-    - Latin SmallCase(LBLS):
-      - ```a b c d e f g h i j k l m n o p q r s t u v w x y```
-    - Greek (GREEK UNICODES)(LBGC):
-      - ```Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω```
-    - Greek SmallCase(LBGS):
-      - ```α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ σ ς τ υ φ χ ψ ω```
-    - Numbers(LBNU):
-      - ```0 1 2 3 4 5 6 7 8 9```
+	- Latin Capitals(LBLC):
+	  - ```A B C D E F G H I J K L M N O P Q R S T U V W X Y Z```
+	- Latin SmallCase(LBLS):
+	  - ```a b c d e f g h i j k l m n o p q r s t u v w x y```
+	- Greek (GREEK UNICODES)(LBGC):
+	  - ```Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω```
+	- Greek SmallCase(LBGS):
+	  - ```α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ σ ς τ υ φ χ ψ ω```
+	- Numbers(LBNU):
+	  - ```0 1 2 3 4 5 6 7 8 9```
 
  - Resulting Permutations that have been Adjusted:
 
-    - Letter Based Permutations (LB):
+	- Letter Based Permutations (LB):
 
-      - Latin VS Latin Capitals Letter Based Permutation (LBLCLC)
-      - Latin VS Latin SmallCase Letter Based Permutation (LBLSLS)
-      - Latin Capitals VS Latin SmallCase Letter Based Permutation (LBLCLS)
+	  - Latin VS Latin Capitals Letter Based Permutation (LBLCLC)
+	  - Latin VS Latin SmallCase Letter Based Permutation (LBLSLS)
+	  - Latin Capitals VS Latin SmallCase Letter Based Permutation (LBLCLS)
 
-      - Greek VS Greek Capitals Letter Based Permutation (LBGCGC)
-      - Greek VS Greek SmallCase Letter Based Permutation (LBGSGS)
-      - Greek Capitals VS Greek SmallCase Letter Based Permutation (LBGCGS)
+	  - Greek VS Greek Capitals Letter Based Permutation (LBGCGC)
+	  - Greek VS Greek SmallCase Letter Based Permutation (LBGSGS)
+	  - Greek Capitals VS Greek SmallCase Letter Based Permutation (LBGCGS)
 
  - Letter to Letter Adjustments:
-    - These are small adjustments due to design quirks, and when we decide that a glyph doesn't fit into classes or the class is not satisfying the kerning requirements completely.
+	- These are small adjustments due to design quirks, and when we decide that a glyph doesn't fit into classes or the class is not satisfying the kerning requirements completely.
  - Ommited:
-    - Cross Language System Kerning (grek to latn and latn to grek).
-    - Greek "sigma1" on the Left Side for all grek.
+	- Cross Language System Kerning (grek to latn and latn to grek).
+	- Greek "sigma1" on the Left Side for all grek.
 
 ---
 
@@ -583,67 +583,67 @@ Or from EFO:
 
 ```mermaid
 sequenceDiagram
-    loop Advent
-        LevelA->>LevelB: Advent Work Plan
-        alt Glyphs
-            alt Design
-                LevelB-->LevelC: Cleaning and optimizing
-            end
-            alt Components
-                alt Generate groups.PLIST
+	loop Advent
+		LevelA->>LevelB: Advent Work Plan
+		alt Glyphs
+			alt Design
+				LevelB-->LevelC: Cleaning and optimizing
+			end
+			alt Components
+				alt Generate groups.PLIST
 					LevelC->>LevelE: SIMEX to 100%
-			        alt Componentize Glyphs
-			             LevelD-->LevelE: According to SIMEX 100%
-			        end
-			        alt Anchoring
-			             LevelD-->LevelE: According to Anchors.JSON
-			        end
+					alt Componentize Glyphs
+						 LevelD-->LevelE: According to SIMEX 100%
+					end
+					alt Anchoring
+						 LevelD-->LevelE: According to Anchors.JSON
+					end
 				end
-            end
-        end
-        alt Kern
-            LevelB-->LevelC: Flat Kerning
-            alt Run Autokern
-                LevelC->>LevelE: Autokern Settings
-            end
-            LevelB-->LevelC: Compressed Kerning
-                alt Generate groups.PLIST
-                    LevelC->>LevelE: SIMEX to 80%
-                    alt Review groups.PLIST
-                        LevelD-->LevelE: Best Practices
-                        alt Quality Targets
-                            LevelD-->LevelE: No Cross Script
-                            LevelD-->LevelE: Alpha. Order Parent Children
-                        end
-                    end    
-                    alt Compress Flat Kerning
-                        LevelD-->LevelE: According to groups.PLIST
-                    end                  
-            end
-            LevelB-->LevelC: Tested Kerning
-            alt Kern Adjust UI
-                LevelC->>LevelE: According to LB Permutations
-                alt Review, Adjust
-                    LevelD-->LevelE: Quality Targets
-                    alt Quality Targets
-                        LevelD-->LevelE: No Kerning Loss
-                    end
-                end    
-                alt Compress Flat Kerning
-                    LevelD-->LevelE: According to groups.PLIST
-                    LevelD-->LevelE: According to adjustments.JSON
-                end                  
-            end                  
-        end
-        alt Variable
-            LevelC-->LevelD: Export Variable
-            alt EFO to VAR
-                LevelE->LevelD: End
-            else FontMake
-                LevelE->>LevelD: By Designspace
-            end
-        end
-    end
+			end
+		end
+		alt Kern
+			LevelB-->LevelC: Flat Kerning
+			alt Run Autokern
+				LevelC->>LevelE: Autokern Settings
+			end
+			LevelB-->LevelC: Compressed Kerning
+				alt Generate groups.PLIST
+					LevelC->>LevelE: SIMEX to 80%
+					alt Review groups.PLIST
+						LevelD-->LevelE: Best Practices
+						alt Quality Targets
+							LevelD-->LevelE: No Cross Script
+							LevelD-->LevelE: Alpha. Order Parent Children
+						end
+					end    
+					alt Compress Flat Kerning
+						LevelD-->LevelE: According to groups.PLIST
+					end                  
+			end
+			LevelB-->LevelC: Tested Kerning
+			alt Kern Adjust UI
+				LevelC->>LevelE: According to LB Permutations
+				alt Review, Adjust
+					LevelD-->LevelE: Quality Targets
+					alt Quality Targets
+						LevelD-->LevelE: No Kerning Loss
+					end
+				end    
+				alt Compress Flat Kerning
+					LevelD-->LevelE: According to groups.PLIST
+					LevelD-->LevelE: According to adjustments.JSON
+				end                  
+			end                  
+		end
+		alt Variable
+			LevelC-->LevelD: Export Variable
+			alt EFO to VAR
+				LevelE->LevelD: End
+			else FontMake
+				LevelE->>LevelD: By Designspace
+			end
+		end
+	end
 
 ```
 diagram: #006, ∞0.001, mermaid, Work Breakdown Structure Example describing a bicycle components, using sequence and loop, else.
@@ -667,11 +667,11 @@ diagram: #006, ∞0.001, mermaid, Work Breakdown Structure Example describing a 
 		*  VivaRado, Andreas Kalpakidis
 		*  Michael La Gatutta
 	*  **Kerning**
-	    *  VivaRado, Andreas Kalpakidis:
-	    	*  Build
-	    	*  Test
-	    *  Michael La Gatutta:
-	    	*  Best Practices
+		*  VivaRado, Andreas Kalpakidis:
+			*  Build
+			*  Test
+		*  Michael La Gatutta:
+			*  Best Practices
 *  **VRD TYPL**:
 	*  VivaRado, Andreas Kalpakidis:
 		*  Build
@@ -819,11 +819,11 @@ We can now create a **Quality Plan** by identifying the valid **Quality Targets*
 1.  Quality Management
 	*  Audits
 	*  Tool Scheduling
-    *  Work Verification
-    	*  Task fulfillment responsible personnel 
-    		*  VivaRado
-    	*  Task checking responsible personnel
-    		*  VivaRado and Google Fonts
+	*  Work Verification
+		*  Task fulfillment responsible personnel 
+			*  VivaRado
+		*  Task checking responsible personnel
+			*  VivaRado and Google Fonts
 
 
 ---
