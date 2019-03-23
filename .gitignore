@@ -20,3 +20,11 @@ temp/
 /font_source/EFO/groups/_old*
 /font_source/EFO/groups/_old/
 
+README/*.py
+README/__pycache__
+README/_junk
+README/Lib
+README/partials
+README/*.md
+README/*.sh
+README/version

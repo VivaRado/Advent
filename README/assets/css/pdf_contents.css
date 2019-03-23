@@ -1,0 +1,87 @@
+.markdown-body {
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  color: #333;
+  overflow: hidden;
+  font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif;
+  font-size: 16px;
+  line-height: 1.8;
+  word-wrap: break-word;
+  /*padding: 1cm;*//* 2.54cm 2.54cm 2.54cm;*/
+}
+
+.sidebar {
+  display: none;
+}
+* {
+  font-size: 80% !important;
+  line-height: 105% !important;
+}
+
+@page {
+  counter-increment: pagebased 1;
+  
+}
+
+/*h3 strong {
+  display: none;
+}*/
+
+ul.toc a::after {
+  content: leader('.') target-counter(attr(href), page);
+}
+
+h3 {
+  font-size: 120% !important;
+}
+h2 {
+  font-size: 140% !important;
+}
+
+.toc_ h3{
+  font-size: 120% !important;
+  color: #555 !important;
+}
+.toc_ {
+  font-family: sans-serif !important;
+}
+.toc_ .toc_lists {
+  padding: 1em;
+}
+.toc_ .toc_lists *{
+  line-height: 10px !important;
+  font-size: 8px !important;
+  font-family: monospace !important;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-bottom: 0;
+  padding-top: 0;
+}
+
+.toc_ .toc_lists li b {
+  float: right;
+  font-size: 80% !important;
+}
+
+.toc_ .toc_lists ul,
+.toc_ .toc_lists li{
+  width: 100%;
+  margin-right: 0;
+  padding-right: 0;
+  position: relative;
+  float: left;
+  clear: both;
+  box-sizing: border-box;
+  list-style: none;
+}
+.toc_ .toc_lists ul{
+  padding-left: 3em !important;
+}
+
+.toc_ .toc_lists li {
+  border-bottom: 1px solid #eee;
+}
+
+.toc_ {
+  width: 100%;
+}

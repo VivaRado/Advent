@@ -1,0 +1,1109 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
+		<title>VRD | Advent | 3.001 | 2019/03/23</title>
+		<link rel="stylesheet" type="text/css" href="assets/css/style.css">
+		<link rel="stylesheet" type="text/css" href="assets/css/code_native.css">
+		<script type="text/javascript" src="assets/js/mermaid.js"></script>
+		<script type="text/javascript" src="assets/js/jq.js"></script>
+		<script type="text/javascript" src="assets/js/webfont.js"></script>
+		<script type="text/javascript" src="assets/js/snap.svg-min.js"></script>
+		<script type="text/javascript" src="assets/js/raphael.min.js"></script>
+		<script type="text/javascript" src="assets/js/underscore-min.js"></script>
+		<script type="text/javascript" src="assets/js/sequence-diagram.js"></script>
+		<script type="text/javascript" src="assets/js/flowchart.js"></script>
+		<script type="text/javascript" src="assets/js/script.js"></script>
+	</head>
+	<body class="markdown">
+		<article class="markdown-body" id="body"><h2><strong>Preface</strong></h2>
+
+<p><strong>Advent</strong> is a project of <strong>VivaRado</strong>, thanks goes to all the contributors, <strong>Google Fonts</strong> and all the people who use it!</p>
+
+<p><img src="assets/media/adventprovar.gif" alt="Screenshot" /></p>
+
+<div class="sidebar">
+
+<h3><strong>Contents</strong></h3>
+
+<ol>
+<li><strong>Preface</strong></li>
+<li><strong>Introduction</strong>
+<ol>
+<li><strong>Profile</strong></li>
+<li><strong>Project Overview</strong>
+<ol>
+<li><strong>Background</strong></li>
+<li><strong>Need</strong></li>
+</ol></li>
+<li><strong>Organisational Documents</strong></li>
+<li><strong>Phase Introduction</strong>
+<ol>
+<li><strong>Initiation Phase</strong>
+<ol>
+<li><strong>Business Case</strong>
+<ol>
+<li><strong>Solution Options</strong></li>
+<li><strong>Strategic case</strong></li>
+<li><strong>Management case</strong>
+<ol>
+<li><strong>Achievements Plan</strong></li>
+</ol></li>
+</ol></li>
+<li><strong>Project Charter</strong>
+<ol>
+<li><strong>Project Introduction</strong>
+<ol>
+<li><strong>Project Statements</strong></li>
+</ol></li>
+<li><strong>Project Goals</strong> <!-- Added #0.002--></li>
+<li><strong>Deliverables</strong></li>
+<li><strong>Duration</strong> <!-- Added #0.002--></li>
+</ol></li>
+</ol></li>
+<li><strong>Planning Phase</strong>
+<ol>
+<li><strong>Safe Planning</strong>
+<ol>
+<li><strong>Project Plan</strong>
+<ol>
+<li><strong>Design</strong></li>
+<li><strong>Production</strong></li>
+<li><strong>Weights and Masters</strong></li>
+<li><strong>Kerning</strong></li>
+<li><strong>Components</strong></li>
+<li><strong>Scripts</strong></li>
+<li><strong>Glyphs</strong></li>
+<li><strong>Features</strong></li>
+<li><strong>Delivery</strong></li>
+<li><strong>Usage</strong></li>
+</ol></li>
+<li><strong>Work Planning</strong>
+<ol>
+<li><strong>Task Assignments</strong></li>
+<li><strong>Dependencies</strong></li>
+</ol></li>
+<li><strong>Schedule Planning</strong>
+<ol>
+<li><strong>Timeline</strong></li>
+</ol></li>
+</ol></li>
+<li><strong>Stakeholders</strong>
+<ol>
+<li><strong>Personnel Plan</strong></li>
+<li><strong>Communication Plan</strong></li>
+</ol></li>
+<li><strong>Quality Plan</strong>
+<ol>
+<li><strong>Quality Targets</strong></li>
+<li><strong>Quality Management</strong></li>
+</ol></li>
+</ol></li>
+</ol></li>
+</ol></li>
+</ol>
+
+<h3>Glossary</h3>
+
+<ol>
+<li><strong>Glossary</strong></li>
+</ol>
+
+<h3>Reference</h3>
+
+<ol>
+<li><strong>Reference</strong></li>
+</ol>
+
+</div>
+
+<h2><strong>Introduction</strong></h2>
+
+<p>Advent Pro is a modern display typeface, designed in 2007, this is the new version (#3.001 of 2019) that is delivered as a variable font, along with the classic formats. It supports 14 weights including italics. It is currently maintained and released by VivaRado, by it's original designer Andreas Kalpakidis. What is unique about this version is that thanks to the strict requirements of the Variable Format, all the glyph contours have been reworked, with amazing attention to quality. Then we compressed the kerning to a great degree making the font superbly kerned and compact at the same time.</p>
+
+<h4>Contributors:</h4>
+
+<ul>
+<li>VivaRado <a href="&#109;&#97;&#x69;&#108;&#116;&#x6f;&#x3a;&#115;&#117;&#x70;&#x70;&#x6f;&#x72;&#116;&#x40;&#x76;&#x69;v&#x61;&#x72;&#97;&#x64;&#111;&#46;&#99;&#x6f;&#x6d;">&#115;&#117;&#x70;&#x70;&#x6f;&#x72;&#116;&#x40;&#x76;&#x69;v&#x61;&#x72;&#97;&#x64;&#111;&#46;&#99;&#x6f;&#x6d;</a></li>
+<li>Andreas Kalpakides</li>
+<li>Madina Akhmatova</li>
+<li>Dave Crossland</li>
+<li>Michael LaGattuta <a href="&#109;&#97;&#105;&#108;&#x74;&#x6f;&#x3a;&#109;&#106;&#108;&#97;&#x67;&#97;&#x74;&#116;&#x75;&#x74;&#x61;&#64;&#x67;&#109;&#x61;&#105;l&#x2e;&#99;&#x6f;&#x6d;">&#109;&#106;&#108;&#97;&#x67;&#97;&#x74;&#116;&#x75;&#x74;&#x61;&#64;&#x67;&#109;&#x61;&#105;l&#x2e;&#99;&#x6f;&#x6d;</a></li>
+<li>Behdad Esfahbod</li>
+</ul>
+
+<hr />
+
+<h3><strong>Introduction / Profile</strong></h3>
+
+<ul>
+<li>Company: VivaRado LLP</li>
+<li>Designer: Andreas Kalpakidis</li>
+<li>Twitter: <a href="https://twitter.com/VivaRado">@vivarado</a></li>
+<li>Google Group:<a href="https://groups.google.com/a/vivarado.com/forum/#!forum/typography">VivaRado Typography Google Group</a></li>
+</ul>
+
+<hr />
+
+<h3><strong>Introduction / Project Overview</strong></h3>
+
+<ul>
+<li><p>Project Overview</p>
+
+<ul>
+<li>background</li>
+<li>need</li>
+<li>scope</li>
+<li>activities</li>
+<li>important dates or deadlines</li>
+</ul></li>
+<li><p>Project Name: Advent Pro Variable</p></li>
+<li>Type family name: Advent Pro Var (Advent Professional Variable)</li>
+<li>Proposal Date: 22/08/2018</li>
+</ul>
+
+<hr />
+
+<h3><strong>Introduction / Project Overview / Background</strong></h3>
+
+<p>Advent was originally designed during a two year period by Andreas Kalpakidis, in Athens and later in Komotini, Greece during 2006 to 2007. It was an attempt to break some of the Greek script rules and some of the Latin script rules on letterform grouping. All the letters have been in a sense simplified, and Greek Letters where fitted into Latin groups visually. The overall designed was intended to be light, the font is not intended for text but for headlines, logos, and other short message formats as a display font.</p>
+
+<hr />
+
+<h3><strong>Introduction / Project Overview / Need</strong></h3>
+
+<p>During 2007 there was a common problem of lack of Greek fonts, even though some agencies took this as an opportunity, Advent was released for free. It was a project that never intended to be something other than an expression of a minimal typographic style.</p>
+
+<hr />
+
+<h3><strong>Introduction / Organisational Documents</strong></h3>
+
+<p>Documentation Types:</p>
+
+<ul>
+<li>HTML - Responsive preview in HTML format - At README directory</li>
+<li>Standard Repository README - At the root of the repository</li>
+<li>PDF - At the root of the repository</li>
+</ul>
+
+<p>Features:</p>
+
+<ul>
+<li>Responsive Interface</li>
+<li>Synchronized Sidebar</li>
+<li>Hashtag Navigation</li>
+<li>PDF with TOC and Cover</li>
+</ul>
+
+<p>Drawbacks:</p>
+
+<ul>
+<li>Graphs and Diagrams will not work in github and bitbucket preview, but are still readable.</li>
+<li>Graphs and Diagrams will not work in PDF will be assessed.</li>
+</ul>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction</strong></h3>
+
+<p><strong>Initiation Phase</strong>:</p>
+
+<p>This documentation being part of VivaRado ORGDOC has been implemented over the old advent documentation. Advent itself since 2007 had no real repository or vendor entity other than it was on release by multiple websites for free fonts.</p>
+
+<hr />
+
+<p><strong>Planning Phase</strong>:</p>
+
+<p>All the information on how Advent was updated, produced and offered.</p>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Initiation Phase</strong></h3>
+
+<p><strong>Business Case</strong>:</p>
+
+<p>What are the benefits we are trying to get from the project and justification of the decision. It encapsulates the research done to see if the project is worth doing.</p>
+
+<hr />
+
+<ul>
+<li><p><strong>Initiation Phase</strong> Components ∞0.001:</p>
+
+<ol>
+<li><strong>Business Case</strong>:
+<ul>
+<li>Strategic case</li>
+<li>Economic case</li>
+<li>Commercial case</li>
+<li>Financial case</li>
+<li>Management case</li>
+<li>Evaluation</li>
+</ul></li>
+</ol></li>
+</ul>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Initiation Phase / Business Case</strong></h3>
+
+<p>A business case captures the reasoning for initiating the redesign and variation of Advent.</p>
+
+<ul>
+<li><strong>Business Case</strong> Components ∞0.003:
+<ol>
+<li><strong>Solution Options</strong></li>
+<li><strong>Strategic case</strong></li>
+<li><strong>Management case</strong></li>
+</ol></li>
+</ul>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Initiation Phase / Business Case / Solution Options</strong></h3>
+
+<p>Identified Solution Options:</p>
+
+<ul>
+<li>Update the old Advent Font to Variable.</li>
+<li>Redesign the old Advent Font to Variable and Include Italics.</li>
+</ul>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Initiation Phase / Business Case / Strategic case</strong></h3>
+
+<p>During the initiation of the redesign of Advent, VivaRado as the current vendor, had to undergo a tool design process, as there was a clear need for faster integration of the new design, we realised that we needed a tool to somehow control the decentralised, but very helpful UFO format.</p>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Initiation Phase / Business Case / Management case</strong></h3>
+
+<p>The management case tests the feasibility of the preferred option, in terms of its deliverability within various tolerances. </p>
+
+<h4>Achievability:</h4>
+
+<p>By implementing a set of scripts that are now part of VRD TYPL. We could manage a set of UFOs by combining the repeated parts, and keeping them as intact as possible in terms of the UFO format, we introduced internally the EFO as a pseudoformat that allows for implementation of scripts on a whole family of weights. This allowed us to overcome the decentralisation of UFOs and move forward and produce Advent successfully.</p>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Initiation Phase / Business Case / Management case / Achievements Plan</strong></h3>
+
+<ol>
+<li><strong>Milestones</strong>
+<ol>
+<li>VRD TYPL</li>
+<li>VRD TYPL / TypeFacet Integration</li>
+<li>Fontmake Kerning Bug Solution</li>
+</ol></li>
+<li><strong>Dependencies</strong>
+<ol>
+<li>UFO</li>
+<li>TypeFacet Autokern</li>
+<li>Fontmake</li>
+</ol></li>
+<li><strong>Skillset Requirements</strong>
+<ol>
+<li>Variable Font comprehension.</li>
+<li>Python Programming</li>
+<li>Web Application Development</li>
+<li>Type Design</li>
+<li>Kerning Classification</li>
+<li>Kerning Compression</li>
+</ol></li>
+</ol>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Initiation Phase / Project Charter</strong></h3>
+
+<ul>
+<li><strong>Project Charter</strong> Components ∞0.002:
+<ul>
+<li>Project Introduction</li>
+<li>Project Goals</li>
+<li>Deliverables</li>
+<li>Duration</li>
+</ul></li>
+</ul>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Initiation Phase / Project Charter / Project Introduction</strong></h3>
+
+<ul>
+<li><p><strong>Project Introduction</strong> Components ∞0.002:</p>
+
+<ul>
+<li>Project Name</li>
+<li>Project Statements
+<ul>
+<li>Vision Statement</li>
+<li>Mission Statement</li>
+</ul></li>
+<li>Project Definition
+<ul>
+<li>Problem </li>
+<li>Opportunity</li>
+</ul></li>
+</ul></li>
+</ul>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Initiation Phase / Project Charter / Project Introduction / Project Statements</strong></h3>
+
+<h4>Vision Statement:</h4>
+
+<p>Contribution to libre great typography.</p>
+
+<h4>Mission Statement:</h4>
+
+<p>To expand our ideas about typography and contribute to language.</p>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Initiation Phase / Project Charter / Project Introduction / Project Definition</strong></h3>
+
+<ul>
+<li><p><strong>Problem</strong> Components ∞0.001:</p>
+
+<ul>
+<li>Problematic Vectors</li>
+<li>Dirty Contours</li>
+<li>Old Format</li>
+</ul></li>
+<li><p><strong>Opportunity</strong> Components ∞0.001:</p>
+
+<ul>
+<li>New Variable Font Format</li>
+<li>Cleaner Contrours</li>
+<li>Compression Concepts</li>
+<li>Lighter Offering</li>
+</ul></li>
+</ul>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Initiation Phase / Project Charter / Project Goals</strong></h3>
+
+<ul>
+<li>Goals for version 3.000:
+<ul>
+<li>To bring an updated Advent Pro to the Variable format, </li>
+<li>Add Italics Axis</li>
+<li>Add Weight Axis</li>
+</ul></li>
+<li>Goals for version 4.000:
+<ul>
+<li>Add Cyrillic</li>
+</ul></li>
+</ul>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Initiation Phase / Project Charter / Deliverables</strong></h3>
+
+<ul>
+<li><strong>Deliverables</strong> Components ∞0.001:
+<ul>
+<li>Advent Pro Variable:
+<ul>
+<li>Variation Weight Axis</li>
+<li>Variation Italic Axis</li>
+</ul></li>
+<li>Advent Pro 14 Weights:
+<ul>
+<li>Classic Formats (TTF, OTF, ...)</li>
+</ul></li>
+<li>VRD-Typography-Library:
+<ul>
+<li>EFO to UFOs</li>
+<li>UFOs to EFO</li>
+<li>EFO to VAR</li>
+<li>Kerning Extract Similarity (SIMEX)</li>
+<li>Kerning Autokern</li>
+<li>Kerning Compress FlatD</li>
+<li>Componentize EFO</li>
+<li>Kerning Adjust UI</li>
+</ul></li>
+</ul></li>
+</ul>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Initiation Phase / Project Charter / Duration</strong></h3>
+
+<ul>
+<li><p><strong>Duration</strong> of Advent ∞3.000:</p>
+
+<ul>
+<li>22/08/2018 to 16/02/2019</li>
+</ul></li>
+<li><p><strong>Duration</strong> of Advent ∞4.000:</p>
+
+<ul>
+<li>N/A</li>
+</ul></li>
+</ul>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase</strong></h3>
+
+<p>The Planning Phase, is where the project solution is further developed in as much detail as possible and the steps necessary to meet the project’s objectives.</p>
+
+<p>The Planning Phase consists of:</p>
+
+<ol>
+<li><strong>Safe Planning</strong></li>
+<li><strong>Stakeholders</strong></li>
+<li><strong>Quality Plan (PQP)</strong></li>
+</ol>
+
+<p>At this point, the project would have been planned in detail and is ready to be executed.</p>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning</strong></h3>
+
+<p>The project's <strong>Work Planning / Project Plan</strong> is created outlining the activities, tasks, dependencies, and timeframes.</p>
+
+<ul>
+<li><p><strong>Safe Planning</strong> Components (Scope Management): </p>
+
+<ul>
+<li>Projeect Plan:</li>
+<li>Work Planning:
+<ul>
+<li>Tasks Assignments</li>
+<li>Dependencies</li>
+</ul></li>
+<li>Schedule Planning.
+<ul>
+<li>Timeline</li>
+</ul></li>
+</ul></li>
+</ul>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan</strong></h3>
+
+<p>Decide on the encoding sets and supported language scripts. Decide and plan the weights and how you will generate each weight. Understand the procedures and steps. Calculate or keep track of timelines, steps procedures and pitfalls.</p>
+
+<ol>
+<li><strong>Project Plan</strong> Components ∞0.001:
+<ol>
+<li><strong>Design</strong></li>
+<li><strong>Production</strong></li>
+<li><strong>Weights and Masters</strong></li>
+<li><strong>Kerning</strong></li>
+<li><strong>Components</strong></li>
+<li><strong>Language Scripts and Glyph Range</strong></li>
+<li><strong>Features</strong></li>
+<li><strong>Delivery</strong></li>
+</ol></li>
+</ol>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Design</strong></h3>
+
+<p>Advent originally featured 7 weights of geometric sharp curved high rise forms and modernized Greek Letters. This realease features 14 weights, the original updated and improved forms along with italics.</p>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Production</strong></h3>
+
+<p>To produce the font, Illustrator and Fontlab was used originally in 2007, updating to Advent  Pro Variable in 2018, a set of scripts for Adobe Illustrator (JSX) and Fontlab (Python) where written, additionally python scripts and bash, for the composition and kerning. Later on VRD Typography Library was introduced allowing for easier modifications to the font by utilizing a new format - a container for UFO, called the EFO. VRD TYPL for kerning - and compression and Googles fontmake to compile the final variable font. </p>
+
+<p>Work was done on a Linux box with VirtualBox running Windows 8 and Mac OSX Lion.</p>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Weights and Masters</strong></h3>
+
+<ol>
+<li>Masters:
+<ol>
+<li>Thin (100)</li>
+<li>Regular (400)</li>
+<li>Bold (700)</li>
+<li>Thin Italic (100)</li>
+<li>Regular Italic (400)</li>
+<li>Bold Italic(700)</li>
+</ol></li>
+<li>Master Instances:
+<ol>
+<li><strong>thn</strong>      100     Thin (Hairline) <em>MM</em></li>
+<li><strong>xlg</strong>      200     Extra Light (Ultra Light)</li>
+<li><strong>lgt</strong>      300     Light</li>
+<li><strong>reg</strong>      400     Regular <em>MM</em></li>
+<li><strong>med</strong>      500     Medium</li>
+<li><strong>smb</strong>      600     Semi Bold (Demi Bold)</li>
+<li><strong>bld</strong>      700     Bold <em>MM</em></li>
+<li><strike>xbd      800     Extra Bold (Ultra Bold)</strike></li>
+<li><strike>blk      900     Black (Heavy)</strike></li>
+<li><strong>thn<em>it</strong>       100     Italic Thin (Hairline) <em>MM</em></li>
+<li><strong>xlg</em>it</strong>       200     Italic Extra Light (Ultra Light)</li>
+<li><strong>lgt<em>it</strong>       300     Italic Light</li>
+<li><strong>reg</em>it</strong>       400     Italic Regular <em>MM</em></li>
+<li><strong>med<em>it</strong>   500     Italic Medium</li>
+<li><strong>smb</em>it</strong>   600     Italic Semi Bold (Demi Bold)</li>
+<li><strong>bld<em>it</strong>    700     Italic Bold <em>MM</em></li>
+<li><strike>xbd</em>it       800     Extra Bold (Ultra Bold)</strike></li>
+<li><strike>blk_it       900     Black (Heavy)</strike></li>
+</ol></li>
+</ol>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Kerning</strong></h3>
+
+<p>With the help of Typefacet Integrated Autokern, we have obtained the first layer of kerning for the upright bold.
+By using VRD TYPL Kerning Adjust, 
+we made the corrections, and the rest of the optimisations required per weight.</p>
+
+<p>We have Classified our glyphs in a way where no kerning loss is observed. By dividing by Language Set, without language intrusion between classes.
+Small Case and Capitals are also non intruding. This increases size minimally but maintains kerning pair loss at zero.</p>
+
+<p>During the process we attempted to maintain the Italics width according to the contour. This created a larger alteration size and jittering italics transition due to changing width - even if the kerning was precise. We eventually opted for the slant-to-right-side-corner and maintained the regular kerning along to the italics and smoother animation on Italics.</p>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Kerning / Standard Sets</strong></h3>
+
+<p>All the letter combinations have been kerned but we also perform testing afterwards, for various reasons (Ommited) some kerning pairs are not included. This brings us to testing the kerning on a specific set of letters, the other letters are left to maintain the mechanical, automated kerning.</p>
+
+<p>VivaRado standard kerning sets are defined as follows:</p>
+
+<ul>
+<li><p>Letter Based(LB):</p>
+
+<ul>
+<li>Latin Capitals(LBLC):
+<ul>
+<li><code>A B C D E F G H I J K L M N O P Q R S T U V W X Y Z</code></li>
+</ul></li>
+<li>Latin SmallCase(LBLS):
+<ul>
+<li><code>a b c d e f g h i j k l m n o p q r s t u v w x y</code></li>
+</ul></li>
+<li>Greek (GREEK UNICODES)(LBGC):
+<ul>
+<li><code>Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω</code></li>
+</ul></li>
+<li>Greek SmallCase(LBGS):
+<ul>
+<li><code>α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ σ ς τ υ φ χ ψ ω</code></li>
+</ul></li>
+<li>Numbers(LBNU):
+<ul>
+<li><code>0 1 2 3 4 5 6 7 8 9</code></li>
+</ul></li>
+</ul></li>
+<li><p>Resulting Permutations that have been Adjusted:</p>
+
+<ul>
+<li><p>Letter Based Permutations (LB):</p>
+
+<ul>
+<li>Latin VS Latin Capitals Letter Based Permutation (LBLCLC)</li>
+<li>Latin VS Latin SmallCase Letter Based Permutation (LBLSLS)</li>
+<li><p>Latin Capitals VS Latin SmallCase Letter Based Permutation (LBLCLS)</p></li>
+<li><p>Greek VS Greek Capitals Letter Based Permutation (LBGCGC)</p></li>
+<li>Greek VS Greek SmallCase Letter Based Permutation (LBGSGS)</li>
+<li>Greek Capitals VS Greek SmallCase Letter Based Permutation (LBGCGS)</li>
+</ul></li>
+</ul></li>
+<li><p>Letter to Letter Adjustments:</p>
+
+<ul>
+<li>These are small adjustments due to design quirks, and when we decide that a glyph doesn't fit into classes or the class is not satisfying the kerning requirements completely.</li>
+</ul></li>
+<li>Ommited:
+<ul>
+<li>Cross Language System Kerning (grek to latn and latn to grek).</li>
+<li>Greek "sigma1" on the Left Side for all grek.</li>
+</ul></li>
+</ul>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Kerning / Results</strong></h3>
+
+<p>The resulting kerning is:</p>
+
+<p><code>{'GG': 4458, 'GL': 761, 'LG': 708, 'LL': 166}</code></p>
+
+<p>Total Pairs: <code>6093</code></p>
+
+<p>More information in: <a href="https://github.com/VivaRado/Advent/blob/master/docs/kerning_adjustments/kerning_pair_details">Kerning Pair Details</a></p>
+
+<p><strong>If you notice a possible kerning improvement we would like to hear about it.</strong></p>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Components</strong></h3>
+
+<p>Components are created by first running VRD/TYPL/SIMEX to obtain a component similarity index, then VRD/TYPL/COMPONENTS to Componentize the EFO,
+later you can export to Componentized UFOs.</p>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Scripts</strong></h3>
+
+<p>At this moment advent supports Latin, and Greek Encoding.</p>
+
+<ul>
+<li><p><strong>Current Character Support:</strong></p>
+
+<ul>
+<li><em>Latin</em></li>
+<li><em>Extended Latin</em></li>
+<li><em>Greek</em></li>
+<li><em>Baltic</em></li>
+<li><em>Turkish</em></li>
+</ul></li>
+<li><p><strong>Intended Character Support:</strong></p>
+
+<ul>
+<li>The Proposed Encoding/Glyph List: /encoding<em>list/suggested</em>encoding.py</li>
+<li>Current Encoding/Glyph List: /encoding<em>list/current</em>encoding.enc</li>
+</ul></li>
+</ul>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Glyphs</strong></h3>
+
+<p>The glyph range is ≃ 391
+The Proposed glyph list is ≃1500 Glyphs not including the glyphs for Opentype Features
+(Script Extension).</p>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Features</strong></h3>
+
+<p>Advent features at this moment include:</p>
+
+<ul>
+<li><p>liga:</p>
+
+<ul>
+<li>sub f l by fl;</li>
+<li>sub f i by fi;</li>
+<li>sub f f l by ffl;</li>
+<li>sub f t by ft;</li>
+<li>sub t t by t_t;</li>
+<li>sub w w w by w<em>w</em>w;</li>
+<li>sub gamma gamma by gamma_gamma;</li>
+<li>sub gamma kappa by gamma_kappa;</li>
+<li>sub lambda lambda by lambda_lambda;</li>
+</ul></li>
+</ul>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Delivery</strong></h3>
+
+<p>Advent Pro Variable will be delivered in 7 Weights &amp; 7 Italic Weights and Variable format. All the Adobe Illustrator scripts, Fontlab Python and additional scripts will be provided. Forks of the original libraries with their alterations, and Encoding Files.</p>
+
+<p>The delivered font files are provided in UFO, WOFF, WOFF2, OTF, TTF, EFO.</p>
+
+<p>All the above files are available here.</p>
+
+<p>Variable font flavors designspace:
+ - <a href="https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/weight.designspace">Variable with weight axis only</a>
+ - <a href="https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/italic.designspace">Variable italic with weight axis</a>
+ - <a href="https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/weight_italic.designspace">Variable with weight and italic axis</a></p>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Usage</strong></h3>
+
+<p>To compile from UFO:</p>
+
+<p><code>fontmake -o variable -m '/font.designspace' --output-path '/adventpro-VF.ttf'</code></p>
+
+<p>Or from EFO:</p>
+
+<p><code>python3 '/efo_to_var.py' -s '/font_source/EFO' -o '/adventpro-VF.ttf'</code></p>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Work Planning</strong></h3>
+
+<h4>Work Breakdown Structure</h4>
+
+<pre><span></span><code class='codehilite mermaid'>sequenceDiagram
+    loop Advent
+        LevelA-&gt;&gt;LevelB: Advent Work Plan
+        alt Glyphs
+            alt Design
+                LevelB--&gt;LevelC: Cleaning and optimizing
+            end
+            alt Components
+                alt Generate groups.PLIST
+                    LevelC-&gt;&gt;LevelE: SIMEX to 100%
+                    alt Componentize Glyphs
+                         LevelD--&gt;LevelE: According to SIMEX 100%
+                    end
+                    alt Anchoring
+                         LevelD--&gt;LevelE: According to Anchors.JSON
+                    end
+                end
+            end
+        end
+        alt Kern
+            LevelB--&gt;LevelC: Flat Kerning
+            alt Run Autokern
+                LevelC-&gt;&gt;LevelE: Autokern Settings
+            end
+            LevelB--&gt;LevelC: Compressed Kerning
+                alt Generate groups.PLIST
+                    LevelC-&gt;&gt;LevelE: SIMEX to 80%
+                    alt Review groups.PLIST
+                        LevelD--&gt;LevelE: Best Practices
+                        alt Quality Targets
+                            LevelD--&gt;LevelE: No Cross Script
+                            LevelD--&gt;LevelE: Alpha. Order Parent Children
+                        end
+                    end    
+                    alt Compress Flat Kerning
+                        LevelD--&gt;LevelE: According to groups.PLIST
+                    end                  
+            end
+            LevelB--&gt;LevelC: Tested Kerning
+            alt Kern Adjust UI
+                LevelC-&gt;&gt;LevelE: According to LB Permutations
+                alt Review, Adjust
+                    LevelD--&gt;LevelE: Quality Targets
+                    alt Quality Targets
+                        LevelD--&gt;LevelE: No Kerning Loss
+                    end
+                end    
+                alt Compress Flat Kerning
+                    LevelD--&gt;LevelE: According to groups.PLIST
+                    LevelD--&gt;LevelE: According to adjustments.JSON
+                end                  
+            end                  
+        end
+        alt Variable
+            LevelC--&gt;LevelD: Export Variable
+            alt EFO to VAR
+                LevelE-&gt;LevelD: End
+            else FontMake
+                LevelE-&gt;&gt;LevelD: By Designspace
+            end
+        end
+    end
+</code></pre>
+
+<p>diagram: #006, ∞0.001, mermaid, Work Breakdown Structure Example describing a bicycle components, using sequence and loop, else.</p>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Work Planning / Task Assignments</strong></h3>
+
+<ul>
+<li><strong>Assumptions Research</strong>:
+<ul>
+<li>VivaRado, Andreas Kalpakidis</li>
+</ul></li>
+<li><strong>Docs Update</strong>:
+<ul>
+<li>VivaRado, Andreas Kalpakidis:
+<ul>
+<li>Identify Dependencies</li>
+<li>Identify Resource Requirements</li>
+</ul></li>
+<li>VivaRado, Madina Akhmatova</li>
+</ul></li>
+<li><strong>Advent</strong>:
+<ul>
+<li><strong>Design</strong>
+<ul>
+<li>VivaRado, Andreas Kalpakidis</li>
+</ul></li>
+<li><strong>Componentization</strong>
+<ul>
+<li>VivaRado, Andreas Kalpakidis</li>
+<li>Michael La Gatutta</li>
+</ul></li>
+<li><strong>Kerning</strong>
+<ul>
+<li>VivaRado, Andreas Kalpakidis:
+<ul>
+<li>Build</li>
+<li>Test</li>
+</ul></li>
+<li>Michael La Gatutta:
+<ul>
+<li>Best Practices</li>
+</ul></li>
+</ul></li>
+</ul></li>
+<li><strong>VRD TYPL</strong>:
+<ul>
+<li>VivaRado, Andreas Kalpakidis:
+<ul>
+<li>Build</li>
+<li>Test</li>
+</ul></li>
+<li>VivaRado, Madina Akhmatova:
+<ul>
+<li>Compression Logic</li>
+</ul></li>
+</ul></li>
+</ul>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Work Planning / Dependencies</strong></h3>
+
+<p>For the kerning we depend on TypeFacet Autokern.</p>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Schedule Planning</strong></h3>
+
+<p>Overview:</p>
+
+<p>Overview of the schedule.</p>
+
+<pre><span></span><code class='codehilite mermaid'>gantt
+        dateFormat  YYYY-MM-DD
+        title Orgdoc Schedule Example
+        section Advent 3
+        A:         done,des1, 2018-08-22,2019-02-16
+        B:         done,des2, 2019-02-16, 2019-04-01
+        A:         des3, after des2, 10d
+</code></pre>
+
+<ul>
+<li><p>Completed:</p>
+
+<ul>
+<li><strike><strong>Advent  ∞3.000</strong> / July 01 2018 to 2019-02-16</strike>:</li>
+</ul></li>
+<li><p>Current:</p>
+
+<ul>
+<li><strong>Advent PR ∞3.000</strong> / from February 02 2019 to April 01 2019:
+<ul>
+<li>We are waiting for PR to Google Fonts.</li>
+</ul></li>
+<li><strong>Advent ∞4.000</strong> / After PR in April 2019:
+<ul>
+<li>Inititation of Planning for the delivery of Advent 4</li>
+</ul></li>
+</ul></li>
+</ul>
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Schedule Planning / Timeline</strong></h3>
+
+<ul>
+<li>July 01 2018: Start of Redesign</li>
+<li>January 28 2019: Final Kerning for CB for G and L.</li>
+<li>January 31 2019: Contour Fixes, Updates for all weights and anchor alignments.</li>
+<li>February 16 2019: Updated to match contour optimisations of <a href="https://github.com/mjlagattuta/Advent-Pro">mjlagattuta fork</a>, Updated sources. Observe process at <a href="https://github.com/VivaRado/Advent/issues/13">Advent Third Pickup +</a></li>
+<li>February 17 2019: Updated to match Kerning Classification optimisations of <a href="https://github.com/mjlagattuta/Advent-Pro">mjlagattuta fork</a>. Further Classification updates, reduction of kerning pairs by 307, Updated sources. Observe process at <a href="https://github.com/VivaRado/Advent/issues/13">Advent Third Pickup +</a></li>
+<li>March 23 2019: Documentation Restructure, according to VivaRado ORGDOC.</li>
+</ul>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Stakeholders</strong></h3>
+
+<p>We identify the <strong>Stakeholders</strong> by a <strong>Personnel Plan</strong> and create a <strong>Communication Plan</strong> to keep the <strong>Stakeholders</strong> informed.</p>
+
+<ul>
+<li><p><strong>Stakeholders</strong> Components:</p>
+
+<ul>
+<li>Applicable Stakeholders (Concious and Unconcious Entities):
+<ul>
+<li>clients</li>
+<li>personell</li>
+<li>funders</li>
+<li>suppliers</li>
+<li>equipment</li>
+</ul></li>
+<li>Glyph Design Team (Gdes)</li>
+<li>Kern Testing Team (KeT)</li>
+<li>Quality Assurance Team (QaT)</li>
+</ul></li>
+</ul>
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Stakeholders / Personnel Plan</strong></h3>
+
+<ul>
+<li>Personnel Plan
+<ul>
+<li>Organizational Structure
+<ul>
+<li>team members
+<ul>
+<li>internal
+<ul>
+<li>Andreas Kalpakidis</li>
+<li>Madina Akhmatova</li>
+</ul></li>
+<li>external
+<ul>
+<li>Michael La Gatutta</li>
+</ul></li>
+</ul></li>
+</ul></li>
+<li>Responsibilities and Qualifications
+<ul>
+<li>Project Management and Accounting: Madina Akhmatova</li>
+<li>Planning, Development and Design: Andreas Kalpakidis</li>
+<li>Quality Assurance and Consulting: Michael La Gatutta</li>
+<li>Acceptance: Dave Crossland</li>
+</ul></li>
+</ul></li>
+</ul>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Stakeholders / Communication Plan</strong></h3>
+
+<ul>
+<li>Communication Plan
+<ul>
+<li>Stakeholder Feedback Mechanisms
+<ul>
+<li>Weekly Notifications</li>
+<li>VRD Forum</li>
+<li>Interactive Documentation</li>
+</ul></li>
+<li>User Feedback Mechanisms:
+<ul>
+<li><a href="&#109;&#x61;&#105;l&#x74;&#x6f;&#x3a;&#115;u&#x70;&#x70;&#111;&#114;&#x74;&#x40;&#118;&#x69;&#x76;&#97;&#x72;&#97;&#x64;&#111;&#x2e;&#x63;&#x6f;&#109;">&#115;u&#x70;&#x70;&#111;&#114;&#x74;&#x40;&#118;&#x69;&#x76;&#97;&#x72;&#97;&#x64;&#111;&#x2e;&#x63;&#x6f;&#109;</a></li>
+</ul></li>
+</ul></li>
+</ul>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Quality Plan</strong></h3>
+
+<p>A <strong>Quality Plan</strong> describes the activities, standards, tools and processes necessary to achieve quality in the delivery of a project.</p>
+
+<p>We can now create a <strong>Quality Plan</strong> by identifying the valid <strong>Quality Targets</strong> we want to achieve. Identify the <strong>Quality Policies</strong> that will be required to achieve them. Identify how to do <strong>Quality Measurement</strong>. Lastly identify how to maintain quality with <strong>Quality Management</strong>.</p>
+
+<ul>
+<li><p><strong>Quality Plan (PQP)</strong> Components:</p>
+
+<ol>
+<li>Quality Targets</li>
+<li>Quality Management</li>
+</ol></li>
+</ul>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Quality Plan / Quality Targets</strong></h3>
+
+<p><strong>Quality Targets</strong> we want to achieve and what are their <strong>Acceptance Criteria</strong>, <strong>Quality Management Procedures</strong>, for each <strong>Applicable Category</strong></p>
+
+<ol>
+<li>Quality Targets Components:
+<ul>
+<li>Acceptance criteria
+<ul>
+<li>Glyphs
+<ul>
+<li>Contour Components
+<ul>
+<li>Alligned Accents.</li>
+<li>Components.</li>
+</ul></li>
+<li>Contour Quality
+<ul>
+<li>Point Minimisation.</li>
+<li>Extremas.</li>
+</ul></li>
+</ul></li>
+<li>Kerning
+<ul>
+<li>Kerning Loss
+<ul>
+<li>No Loss on Standard Set permutations.</li>
+<li>Alpha. Order Parent Children</li>
+</ul></li>
+</ul></li>
+</ul></li>
+<li>Quality Management procedures
+<ul>
+<li>Kerning
+<ul>
+<li>Kerning Loss
+<ul>
+<li>Kern Adjust Interface Screenshots before and after compression.</li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ol>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Quality Plan / Quality Management</strong></h3>
+
+<p><strong>Quality Management</strong>, the nature of the <strong>Audits</strong>, <strong>Work Verification</strong> by assigning responsible personnel for <strong>Task Fulfillment</strong> and <strong>Task Checking</strong>.</p>
+
+<ol>
+<li>Quality Management
+<ul>
+<li>Audits</li>
+<li>Tool Scheduling</li>
+<li>Work Verification
+<ul>
+<li>Task fulfillment responsible personnel 
+<ul>
+<li>VivaRado</li>
+</ul></li>
+<li>Task checking responsible personnel
+<ul>
+<li>VivaRado and Google Fonts</li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ol>
+
+<hr />
+
+<h3><strong>Glossary</strong></h3>
+
+<p><strong>LB</strong>: Letter Based, Alphabet / Complete Range.</p>
+
+<p><strong>LBLCLC</strong>: Letter Based Latin Capital to Latin Capital</p>
+
+<p><strong>LBLSLS</strong>: Letter Based Latin Small Case to Latin Small Case</p>
+
+<p><strong>LBLCLS</strong>: Letter Based Latin Capital to Latin Small Case</p>
+
+<p><strong>LBGCGC</strong>: Greek VS Greek Capitals Letter Based Permutation</p>
+
+<p><strong>LBGSGS</strong>: Greek VS Greek SmallCase Letter Based Permutation</p>
+
+<p><strong>LBGCGS</strong>: Greek Capitals VS Greek SmallCase Letter Based Permutation</p>
+
+<hr />
+
+<h3><strong>Reference</strong></h3>
+
+<p>VRD TYPL/kerning_adjust.py: <a href="https://github.com/VivaRado/VRD-Typography-Library/tree/master/Lib/kerning_adjust">VRD-Typography-Library-Kerning-Adjust</a></p>
+
+<p>VRD TYPL/kerning_autokern.py: <a href="https://github.com/VivaRado/VRD-Typography-Library/tree/master/Lib/kerning">VRD-Typography-Library-Autokern</a></p>
+
+<p>charlesmchen TypeFacet Autokern: <a href="https://github.com/charlesmchen/typefacet">TypeFacet Autokern</a></p>
+
+<hr />
+</article>
+	</body>
+</html>

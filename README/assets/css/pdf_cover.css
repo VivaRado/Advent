@@ -1,0 +1,60 @@
+.markdown-body {
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  color: #333;
+  overflow: hidden;
+  font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif;
+  font-size: 16px;
+  line-height: 1.8;
+  word-wrap: break-word;
+  /*padding: 1cm;*//* 2.54cm 2.54cm 2.54cm;*/
+}
+
+.sidebar {
+  display: none;
+}
+
+h3 {
+  font-size: 120% !important;
+}
+h2 {
+  font-size: 140% !important;
+}
+
+.toc_ h3{
+  font-size: 120% !important;
+  color: #555 !important;
+}
+.toc_ {
+  font-family: sans-serif !important;
+}
+.toc_ .toc_lists {
+  padding: 1em;
+}
+.toc_ .toc_lists *{
+  line-height: 120% !important;
+  font-size: 98% !important;
+  font-family: sans-serif !important;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-bottom: 0;
+  padding-top: 0;
+  
+}
+
+.cover_ {
+  font-size: 80% !important;
+  font-family: sans-serif !important;
+  color: #000 !important;
+}
+.cover_ h1 {
+  font-size: 170% !important;
+}
+
+.cover_ .version,
+.cover_ .date{
+  font-size: 80% !important;
+}
+@page {
+  background: #FFF;
+}

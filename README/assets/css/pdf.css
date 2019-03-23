@@ -1,0 +1,95 @@
+.markdown-body {
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  color: #333;
+  overflow: hidden;
+  font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif;
+  font-size: 16px;
+  line-height: 1.8;
+  word-wrap: break-word;
+  /*padding: 1cm;*//* 2.54cm 2.54cm 2.54cm;*/
+}
+
+.sidebar {
+  display: none;
+}
+* {
+  font-size: 97% !important;
+  line-height: 115% !important;
+}
+
+@page {
+  counter-increment: pagebased 1;
+  @bottom-right{
+      font-size: 10px;
+      padding-bottom: 0.5cm;
+      padding-right: 0.25cm;
+      font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif;
+      content: counter(pagebased);/*"Page "  " of " counter(pages);*/
+  }
+ /* @bottom-center {
+    content: "pagebased counter on page " counter(page + 1) " is: " counter(pagebased);
+  }*/
+}
+
+/*h3 strong {
+  display: none;
+}*/
+
+ul.toc a::after {
+  content: leader('.') target-counter(attr(href), page);
+}
+
+ul,
+li{
+  font-size: 12px !important;
+}
+
+pre .codehilite {
+  border: 1px solid #ccc !important;
+  border-radius: 3px;
+  display: block;
+  position: relative;
+  padding: 20px;
+  break-inside: avoid;
+  /*width: 100%;*/
+}
+.codehilite {
+  
+  font-size: 12px !important;
+}
+hr {
+  opacity: 0.2;
+  background: none !important;
+  border-width: 1px;
+  border-bottom-color: #ccc !important;
+}
+
+img,ul,p {
+  break-inside: avoid;
+}
+img{
+  max-width: 100% !important;
+  min-width: 60% !important;
+}
+
+/*h1 {
+  font-size: 2em !important
+}
+
+h2 {
+  font-size: 1.5em !important
+}
+h3 {
+  font-size: 1.25em !important
+}
+h4 {
+  font-size: 1em !important
+}
+h5 {
+  font-size: .875em !important
+}
+h6 {
+  font-size: .85em !important
+}
+*/
