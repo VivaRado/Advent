@@ -175,11 +175,7 @@ What are the benefits we are trying to get from the project and justification of
 	
 	1.  **Business Case**:
 		*  Strategic case
-		*  Economic case
-		*  Commercial case
-		*  Financial case
 		*  Management case
-		*  Evaluation
 
 ---
 
