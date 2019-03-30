@@ -698,9 +698,9 @@ gantt
         dateFormat  YYYY-MM-DD
         title Advent Schedule
         section Advent 3
-        A:         done,des1, 2018-08-22,2019-02-16
-        B:         done,des2, 2019-02-16, 2019-04-01
-        A:         des3, after des2, 10d
+        ADV-0001 Advent 3:         done,des1, 2018-08-22,2019-02-16
+        ADV-0002 Advent 3 PR:         done,des2, 2019-02-16, 2019-04-01
+        ADV-0003 Advent 4 Planning:         des3, after des2, 10d
 ```
 
 *  Completed:
