@@ -703,14 +703,15 @@ gantt
         ADV-0003 Advent 4 Planning:         des3, after des2, 10d
 ```
 
-*  Completed:
-    *  ~~**Advent  ∞3.000** / July 01 2018 to 2019-02-16~~:
 
 *  Current:
     *  **Advent PR ∞3.000** / from February 02 2019 to April 01 2019:
         *  We are waiting for PR to Google Fonts.
     *  **Advent ∞4.000** / After PR in April 2019:
         *  Inititation of Planning for the delivery of Advent 4
+
+*  Completed:
+    *  ~~**Advent  ∞3.000** / July 01 2018 to 2019-02-16~~:
 
 
 ### **Introduction / Phase Introduction / Planning Phase / Safe Planning / Schedule Planning / Timeline**
