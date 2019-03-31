@@ -293,12 +293,14 @@ To expand our ideas about typography and contribute to language.
 
 ### **Introduction / Phase Introduction / Initiation Phase / Project Charter / Project Goals**
 
-*  Goals for version 3.000:
+*  Goals for ∞ 3.000:
 	*  To bring an updated Advent Pro to the Variable format, 
-	*  Add Italics Axis
-	*  Add Weight Axis
-*  Goals for version 4.000:
+	*  Add Italics Axes
+	*  Add Weight Axes
+*  Goals for ∞ 4.000:
 	*  Add Cyrillic
+	*  Add Width Axes
+	*  Add Optical Size Axes
 
 ---
 
@@ -307,8 +309,8 @@ To expand our ideas about typography and contribute to language.
 
 *  **Deliverables** Components ∞0.001:
 	*  Advent Pro Variable:
-		*  Variation Weight Axis
-		*  Variation Italic Axis
+		*  Variation Weight Axes
+		*  Variation Italic Axes
 	*  Advent Pro 14 Weights:
 		*  Classic Formats (TTF, OTF, ...)
 	*  VRD-Typography-Library:
@@ -330,7 +332,7 @@ To expand our ideas about typography and contribute to language.
 	*  22/08/2018 to 16/02/2019
 
 *  **Duration** of Advent ∞4.000:
-	*  N/A
+	*  April 1st 2019 to December 20th 2019
 
 ---
 
@@ -398,33 +400,121 @@ Work was done on a Linux box with VirtualBox running Windows 8 and Mac OSX Lion.
 
 ### **Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Weights and Masters**
 
-1.  Masters:
-	1.  Thin (100)
-	1.  Regular (400)
-	1.  Bold (700)
-	1.  Thin Italic (100)
-	1.  Regular Italic (400)
-	1.  Bold Italic(700)
-1.  Master Instances:
-	1.  **thn**      100     Thin (Hairline) *MM*
-	1.  **xlg**      200     Extra Light (Ultra Light)
-	1.  **lgt**      300     Light
-	1.  **reg**      400     Regular *MM*
-	1.  **med**      500     Medium
-	1.  **smb**      600     Semi Bold (Demi Bold)
-	1.  **bld**      700     Bold *MM*
-	1.  ~~xbd      800     Extra Bold (Ultra Bold)~~
-	1.  ~~blk      900     Black (Heavy)~~
-	1.  **thn_it**       100     Italic Thin (Hairline) *MM*
-	1.  **xlg_it**       200     Italic Extra Light (Ultra Light)
-	1.  **lgt_it**       300     Italic Light
-	1.  **reg_it**       400     Italic Regular *MM*
-	1.  **med_it**   500     Italic Medium
-	1.  **smb_it**   600     Italic Semi Bold (Demi Bold)
-	1.  **bld_it**    700     Italic Bold *MM*
-	1.  ~~xbd_it       800     Extra Bold (Ultra Bold)~~
-	1.  ~~blk_it       900     Black (Heavy)~~
+1.  Contents ∞ 3.000:
 
+	1.  Count:
+		*  MM = 6
+		*  Master Glyphs: ≃ 2340
+
+	1.  Masters:
+		*  Thin (100)
+		*  Regular (400)
+		*  Bold (700)
+		*  Thin Italic (100)
+		*  Regular Italic (400)
+		*  Bold Italic(700)
+
+	1.  Instances:
+		*  **thn**        100     Thin (Hairline)                          *MM*
+		*  **xlg**        200     Extra Light (Ultra Light)
+		*  **lgt**        300     Light
+		*  **reg**        400     Regular                                  *MM*
+		*  **med**        500     Medium
+		*  **smb**        600     Semi Bold (Demi Bold)
+		*  **bld**        700     Bold                                     *MM*
+		*  ~~xbd          800     Extra Bold (Ultra Bold)~~
+		*  ~~blk          900     Black (Heavy)~~
+		*  **thn_it**     100     Italic Thin (Hairline)               *MM*
+		*  **xlg_it**     200     Italic Extra Light (Ultra Light)
+		*  **lgt_it**     300     Italic Light
+		*  **reg_it**     400     Italic Regular                       *MM*
+		*  **med_it**     500     Italic Medium
+		*  **smb_it**     600     Italic Semi Bold (Demi Bold)
+		*  **bld_it**     700     Italic Bold                             *MM*
+		*  ~~xbd_it       800     Extra Bold (Ultra Bold)~~
+		*  ~~blk_it       900     Black (Heavy)~~
+
+	*  Axes:
+		*  weight axes only
+		*  italic axes with weight axes
+		*  weight and italic axes
+
+1.  Contents ∞ 4.000:
+	
+	1.  Count:
+		*  MM = 16
+		*  Master Glyphs: ≃ 10352
+
+	1.  Masters: 
+		*  Thin Normal(100, 8pt, 24pt, 144pt)
+		*  Regular Normal(400, 8pt, 24pt, 144pt)
+		*  Bold Normal(700, 8pt, 24pt, 144pt)
+		*  Black Normal(700, 8pt, 24pt, 144pt) NEW!
+
+		*  Thin Wide(100, 8pt, 24pt, 144pt) NEW
+		*  Regular Wide(400, 8pt, 24pt, 144pt) NEW!
+		*  Bold Wide(700, 8pt, 24pt, 144pt) NEW!
+		*  Black Wide(700, 8pt, 24pt, 144pt) NEW!
+
+		*  Thin Italic Normal(100, 8pt, 24pt, 144pt)
+		*  Regular Italic Normal(400, 8pt, 24pt, 144pt)
+		*  Bold Italic Normal(700, 8pt, 24pt, 144pt)
+		*  Black Italic Normal(700, 8pt, 24pt, 144pt) NEW!
+
+		*  Thin Italic Wide(100, 8pt, 24pt, 144pt) NEW!
+		*  Regular Italic Wide(400, 8pt, 24pt, 144pt) NEW!
+		*  Bold Italic Wide(700, 8pt, 24pt, 144pt) NEW!
+		*  Black Italic Wide(700, 8pt, 24pt, 144pt) NEW!
+
+	1.  Instances: 
+		*  **thn**         100     Thin (Hairline)                         *MM*
+		*  **xlg**         200     Extra Light (Ultra Light)
+		*  **lgt**         300     Light
+		*  **reg**         400     Regular                                 *MM*
+		*  **med**         500     Medium
+		*  **smb**         600     Semi Bold (Demi Bold)
+		*  **bld**         700     Bold                                    *MM*
+		*  **xbd**         800     Extra Bold (Ultra Bold)
+		*  **blk**         900     Black (Heavy)                           *MM* NEW!
+
+		*  **thn_wd**      100     Thin (Hairline)                         *MM* NEW!
+		*  **xlg_wd**      200     Extra Light (Ultra Light)
+		*  **lgt_wd**      300     Light
+		*  **reg_wd**      400     Regular                                 *MM* NEW!
+		*  **med_wd**      500     Medium
+		*  **smb_wd**      600     Semi Bold (Demi Bold)
+		*  **bld_wd**      700     Bold                                    *MM* NEW!
+		*  **xbd_wd**      800     Extra Bold (Ultra Bold)
+		*  **blk_wd**      900     Black (Heavy)                           *MM* NEW!
+
+		*  **thn_it**      100     Italic Thin (Hairline)                  *MM*
+		*  **xlg_it**      200     Italic Extra Light (Ultra Light)
+		*  **lgt_it**      300     Italic Light
+		*  **reg_it**      400     Italic Regular                          *MM*
+		*  **med_it**      500     Italic Medium
+		*  **smb_it**      600     Italic Semi Bold (Demi Bold)
+		*  **bld_it**      700     Italic Bold                             *MM*
+		*  **xbd_it**      800     Extra Bold (Ultra Bold)
+		*  **blk_it**      900     Black (Heavy)                           *MM* NEW!
+
+		*  **thn_it_wd**   100     Italic Thin (Hairline)                  *MM* NEW!
+		*  **xlg_it_wd**   200     Italic Extra Light (Ultra Light)
+		*  **lgt_it_wd**   300     Italic Light
+		*  **reg_it_wd**   400     Italic Regular                          *MM* NEW!
+		*  **med_it_wd**   500     Italic Medium
+		*  **smb_it_wd**   600     Italic Semi Bold (Demi Bold)
+		*  **bld_it_wd**   700     Italic Bold                             *MM* NEW!
+		*  **xbd_it_wd**   800     Extra Bold (Ultra Bold)
+		*  **blk_it_wd**   900     Black (Heavy)                           *MM* NEW!
+
+	*  Axes:
+		*  weight axes only
+		*  italic axes with weight axes
+		*  weight and italic axes
+		*  weight and width
+		*  width axes only
+		*  italic axes with weight axes and width axes
+		*  optical Size
 
 ---
 
@@ -505,27 +595,38 @@ later you can export to Componentized UFOs.
 
 ### **Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Scripts**
 
-At this moment advent supports Latin, and Greek Encoding.
+At this moment advent supports Latin, and Greek Encoding as ∞3.000.
 
-*  **Current Character Support:**
-	*  *Latin*
-	*  *Extended Latin*
-	*  *Greek*
-	*  *Baltic*
-	*  *Turkish*
+*  **Version ∞3.000**:
+	*  **Current Character Support:**
+		*  *Latin*
+		*  *Extended Latin*
+		*  *Greek*
+		*  *Baltic*
+		*  *Turkish*
 
-*  **Intended Character Support:**
+	*  **Intended Character Support:**
 
-	*  The Proposed Encoding/Glyph List: /encoding_list/suggested_encoding.py
-	*  Current Encoding/Glyph List: /encoding_list/current_encoding.enc
+		*  The Proposed Encoding/Glyph List: /encoding_list/suggested_encoding.py
+		*  Current Encoding/Glyph List: /encoding_list/current_encoding.enc
+
+*  **Version ∞4.000**:
+	*  *Google Latin Plus*
+	*  *Google Cyrillic Plus*
+	*  *Google Greek*
+	*  *Opentype Features Glyphs*
 
 ---
 
 ### **Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Glyphs**
 
-The glyph range is ≃ 391
-The Proposed glyph list is ≃1500 Glyphs not including the glyphs for Opentype Features
-(Script Extension).
+*  **Version ∞3.000**:
+	
+	The glyph range is ≃ 391
+
+*  **Version ∞4.000**:
+	
+	The glyph range is ≃ 647
 
 ---
 
@@ -547,6 +648,12 @@ Advent features at this moment include:
 
 ---
 
+### **Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Hinting**
+
+TrueType Hints
+
+---
+
 ### **Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Delivery**
 
 Advent Pro Variable will be delivered in 7 Weights & 7 Italic Weights and Variable format. All the Adobe Illustrator scripts, Fontlab Python and additional scripts will be provided. Forks of the original libraries with their alterations, and Encoding Files.
@@ -556,9 +663,9 @@ The delivered font files are provided in UFO, WOFF, WOFF2, OTF, TTF, EFO.
 All the above files are available here.
 
 Variable font flavors designspace:
- - [Variable with weight axis only](https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/weight.designspace)
- - [Variable italic with weight axis](https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/italic.designspace)
- - [Variable with weight and italic axis](https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/weight_italic.designspace)
+ - [Variable with weight axes only](https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/weight.designspace)
+ - [Variable italic with weight axes](https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/italic.designspace)
+ - [Variable with weight and italic axes](https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/weight_italic.designspace)
 
 ---
 
@@ -654,29 +761,29 @@ diagram: #006, ∞0.001, mermaid, Work Breakdown Structure of Advent
 ### **Introduction / Phase Introduction / Planning Phase / Safe Planning / Work Planning / Task Assignments**
 
 *  **Assumptions Research**:
-	*  VivaRado, Andreas Kalpakidis
+	*  VivaRado, Andreas Kalpakidis (∞3,4)
 *  **Docs Update**:
-	*  VivaRado, Andreas Kalpakidis:
+	*  VivaRado, Andreas Kalpakidis (∞3,4):
 		*  Identify Dependencies
 		*  Identify Resource Requirements
-	*  VivaRado, Madina Akhmatova
+	*  VivaRado, Madina Akhmatova (∞3,4)
 *  **Advent**:
 	*  **Design**
-		*  VivaRado, Andreas Kalpakidis
+		*  VivaRado, Andreas Kalpakidis (∞1,2,3,4)
 	*  **Componentization**
-		*  VivaRado, Andreas Kalpakidis
-		*  Michael La Gatutta
+		*  VivaRado, Andreas Kalpakidis (∞3,4)
+		*  Michael La Gatutta (∞3)
 	*  **Kerning**
-		*  VivaRado, Andreas Kalpakidis:
+		*  VivaRado, Andreas Kalpakidis (∞3,4):
 			*  Build
 			*  Test
-		*  Michael La Gatutta:
+		*  Michael La Gatutta (∞3):
 			*  Best Practices
 *  **VRD TYPL**:
-	*  VivaRado, Andreas Kalpakidis:
+	*  VivaRado, Andreas Kalpakidis (∞3,4):
 		*  Build
 		*  Test
-	*  VivaRado, Madina Akhmatova:
+	*  VivaRado, Madina Akhmatova (∞3,4):
 		*  Compression Logic
 
 ---
@@ -750,15 +857,15 @@ We identify the **Stakeholders** by a **Personnel Plan** and create a **Communic
 	*  Organizational Structure
 		*  team members
 			*  internal
-				*  Andreas Kalpakidis
-				*  Madina Akhmatova
+				*  Andreas Kalpakidis (∞1,2,3,4)
+				*  Madina Akhmatova (∞3,4)
 			*  external
-				*  Michael La Gatutta
+				*  Michael La Gatutta (∞3)
 	*  Responsibilities and Qualifications
-		*  Project Management and Accounting: Madina Akhmatova
-		*  Planning, Development and Design: Andreas Kalpakidis
-		*  Quality Assurance and Consulting: Michael La Gatutta
-		*  Acceptance: Dave Crossland
+		*  Project Management and Accounting: Madina Akhmatova (∞3,4)
+		*  Planning, Development and Design: Andreas Kalpakidis (∞3,4)
+		*  Quality Assurance and Consulting: Michael La Gatutta (∞3)
+		*  Acceptance: Dave Crossland (∞2,3,4)
 
 ---
 

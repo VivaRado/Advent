@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
-		<title>VRD | Advent | 3.001 | 2019/03/31</title>
+		<title>VRD | Advent | 3.002 | 2019/04/01</title>
 		<link rel="stylesheet" type="text/css" href="assets/css/style.css">
 		<link rel="stylesheet" type="text/css" href="assets/css/code_native.css">
 		<script type="text/javascript" src="assets/js/mermaid.js"></script>
@@ -125,11 +125,11 @@
 <h4>Contributors:</h4>
 
 <ul>
-<li>VivaRado <a href="&#x6d;&#x61;&#x69;&#x6c;&#x74;&#x6f;&#58;&#115;&#x75;&#112;&#x70;&#x6f;&#114;&#x74;&#64;&#118;i&#x76;&#97;&#x72;&#x61;&#100;&#x6f;&#x2e;&#x63;&#111;&#x6d;">&#115;&#x75;&#112;&#x70;&#x6f;&#114;&#x74;&#64;&#118;i&#x76;&#97;&#x72;&#x61;&#100;&#x6f;&#x2e;&#x63;&#111;&#x6d;</a></li>
+<li>VivaRado <a href="&#109;&#x61;&#105;&#108;&#x74;o&#58;&#115;&#117;&#x70;p&#x6f;&#x72;&#116;&#64;&#x76;&#105;&#x76;&#x61;&#114;&#x61;&#x64;&#111;&#x2e;co&#x6d;">&#115;&#117;&#x70;p&#x6f;&#x72;&#116;&#64;&#x76;&#105;&#x76;&#x61;&#114;&#x61;&#x64;&#111;&#x2e;co&#x6d;</a></li>
 <li>Andreas Kalpakides</li>
 <li>Madina Akhmatova</li>
 <li>Dave Crossland</li>
-<li>Michael LaGattuta <a href="&#x6d;&#97;il&#116;&#111;:&#x6d;j&#x6c;&#97;&#103;&#x61;&#x74;&#x74;&#x75;&#x74;&#97;&#64;&#103;&#x6d;&#97;&#105;&#x6c;&#46;&#x63;&#x6f;m">&#x6d;j&#x6c;&#97;&#103;&#x61;&#x74;&#x74;&#x75;&#x74;&#97;&#64;&#103;&#x6d;&#97;&#105;&#x6c;&#46;&#x63;&#x6f;m</a></li>
+<li>Michael LaGattuta <a href="m&#97;&#x69;&#108;to&#58;&#109;&#x6a;l&#x61;&#103;&#x61;t&#x74;&#117;&#116;&#97;&#64;&#103;&#109;&#x61;&#x69;&#108;&#46;&#x63;o&#x6d;">&#109;&#x6a;l&#x61;&#103;&#x61;t&#x74;&#117;&#116;&#97;&#64;&#103;&#109;&#x61;&#x69;&#108;&#46;&#x63;o&#x6d;</a></li>
 <li>Behdad Esfahbod</li>
 </ul>
 
@@ -384,15 +384,17 @@
 <h3><strong>Introduction / Phase Introduction / Initiation Phase / Project Charter / Project Goals</strong></h3>
 
 <ul>
-<li>Goals for version 3.000:
+<li>Goals for ∞ 3.000:
 <ul>
 <li>To bring an updated Advent Pro to the Variable format, </li>
-<li>Add Italics Axis</li>
-<li>Add Weight Axis</li>
+<li>Add Italics Axes</li>
+<li>Add Weight Axes</li>
 </ul></li>
-<li>Goals for version 4.000:
+<li>Goals for ∞ 4.000:
 <ul>
 <li>Add Cyrillic</li>
+<li>Add Width Axes</li>
+<li>Add Optical Size Axes</li>
 </ul></li>
 </ul>
 
@@ -405,8 +407,8 @@
 <ul>
 <li>Advent Pro Variable:
 <ul>
-<li>Variation Weight Axis</li>
-<li>Variation Italic Axis</li>
+<li>Variation Weight Axes</li>
+<li>Variation Italic Axes</li>
 </ul></li>
 <li>Advent Pro 14 Weights:
 <ul>
@@ -439,7 +441,7 @@
 <li><p><strong>Duration</strong> of Advent ∞4.000:</p>
 
 <ul>
-<li>N/A</li>
+<li>April 1st 2019 to December 20th 2019</li>
 </ul></li>
 </ul>
 
@@ -521,58 +523,165 @@
 <h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Weights and Masters</strong></h3>
 
 <ol>
-<li>Masters:
+<li><p>Contents ∞ 3.000:</p>
+
 <ol>
+<li><p>Count:</p>
+
+<ul>
+<li>MM = 6</li>
+<li>Master Glyphs: ≃ 2340</li>
+</ul></li>
+<li><p>Masters:</p>
+
+<ul>
 <li>Thin (100)</li>
 <li>Regular (400)</li>
 <li>Bold (700)</li>
 <li>Thin Italic (100)</li>
 <li>Regular Italic (400)</li>
 <li>Bold Italic(700)</li>
-</ol></li>
-<li>Master Instances:
-<ol>
-<li><strong>thn</strong>      100     Thin (Hairline) <em>MM</em></li>
-<li><strong>xlg</strong>      200     Extra Light (Ultra Light)</li>
-<li><strong>lgt</strong>      300     Light</li>
-<li><strong>reg</strong>      400     Regular <em>MM</em></li>
-<li><strong>med</strong>      500     Medium</li>
-<li><strong>smb</strong>      600     Semi Bold (Demi Bold)</li>
-<li><strong>bld</strong>      700     Bold <em>MM</em></li>
-<li><strike>xbd      800     Extra Bold (Ultra Bold)</strike></li>
-<li><strike>blk      900     Black (Heavy)</strike></li>
-<li><strong>thn<em>it</strong>       100     Italic Thin (Hairline) <em>MM</em></li>
-<li><strong>xlg</em>it</strong>       200     Italic Extra Light (Ultra Light)</li>
-<li><strong>lgt<em>it</strong>       300     Italic Light</li>
-<li><strong>reg</em>it</strong>       400     Italic Regular <em>MM</em></li>
-<li><strong>med<em>it</strong>   500     Italic Medium</li>
-<li><strong>smb</em>it</strong>   600     Italic Semi Bold (Demi Bold)</li>
-<li><strong>bld<em>it</strong>    700     Italic Bold <em>MM</em></li>
-<li><strike>xbd</em>it       800     Extra Bold (Ultra Bold)</strike></li>
+</ul></li>
+<li><p>Instances:</p>
+
+<ul>
+<li><strong>thn</strong>        100     Thin (Hairline)                          <em>MM</em></li>
+<li><strong>xlg</strong>        200     Extra Light (Ultra Light)</li>
+<li><strong>lgt</strong>        300     Light</li>
+<li><strong>reg</strong>        400     Regular                                  <em>MM</em></li>
+<li><strong>med</strong>        500     Medium</li>
+<li><strong>smb</strong>        600     Semi Bold (Demi Bold)</li>
+<li><strong>bld</strong>        700     Bold                                     <em>MM</em></li>
+<li><strike>xbd          800     Extra Bold (Ultra Bold)</strike></li>
+<li><strike>blk          900     Black (Heavy)</strike></li>
+<li><strong>thn_it</strong>     100     Italic Thin (Hairline)               <em>MM</em></li>
+<li><strong>xlg_it</strong>     200     Italic Extra Light (Ultra Light)</li>
+<li><strong>lgt_it</strong>     300     Italic Light</li>
+<li><strong>reg_it</strong>     400     Italic Regular                       <em>MM</em></li>
+<li><strong>med_it</strong>     500     Italic Medium</li>
+<li><strong>smb_it</strong>     600     Italic Semi Bold (Demi Bold)</li>
+<li><strong>bld_it</strong>     700     Italic Bold                             <em>MM</em></li>
+<li><strike>xbd_it       800     Extra Bold (Ultra Bold)</strike></li>
 <li><strike>blk_it       900     Black (Heavy)</strike></li>
-</ol></li>
+</ul></li>
+</ol>
+
+<ul>
+<li>Axes:
+<ul>
+<li>weight axes only</li>
+<li>italic axes with weight axes</li>
+<li>weight and italic axes</li>
+</ul></li>
+</ul></li>
+<li><p>Contents ∞ 4.000:</p>
+
+<ol>
+<li><p>Count:</p>
+
+<ul>
+<li>MM = 16</li>
+<li>Master Glyphs: ≃ 10352</li>
+</ul></li>
+<li><p>Masters: </p>
+
+<ul>
+<li>Thin Normal(100, 8pt, 24pt, 144pt)</li>
+<li>Regular Normal(400, 8pt, 24pt, 144pt)</li>
+<li>Bold Normal(700, 8pt, 24pt, 144pt)</li>
+<li><p>Black Normal(700, 8pt, 24pt, 144pt) NEW!</p></li>
+<li><p>Thin Wide(100, 8pt, 24pt, 144pt) NEW</p></li>
+<li>Regular Wide(400, 8pt, 24pt, 144pt) NEW!</li>
+<li>Bold Wide(700, 8pt, 24pt, 144pt) NEW!</li>
+<li><p>Black Wide(700, 8pt, 24pt, 144pt) NEW!</p></li>
+<li><p>Thin Italic Normal(100, 8pt, 24pt, 144pt)</p></li>
+<li>Regular Italic Normal(400, 8pt, 24pt, 144pt)</li>
+<li>Bold Italic Normal(700, 8pt, 24pt, 144pt)</li>
+<li><p>Black Italic Normal(700, 8pt, 24pt, 144pt) NEW!</p></li>
+<li><p>Thin Italic Wide(100, 8pt, 24pt, 144pt) NEW!</p></li>
+<li>Regular Italic Wide(400, 8pt, 24pt, 144pt) NEW!</li>
+<li>Bold Italic Wide(700, 8pt, 24pt, 144pt) NEW!</li>
+<li>Black Italic Wide(700, 8pt, 24pt, 144pt) NEW!</li>
+</ul></li>
+<li><p>Instances: </p>
+
+<ul>
+<li><strong>thn</strong>         100     Thin (Hairline)                         <em>MM</em></li>
+<li><strong>xlg</strong>         200     Extra Light (Ultra Light)</li>
+<li><strong>lgt</strong>         300     Light</li>
+<li><strong>reg</strong>         400     Regular                                 <em>MM</em></li>
+<li><strong>med</strong>         500     Medium</li>
+<li><strong>smb</strong>         600     Semi Bold (Demi Bold)</li>
+<li><strong>bld</strong>         700     Bold                                    <em>MM</em></li>
+<li><strong>xbd</strong>         800     Extra Bold (Ultra Bold)</li>
+<li><p><strong>blk</strong>         900     Black (Heavy)                           <em>MM</em> NEW!</p></li>
+<li><p><strong>thn_wd</strong>      100     Thin (Hairline)                         <em>MM</em> NEW!</p></li>
+<li><strong>xlg_wd</strong>      200     Extra Light (Ultra Light)</li>
+<li><strong>lgt_wd</strong>      300     Light</li>
+<li><strong>reg_wd</strong>      400     Regular                                 <em>MM</em> NEW!</li>
+<li><strong>med_wd</strong>      500     Medium</li>
+<li><strong>smb_wd</strong>      600     Semi Bold (Demi Bold)</li>
+<li><strong>bld_wd</strong>      700     Bold                                    <em>MM</em> NEW!</li>
+<li><strong>xbd_wd</strong>      800     Extra Bold (Ultra Bold)</li>
+<li><p><strong>blk_wd</strong>      900     Black (Heavy)                           <em>MM</em> NEW!</p></li>
+<li><p><strong>thn_it</strong>      100     Italic Thin (Hairline)                  <em>MM</em></p></li>
+<li><strong>xlg_it</strong>      200     Italic Extra Light (Ultra Light)</li>
+<li><strong>lgt_it</strong>      300     Italic Light</li>
+<li><strong>reg_it</strong>      400     Italic Regular                          <em>MM</em></li>
+<li><strong>med_it</strong>      500     Italic Medium</li>
+<li><strong>smb_it</strong>      600     Italic Semi Bold (Demi Bold)</li>
+<li><strong>bld_it</strong>      700     Italic Bold                             <em>MM</em></li>
+<li><strong>xbd_it</strong>      800     Extra Bold (Ultra Bold)</li>
+<li><p><strong>blk_it</strong>      900     Black (Heavy)                           <em>MM</em> NEW!</p></li>
+<li><p><strong>thn<em>it</em>wd</strong>   100     Italic Thin (Hairline)                  <em>MM</em> NEW!</p></li>
+<li><strong>xlg<em>it</em>wd</strong>   200     Italic Extra Light (Ultra Light)</li>
+<li><strong>lgt<em>it</em>wd</strong>   300     Italic Light</li>
+<li><strong>reg<em>it</em>wd</strong>   400     Italic Regular                          <em>MM</em> NEW!</li>
+<li><strong>med<em>it</em>wd</strong>   500     Italic Medium</li>
+<li><strong>smb<em>it</em>wd</strong>   600     Italic Semi Bold (Demi Bold)</li>
+<li><strong>bld<em>it</em>wd</strong>   700     Italic Bold                             <em>MM</em> NEW!</li>
+<li><strong>xbd<em>it</em>wd</strong>   800     Extra Bold (Ultra Bold)</li>
+<li><strong>blk<em>it</em>wd</strong>   900     Black (Heavy)                           <em>MM</em> NEW!</li>
+</ul></li>
+</ol>
+
+<ul>
+<li>Axes:
+<ul>
+<li>weight axes only</li>
+<li>italic axes with weight axes</li>
+<li>weight and italic axes</li>
+<li>weight and width</li>
+<li>width axes only</li>
+<li>italic axes with weight axes and width axes</li>
+<li>optical Size</li>
+</ul></li>
+</ul></li>
 </ol>
 
 <hr />
 
+
 <h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Kerning</strong></h3>
 
-<p>With the help of Typefacet Integrated Autokern, we have obtained the first layer of kerning for the upright bold.
+With the help of Typefacet Integrated Autokern, we have obtained the first layer of kerning for the upright bold.
 By using VRD TYPL Kerning Adjust, 
-we made the corrections, and the rest of the optimisations required per weight.</p>
+we made the corrections, and the rest of the optimisations required per weight.
 
-<p>We have Classified our glyphs in a way where no kerning loss is observed. By dividing by Language Set, without language intrusion between classes.
-Small Case and Capitals are also non intruding. This increases size minimally but maintains kerning pair loss at zero.</p>
+We have Classified our glyphs in a way where no kerning loss is observed. By dividing by Language Set, without language intrusion between classes.
+Small Case and Capitals are also non intruding. This increases size minimally but maintains kerning pair loss at zero.
 
-<p>During the process we attempted to maintain the Italics width according to the contour. This created a larger alteration size and jittering italics transition due to changing width - even if the kerning was precise. We eventually opted for the slant-to-right-side-corner and maintained the regular kerning along to the italics and smoother animation on Italics.</p>
+During the process we attempted to maintain the Italics width according to the contour. This created a larger alteration size and jittering italics transition due to changing width - even if the kerning was precise. We eventually opted for the slant-to-right-side-corner and maintained the regular kerning along to the italics and smoother animation on Italics.
+
 
 <hr />
 
+
 <h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Kerning / Standard Sets</strong></h3>
 
-<p>All the letter combinations have been kerned but we also perform testing afterwards, for various reasons (Ommited) some kerning pairs are not included. This brings us to testing the kerning on a specific set of letters, the other letters are left to maintain the mechanical, automated kerning.</p>
+All the letter combinations have been kerned but we also perform testing afterwards, for various reasons (Ommited) some kerning pairs are not included. This brings us to testing the kerning on a specific set of letters, the other letters are left to maintain the mechanical, automated kerning.
 
-<p>VivaRado standard kerning sets are defined as follows:</p>
+VivaRado standard kerning sets are defined as follows:
 
 <ul>
 <li><p>Letter Based(LB):</p>
@@ -650,7 +759,10 @@ later you can export to Componentized UFOs.</p>
 
 <h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Scripts</strong></h3>
 
-<p>At this moment advent supports Latin, and Greek Encoding.</p>
+<p>At this moment advent supports Latin, and Greek Encoding as ∞3.000.</p>
+
+<ul>
+<li><p><strong>Version ∞3.000</strong>:</p>
 
 <ul>
 <li><p><strong>Current Character Support:</strong></p>
@@ -668,15 +780,29 @@ later you can export to Componentized UFOs.</p>
 <li>The Proposed Encoding/Glyph List: /encoding<em>list/suggested</em>encoding.py</li>
 <li>Current Encoding/Glyph List: /encoding<em>list/current</em>encoding.enc</li>
 </ul></li>
+</ul></li>
+<li><p><strong>Version ∞4.000</strong>:</p>
+
+<ul>
+<li><em>Google Latin Plus</em></li>
+<li><em>Google Cyrillic Plus</em></li>
+<li><em>Google Greek</em></li>
+<li><em>Opentype Features Glyphs</em></li>
+</ul></li>
 </ul>
 
 <hr />
 
 <h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Glyphs</strong></h3>
 
-<p>The glyph range is ≃ 391
-The Proposed glyph list is ≃1500 Glyphs not including the glyphs for Opentype Features
-(Script Extension).</p>
+<ul>
+<li><p><strong>Version ∞3.000</strong>:</p>
+
+<p>The glyph range is ≃ 391</p></li>
+<li><p><strong>Version ∞4.000</strong>:</p>
+
+<p>The glyph range is ≃ 647</p></li>
+</ul>
 
 <hr />
 
@@ -702,6 +828,12 @@ The Proposed glyph list is ≃1500 Glyphs not including the glyphs for Opentype 
 
 <hr />
 
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Hinting</strong></h3>
+
+<p>TrueType Hints</p>
+
+<hr />
+
 <h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Delivery</strong></h3>
 
 <p>Advent Pro Variable will be delivered in 7 Weights &amp; 7 Italic Weights and Variable format. All the Adobe Illustrator scripts, Fontlab Python and additional scripts will be provided. Forks of the original libraries with their alterations, and Encoding Files.</p>
@@ -711,9 +843,9 @@ The Proposed glyph list is ≃1500 Glyphs not including the glyphs for Opentype 
 <p>All the above files are available here.</p>
 
 <p>Variable font flavors designspace:
- - <a href="https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/weight.designspace">Variable with weight axis only</a>
- - <a href="https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/italic.designspace">Variable italic with weight axis</a>
- - <a href="https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/weight_italic.designspace">Variable with weight and italic axis</a></p>
+ - <a href="https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/weight.designspace">Variable with weight axes only</a>
+ - <a href="https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/italic.designspace">Variable italic with weight axes</a>
+ - <a href="https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/weight_italic.designspace">Variable with weight and italic axes</a></p>
 
 <hr />
 
@@ -806,36 +938,36 @@ The Proposed glyph list is ≃1500 Glyphs not including the glyphs for Opentype 
 <ul>
 <li><strong>Assumptions Research</strong>:
 <ul>
-<li>VivaRado, Andreas Kalpakidis</li>
+<li>VivaRado, Andreas Kalpakidis (∞3,4)</li>
 </ul></li>
 <li><strong>Docs Update</strong>:
 <ul>
-<li>VivaRado, Andreas Kalpakidis:
+<li>VivaRado, Andreas Kalpakidis (∞3,4):
 <ul>
 <li>Identify Dependencies</li>
 <li>Identify Resource Requirements</li>
 </ul></li>
-<li>VivaRado, Madina Akhmatova</li>
+<li>VivaRado, Madina Akhmatova (∞3,4)</li>
 </ul></li>
 <li><strong>Advent</strong>:
 <ul>
 <li><strong>Design</strong>
 <ul>
-<li>VivaRado, Andreas Kalpakidis</li>
+<li>VivaRado, Andreas Kalpakidis (∞1,2,3,4)</li>
 </ul></li>
 <li><strong>Componentization</strong>
 <ul>
-<li>VivaRado, Andreas Kalpakidis</li>
-<li>Michael La Gatutta</li>
+<li>VivaRado, Andreas Kalpakidis (∞3,4)</li>
+<li>Michael La Gatutta (∞3)</li>
 </ul></li>
 <li><strong>Kerning</strong>
 <ul>
-<li>VivaRado, Andreas Kalpakidis:
+<li>VivaRado, Andreas Kalpakidis (∞3,4):
 <ul>
 <li>Build</li>
 <li>Test</li>
 </ul></li>
-<li>Michael La Gatutta:
+<li>Michael La Gatutta (∞3):
 <ul>
 <li>Best Practices</li>
 </ul></li>
@@ -843,12 +975,12 @@ The Proposed glyph list is ≃1500 Glyphs not including the glyphs for Opentype 
 </ul></li>
 <li><strong>VRD TYPL</strong>:
 <ul>
-<li>VivaRado, Andreas Kalpakidis:
+<li>VivaRado, Andreas Kalpakidis (∞3,4):
 <ul>
 <li>Build</li>
 <li>Test</li>
 </ul></li>
-<li>VivaRado, Madina Akhmatova:
+<li>VivaRado, Madina Akhmatova (∞3,4):
 <ul>
 <li>Compression Logic</li>
 </ul></li>
@@ -944,21 +1076,21 @@ The Proposed glyph list is ≃1500 Glyphs not including the glyphs for Opentype 
 <ul>
 <li>internal
 <ul>
-<li>Andreas Kalpakidis</li>
-<li>Madina Akhmatova</li>
+<li>Andreas Kalpakidis (∞1,2,3,4)</li>
+<li>Madina Akhmatova (∞3,4)</li>
 </ul></li>
 <li>external
 <ul>
-<li>Michael La Gatutta</li>
+<li>Michael La Gatutta (∞3)</li>
 </ul></li>
 </ul></li>
 </ul></li>
 <li>Responsibilities and Qualifications
 <ul>
-<li>Project Management and Accounting: Madina Akhmatova</li>
-<li>Planning, Development and Design: Andreas Kalpakidis</li>
-<li>Quality Assurance and Consulting: Michael La Gatutta</li>
-<li>Acceptance: Dave Crossland</li>
+<li>Project Management and Accounting: Madina Akhmatova (∞3,4)</li>
+<li>Planning, Development and Design: Andreas Kalpakidis (∞3,4)</li>
+<li>Quality Assurance and Consulting: Michael La Gatutta (∞3)</li>
+<li>Acceptance: Dave Crossland (∞2,3,4)</li>
 </ul></li>
 </ul></li>
 </ul>
@@ -978,7 +1110,7 @@ The Proposed glyph list is ≃1500 Glyphs not including the glyphs for Opentype 
 </ul></li>
 <li>User Feedback Mechanisms:
 <ul>
-<li><a href="&#109;&#x61;&#105;l&#x74;&#x6f;&#58;&#x73;&#x75;&#112;&#x70;o&#114;&#116;&#64;&#x76;i&#118;&#x61;&#x72;&#97;&#x64;&#111;&#x2e;&#x63;o&#109;">&#x73;&#x75;&#112;&#x70;o&#114;&#116;&#64;&#x76;i&#118;&#x61;&#x72;&#97;&#x64;&#111;&#x2e;&#x63;o&#109;</a></li>
+<li><a href="&#x6d;&#97;&#105;&#108;&#x74;o&#58;&#115;&#x75;&#112;&#x70;&#x6f;&#x72;&#116;&#64;&#118;&#x69;&#118;&#97;&#x72;&#x61;&#100;&#111;.&#99;&#x6f;&#109;">&#115;&#x75;&#112;&#x70;&#x6f;&#x72;&#116;&#64;&#118;&#x69;&#118;&#97;&#x72;&#x61;&#100;&#111;.&#99;&#x6f;&#109;</a></li>
 </ul></li>
 </ul></li>
 </ul>
