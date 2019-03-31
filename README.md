@@ -424,13 +424,13 @@ Work was done on a Linux box with VirtualBox running Windows 8 and Mac OSX Lion.
 		*  **bld**        700     Bold                                     *MM*
 		*  ~~xbd          800     Extra Bold (Ultra Bold)~~
 		*  ~~blk          900     Black (Heavy)~~
-		*  **thn_it**     100     Italic Thin (Hairline)               *MM*
-		*  **xlg_it**     200     Italic Extra Light (Ultra Light)
-		*  **lgt_it**     300     Italic Light
-		*  **reg_it**     400     Italic Regular                       *MM*
-		*  **med_it**     500     Italic Medium
-		*  **smb_it**     600     Italic Semi Bold (Demi Bold)
-		*  **bld_it**     700     Italic Bold                             *MM*
+		*  **thn-it**     100     Italic Thin (Hairline)               *MM*
+		*  **xlg-it**     200     Italic Extra Light (Ultra Light)
+		*  **lgt-it**     300     Italic Light
+		*  **reg-it**     400     Italic Regular                       *MM*
+		*  **med-it**     500     Italic Medium
+		*  **smb-it**     600     Italic Semi Bold (Demi Bold)
+		*  **bld-it**     700     Italic Bold                             *MM*
 		*  ~~xbd_it       800     Extra Bold (Ultra Bold)~~
 		*  ~~blk_it       900     Black (Heavy)~~
 
@@ -473,33 +473,33 @@ Work was done on a Linux box with VirtualBox running Windows 8 and Mac OSX Lion.
 		*  **bld**         700     Bold                                    *MM*
 		*  **xbd**         800     Extra Bold (Ultra Bold)
 		*  **blk**         900     Black (Heavy)                           *MM* NEW!
-		*  **thn_wd**      100     Thin (Hairline)                         *MM* NEW!
-		*  **xlg_wd**      200     Extra Light (Ultra Light)
-		*  **lgt_wd**      300     Light
-		*  **reg_wd**      400     Regular                                 *MM* NEW!
-		*  **med_wd**      500     Medium
-		*  **smb_wd**      600     Semi Bold (Demi Bold)
-		*  **bld_wd**      700     Bold                                    *MM* NEW!
-		*  **xbd_wd**      800     Extra Bold (Ultra Bold)
-		*  **blk_wd**      900     Black (Heavy)                           *MM* NEW!
-		*  **thn_it**      100     Italic Thin (Hairline)                  *MM*
-		*  **xlg_it**      200     Italic Extra Light (Ultra Light)
-		*  **lgt_it**      300     Italic Light
-		*  **reg_it**      400     Italic Regular                          *MM*
-		*  **med_it**      500     Italic Medium
-		*  **smb_it**      600     Italic Semi Bold (Demi Bold)
-		*  **bld_it**      700     Italic Bold                             *MM*
-		*  **xbd_it**      800     Extra Bold (Ultra Bold)
-		*  **blk_it**      900     Black (Heavy)                           *MM* NEW!
-		*  **thn_wd_it**   100     Italic Thin (Hairline)                  *MM* NEW!
-		*  **xlg_wd_it**   200     Italic Extra Light (Ultra Light)
-		*  **lgt_wd_it**   300     Italic Light
-		*  **reg_wd_it**   400     Italic Regular                          *MM* NEW!
-		*  **med_wd_it**   500     Italic Medium
-		*  **smb_wd_it**   600     Italic Semi Bold (Demi Bold)
-		*  **bld_wd_it**   700     Italic Bold                             *MM* NEW!
-		*  **xbd_wd_it**   800     Extra Bold (Ultra Bold)
-		*  **blk_wd_it**   900     Black (Heavy)                           *MM* NEW!
+		*  **thn-wd**      100     Thin (Hairline)                         *MM* NEW!
+		*  **xlg-wd**      200     Extra Light (Ultra Light)
+		*  **lgt-wd**      300     Light
+		*  **reg-wd**      400     Regular                                 *MM* NEW!
+		*  **med-wd**      500     Medium
+		*  **smb-wd**      600     Semi Bold (Demi Bold)
+		*  **bld-wd**      700     Bold                                    *MM* NEW!
+		*  **xbd-wd**      800     Extra Bold (Ultra Bold)
+		*  **blk-wd**      900     Black (Heavy)                           *MM* NEW!
+		*  **thn-it**      100     Italic Thin (Hairline)                  *MM*
+		*  **xlg-it**      200     Italic Extra Light (Ultra Light)
+		*  **lgt-it**      300     Italic Light
+		*  **reg-it**      400     Italic Regular                          *MM*
+		*  **med-it**      500     Italic Medium
+		*  **smb-it**      600     Italic Semi Bold (Demi Bold)
+		*  **bld-it**      700     Italic Bold                             *MM*
+		*  **xbd-it**      800     Extra Bold (Ultra Bold)
+		*  **blk-it**      900     Black (Heavy)                           *MM* NEW!
+		*  **thn-wd-it**   100     Italic Thin (Hairline)                  *MM* NEW!
+		*  **xlg-wd-it**   200     Italic Extra Light (Ultra Light)
+		*  **lgt-wd-it**   300     Italic Light
+		*  **reg-wd-it**   400     Italic Regular                          *MM* NEW!
+		*  **med-wd-it**   500     Italic Medium
+		*  **smb-wd-it**   600     Italic Semi Bold (Demi Bold)
+		*  **bld-wd-it**   700     Italic Bold                             *MM* NEW!
+		*  **xbd-wd-it**   800     Extra Bold (Ultra Bold)
+		*  **blk-wd-it**   900     Black (Heavy)                           *MM* NEW!
 
 	*  Axes:
 		*  weight axes only
