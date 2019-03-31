@@ -800,19 +800,26 @@ gantt
         title Advent Schedule
         section Advent 3
         ADV-0001 Advent 3:         done,des1, 2018-08-22,2019-02-16
-        ADV-0002 Advent 3 PR:         done,des2, 2019-02-16, 2019-04-01
-        ADV-0003 Advent 4 Planning:         des3, after des2, 10d
+        ADV-0003 Advent 3 PR:         done,des2, 2019-02-16, 2019-04-01
+        ADV-0004 Advent 4 Planning:         des3, after des2, 10d
+        ADV-0004-0001 Planning for 4:         done, des3, 2019-03-31, 2h
 ```
 
 
 *  Current:
-    *  **Advent PR ∞3.000** / from February 02 2019 to April 01 2019:
-        *  We are waiting for PR to Google Fonts.
-    *  **Advent ∞4.000** / After PR in April 2019:
-        *  Inititation of Planning for the delivery of Advent 4
+    *  **ADV-0003** / from February 02 2019 to April 01 2019:
+        *  **Advent PR ∞3.000**
+            *  We are waiting for PR to Google Fonts.
+    *  **ADV-0004** / After PR in April 2019:
+        *  **Advent ∞4.000**
+    *  **ADV-0004** / After PR in April 2019:
+        *  **Advent ∞4.000 Planning**:
+            *  **ADV-0004-0001 Planning for 4** / March 31:
+                *  Planning for ∞ 4.000: Project Goals, Duration, Weights and Masters, Scripts, Glyphs, Personnel Plan
 
 *  Completed:
-    *  ~~**Advent  ∞3.000** / July 01 2018 to 2019-02-16~~:
+    *  ~~**ADV-0001** / July 01 2018 to 2019-02-16~~:
+        *  Advent  ∞3.000 Delivered.
 
 
 ### **Introduction / Phase Introduction / Planning Phase / Safe Planning / Schedule Planning / Timeline**
