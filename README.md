@@ -491,15 +491,15 @@ Work was done on a Linux box with VirtualBox running Windows 8 and Mac OSX Lion.
 		*  **bld_it**      700     Italic Bold                             *MM*
 		*  **xbd_it**      800     Extra Bold (Ultra Bold)
 		*  **blk_it**      900     Black (Heavy)                           *MM* NEW!
-		*  **thn_it_wd**   100     Italic Thin (Hairline)                  *MM* NEW!
-		*  **xlg_it_wd**   200     Italic Extra Light (Ultra Light)
-		*  **lgt_it_wd**   300     Italic Light
-		*  **reg_it_wd**   400     Italic Regular                          *MM* NEW!
-		*  **med_it_wd**   500     Italic Medium
-		*  **smb_it_wd**   600     Italic Semi Bold (Demi Bold)
-		*  **bld_it_wd**   700     Italic Bold                             *MM* NEW!
-		*  **xbd_it_wd**   800     Extra Bold (Ultra Bold)
-		*  **blk_it_wd**   900     Black (Heavy)                           *MM* NEW!
+		*  **thn_wd_it**   100     Italic Thin (Hairline)                  *MM* NEW!
+		*  **xlg_wd_it**   200     Italic Extra Light (Ultra Light)
+		*  **lgt_wd_it**   300     Italic Light
+		*  **reg_wd_it**   400     Italic Regular                          *MM* NEW!
+		*  **med_wd_it**   500     Italic Medium
+		*  **smb_wd_it**   600     Italic Semi Bold (Demi Bold)
+		*  **bld_wd_it**   700     Italic Bold                             *MM* NEW!
+		*  **xbd_wd_it**   800     Extra Bold (Ultra Bold)
+		*  **blk_wd_it**   900     Black (Heavy)                           *MM* NEW!
 
 	*  Axes:
 		*  weight axes only
