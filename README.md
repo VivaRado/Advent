@@ -450,17 +450,14 @@ Work was done on a Linux box with VirtualBox running Windows 8 and Mac OSX Lion.
 		*  Regular Normal(400, 8pt, 24pt, 144pt)
 		*  Bold Normal(700, 8pt, 24pt, 144pt)
 		*  Black Normal(700, 8pt, 24pt, 144pt) NEW!
-
 		*  Thin Wide(100, 8pt, 24pt, 144pt) NEW
 		*  Regular Wide(400, 8pt, 24pt, 144pt) NEW!
 		*  Bold Wide(700, 8pt, 24pt, 144pt) NEW!
 		*  Black Wide(700, 8pt, 24pt, 144pt) NEW!
-
 		*  Thin Italic Normal(100, 8pt, 24pt, 144pt)
 		*  Regular Italic Normal(400, 8pt, 24pt, 144pt)
 		*  Bold Italic Normal(700, 8pt, 24pt, 144pt)
 		*  Black Italic Normal(700, 8pt, 24pt, 144pt) NEW!
-
 		*  Thin Italic Wide(100, 8pt, 24pt, 144pt) NEW!
 		*  Regular Italic Wide(400, 8pt, 24pt, 144pt) NEW!
 		*  Bold Italic Wide(700, 8pt, 24pt, 144pt) NEW!
@@ -476,7 +473,6 @@ Work was done on a Linux box with VirtualBox running Windows 8 and Mac OSX Lion.
 		*  **bld**         700     Bold                                    *MM*
 		*  **xbd**         800     Extra Bold (Ultra Bold)
 		*  **blk**         900     Black (Heavy)                           *MM* NEW!
-
 		*  **thn_wd**      100     Thin (Hairline)                         *MM* NEW!
 		*  **xlg_wd**      200     Extra Light (Ultra Light)
 		*  **lgt_wd**      300     Light
@@ -486,7 +482,6 @@ Work was done on a Linux box with VirtualBox running Windows 8 and Mac OSX Lion.
 		*  **bld_wd**      700     Bold                                    *MM* NEW!
 		*  **xbd_wd**      800     Extra Bold (Ultra Bold)
 		*  **blk_wd**      900     Black (Heavy)                           *MM* NEW!
-
 		*  **thn_it**      100     Italic Thin (Hairline)                  *MM*
 		*  **xlg_it**      200     Italic Extra Light (Ultra Light)
 		*  **lgt_it**      300     Italic Light
@@ -496,7 +491,6 @@ Work was done on a Linux box with VirtualBox running Windows 8 and Mac OSX Lion.
 		*  **bld_it**      700     Italic Bold                             *MM*
 		*  **xbd_it**      800     Extra Bold (Ultra Bold)
 		*  **blk_it**      900     Black (Heavy)                           *MM* NEW!
-
 		*  **thn_it_wd**   100     Italic Thin (Hairline)                  *MM* NEW!
 		*  **xlg_it_wd**   200     Italic Extra Light (Ultra Light)
 		*  **lgt_it_wd**   300     Italic Light
