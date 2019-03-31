@@ -812,10 +812,15 @@ gantt
             *  We are waiting for PR to Google Fonts.
     *  **ADV-0004** / After PR in April 2019:
         *  **Advent ∞4.000**
-    *  **ADV-0004** / After PR in April 2019:
-        *  **Advent ∞4.000 Planning**:
-            *  **ADV-0004-0001 Planning for 4** / March 31:
-                *  Planning for ∞ 4.000: Project Goals, Duration, Weights and Masters, Scripts, Glyphs, Personnel Plan
+    *  **ADV-0004 Advent ∞4.000 Planning** / After PR in April 2019:
+        *  **ADV-0004-0001 Planning for 4** / March 31:
+            *  Planning for ∞ 4.000: 
+                *  Project Goals
+                *  Duration
+                *  Weights and Masters
+                *  Scripts
+                *  Glyphs
+                *  Personnel Plan
 
 *  Completed:
     *  ~~**ADV-0001** / July 01 2018 to 2019-02-16~~:
