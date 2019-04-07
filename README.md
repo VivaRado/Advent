@@ -801,8 +801,30 @@ gantt
         section Advent 3
         ADV-0001 Advent 3:         done,des1, 2018-08-22,2019-02-16
         ADV-0003 Advent 3 PR:         done,des2, 2019-02-16, 2019-04-01
-        ADV-0004 Advent 4 Planning:         des3, after des2, 10d
-        ADV-0004-0001 Planning for 4:         done, des3, 2019-03-31, 2h
+        ADV-0004 Advent 4 Planning:         des3, after des2, 2019-04-30
+        ADV-0004-0001:         done, des4, 2019-03-31, 2h
+        ADV-0004-0002:         des5, 2019-04-09, 2h
+        ADV-0004-0003:         des6, 2019-04-10, 2h
+        ADV-0004-0004:         des7, 2019-04-11, 2h
+        ADV-0004-0005:         des8, 2019-04-12, 2h
+        ADV-0004-0006:         des9, 2019-04-13, 2h
+        ADV-0004-0007:         des10, 2019-04-14, 2h
+        ADV-0004-0008:         des11, 2019-04-15, 2h
+        ADV-0004-0009:         des12, 2019-04-16, 2h
+        ADV-0004-0010:         des13, 2019-04-17, 2h
+        ADV-0004-0011:         des14, 2019-04-18, 2h
+        ADV-0004-0012:         des15, 2019-04-19, 2h
+        ADV-0004-0013:         des16, 2019-04-20, 2h
+        ADV-0004-0014:         des17, 2019-04-21, 2h
+        ADV-0004-0015:         des18, 2019-04-22, 2h
+        ADV-0004-0016:         des19, 2019-04-23, 2h
+        ADV-0004-0017:         des20, 2019-04-24, 2h
+        ADV-0004-0018:         des21, 2019-04-25, 2h
+        ADV-0004-0019:         des22, 2019-04-26, 2h
+        ADV-0004-0020:         des23, 2019-04-27, 2h
+        ADV-0004-0021:         des24, 2019-04-28, 2h
+        ADV-0004-0022:         des25, 2019-04-29, 2h
+        ADV-0004-0023:         des26, 2019-04-30, 2h
 ```
 
 
@@ -812,7 +834,7 @@ gantt
             *  We are waiting for PR to Google Fonts.
     *  **ADV-0004** / After PR in April 2019:
         *  **Advent ∞4.000**
-    *  **ADV-0004 Advent ∞4.000 Planning** / After PR in April 2019:
+    *  **ADV-0004 Advent ∞4.000 Planning** / After PR whole April 2019:
         *  **ADV-0004-0001 Planning for 4** / March 31:
             *  Planning for ∞ 4.000: 
                 *  Project Goals
