@@ -610,6 +610,8 @@ At this moment advent supports Latin, and Greek Encoding as ∞3.000.
 	*  *Google Greek*
 	*  *Opentype Features Glyphs*
 
+[Encoding NAM Files](https://github.com/googlefonts/gftools/tree/master/Lib/gftools/encodings)
+
 ---
 
 ### **Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Glyphs**
