@@ -843,8 +843,10 @@ gantt
                 *  Duration
                 *  Weights and Masters
                 *  Scripts
+                    *  Encoding NAM Files
                 *  Glyphs
                 *  Personnel Plan
+        *  **ADV-0004-0002 Compare Current Encoding Support against NAM** / Apil 09
 
 *  Completed:
     *  ~~**ADV-0001** / July 01 2018 to 2019-02-16~~:
