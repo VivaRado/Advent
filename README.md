@@ -851,7 +851,7 @@ gantt
     *  ~~**ADV-0001** / July 01 2018 to 2019-02-16~~:
         *  Advent  ∞3.000 Delivered.
     *  **ADV-0004**:
-        *  ~~**ADV-0004-0002 Compare Current Encoding Support against NAM** / Apil 09 ~~
+        *  ~~**ADV-0004-0002 Compare Current Encoding Support against NAM**~~ 2019-04-09 2h
 
 
 ### **Introduction / Phase Introduction / Planning Phase / Safe Planning / Schedule Planning / Timeline**
