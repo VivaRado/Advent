@@ -805,7 +805,7 @@ gantt
         ADV-0003 Advent 3 PR:         done,des2, 2019-02-16, 2019-04-01
         ADV-0004 Advent 4 Planning:         des3, after des2, 2019-04-30
         ADV-0004-0001:         done, des4, 2019-03-31, 2h
-        ADV-0004-0002:         des5, 2019-04-09, 2h
+        ADV-0004-0002:         done, des5, 2019-04-09, 2h
         ADV-0004-0003:         des6, 2019-04-10, 2h
         ADV-0004-0004:         des7, 2019-04-11, 2h
         ADV-0004-0005:         des8, 2019-04-12, 2h
@@ -846,11 +846,12 @@ gantt
                     *  Encoding NAM Files
                 *  Glyphs
                 *  Personnel Plan
-        *  **ADV-0004-0002 Compare Current Encoding Support against NAM** / Apil 09
 
 *  Completed:
     *  ~~**ADV-0001** / July 01 2018 to 2019-02-16~~:
         *  Advent  ∞3.000 Delivered.
+    *  **ADV-0004**:
+        *  ~~**ADV-0004-0002 Compare Current Encoding Support against NAM** / Apil 09 ~~
 
 
 ### **Introduction / Phase Introduction / Planning Phase / Safe Planning / Schedule Planning / Timeline**
