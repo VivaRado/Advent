@@ -74,7 +74,7 @@ Advent Pro is a modern display typeface, designed in 2007, this is the new versi
 #### Contributors:
 
 *  VivaRado 
-*  Andreas Kalpakides
+*  Andreas Kalpakidis
 *  Madina Akhmatova
 *  Dave Crossland
 *  Michael LaGattuta 
