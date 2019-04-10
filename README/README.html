@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
-		<title>VRD | Advent | 3.003 | 2019/04/10</title>
+		<title>VRD | Advent | 3.004 | 2019/04/10</title>
 		<link rel="stylesheet" type="text/css" href="assets/css/style.css">
 		<link rel="stylesheet" type="text/css" href="assets/css/code_native.css">
 		<script type="text/javascript" src="assets/js/mermaid.js"></script>
@@ -70,7 +70,7 @@
 <ol>
 <li><strong>Design</strong></li>
 <li><strong>Production</strong></li>
-<li><strong>Weights and Masters</strong></li>
+<li><strong>Masters and Instances</strong></li>
 <li><strong>Kerning</strong></li>
 <li><strong>Components</strong></li>
 <li><strong>Scripts</strong></li>
@@ -125,11 +125,11 @@
 <h4>Contributors:</h4>
 
 <ul>
-<li>VivaRado <a href="&#x6d;&#97;&#105;&#x6c;&#x74;&#x6f;&#58;&#115;&#x75;&#112;&#x70;&#111;&#114;&#116;&#64;&#118;&#105;v&#97;&#x72;&#x61;&#100;&#x6f;&#x2e;&#99;&#111;&#x6d;">&#115;&#x75;&#112;&#x70;&#111;&#114;&#116;&#64;&#118;&#105;v&#97;&#x72;&#x61;&#100;&#x6f;&#x2e;&#99;&#111;&#x6d;</a></li>
+<li>VivaRado <a href="&#x6d;&#97;&#x69;&#x6c;&#116;&#111;&#x3a;&#115;&#x75;&#x70;&#x70;o&#x72;&#x74;&#x40;&#x76;&#x69;&#x76;&#x61;&#x72;&#x61;&#100;&#x6f;&#x2e;&#x63;&#x6f;&#x6d;">&#115;&#x75;&#x70;&#x70;o&#x72;&#x74;&#x40;&#x76;&#x69;&#x76;&#x61;&#x72;&#x61;&#100;&#x6f;&#x2e;&#x63;&#x6f;&#x6d;</a></li>
 <li>Andreas Kalpakidis</li>
 <li>Madina Akhmatova</li>
 <li>Dave Crossland</li>
-<li>Michael LaGattuta <a href="&#x6d;&#x61;i&#108;&#116;&#x6f;&#x3a;&#109;&#x6a;&#x6c;&#x61;&#x67;&#x61;&#x74;&#x74;u&#x74;&#x61;&#64;&#103;&#109;&#97;&#x69;&#108;&#x2e;c&#x6f;&#109;">&#109;&#x6a;&#x6c;&#x61;&#x67;&#x61;&#x74;&#x74;u&#x74;&#x61;&#64;&#103;&#109;&#97;&#x69;&#108;&#x2e;c&#x6f;&#109;</a></li>
+<li>Michael LaGattuta <a href="&#109;&#x61;&#x69;&#108;&#116;&#x6f;&#58;&#x6d;&#106;&#x6c;&#x61;&#103;&#97;&#116;&#116;u&#x74;&#97;&#x40;&#x67;&#109;&#97;&#105;&#x6c;&#46;&#99;&#x6f;&#x6d;">&#x6d;&#106;&#x6c;&#x61;&#103;&#97;&#116;&#116;u&#x74;&#97;&#x40;&#x67;&#109;&#97;&#105;&#x6c;&#46;&#99;&#x6f;&#x6d;</a></li>
 <li>Behdad Esfahbod</li>
 </ul>
 
@@ -495,7 +495,7 @@
 <ol>
 <li><strong>Design</strong></li>
 <li><strong>Production</strong></li>
-<li><strong>Weights and Masters</strong></li>
+<li><strong>Masters and Instances</strong></li>
 <li><strong>Kerning</strong></li>
 <li><strong>Components</strong></li>
 <li><strong>Language Scripts and Glyph Range</strong></li>
@@ -520,7 +520,15 @@
 
 <hr />
 
-<h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Weights and Masters</strong></h3>
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Masters and Instances</strong></h3>
+
+<p>The diagram shows the Original Masters (MO), Generated Masters (MG) that get adjusted manually and the automatically generated instances (I).</p>
+
+<p><img src="assets/media/advent_masters_sankey.svg" alt="Masters and Instances" /></p>
+
+<p>image: #001, 0.001, svg, Advent Masters and Instances sankey.</p>
+
+<hr />
 
 <ol>
 <li><p>Contents ∞ 3.000:</p>
@@ -529,7 +537,9 @@
 <li><p>Count:</p>
 
 <ul>
-<li>MM = 6</li>
+<li>MO = 3</li>
+<li>MG = 3</li>
+<li>I = 8</li>
 <li>Master Glyphs: ≃ 2340</li>
 </ul></li>
 <li><p>Masters:</p>
@@ -545,22 +555,22 @@
 <li><p>Instances:</p>
 
 <ul>
-<li><strong>thn</strong>        100     Thin (Hairline)                          <em>MM</em></li>
+<li><strong>thn</strong>        100     Thin (Hairline)                          <em>MO</em></li>
 <li><strong>xlg</strong>        200     Extra Light (Ultra Light)</li>
 <li><strong>lgt</strong>        300     Light</li>
-<li><strong>reg</strong>        400     Regular                                  <em>MM</em></li>
+<li><strong>reg</strong>        400     Regular                                  <em>MO</em></li>
 <li><strong>med</strong>        500     Medium</li>
 <li><strong>smb</strong>        600     Semi Bold (Demi Bold)</li>
-<li><strong>bld</strong>        700     Bold                                     <em>MM</em></li>
+<li><strong>bld</strong>        700     Bold                                     <em>MO</em></li>
 <li><strike>xbd          800     Extra Bold (Ultra Bold)</strike></li>
 <li><strike>blk          900     Black (Heavy)</strike></li>
-<li><strong>thn-it</strong>     100     Italic Thin (Hairline)               <em>MM</em></li>
+<li><strong>thn-it</strong>     100     Italic Thin (Hairline)               <em>MG</em></li>
 <li><strong>xlg-it</strong>     200     Italic Extra Light (Ultra Light)</li>
 <li><strong>lgt-it</strong>     300     Italic Light</li>
-<li><strong>reg-it</strong>     400     Italic Regular                       <em>MM</em></li>
+<li><strong>reg-it</strong>     400     Italic Regular                       <em>MG</em></li>
 <li><strong>med-it</strong>     500     Italic Medium</li>
 <li><strong>smb-it</strong>     600     Italic Semi Bold (Demi Bold)</li>
-<li><strong>bld-it</strong>     700     Italic Bold                             <em>MM</em></li>
+<li><strong>bld-it</strong>     700     Italic Bold                             <em>MG</em></li>
 <li><strike>xbd_it       800     Extra Bold (Ultra Bold)</strike></li>
 <li><strike>blk_it       900     Black (Heavy)</strike></li>
 </ul></li>
@@ -574,13 +584,21 @@
 <li>weight and italic axes</li>
 </ul></li>
 </ul></li>
+</ol>
+
+<hr />
+
+
+<ol>
 <li><p>Contents ∞ 4.000:</p>
 
 <ol>
 <li><p>Count:</p>
 
 <ul>
-<li>MM = 16</li>
+<li>MO = 4</li>
+<li>MG = 12</li>
+<li>I = 16</li>
 <li>Master Glyphs: ≃ 10352</li>
 </ul></li>
 <li><p>Masters: </p>
@@ -606,42 +624,42 @@
 <li><p>Instances: </p>
 
 <ul>
-<li><strong>thn</strong>         100     Thin (Hairline)                         <em>MM</em></li>
+<li><strong>thn</strong>         100     Thin (Hairline)                         <em>MO</em></li>
 <li><strong>xlg</strong>         200     Extra Light (Ultra Light)</li>
 <li><strong>lgt</strong>         300     Light</li>
-<li><strong>reg</strong>         400     Regular                                 <em>MM</em></li>
+<li><strong>reg</strong>         400     Regular                                 <em>MO</em></li>
 <li><strong>med</strong>         500     Medium</li>
 <li><strong>smb</strong>         600     Semi Bold (Demi Bold)</li>
-<li><strong>bld</strong>         700     Bold                                    <em>MM</em></li>
+<li><strong>bld</strong>         700     Bold                                    <em>MO</em></li>
 <li><strong>xbd</strong>         800     Extra Bold (Ultra Bold)</li>
-<li><strong>blk</strong>         900     Black (Heavy)                           <em>MM</em> NEW!</li>
-<li><strong>thn-wd</strong>      100     Thin (Hairline)                         <em>MM</em> NEW!</li>
+<li><strong>blk</strong>         900     Black (Heavy)                           <em>MO</em> NEW!</li>
+<li><strong>thn-wd</strong>      100     Thin (Hairline)                         <em>MG</em> NEW!</li>
 <li><strong>xlg-wd</strong>      200     Extra Light (Ultra Light)</li>
 <li><strong>lgt-wd</strong>      300     Light</li>
-<li><strong>reg-wd</strong>      400     Regular                                 <em>MM</em> NEW!</li>
+<li><strong>reg-wd</strong>      400     Regular                                 <em>MG</em> NEW!</li>
 <li><strong>med-wd</strong>      500     Medium</li>
 <li><strong>smb-wd</strong>      600     Semi Bold (Demi Bold)</li>
-<li><strong>bld-wd</strong>      700     Bold                                    <em>MM</em> NEW!</li>
+<li><strong>bld-wd</strong>      700     Bold                                    <em>MG</em> NEW!</li>
 <li><strong>xbd-wd</strong>      800     Extra Bold (Ultra Bold)</li>
-<li><strong>blk-wd</strong>      900     Black (Heavy)                           <em>MM</em> NEW!</li>
-<li><strong>thn-it</strong>      100     Italic Thin (Hairline)                  <em>MM</em></li>
+<li><strong>blk-wd</strong>      900     Black (Heavy)                           <em>MG</em> NEW!</li>
+<li><strong>thn-it</strong>      100     Italic Thin (Hairline)                  <em>MG</em></li>
 <li><strong>xlg-it</strong>      200     Italic Extra Light (Ultra Light)</li>
 <li><strong>lgt-it</strong>      300     Italic Light</li>
-<li><strong>reg-it</strong>      400     Italic Regular                          <em>MM</em></li>
+<li><strong>reg-it</strong>      400     Italic Regular                          <em>MG</em></li>
 <li><strong>med-it</strong>      500     Italic Medium</li>
 <li><strong>smb-it</strong>      600     Italic Semi Bold (Demi Bold)</li>
-<li><strong>bld-it</strong>      700     Italic Bold                             <em>MM</em></li>
+<li><strong>bld-it</strong>      700     Italic Bold                             <em>MG</em></li>
 <li><strong>xbd-it</strong>      800     Extra Bold (Ultra Bold)</li>
-<li><strong>blk-it</strong>      900     Black (Heavy)                           <em>MM</em> NEW!</li>
-<li><strong>thn-wd-it</strong>   100     Italic Thin (Hairline)                  <em>MM</em> NEW!</li>
+<li><strong>blk-it</strong>      900     Black (Heavy)                           <em>MG</em> NEW!</li>
+<li><strong>thn-wd-it</strong>   100     Italic Thin (Hairline)                  <em>MG</em> NEW!</li>
 <li><strong>xlg-wd-it</strong>   200     Italic Extra Light (Ultra Light)</li>
 <li><strong>lgt-wd-it</strong>   300     Italic Light</li>
-<li><strong>reg-wd-it</strong>   400     Italic Regular                          <em>MM</em> NEW!</li>
+<li><strong>reg-wd-it</strong>   400     Italic Regular                          <em>MG</em> NEW!</li>
 <li><strong>med-wd-it</strong>   500     Italic Medium</li>
 <li><strong>smb-wd-it</strong>   600     Italic Semi Bold (Demi Bold)</li>
-<li><strong>bld-wd-it</strong>   700     Italic Bold                             <em>MM</em> NEW!</li>
+<li><strong>bld-wd-it</strong>   700     Italic Bold                             <em>MG</em> NEW!</li>
 <li><strong>xbd-wd-it</strong>   800     Extra Bold (Ultra Bold)</li>
-<li><strong>blk-wd-it</strong>   900     Black (Heavy)                           <em>MM</em> NEW!</li>
+<li><strong>blk-wd-it</strong>   900     Black (Heavy)                           <em>MG</em> NEW!</li>
 </ul></li>
 </ol>
 
@@ -1011,8 +1029,8 @@ later you can export to Componentized UFOs.</p>
         ADV-0003 Advent 3 PR:         done,des2, 2019-02-16, 2019-04-01
         ADV-0004 Advent 4 Planning:         des3, after des2, 2019-04-30
         ADV-0004-0001:         done, des4, 2019-03-31, 2h
-        ADV-0004-0002:         done, des5, 2019-04-09, 2h
-        ADV-0004-0003:         des6, 2019-04-10, 2h
+        ADV-0004-0002 Compare NAM:         done, des5, 2019-04-09, 2h
+        ADV-0004-0003 MI Map:         done, des6, 2019-04-10, 2h
         ADV-0004-0004:         des7, 2019-04-11, 2h
         ADV-0004-0005:         des8, 2019-04-12, 2h
         ADV-0004-0006:         des9, 2019-04-13, 2h
@@ -1052,20 +1070,20 @@ later you can export to Componentized UFOs.</p>
 </ul></li>
 <li><strong>ADV-0004 Advent ∞4.000 Planning</strong> / After PR whole April 2019:
 <ul>
-<li><strong>ADV-0004-0001 Planning for 4</strong> / March 31:
-<ul>
 <li>Planning for ∞ 4.000: 
 <ul>
 <li>Project Goals</li>
 <li>Duration</li>
-<li>Weights and Masters</li>
+<li>Masters and Instances
+<ul>
+<li>Masters and Instances Map</li>
+</ul></li>
 <li>Scripts
 <ul>
 <li>Encoding NAM Files</li>
 </ul></li>
 <li>Glyphs</li>
 <li>Personnel Plan</li>
-</ul></li>
 </ul></li>
 </ul></li>
 </ul></li>
@@ -1079,6 +1097,7 @@ later you can export to Componentized UFOs.</p>
 <li><strong>ADV-0004</strong>:
 <ul>
 <li><strike><strong>ADV-0004-0002 Compare Current Encoding Support against NAM</strong></strike> 2019-04-09 2h</li>
+<li><strike><strong>ADV-0004-0003 Masters and Instances Map</strong></strike> 2019-04-10 4h</li>
 </ul></li>
 </ul></li>
 </ul>
@@ -1163,7 +1182,7 @@ later you can export to Componentized UFOs.</p>
 </ul></li>
 <li>User Feedback Mechanisms:
 <ul>
-<li><a href="&#x6d;&#x61;&#x69;&#108;&#x74;&#x6f;&#58;&#115;&#117;&#x70;&#112;&#x6f;&#114;&#x74;&#64;&#x76;&#x69;&#x76;&#97;r&#x61;&#100;&#111;&#x2e;&#99;&#x6f;&#109;">&#115;&#117;&#x70;&#112;&#x6f;&#114;&#x74;&#64;&#x76;&#x69;&#x76;&#97;r&#x61;&#100;&#111;&#x2e;&#99;&#x6f;&#109;</a></li>
+<li><a href="&#109;&#97;&#x69;&#108;&#x74;&#x6f;:&#115;&#x75;&#x70;&#x70;&#111;&#114;&#116;&#64;&#118;&#105;&#118;&#97;&#x72;&#97;&#100;&#111;&#46;&#99;&#x6f;&#109;">&#115;&#x75;&#x70;&#x70;&#111;&#114;&#116;&#64;&#118;&#105;&#118;&#97;&#x72;&#97;&#100;&#111;&#46;&#99;&#x6f;&#109;</a></li>
 </ul></li>
 </ul></li>
 </ul>
@@ -1273,6 +1292,12 @@ later you can export to Componentized UFOs.</p>
 <p><strong>LBGSGS</strong>: Greek VS Greek SmallCase Letter Based Permutation</p>
 
 <p><strong>LBGCGS</strong>: Greek Capitals VS Greek SmallCase Letter Based Permutation</p>
+
+<p><strong>MO</strong>: Master Original, a master created entirely manually.</p>
+
+<p><strong>MG</strong>: Master Generated, a master automatically generated and manually fixed.</p>
+
+<p><strong>I</strong>: Instance, completely automatically generated.</p>
 
 <hr />
 

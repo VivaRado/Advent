@@ -1,0 +1,748 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="sankey_svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="155 72 1126.6 650" style="enable-background:new 155 72 1126.6 650;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#3182BD;stroke-width:21.625;stroke-opacity:0.4;}
+	.st1{fill:none;stroke:#FFB77B;stroke-width:21.625;stroke-opacity:0.4;}
+	.st2{fill:none;stroke:#A1D99B;stroke-width:21.625;stroke-opacity:0.4;}
+	.st3{fill:none;stroke:#86C3B8;stroke-width:21.625;stroke-opacity:0.4;}
+	.st4{fill:none;stroke:#B49D89;stroke-width:21.625;stroke-opacity:0.4;}
+	.st5{opacity:0.9;fill:#3182BD;}
+	.st6{opacity:0.9;fill:#A1D99B;}
+	.st7{fill:#FFFFFF;}
+	.st8{font-family:monospace;}
+	.st9{font-size:21px;}
+	.st10{fill:#FD8D3C;fill-opacity:0.9;}
+	.st11{fill:#6BAED6;fill-opacity:0.9;}
+	.st12{font-size:15px;}
+	.st13{fill:#86C3B8;fill-opacity:0.9;}
+	.st14{opacity:0.9;fill:#86C3B8;}
+	.st15{fill:#B49D89;fill-opacity:0.9;}
+	.st16{fill:#E0CCBD;fill-opacity:0.9;}
+	.st17{opacity:0.9;fill:#B49D89;}
+	.st18{fill:#9DB0A0;fill-opacity:0.9;}
+	.st19{font-size:11px;}
+	.st20{fill:#A7DBF2;fill-opacity:0.9;}
+	.st21{opacity:0.9;fill:#E0CCBD;}
+	.st22{fill:#B1DDD4;fill-opacity:0.9;}
+	.st23{fill:#C4D6C6;fill-opacity:0.9;}
+	.st24{fill:none;stroke:#3182BD;stroke-width:11;stroke-opacity:0.4;}
+	.st25{opacity:0.4;}
+	.st26{fill:none;stroke:#B49D89;stroke-width:11;}
+	.st27{fill:none;stroke:#86C3B8;stroke-width:11;stroke-opacity:0.4;}
+	.st28{fill:none;stroke:#739990;stroke-width:11;stroke-opacity:0.4;}
+	.st29{enable-background:new    ;}
+	.st30{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+</style>
+<title>Your Diagram Title</title>
+<g>
+	<path class="st0" d="M382.5,227.7h40.9l117.4-97.8H569	">
+<title>weight_axes → thn:
+1</title>
+	</path>
+	<path class="st0" d="M382.5,249.3h68.7l88.5,44.8H569	">
+<title>weight_axes → reg:
+1</title>
+	</path>
+	<path class="st0" d="M382.5,270.9h57.9l100.1,188.4H569	">
+<title>weight_axes → bld:
+1</title>
+	</path>
+	<path class="st0" d="M382.5,292.6h42.9l115.4,333.1H569	">
+<title>weight_axes → blk:
+1</title>
+	</path>
+	<path class="st1" d="M382.5,364.8h42.9l290.6-248.4h23.6	">
+<title>width_axes → thn_wd:
+1</title>
+	</path>
+	<path class="st1" d="M382.5,386.4h158.3l175.1-103.5h23.6	">
+<title>width_axes → reg_wd:
+1</title>
+	</path>
+	<path class="st1" d="M382.5,408.1h158.3l175.1,41.4h23.6	">
+<title>width_axes → bld_wd:
+1</title>
+	</path>
+	<path class="st1" d="M382.5,429.7h40.9l292.5,164.6h23.6	">
+<title>width_axes → blk_wd:
+1</title>
+	</path>
+	<path class="st2" d="M382.5,502.3h40.7l481.8-302.6h25.3	">
+<title>ital_axes → thn_it:
+1</title>
+	</path>
+	<path class="st2" d="M382.5,523.9h50.9l471.5-157.7h23.6	">
+<title>ital_axes → reg_it:
+1</title>
+	</path>
+	<path class="st2" d="M382.5,545.6h56.2l466.3-12.9h23.6	">
+<title>ital_axes → bld_it:
+1</title>
+	</path>
+	<path class="st2" d="M382.5,567.2h40.9l481.5,132h23.6	">
+<title>ital_axes → blk_it:
+1</title>
+	</path>
+	<path class="st0" d="M629,151.5h23l252.9,26.6h23.6	">
+<title>thn → thn_it:
+1</title>
+	</path>
+	<path class="st0" d="M629,316.7h23l252.9,27.8h23.6	">
+<title>reg → reg_it:
+1</title>
+	</path>
+	<path class="st0" d="M629,481h23l252.9,30.1h23.6	">
+<title>bld → bld_it:
+1</title>
+	</path>
+	<path class="st0" d="M629,647.2h23l252.9,30.3h23.6	">
+<title>blk → blk_it:
+1</title>
+	</path>
+	<path class="st0" d="M629,129.9h21.5l65.4-35.1h23.6	">
+<title>thn → thn_wd:
+1</title>
+	</path>
+	<path class="st0" d="M629,295.1h24.7l62.2-33.8h23.6	">
+<title>reg → reg_wd:
+1</title>
+	</path>
+	<path class="st0" d="M629,459.4h23.2l63.8-31.6h23.6	">
+<title>bld → bld_wd:
+1</title>
+	</path>
+	<path class="st0" d="M629,625.6h23l63.9-9.7h23.6	">
+<title>blk → blk_wd:
+1</title>
+	</path>
+	<path class="st3" d="M1008.5,178.1h26.5l52-26.9h24	">
+<title>thn_it → thn_wd_it:
+1</title>
+	</path>
+	<path class="st3" d="M1008.5,344.6h26.5l52-28.3h24	">
+<title>reg_it → reg_wd_it:
+1</title>
+	</path>
+	<path class="st3" d="M1008.5,511.1h26.5l51.1-29.7h24.9	">
+<title>bld_it → bld_wd_it:
+1</title>
+	</path>
+	<path class="st3" d="M1008.5,677.6h26.5l52-29.3h24	">
+<title>blk_it → blk_wd_it:
+1</title>
+	</path>
+	<path class="st4" d="M819.5,94.8H846l241.3,34.7h23.7	">
+<title>thn_wd → thn_wd_it:
+1</title>
+	</path>
+	<path class="st4" d="M819.5,261.3H846l241,33.3h24	">
+<title>reg_wd → reg_wd_it:
+1</title>
+	</path>
+	<path class="st4" d="M819.5,427.8H846l241,31.9h24	">
+<title>bld_wd → bld_wd_it:
+1</title>
+	</path>
+	<path class="st4" d="M819.5,594.3H846l241,32.4h24	">
+<title>blk_wd → blk_wd_it:
+1</title>
+	</path>
+</g>
+<g transform="translate(216.5,264.875)">
+	<g>
+		<g id="r1_9_" shape-rendering="crispEdges">
+			<rect x="-44.5" y="-48" class="st5" width="210.5" height="86.7"/>
+			<title>weight_axes:
+5</title>
+		</g>
+	</g>
+</g>
+<g transform="translate(216.5,413)">
+	<g>
+		<g id="r3_12_" shape-rendering="crispEdges">
+			<rect x="-44.5" y="78.5" class="st6" width="210.5" height="86.5"/>
+			<title>width_axes:
+4</title>
+		</g>
+	</g>
+</g>
+<g transform="translate(0,264.875)">
+	<g>
+		<text transform="matrix(1 0 0 1 192 9.497070e-002)" class="st7 st8 st9">weight</text>
+	</g>
+</g>
+<g transform="translate(0,413)">
+	<g>
+		<text transform="matrix(1 0 0 1 192 126.5049)" class="st7 st8 st9">width</text>
+	</g>
+</g>
+<g transform="translate(216.5,539.5)">
+	<rect id="r5_2_" x="-44.5" y="-185.2" shape-rendering="crispEdges" class="st10" width="210.5" height="86.5">
+	<title>ital_axes:
+4</title>
+	</rect>
+</g>
+<g transform="translate(0,539.5)">
+	<g>
+		<text transform="matrix(1 0 0 1 192 -137.2175)" class="st7 st8 st9">ital</text>
+	</g>
+</g>
+<g transform="translate(433,221.05532449097544)">
+	<rect id="r6" x="136" y="-102" shape-rendering="crispEdges" class="st11" width="60" height="43.3">
+	<title>thn:
+2</title>
+	</rect>
+	<text transform="matrix(1 0 0 1 152.9564 -75.1251)" class="st7 st8 st12">thn</text>
+</g>
+<g transform="translate(433,304.3053244909754)">
+	<rect id="r7" x="136" y="-20.3" shape-rendering="crispEdges" class="st11" width="60" height="43.3">
+	<title>reg:
+2</title>
+	</rect>
+	<text transform="matrix(1 0 0 1 152.9564 5.875)" class="st7 st8 st12">reg</text>
+</g>
+<g transform="translate(433,387.5553244909754)">
+	<rect id="r8" x="136" y="61.3" shape-rendering="crispEdges" class="st11" width="60" height="43.3">
+	<title>bld:
+2</title>
+	</rect>
+	<text transform="matrix(1 0 0 1 152.9565 87.875)" class="st7 st8 st12">bld</text>
+</g>
+<g transform="translate(433,470.8053244909754)">
+	<rect id="r9" x="136" y="144" shape-rendering="crispEdges" class="st11" width="60" height="43.3">
+	<title>blk:
+2</title>
+	</rect>
+	<text transform="matrix(1 0 0 1 152.9493 170.5049)" class="st7 st8 st12">blk</text>
+</g>
+<g transform="translate(649.5,83.25000000000006)">
+	<rect id="r14" x="279" y="84" shape-rendering="crispEdges" class="st13" width="80" height="43.3">
+	<title>thn_it:
+2</title>
+	</rect>
+</g>
+<g transform="translate(649.5,249.75000000000006)">
+	<rect id="r15" x="279" y="84" shape-rendering="crispEdges" class="st13" width="80" height="43.3">
+	<title>reg_it:
+2</title>
+	</rect>
+</g>
+<g transform="translate(649.5,416.25)">
+	<g>
+		<g id="r16_11_" shape-rendering="crispEdges">
+			<rect x="279" y="84" class="st14" width="80" height="43.3"/>
+			<title>bld_it:
+2</title>
+		</g>
+	</g>
+</g>
+<g transform="translate(649.5,582.75)">
+	<rect id="r17" x="279" y="84" shape-rendering="crispEdges" class="st13" width="80" height="43.3">
+	<title>blk_it:
+2</title>
+	</rect>
+</g>
+<g>
+	<g transform="translate(649.5,5.684341886080802e-14)">
+		<rect id="r10" x="90" y="84" shape-rendering="crispEdges" class="st15" width="80" height="43.3">
+		<title>thn_wd:
+2</title>
+		</rect>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 754.5739 110.875)" class="st7 st8 st12">thn_it</text>
+	</g>
+</g>
+<g>
+	<g transform="translate(649.5,5.684341886080802e-14)">
+		<rect id="r10_5_" x="115.1" y="361.5" shape-rendering="crispEdges" class="st16" width="80" height="43.3">
+		<title>thn_wd:
+2</title>
+		</rect>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 779.7073 388.375)" class="st7 st8 st12">smb_it</text>
+	</g>
+</g>
+<g>
+	<g transform="translate(649.5,166.50000000000006)">
+		<rect id="r11" x="90" y="84" shape-rendering="crispEdges" class="st15" width="80" height="43.3">
+		<title>reg_wd:
+2</title>
+		</rect>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 754.5747 277.375)" class="st7 st8 st12">reg_it</text>
+	</g>
+</g>
+<g>
+	<g transform="translate(649.5,333)">
+		<g>
+			<g id="r12_12_" shape-rendering="crispEdges">
+				<rect x="90" y="84" class="st17" width="80" height="43.3"/>
+				<title>bld_wd:
+2</title>
+			</g>
+		</g>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 754.5743 443.875)" class="st7 st8 st12">bld_it</text>
+	</g>
+</g>
+<g>
+	<g transform="translate(649.5,499.5)">
+		<g>
+			<g id="r13_12_" shape-rendering="crispEdges">
+				<rect x="90" y="84" class="st17" width="80" height="43.3"/>
+				<title>blk_wd:
+2</title>
+			</g>
+		</g>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 754.574 610.375)" class="st7 st8 st12">blk_it</text>
+	</g>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 943.574 194.125)" class="st7 st8 st12">thn_wd</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 943.5743 360.625)" class="st7 st8 st12">reg_wd</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 943.5739 527.125)" class="st7 st8 st12">bld_wd</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 943.5745 693.625)" class="st7 st8 st12">blk_wd</text>
+</g>
+<g>
+	<g transform="translate(866,214.69354215944944)">
+		<rect id="r18" x="245" y="-96" shape-rendering="crispEdges" class="st18" width="105" height="43.3">
+		<title>thn_wd_it:
+2</title>
+		</rect>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 1126.2622 145.5685)" class="st7 st8 st12">thn_wd_it</text>
+	</g>
+</g>
+<g>
+	<g transform="translate(866,302.8145674944094)">
+		<rect id="r19" x="245" y="-19" shape-rendering="crispEdges" class="st18" width="105" height="43.3">
+		<title>reg_wd_it:
+2</title>
+		</rect>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 1126.2626 310.6895)" class="st7 st8 st12">reg_wd_it</text>
+	</g>
+</g>
+<g>
+	<g transform="translate(866,390.9355928293694)">
+		<rect id="r20" x="245" y="58" shape-rendering="crispEdges" class="st18" width="105" height="43.3">
+		<title>bld_wd_it:
+2</title>
+		</rect>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 1126.2622 475.8106)" class="st7 st8 st12">bld_wd_it</text>
+	</g>
+</g>
+<g>
+	<g transform="translate(866,479.8730412512094)">
+		<rect id="r21" x="245" y="136" shape-rendering="crispEdges" class="st18" width="105" height="43.3">
+		<title>blk_wd_it:
+2</title>
+		</rect>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 1126.2628 642.748)" class="st7 st8 st12">blk_wd_it</text>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 572.5 130.25)" class="st7 st8 st19">∞3</text>
+<text transform="matrix(1 0 0 1 744.1667 94.8125)" class="st7 st8 st19">∞3</text>
+<text transform="matrix(1 0 0 1 744.1667 261.3124)" class="st7 st8 st19">∞3</text>
+<text transform="matrix(1 0 0 1 934.5 178.7775)" class="st7 st8 st19">∞4</text>
+<text transform="matrix(1 0 0 1 1116.5 130.2502)" class="st7 st8 st19">∞4</text>
+<text transform="matrix(1 0 0 1 1116.5 295.118)" class="st7 st8 st19">∞4</text>
+<text transform="matrix(1 0 0 1 1116.5 460.2501)" class="st7 st8 st19">∞4</text>
+<text transform="matrix(1 0 0 1 1116.5 627.618)" class="st7 st8 st19">∞4</text>
+<text transform="matrix(1 0 0 1 1199.2377 130.2502)" class="st7 st8 st19">MG</text>
+<text transform="matrix(1 0 0 1 1199.2377 295.118)" class="st7 st8 st19">MG</text>
+<text transform="matrix(1 0 0 1 1199.2377 460.2501)" class="st7 st8 st19">MG</text>
+<text transform="matrix(1 0 0 1 1199.2377 627.618)" class="st7 st8 st19">MG</text>
+<text transform="matrix(1 0 0 1 934.5 344.5627)" class="st7 st8 st19">∞4</text>
+<text transform="matrix(1 0 0 1 934.5 511.0627)" class="st7 st8 st19">∞4</text>
+<text transform="matrix(1 0 0 1 934.5 677.5627)" class="st7 st8 st19">∞4</text>
+<text transform="matrix(1 0 0 1 991.4043 178.7775)" class="st7 st8 st19">MG</text>
+<text transform="matrix(1 0 0 1 991.4043 344.5627)" class="st7 st8 st19">MG</text>
+<text transform="matrix(1 0 0 1 991.4043 511.0627)" class="st7 st8 st19">MG</text>
+<text transform="matrix(1 0 0 1 991.4043 677.5627)" class="st7 st8 st19">MG</text>
+<text transform="matrix(1 0 0 1 744.1667 427.8124)" class="st7 st8 st19">∞3</text>
+<text transform="matrix(1 0 0 1 744.1667 594.3124)" class="st7 st8 st19">∞4</text>
+<text transform="matrix(1 0 0 1 803.4043 94.8125)" class="st7 st8 st19">MG</text>
+<text transform="matrix(1 0 0 1 803.4043 261.3124)" class="st7 st8 st19">MG</text>
+<text transform="matrix(1 0 0 1 803.4043 427.8124)" class="st7 st8 st19">MG</text>
+<text transform="matrix(1 0 0 1 803.4043 594.3124)" class="st7 st8 st19">MG</text>
+<text transform="matrix(1 0 0 1 572.5 295.1179)" class="st7 st8 st19">∞3</text>
+<text transform="matrix(1 0 0 1 572.5 460.2502)" class="st7 st8 st19">∞3</text>
+<text transform="matrix(1 0 0 1 572.5 625.618)" class="st7 st8 st19">∞4</text>
+<text transform="matrix(1 0 0 1 612.0709 130.25)" class="st7 st8 st19">MO</text>
+<text transform="matrix(1 0 0 1 612.0709 295.1179)" class="st7 st8 st19">MO</text>
+<text transform="matrix(1 0 0 1 612.0709 460.2502)" class="st7 st8 st19">MO</text>
+<text transform="matrix(1 0 0 1 612.0709 625.618)" class="st7 st8 st19">MO</text>
+<g>
+	<text transform="matrix(1 0 0 1 1115.3334 158.2502)" class="st7 st8 st19">100</text>
+	<text transform="matrix(1 0 0 1 1115.3334 323.118)" class="st7 st8 st19">400</text>
+	<text transform="matrix(1 0 0 1 1115.3334 488.2501)" class="st7 st8 st19">700</text>
+	<text transform="matrix(1 0 0 1 1115.3334 655.618)" class="st7 st8 st19">900</text>
+	<text transform="matrix(1 0 0 1 933.5 206.7775)" class="st7 st8 st19">100</text>
+	<text transform="matrix(1 0 0 1 933.5 372.5627)" class="st7 st8 st19">400</text>
+	<text transform="matrix(1 0 0 1 933.5 539.0627)" class="st7 st8 st19">700</text>
+	<text transform="matrix(1 0 0 1 933.5 705.5627)" class="st7 st8 st19">900</text>
+	<text transform="matrix(1 0 0 1 743.5 122.8125)" class="st7 st8 st19">100</text>
+	<text transform="matrix(1 0 0 1 743.5 289.3124)" class="st7 st8 st19">400</text>
+	<text transform="matrix(1 0 0 1 743.5 455.8124)" class="st7 st8 st19">700</text>
+	<text transform="matrix(1 0 0 1 743.5 622.3124)" class="st7 st8 st19">900</text>
+	<text transform="matrix(1 0 0 1 573.1666 158.25)" class="st7 st8 st19">100</text>
+	<text transform="matrix(1 0 0 1 573.1666 323.1179)" class="st7 st8 st19">400</text>
+	<text transform="matrix(1 0 0 1 573.1666 488.2502)" class="st7 st8 st19">700</text>
+	<text transform="matrix(1 0 0 1 573.1666 653.618)" class="st7 st8 st19">900</text>
+</g>
+<g>
+	<g transform="translate(433,221.05532449097544)">
+		<rect id="r6_5_" x="161" y="7.9" shape-rendering="crispEdges" class="st20" width="60" height="43.3">
+		<title>thn:
+2</title>
+		</rect>
+		<text transform="matrix(1 0 0 1 177.9564 34.8193)" class="st7 st8 st12">lgt</text>
+	</g>
+	<text transform="matrix(1 0 0 1 643.1188 241.625)" class="st7 st8 st19">I</text>
+	<text transform="matrix(1 0 0 1 598.1666 269.625)" class="st7 st8 st19">300</text>
+</g>
+<g>
+	<g transform="translate(433,221.05532449097544)">
+		<rect id="r6_10_" x="161" y="172.9" shape-rendering="crispEdges" class="st20" width="60" height="43.3">
+		<title>thn:
+2</title>
+		</rect>
+		<text transform="matrix(1 0 0 1 177.9564 199.736)" class="st7 st8 st12">smb</text>
+	</g>
+	<text transform="matrix(1 0 0 1 643.1188 405.3751)" class="st7 st8 st19">I</text>
+	<text transform="matrix(1 0 0 1 598.1666 433.3751)" class="st7 st8 st19">600</text>
+</g>
+<g>
+	<g transform="translate(433,221.05532449097544)">
+		<rect id="r6_9_" x="161" y="310.8" shape-rendering="crispEdges" class="st20" width="60" height="43.3">
+		<title>thn:
+2</title>
+		</rect>
+		<text transform="matrix(1 0 0 1 177.9564 337.6667)" class="st7 st8 st12">xbd</text>
+	</g>
+	<text transform="matrix(1 0 0 1 643.1188 543.5627)" class="st7 st8 st19">I</text>
+	<text transform="matrix(1 0 0 1 598.1666 571.5627)" class="st7 st8 st19">800</text>
+</g>
+<g>
+	<g>
+		<g transform="translate(649.5,5.684341886080802e-14)">
+			<g>
+				<g id="r10_29_" shape-rendering="crispEdges">
+					<rect x="115.1" y="500.3" class="st21" width="80" height="43.3"/>
+					<title>thn_wd:
+2</title>
+				</g>
+			</g>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 779.7073 527.125)" class="st7 st8 st12">xbd_it</text>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 834.5856 512.0627)" class="st7 st8 st19">I</text>
+	<text transform="matrix(1 0 0 1 768.6334 540.0627)" class="st7 st8 st19">800</text>
+</g>
+<g>
+	<text transform="matrix(1 0 0 1 809.4521 373.0666)" class="st7 st8 st19">I</text>
+	<text transform="matrix(1 0 0 1 743.5 401.0666)" class="st7 st8 st19">600</text>
+</g>
+<g>
+	<g>
+		<g transform="translate(649.5,5.684341886080802e-14)">
+			<rect id="r10_10_" x="115.1" y="306" shape-rendering="crispEdges" class="st16" width="80" height="43.3">
+			<title>thn_wd:
+2</title>
+			</rect>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 779.7073 332.875)" class="st7 st8 st12">med_it</text>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 834.5856 318.0593)" class="st7 st8 st19">I</text>
+	<text transform="matrix(1 0 0 1 768.6334 346.0593)" class="st7 st8 st19">500</text>
+</g>
+<g>
+	<g>
+		<g transform="translate(649.5,5.684341886080802e-14)">
+			<rect id="r10_6_" x="115.1" y="195" shape-rendering="crispEdges" class="st16" width="80" height="43.3">
+			<title>thn_wd:
+2</title>
+			</rect>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 779.7073 221.875)" class="st7 st8 st12">lgt_it</text>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 834.5856 206.5002)" class="st7 st8 st19">I</text>
+	<text transform="matrix(1 0 0 1 768.6334 234.5002)" class="st7 st8 st19">300</text>
+</g>
+<g>
+	<g>
+		<g transform="translate(649.5,5.684341886080802e-14)">
+			<g>
+				<g id="r10_34_" shape-rendering="crispEdges">
+					<rect x="115.1" y="139.5" class="st21" width="80" height="43.3"/>
+					<title>thn_wd:
+2</title>
+				</g>
+			</g>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 779.7073 166.375)" class="st7 st8 st12">xlg_it</text>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 834.5856 151.4929)" class="st7 st8 st19">I</text>
+	<text transform="matrix(1 0 0 1 768.6334 179.4929)" class="st7 st8 st19">200</text>
+</g>
+<g>
+	<g>
+		<g transform="translate(649.5,5.684341886080802e-14)">
+			<rect id="r10_22_" x="303.1" y="222.8" shape-rendering="crispEdges" class="st22" width="80" height="43.3">
+			<title>thn_wd:
+2</title>
+			</rect>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 967.6658 249.6875)" class="st7 st8 st12">xlg_wd</text>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 1021.544 235.2502)" class="st7 st8 st19">I</text>
+	<text transform="matrix(1 0 0 1 957.5919 263.2502)" class="st7 st8 st19">200</text>
+</g>
+<g>
+	<g>
+		<g transform="translate(649.5,5.684341886080802e-14)">
+			<rect id="r10_20_" x="303.1" y="278.3" shape-rendering="crispEdges" class="st22" width="80" height="43.3">
+			<title>thn_wd:
+2</title>
+			</rect>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 967.6658 305.1875)" class="st7 st8 st12">lgt_wd</text>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 1021.544 290.5627)" class="st7 st8 st19">I</text>
+	<text transform="matrix(1 0 0 1 957.5919 318.5627)" class="st7 st8 st19">300</text>
+</g>
+<g>
+	<g>
+		<g transform="translate(649.5,5.684341886080802e-14)">
+			<rect id="r10_18_" x="303.1" y="389.3" shape-rendering="crispEdges" class="st22" width="80" height="43.3">
+			<title>thn_wd:
+2</title>
+			</rect>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 967.6658 416.1875)" class="st7 st8 st12">med_wd</text>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 1021.544 401.094)" class="st7 st8 st19">I</text>
+	<text transform="matrix(1 0 0 1 957.5919 429.094)" class="st7 st8 st19">500</text>
+</g>
+<g>
+	<g>
+		<g transform="translate(649.5,5.684341886080802e-14)">
+			<rect id="r10_16_" x="303.1" y="444.8" shape-rendering="crispEdges" class="st22" width="80" height="43.3">
+			<title>thn_wd:
+2</title>
+			</rect>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 967.6658 471.6875)" class="st7 st8 st12">smb_wd</text>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 1021.544 456.4065)" class="st7 st8 st19">I</text>
+	<text transform="matrix(1 0 0 1 957.5919 484.4065)" class="st7 st8 st19">600</text>
+</g>
+<g>
+	<g>
+		<g transform="translate(649.5,5.684341886080802e-14)">
+			<rect id="r10_9_" x="303.1" y="583.6" shape-rendering="crispEdges" class="st22" width="80" height="43.3">
+			<title>thn_wd:
+2</title>
+			</rect>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 967.6658 610.4375)" class="st7 st8 st12">xbd_wd</text>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 1021.544 594.3127)" class="st7 st8 st19">I</text>
+	<text transform="matrix(1 0 0 1 957.5919 622.3127)" class="st7 st8 st19">800</text>
+</g>
+<g>
+	<g>
+		<g transform="translate(866,479.8730412512094)">
+			<rect id="r21_4_" x="269.9" y="52.5" shape-rendering="crispEdges" class="st23" width="105" height="43.3">
+			<title>blk_wd_it:
+2</title>
+			</rect>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 1151.1293 559.2793)" class="st7 st8 st12">xbd_wd_it</text>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 1230.152 545.5627)" class="st7 st8 st19">I</text>
+	<text transform="matrix(1 0 0 1 1140.1998 573.5627)" class="st7 st8 st19">800</text>
+</g>
+<g>
+	<g>
+		<g transform="translate(866,390.9355928293694)">
+			<rect id="r20_4_" x="269.9" y="3" shape-rendering="crispEdges" class="st23" width="105" height="43.3">
+			<title>bld_wd_it:
+2</title>
+			</rect>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 1151.1287 420.7703)" class="st7 st8 st12">smb_wd_it</text>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 1230.152 406.3753)" class="st7 st8 st19">I</text>
+	<text transform="matrix(1 0 0 1 1140.1998 434.3752)" class="st7 st8 st19">600</text>
+</g>
+<g>
+	<g>
+		<g transform="translate(866,390.9355928293694)">
+			<rect id="r20_6_" x="269.9" y="-52.1" shape-rendering="crispEdges" class="st23" width="105" height="43.3">
+			<title>bld_wd_it:
+2</title>
+			</rect>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 1151.1287 365.7299)" class="st7 st8 st12">med_wd_it</text>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 1230.152 351.6252)" class="st7 st8 st19">I</text>
+	<text transform="matrix(1 0 0 1 1140.1998 379.6252)" class="st7 st8 st19">500</text>
+</g>
+<g>
+	<g>
+		<g transform="translate(866,390.9355928293694)">
+			<rect id="r20_8_" x="269.9" y="-160.2" shape-rendering="crispEdges" class="st23" width="105" height="43.3">
+			<title>bld_wd_it:
+2</title>
+			</rect>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 1151.1287 257.6492)" class="st7 st8 st12">lgt_wd_it</text>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 1230.152 243.6252)" class="st7 st8 st19">I</text>
+	<text transform="matrix(1 0 0 1 1140.1998 271.6252)" class="st7 st8 st19">300</text>
+</g>
+<g>
+	<g>
+		<g transform="translate(866,390.9355928293694)">
+			<rect id="r20_10_" x="269.9" y="-215.2" shape-rendering="crispEdges" class="st23" width="105" height="43.3">
+			<title>bld_wd_it:
+2</title>
+			</rect>
+		</g>
+		<g>
+			<text transform="matrix(1 0 0 1 1151.1287 202.6089)" class="st7 st8 st12">xlg_wd_it</text>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 1 1230.152 188.8752)" class="st7 st8 st19">I</text>
+	<text transform="matrix(1 0 0 1 1140.1998 216.8752)" class="st7 st8 st19">200</text>
+</g>
+<g>
+	<g transform="translate(433,221.05532449097544)">
+		<rect id="r6_4_" x="161" y="-47" shape-rendering="crispEdges" class="st20" width="60" height="43.3">
+		<title>thn:
+2</title>
+		</rect>
+		<text transform="matrix(1 0 0 1 177.9564 -20.1529)" class="st7 st8 st12">xlg</text>
+	</g>
+	<text transform="matrix(1 0 0 1 643.1188 186.875)" class="st7 st8 st19">I</text>
+	<text transform="matrix(1 0 0 1 598.1666 214.875)" class="st7 st8 st19">200</text>
+</g>
+<g>
+	<g transform="translate(433,221.05532449097544)">
+		<rect id="r6_2_" x="161" y="117.9" shape-rendering="crispEdges" class="st20" width="60" height="43.3">
+		<title>thn:
+2</title>
+		</rect>
+		<text transform="matrix(1 0 0 1 177.9564 144.7638)" class="st7 st8 st12">med</text>
+	</g>
+	<text transform="matrix(1 0 0 1 643.1188 350.625)" class="st7 st8 st19">I</text>
+	<text transform="matrix(1 0 0 1 598.1666 378.625)" class="st7 st8 st19">500</text>
+</g>
+<path class="st24" d="M574.6,327.2v33.3v88.1 M594,344.6h-19.4 M594,400.1h-19.4"/>
+<path class="st24" d="M574.6,492.1v33.9v88.8 M594,537.5h-19.4"/>
+<path class="st24" d="M574.6,162.3v33.3v88.1 M594,179.6h-19.4 M594,235.2h-19.4"/>
+<g>
+	<g>
+		<g>
+			<g class="st25">
+				<path class="st26" d="M745.2,294.2v33.3v90.1 M764.5,311.5h-19.4 M764.5,367h-19.4"/>
+			</g>
+		</g>
+		<g>
+			<g class="st25">
+				<path class="st26" d="M745.2,460.1V494v88.8 M764.5,505.4h-19.4"/>
+			</g>
+		</g>
+		<g>
+			<g class="st25">
+				<path class="st26" d="M745.2,127.3v34.3v89.1 M764.5,145.6h-19.4 M764.5,201.1h-19.4"/>
+			</g>
+		</g>
+	</g>
+</g>
+<path class="st27" d="M933.2,377.8V411v90.1 M952.6,395.1h-19.4 M952.6,450.6h-19.4"/>
+<path class="st27" d="M933.2,543.7v33.9v88.8 M952.6,589h-19.4"/>
+<path class="st27" d="M933.2,210.8v34.3v89.1 M952.6,229.2h-19.4 M952.6,284.7h-19.4"/>
+<path class="st28" d="M1116.5,327.1v33.3v90.1 M1135.9,344.4h-19.4 M1135.9,399.9h-19.4"/>
+<path class="st28" d="M1116.5,493v33.9v88.8 M1135.9,538.3h-19.4"/>
+<path class="st28" d="M1116.5,162.1v34.3v89.1 M1135.9,180.5h-19.4 M1135.9,236h-19.4"/>
+<g>
+	<g transform="translate(0,264.875)">
+		<g>
+			<text transform="matrix(1 0 0 1 199.3333 378.1575)" class="st29"><tspan x="0" y="0" class="st8 st19">Original Master</tspan><tspan x="0" y="27.2" class="st8 st19">Generated Master</tspan><tspan x="0" y="54.4" class="st8 st19">Instance</tspan></text>
+		</g>
+	</g>
+	<g transform="translate(0,264.875)">
+		<g>
+			<text transform="matrix(1 0 0 1 326.3333 378.1575)" class="st29"><tspan x="0" y="0" class="st8 st19">4</tspan><tspan x="0" y="27.2" class="st8 st19">12</tspan><tspan x="0" y="54.4" class="st8 st19">16</tspan></text>
+		</g>
+	</g>
+	<g>
+		<rect x="172" y="628.7" class="st30" width="20.6" height="20.6"/>
+		<g>
+			<text transform="matrix(1 0 0 1 176.2573 642.4973)" class="st8 st19">MO</text>
+		</g>
+	</g>
+	<g>
+		<rect x="172" y="656.2" class="st30" width="20.6" height="20.6"/>
+		<g>
+			<text transform="matrix(1 0 0 1 176.2573 669.933)" class="st8 st19">MG</text>
+		</g>
+	</g>
+	<g>
+		<rect x="172" y="684.2" class="st30" width="20.6" height="20.6"/>
+		<g>
+			<text transform="matrix(1 0 0 1 179.2817 697.933)" class="st8 st19">I</text>
+		</g>
+	</g>
+</g>
+<line class="st30" x1="313" y1="628.7" x2="313" y2="704.8"/>
+</svg>

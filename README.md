@@ -37,7 +37,7 @@
                 1.  **Project Plan**
                     1.  **Design**
                     1.  **Production**
-                    1.  **Weights and Masters**
+                    1.  **Masters and Instances**
                     1.  **Kerning**
                     1.  **Components**
                     1.  **Scripts**
@@ -375,7 +375,7 @@ Decide on the encoding sets and supported language scripts. Decide and plan the 
 1.  **Project Plan** Components ∞0.001:
 	1.  **Design**
 	1.  **Production**
-	1.  **Weights and Masters**
+	1.  **Masters and Instances**
 	1.  **Kerning**
 	1.  **Components**
 	1.  **Language Scripts and Glyph Range**
@@ -398,12 +398,23 @@ Work was done on a Linux box with VirtualBox running Windows 8 and Mac OSX Lion.
 
 ---
 
-### **Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Weights and Masters**
+### **Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Masters and Instances**
+
+The diagram shows the Original Masters (MO), Generated Masters (MG) that get adjusted manually and the automatically generated instances (I).
+
+
+![Masters and Instances](README/assets/media/advent_masters_sankey.svg)
+
+image: #001, 0.001, svg, Advent Masters and Instances sankey.
+
+---
 
 1.  Contents ∞ 3.000:
 
 	1.  Count:
-		*  MM = 6
+		*  MO = 3
+		*  MG = 3
+		*  I = 8
 		*  Master Glyphs: ≃ 2340
 
 	1.  Masters:
@@ -415,22 +426,22 @@ Work was done on a Linux box with VirtualBox running Windows 8 and Mac OSX Lion.
 		*  Bold Italic(700)
 
 	1.  Instances:
-		*  **thn**        100     Thin (Hairline)                          *MM*
+		*  **thn**        100     Thin (Hairline)                          *MO*
 		*  **xlg**        200     Extra Light (Ultra Light)
 		*  **lgt**        300     Light
-		*  **reg**        400     Regular                                  *MM*
+		*  **reg**        400     Regular                                  *MO*
 		*  **med**        500     Medium
 		*  **smb**        600     Semi Bold (Demi Bold)
-		*  **bld**        700     Bold                                     *MM*
+		*  **bld**        700     Bold                                     *MO*
 		*  ~~xbd          800     Extra Bold (Ultra Bold)~~
 		*  ~~blk          900     Black (Heavy)~~
-		*  **thn-it**     100     Italic Thin (Hairline)               *MM*
+		*  **thn-it**     100     Italic Thin (Hairline)               *MG*
 		*  **xlg-it**     200     Italic Extra Light (Ultra Light)
 		*  **lgt-it**     300     Italic Light
-		*  **reg-it**     400     Italic Regular                       *MM*
+		*  **reg-it**     400     Italic Regular                       *MG*
 		*  **med-it**     500     Italic Medium
 		*  **smb-it**     600     Italic Semi Bold (Demi Bold)
-		*  **bld-it**     700     Italic Bold                             *MM*
+		*  **bld-it**     700     Italic Bold                             *MG*
 		*  ~~xbd_it       800     Extra Bold (Ultra Bold)~~
 		*  ~~blk_it       900     Black (Heavy)~~
 
@@ -439,10 +450,14 @@ Work was done on a Linux box with VirtualBox running Windows 8 and Mac OSX Lion.
 		*  italic axes with weight axes
 		*  weight and italic axes
 
+---
+
 1.  Contents ∞ 4.000:
 	
 	1.  Count:
-		*  MM = 16
+		*  MO = 4
+		*  MG = 12
+		*  I = 16
 		*  Master Glyphs: ≃ 10352
 
 	1.  Masters: 
@@ -464,42 +479,42 @@ Work was done on a Linux box with VirtualBox running Windows 8 and Mac OSX Lion.
 		*  Black Italic Wide(700, 8pt, 24pt, 144pt) NEW!
 
 	1.  Instances: 
-		*  **thn**         100     Thin (Hairline)                         *MM*
+		*  **thn**         100     Thin (Hairline)                         *MO*
 		*  **xlg**         200     Extra Light (Ultra Light)
 		*  **lgt**         300     Light
-		*  **reg**         400     Regular                                 *MM*
+		*  **reg**         400     Regular                                 *MO*
 		*  **med**         500     Medium
 		*  **smb**         600     Semi Bold (Demi Bold)
-		*  **bld**         700     Bold                                    *MM*
+		*  **bld**         700     Bold                                    *MO*
 		*  **xbd**         800     Extra Bold (Ultra Bold)
-		*  **blk**         900     Black (Heavy)                           *MM* NEW!
-		*  **thn-wd**      100     Thin (Hairline)                         *MM* NEW!
+		*  **blk**         900     Black (Heavy)                           *MO* NEW!
+		*  **thn-wd**      100     Thin (Hairline)                         *MG* NEW!
 		*  **xlg-wd**      200     Extra Light (Ultra Light)
 		*  **lgt-wd**      300     Light
-		*  **reg-wd**      400     Regular                                 *MM* NEW!
+		*  **reg-wd**      400     Regular                                 *MG* NEW!
 		*  **med-wd**      500     Medium
 		*  **smb-wd**      600     Semi Bold (Demi Bold)
-		*  **bld-wd**      700     Bold                                    *MM* NEW!
+		*  **bld-wd**      700     Bold                                    *MG* NEW!
 		*  **xbd-wd**      800     Extra Bold (Ultra Bold)
-		*  **blk-wd**      900     Black (Heavy)                           *MM* NEW!
-		*  **thn-it**      100     Italic Thin (Hairline)                  *MM*
+		*  **blk-wd**      900     Black (Heavy)                           *MG* NEW!
+		*  **thn-it**      100     Italic Thin (Hairline)                  *MG*
 		*  **xlg-it**      200     Italic Extra Light (Ultra Light)
 		*  **lgt-it**      300     Italic Light
-		*  **reg-it**      400     Italic Regular                          *MM*
+		*  **reg-it**      400     Italic Regular                          *MG*
 		*  **med-it**      500     Italic Medium
 		*  **smb-it**      600     Italic Semi Bold (Demi Bold)
-		*  **bld-it**      700     Italic Bold                             *MM*
+		*  **bld-it**      700     Italic Bold                             *MG*
 		*  **xbd-it**      800     Extra Bold (Ultra Bold)
-		*  **blk-it**      900     Black (Heavy)                           *MM* NEW!
-		*  **thn-wd-it**   100     Italic Thin (Hairline)                  *MM* NEW!
+		*  **blk-it**      900     Black (Heavy)                           *MG* NEW!
+		*  **thn-wd-it**   100     Italic Thin (Hairline)                  *MG* NEW!
 		*  **xlg-wd-it**   200     Italic Extra Light (Ultra Light)
 		*  **lgt-wd-it**   300     Italic Light
-		*  **reg-wd-it**   400     Italic Regular                          *MM* NEW!
+		*  **reg-wd-it**   400     Italic Regular                          *MG* NEW!
 		*  **med-wd-it**   500     Italic Medium
 		*  **smb-wd-it**   600     Italic Semi Bold (Demi Bold)
-		*  **bld-wd-it**   700     Italic Bold                             *MM* NEW!
+		*  **bld-wd-it**   700     Italic Bold                             *MG* NEW!
 		*  **xbd-wd-it**   800     Extra Bold (Ultra Bold)
-		*  **blk-wd-it**   900     Black (Heavy)                           *MM* NEW!
+		*  **blk-wd-it**   900     Black (Heavy)                           *MG* NEW!
 
 	*  Axes:
 		*  weight axes only
@@ -805,8 +820,8 @@ gantt
         ADV-0003 Advent 3 PR:         done,des2, 2019-02-16, 2019-04-01
         ADV-0004 Advent 4 Planning:         des3, after des2, 2019-04-30
         ADV-0004-0001:         done, des4, 2019-03-31, 2h
-        ADV-0004-0002:         done, des5, 2019-04-09, 2h
-        ADV-0004-0003:         des6, 2019-04-10, 2h
+        ADV-0004-0002 Compare NAM:         done, des5, 2019-04-09, 2h
+        ADV-0004-0003 MI Map:         done, des6, 2019-04-10, 2h
         ADV-0004-0004:         des7, 2019-04-11, 2h
         ADV-0004-0005:         des8, 2019-04-12, 2h
         ADV-0004-0006:         des9, 2019-04-13, 2h
@@ -837,21 +852,22 @@ gantt
     *  **ADV-0004** / After PR in April 2019:
         *  **Advent ∞4.000**
     *  **ADV-0004 Advent ∞4.000 Planning** / After PR whole April 2019:
-        *  **ADV-0004-0001 Planning for 4** / March 31:
-            *  Planning for ∞ 4.000: 
-                *  Project Goals
-                *  Duration
-                *  Weights and Masters
-                *  Scripts
-                    *  Encoding NAM Files
-                *  Glyphs
-                *  Personnel Plan
+        *  Planning for ∞ 4.000: 
+            *  Project Goals
+            *  Duration
+            *  Masters and Instances
+                *  Masters and Instances Map
+            *  Scripts
+                *  Encoding NAM Files
+            *  Glyphs
+            *  Personnel Plan
 
 *  Completed:
     *  ~~**ADV-0001** / July 01 2018 to 2019-02-16~~:
         *  Advent  ∞3.000 Delivered.
     *  **ADV-0004**:
         *  ~~**ADV-0004-0002 Compare Current Encoding Support against NAM**~~ 2019-04-09 2h
+        *  ~~**ADV-0004-0003 Masters and Instances Map**~~ 2019-04-10 4h
 
 
 ### **Introduction / Phase Introduction / Planning Phase / Safe Planning / Schedule Planning / Timeline**
@@ -984,6 +1000,12 @@ We can now create a **Quality Plan** by identifying the valid **Quality Targets*
 **LBGSGS**: Greek VS Greek SmallCase Letter Based Permutation
 
 **LBGCGS**: Greek Capitals VS Greek SmallCase Letter Based Permutation
+
+**MO**: Master Original, a master created entirely manually.
+
+**MG**: Master Generated, a master automatically generated and manually fixed.
+
+**I**: Instance, completely automatically generated.
 
 ---
 ### **Reference**
