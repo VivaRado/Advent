@@ -11,7 +11,7 @@
 	.st5{opacity:0.9;fill:#3182BD;}
 	.st6{opacity:0.9;fill:#A1D99B;}
 	.st7{fill:#FFFFFF;}
-	.st8{font-family:monospace;}
+	.st8{font-family:'Consolas';}
 	.st9{font-size:21px;}
 	.st10{fill:#FD8D3C;fill-opacity:0.9;}
 	.st11{fill:#6BAED6;fill-opacity:0.9;}
@@ -407,7 +407,7 @@
 	<text transform="matrix(1 0 0 1 743.5 455.8124)" class="st7 st8 st19">700</text>
 	<text transform="matrix(1 0 0 1 743.5 622.3124)" class="st7 st8 st19">900</text>
 	<text transform="matrix(1 0 0 1 573.1666 158.25)" class="st7 st8 st19">100</text>
-	<text transform="matrix(1 0 0 1 573.1666 323.1179)" class="st7 st8 st19">400</text>
+	<text transform="matrix(1 0 0 1 573.1666 323.1178)" class="st7 st8 st19">400</text>
 	<text transform="matrix(1 0 0 1 573.1666 488.2502)" class="st7 st8 st19">700</text>
 	<text transform="matrix(1 0 0 1 573.1666 653.618)" class="st7 st8 st19">900</text>
 </g>
@@ -463,7 +463,7 @@
 	<text transform="matrix(1 0 0 1 768.6334 540.0627)" class="st7 st8 st19">800</text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 809.4521 373.0666)" class="st7 st8 st19">I</text>
+	<text transform="matrix(1 0 0 1 834.5856 373.0666)" class="st7 st8 st19">I</text>
 	<text transform="matrix(1 0 0 1 743.5 401.0666)" class="st7 st8 st19">600</text>
 </g>
 <g>
@@ -616,7 +616,7 @@
 			<text transform="matrix(1 0 0 1 1151.1287 420.7703)" class="st7 st8 st12">smb_wd_it</text>
 		</g>
 	</g>
-	<text transform="matrix(1 0 0 1 1230.152 406.3753)" class="st7 st8 st19">I</text>
+	<text transform="matrix(1 0 0 1 1230.152 406.3752)" class="st7 st8 st19">I</text>
 	<text transform="matrix(1 0 0 1 1140.1998 434.3752)" class="st7 st8 st19">600</text>
 </g>
 <g>
