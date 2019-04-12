@@ -254,6 +254,9 @@ By implementing a set of scripts that are now part of VRD TYPL. We could manage 
 
 ```
 
+Image CupCake, Actual Cupcake Fairly Larger. Objects in ANSI are larger than they appear.
+
+
 
 ---
 
