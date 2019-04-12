@@ -816,14 +816,14 @@ gantt
         dateFormat  YYYY-MM-DD
         title Advent Schedule
         section Advent 3
-        ADV-0001 Advent 3:         done,des1, 2018-08-22,2019-02-16
+        #ADV-0001 Advent 3:         done,des1, 2018-08-22,2019-02-16
         ADV-0003 Advent 3 PR:         done,des2, 2019-02-16, 2019-04-01
         ADV-0004 Advent 4 Planning:         des3, after des2, 2019-04-30
         ADV-0004-0001:         done, des4, 2019-03-31, 2h
         ADV-0004-0002 Compare NAM:         done, des5, 2019-04-09, 2h
         ADV-0004-0003 MI Map:         done, des6, 2019-04-10, 2h
-        ADV-0004-0004:         des7, 2019-04-11, 2h
-        ADV-0004-0005:         des8, 2019-04-12, 2h
+        
+        ADV-0004-0005 Autokern Reintegration to TYPL - Standalone Repo: done, des8, 2019-04-12, 6h
         ADV-0004-0006:         des9, 2019-04-13, 2h
         ADV-0004-0007:         des10, 2019-04-14, 2h
         ADV-0004-0008:         des11, 2019-04-15, 2h
@@ -868,16 +868,8 @@ gantt
     *  **ADV-0004**:
         *  ~~**ADV-0004-0002 Compare Current Encoding Support against NAM**~~ 2019-04-09 2h
         *  ~~**ADV-0004-0003 Masters and Instances Map**~~ 2019-04-10 4h
+        *  ~~**ADV-0004-0005 Autokern Reintegration to TYPL**~~ 2019-04-12 6h
 
-
-### **Introduction / Phase Introduction / Planning Phase / Safe Planning / Schedule Planning / Timeline**
-
--  July 01 2018: Start of Redesign
--  January 28 2019: Final Kerning for CB for G and L.
--  January 31 2019: Contour Fixes, Updates for all weights and anchor alignments.
--  February 16 2019: Updated to match contour optimisations of [mjlagattuta fork](https://github.com/mjlagattuta/Advent-Pro), Updated sources. Observe process at [Advent Third Pickup +](https://github.com/VivaRado/Advent/issues/13)
--  February 17 2019: Updated to match Kerning Classification optimisations of [mjlagattuta fork](https://github.com/mjlagattuta/Advent-Pro). Further Classification updates, reduction of kerning pairs by 307, Updated sources. Observe process at [Advent Third Pickup +](https://github.com/VivaRado/Advent/issues/13)
--  March 23 2019: Documentation Restructure, according to VivaRado ORGDOC.
 
 
 ---
