@@ -235,6 +235,26 @@ By implementing a set of scripts that are now part of VRD TYPL. We could manage 
 	1.  Kerning Classification
 	1.  Kerning Compression
 
+#### Fontbakery Gave us a Cupcake:
+
+```
+       .,@@'
+    .@@@@..@@@@.
+  .@@,  .@ .  .@@, 
+.@@.@`  ,.@.,'  '@@@
+@    "@'      '@"  @
+:@@@..@. ,@..@.@@.,@
+  \\ ||@@' |||| //
+   || |||| ||| ||
+    \\ ||| || //
+     ||||||||||
+
+ Advent Cupcake Day
+   April 13 2019
+
+```
+
+
 ---
 
 ### **Introduction / Phase Introduction / Initiation Phase / Project Charter**
@@ -824,7 +844,7 @@ gantt
         ADV-0004-0003 MI Map:         done, des6, 2019-04-10, 2h
         
         ADV-0004-0005 Autokern Reintegration to TYPL - Standalone Repo: done, des8, 2019-04-12, 6h
-        ADV-0004-0006:         des9, 2019-04-13, 2h
+        ADV-0004-0006 Cupcake Day!:         done, des9, 2019-04-13, 2h
         ADV-0004-0007:         des10, 2019-04-14, 2h
         ADV-0004-0008:         des11, 2019-04-15, 2h
         ADV-0004-0009:         des12, 2019-04-16, 2h
@@ -869,6 +889,7 @@ gantt
         *  ~~**ADV-0004-0002 Compare Current Encoding Support against NAM**~~ 2019-04-09 2h
         *  ~~**ADV-0004-0003 Masters and Instances Map**~~ 2019-04-10 4h
         *  ~~**ADV-0004-0005 Autokern Reintegration to TYPL**~~ 2019-04-12 6h
+        *  ~~**ADV-0004-0006 Advent Fontbakery Cupcake Day!**~~ 2019-04-13 2h
 
 
 
