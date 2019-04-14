@@ -423,7 +423,7 @@ Work was done on a Linux box with VirtualBox running Windows 8 and Mac OSX Lion.
 
 ### **Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Masters and Instances**
 
-The diagram shows the Original Masters (MO), Generated Masters (MG) that get adjusted manually and the automatically generated instances (I).
+The diagram shows the Original Masters (MO), Generated Masters (MG) that get adjusted manually and the automatically generated instances (MA).
 
 
 ![Masters and Instances](README/assets/media/advent_masters_sankey.svg)
@@ -988,7 +988,7 @@ We can now create a **Quality Plan** by identifying the valid **Quality Targets*
 
 **MG**: Master Generated, a master automatically generated and manually fixed.
 
-**I**: Instance, completely automatically generated.
+**MA**: Master Automated, completely automatically generated.
 
 ---
 ### **Reference**
