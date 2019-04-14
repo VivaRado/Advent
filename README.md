@@ -815,7 +815,7 @@ gantt
         
         ADV-0004-0005 Autokern Reintegration to TYPL - Standalone Repo: done, des8, 2019-04-12, 6h
         ADV-0004-0006 Cupcake Day!:         done, des9, 2019-04-13, 2h
-        ADV-0004-0007:         des10, 2019-04-14, 2h
+        ADV-0004-0007 Advent Master Planning:         done, des10, 2019-04-14, 2h
         ADV-0004-0008:         des11, 2019-04-15, 2h
         ADV-0004-0009:         des12, 2019-04-16, 2h
         ADV-0004-0010:         des13, 2019-04-17, 2h
@@ -860,6 +860,7 @@ gantt
         *  ~~**ADV-0004-0003 Masters and Instances Map**~~ 2019-04-10 4h
         *  ~~**ADV-0004-0005 Autokern Reintegration to TYPL**~~ 2019-04-12 6h
         *  ~~**ADV-0004-0006 Advent Fontbakery Cupcake Day!**~~ 2019-04-13 2h
+        *  ~~**ADV-0004-0007 Advent Master Planning**~~ 2019-04-14 2h
 
 
 
