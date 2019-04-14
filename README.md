@@ -432,121 +432,88 @@ image: #001, 0.001, svg, Advent Masters and Instances sankey.
 
 ---
 
-1.  Contents ∞ 3.000:
+#### Masters
 
-	1.  Count:
-		*  MO = 3
-		*  MG = 3
-		*  I = 8
-		*  Master Glyphs: ≃ 2340
+| name                  | weight | size             | version   |
+| --------------------- | ------ | ---------------- | --------- |
+| Thin Normal           | 100    | 8pt, 24pt, 144pt | 3.000     |
+| Regular Normal        | 400    | 8pt, 24pt, 144pt | 3.000     |
+| Bold Normal           | 700    | 8pt, 24pt, 144pt | 3.000     |
+| Black Normal          | 700    | 8pt, 24pt, 144pt | **4.000** |
+| Thin Wide             | 100    | 8pt, 24pt, 144pt | **4.000** |
+| Regular Wide          | 400    | 8pt, 24pt, 144pt | **4.000** |
+| Bold Wide             | 700    | 8pt, 24pt, 144pt | **4.000** |
+| Black Wide            | 700    | 8pt, 24pt, 144pt | **4.000** |
+| Thin Italic Normal    | 100    | 8pt, 24pt, 144pt | 3.000     |
+| Regular Italic Normal | 400    | 8pt, 24pt, 144pt | 3.000     |
+| Bold Italic Normal    | 700    | 8pt, 24pt, 144pt | 3.000     |
+| Black Italic Normal   | 700    | 8pt, 24pt, 144pt | **4.000** |
+| Thin Italic Wide      | 100    | 8pt, 24pt, 144pt | **4.000** |
+| Regular Italic Wide   | 400    | 8pt, 24pt, 144pt | **4.000** |
+| Bold Italic Wide      | 700    | 8pt, 24pt, 144pt | **4.000** |
+| Black Italic Wide     | 700    | 8pt, 24pt, 144pt | **4.000** |
 
-	1.  Masters:
-		*  Thin (100)
-		*  Regular (400)
-		*  Bold (700)
-		*  Thin Italic (100)
-		*  Regular Italic (400)
-		*  Bold Italic(700)
+#### Instances
 
-	1.  Instances:
-		*  **thn**        100     Thin (Hairline)                          *MO*
-		*  **xlg**        200     Extra Light (Ultra Light)
-		*  **lgt**        300     Light
-		*  **reg**        400     Regular                                  *MO*
-		*  **med**        500     Medium
-		*  **smb**        600     Semi Bold (Demi Bold)
-		*  **bld**        700     Bold                                     *MO*
-		*  ~~xbd          800     Extra Bold (Ultra Bold)~~
-		*  ~~blk          900     Black (Heavy)~~
-		*  **thn-it**     100     Italic Thin (Hairline)               *MG*
-		*  **xlg-it**     200     Italic Extra Light (Ultra Light)
-		*  **lgt-it**     300     Italic Light
-		*  **reg-it**     400     Italic Regular                       *MG*
-		*  **med-it**     500     Italic Medium
-		*  **smb-it**     600     Italic Semi Bold (Demi Bold)
-		*  **bld-it**     700     Italic Bold                             *MG*
-		*  ~~xbd_it       800     Extra Bold (Ultra Bold)~~
-		*  ~~blk_it       900     Black (Heavy)~~
+| acro      | weight | name                             | master | version   |
+| --------- | ------ | -------------------------------- | ------ | --------- |
+| thn       | 100    | Thin (Hairline)                  | MO     | 3.000     |
+| xlg       | 200    | Extra Light (Ultra Light)        | MA     | 3.000     |
+| lgt       | 300    | Light                            | MA     | 3.000     |
+| reg       | 400    | Regular                          | MO     | 3.000     |
+| med       | 500    | Medium                           | MA     | 3.000     |
+| smb       | 600    | Semi Bold (Demi Bold)            | MA     | 3.000     |
+| bld       | 700    | Bold                             | MO     | 3.000     |
+| xbd       | 800    | Extra Bold (Ultra Bold)          | MA     | 3.000     |
+| blk       | 900    | Black (Heavy)                    | MO     | **4.000** |
+| thn-wd    | 100    | Thin (Hairline)                  | MG     | **4.000** |
+| xlg-wd    | 200    | Extra Light (Ultra Light)        | MA     | 3.000     |
+| lgt-wd    | 300    | Light                            | MA     | 3.000     |
+| reg-wd    | 400    | Regular                          | MG     | **4.000** |
+| med-wd    | 500    | Medium                           | MA     | 3.000     |
+| smb-wd    | 600    | Semi Bold (Demi Bold)            | MA     | 3.000     |
+| bld-wd    | 700    | Bold                             | MG     | **4.000** |
+| xbd-wd    | 800    | Extra Bold (Ultra Bold)          | MA     | 3.000     |
+| blk-wd    | 900    | Black (Heavy)                    | MG     | **4.000** |
+| thn-it    | 100    | Italic Thin (Hairline)           | MG     | 3.000     |
+| xlg-it    | 200    | Italic Extra Light (Ultra Light) | MA     | 3.000     |
+| lgt-it    | 300    | Italic Light                     | MA     | 3.000     |
+| reg-it    | 400    | Italic Regular                   | MG     | 3.000     |
+| med-it    | 500    | Italic Medium                    | MA     | 3.000     |
+| smb-it    | 600    | Italic Semi Bold (Demi Bold)     | MA     | 3.000     |
+| bld-it    | 700    | Italic Bold                      | MG     | 3.000     |
+| xbd-it    | 800    | Extra Bold (Ultra Bold)          | MA     | 3.000     |
+| blk-it    | 900    | Black (Heavy)                    | MG     | **4.000** |
+| thn-wd-it | 100    | Italic Thin (Hairline)           | MG     | **4.000** |
+| xlg-wd-it | 200    | Italic Extra Light (Ultra Light) | MA     | 3.000     |
+| lgt-wd-it | 300    | Italic Light                     | MA     | 3.000     |
+| reg-wd-it | 400    | Italic Regular                   | MG     | **4.000** |
+| med-wd-it | 500    | Italic Medium                    | MA     | 3.000     |
+| smb-wd-it | 600    | Italic Semi Bold (Demi Bold)     | MA     | 3.000     |
+| bld-wd-it | 700    | Italic Bold                      | MG     | **4.000** |
+| xbd-wd-it | 800    | Extra Bold (Ultra Bold)          | MA     | 3.000     |
+| blk-wd-it | 900    | Black (Heavy)                    | MG     | **4.000** |
 
-	*  Axes:
-		*  weight axes only
-		*  italic axes with weight axes
-		*  weight and italic axes
+#### Axes
+
+| axes                                        | version   |
+| ------------------------------------------- | --------- |
+| weight axes only                            | 3.000     |
+| italic axes with weight axes                | 3.000     |
+| weight and italic axes                      | 3.000     |
+| weight and width                            | **4.000** |
+| width axes only                             | **4.000** |
+| italic axes with weight axes and width axes | **4.000** |
+| optical Size                                | **4.000** |
 
 ---
 
-1.  Contents ∞ 4.000:
-	
-	1.  Count:
-		*  MO = 4
-		*  MG = 12
-		*  I = 16
-		*  Master Glyphs: ≃ 10352
+An example of what we are planning in terms of the new Black MO (Original Master)
+and new Wide MO.
 
-	1.  Masters: 
-		*  Thin Normal(100, 8pt, 24pt, 144pt)
-		*  Regular Normal(400, 8pt, 24pt, 144pt)
-		*  Bold Normal(700, 8pt, 24pt, 144pt)
-		*  Black Normal(700, 8pt, 24pt, 144pt) NEW!
-		*  Thin Wide(100, 8pt, 24pt, 144pt) NEW
-		*  Regular Wide(400, 8pt, 24pt, 144pt) NEW!
-		*  Bold Wide(700, 8pt, 24pt, 144pt) NEW!
-		*  Black Wide(700, 8pt, 24pt, 144pt) NEW!
-		*  Thin Italic Normal(100, 8pt, 24pt, 144pt)
-		*  Regular Italic Normal(400, 8pt, 24pt, 144pt)
-		*  Bold Italic Normal(700, 8pt, 24pt, 144pt)
-		*  Black Italic Normal(700, 8pt, 24pt, 144pt) NEW!
-		*  Thin Italic Wide(100, 8pt, 24pt, 144pt) NEW!
-		*  Regular Italic Wide(400, 8pt, 24pt, 144pt) NEW!
-		*  Bold Italic Wide(700, 8pt, 24pt, 144pt) NEW!
-		*  Black Italic Wide(700, 8pt, 24pt, 144pt) NEW!
+![adv_nrm_wde_bld_blk](README/assets/media/adv_nm_wd_bld_blk.svg)
 
-	1.  Instances: 
-		*  **thn**         100     Thin (Hairline)                         *MO*
-		*  **xlg**         200     Extra Light (Ultra Light)
-		*  **lgt**         300     Light
-		*  **reg**         400     Regular                                 *MO*
-		*  **med**         500     Medium
-		*  **smb**         600     Semi Bold (Demi Bold)
-		*  **bld**         700     Bold                                    *MO*
-		*  **xbd**         800     Extra Bold (Ultra Bold)
-		*  **blk**         900     Black (Heavy)                           *MO* NEW!
-		*  **thn-wd**      100     Thin (Hairline)                         *MG* NEW!
-		*  **xlg-wd**      200     Extra Light (Ultra Light)
-		*  **lgt-wd**      300     Light
-		*  **reg-wd**      400     Regular                                 *MG* NEW!
-		*  **med-wd**      500     Medium
-		*  **smb-wd**      600     Semi Bold (Demi Bold)
-		*  **bld-wd**      700     Bold                                    *MG* NEW!
-		*  **xbd-wd**      800     Extra Bold (Ultra Bold)
-		*  **blk-wd**      900     Black (Heavy)                           *MG* NEW!
-		*  **thn-it**      100     Italic Thin (Hairline)                  *MG*
-		*  **xlg-it**      200     Italic Extra Light (Ultra Light)
-		*  **lgt-it**      300     Italic Light
-		*  **reg-it**      400     Italic Regular                          *MG*
-		*  **med-it**      500     Italic Medium
-		*  **smb-it**      600     Italic Semi Bold (Demi Bold)
-		*  **bld-it**      700     Italic Bold                             *MG*
-		*  **xbd-it**      800     Extra Bold (Ultra Bold)
-		*  **blk-it**      900     Black (Heavy)                           *MG* NEW!
-		*  **thn-wd-it**   100     Italic Thin (Hairline)                  *MG* NEW!
-		*  **xlg-wd-it**   200     Italic Extra Light (Ultra Light)
-		*  **lgt-wd-it**   300     Italic Light
-		*  **reg-wd-it**   400     Italic Regular                          *MG* NEW!
-		*  **med-wd-it**   500     Italic Medium
-		*  **smb-wd-it**   600     Italic Semi Bold (Demi Bold)
-		*  **bld-wd-it**   700     Italic Bold                             *MG* NEW!
-		*  **xbd-wd-it**   800     Extra Bold (Ultra Bold)
-		*  **blk-wd-it**   900     Black (Heavy)                           *MG* NEW!
-
-	*  Axes:
-		*  weight axes only
-		*  italic axes with weight axes
-		*  weight and italic axes
-		*  weight and width
-		*  width axes only
-		*  italic axes with weight axes and width axes
-		*  optical Size
+image: #002, 0.001, svg, Advent bold-black and normal wide.
 
 ---
 

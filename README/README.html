@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
-		<title>VRD | Advent | 3.004 | 2019/04/13</title>
+		<title>VRD | Advent | 3.006 | 2019/04/14</title>
 		<link rel="stylesheet" type="text/css" href="assets/css/style.css">
 		<link rel="stylesheet" type="text/css" href="assets/css/code_native.css">
 		<script type="text/javascript" src="assets/js/mermaid.js"></script>
@@ -125,11 +125,11 @@
 <h4>Contributors:</h4>
 
 <ul>
-<li>VivaRado <a href="&#109;&#x61;&#x69;&#x6c;&#x74;&#x6f;&#x3a;&#115;&#117;&#x70;&#x70;&#111;&#x72;&#116;&#64;&#118;i&#118;&#x61;&#114;&#97;&#100;&#x6f;&#46;&#x63;&#x6f;m">&#115;&#117;&#x70;&#x70;&#111;&#x72;&#116;&#64;&#118;i&#118;&#x61;&#114;&#97;&#100;&#x6f;&#46;&#x63;&#x6f;m</a></li>
+<li>VivaRado <a href="&#x6d;&#97;&#x69;&#108;&#x74;&#111;:&#x73;&#117;p&#x70;&#x6f;&#114;&#116;&#64;v&#x69;&#x76;&#x61;&#x72;&#x61;&#100;&#111;&#x2e;&#x63;&#x6f;&#x6d;">&#x73;&#117;p&#x70;&#x6f;&#114;&#116;&#64;v&#x69;&#x76;&#x61;&#x72;&#x61;&#100;&#111;&#x2e;&#x63;&#x6f;&#x6d;</a></li>
 <li>Andreas Kalpakidis</li>
 <li>Madina Akhmatova</li>
 <li>Dave Crossland</li>
-<li>Michael LaGattuta <a href="&#x6d;&#97;&#105;l&#116;&#x6f;&#58;&#x6d;&#x6a;&#x6c;&#97;&#103;&#x61;&#116;&#116;&#117;&#x74;&#x61;&#64;&#x67;&#109;&#97;&#105;&#x6c;&#x2e;&#x63;&#x6f;&#109;">&#x6d;&#x6a;&#x6c;&#97;&#103;&#x61;&#116;&#116;&#117;&#x74;&#x61;&#64;&#x67;&#109;&#97;&#105;&#x6c;&#x2e;&#x63;&#x6f;&#109;</a></li>
+<li>Michael LaGattuta <a href="&#x6d;&#x61;&#x69;&#x6c;&#x74;&#x6f;&#x3a;&#x6d;j&#x6c;&#97;g&#x61;&#x74;&#116;&#x75;&#116;&#97;&#64;&#x67;&#109;&#97;&#x69;&#x6c;&#x2e;&#99;om">&#x6d;j&#x6c;&#97;g&#x61;&#x74;&#116;&#x75;&#116;&#97;&#64;&#x67;&#109;&#97;&#x69;&#x6c;&#x2e;&#99;om</a></li>
 <li>Behdad Esfahbod</li>
 </ul>
 
@@ -550,176 +550,455 @@
 
 <hr />
 
-<ol>
-<li><p>Contents ∞ 3.000:</p>
+<h4>Masters</h4>
 
-<ol>
-<li><p>Count:</p>
+<table>
+<thead>
+<tr>
+  <th>name</th>
+  <th>weight</th>
+  <th>size</th>
+  <th>version</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Thin Normal</td>
+  <td>100</td>
+  <td>8pt, 24pt, 144pt</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>Regular Normal</td>
+  <td>400</td>
+  <td>8pt, 24pt, 144pt</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>Bold Normal</td>
+  <td>700</td>
+  <td>8pt, 24pt, 144pt</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>Black Normal</td>
+  <td>700</td>
+  <td>8pt, 24pt, 144pt</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>Thin Wide</td>
+  <td>100</td>
+  <td>8pt, 24pt, 144pt</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>Regular Wide</td>
+  <td>400</td>
+  <td>8pt, 24pt, 144pt</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>Bold Wide</td>
+  <td>700</td>
+  <td>8pt, 24pt, 144pt</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>Black Wide</td>
+  <td>700</td>
+  <td>8pt, 24pt, 144pt</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>Thin Italic Normal</td>
+  <td>100</td>
+  <td>8pt, 24pt, 144pt</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>Regular Italic Normal</td>
+  <td>400</td>
+  <td>8pt, 24pt, 144pt</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>Bold Italic Normal</td>
+  <td>700</td>
+  <td>8pt, 24pt, 144pt</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>Black Italic Normal</td>
+  <td>700</td>
+  <td>8pt, 24pt, 144pt</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>Thin Italic Wide</td>
+  <td>100</td>
+  <td>8pt, 24pt, 144pt</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>Regular Italic Wide</td>
+  <td>400</td>
+  <td>8pt, 24pt, 144pt</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>Bold Italic Wide</td>
+  <td>700</td>
+  <td>8pt, 24pt, 144pt</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>Black Italic Wide</td>
+  <td>700</td>
+  <td>8pt, 24pt, 144pt</td>
+  <td><strong>4.000</strong></td>
+</tr>
+</tbody>
+</table>
 
-<ul>
-<li>MO = 3</li>
-<li>MG = 3</li>
-<li>I = 8</li>
-<li>Master Glyphs: ≃ 2340</li>
-</ul></li>
-<li><p>Masters:</p>
+<h4>Instances</h4>
 
-<ul>
-<li>Thin (100)</li>
-<li>Regular (400)</li>
-<li>Bold (700)</li>
-<li>Thin Italic (100)</li>
-<li>Regular Italic (400)</li>
-<li>Bold Italic(700)</li>
-</ul></li>
-<li><p>Instances:</p>
+<table>
+<thead>
+<tr>
+  <th>acro</th>
+  <th>weight</th>
+  <th>name</th>
+  <th>master</th>
+  <th>version</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>thn</td>
+  <td>100</td>
+  <td>Thin (Hairline)</td>
+  <td>MO</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>xlg</td>
+  <td>200</td>
+  <td>Extra Light (Ultra Light)</td>
+  <td>MA</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>lgt</td>
+  <td>300</td>
+  <td>Light</td>
+  <td>MA</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>reg</td>
+  <td>400</td>
+  <td>Regular</td>
+  <td>MO</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>med</td>
+  <td>500</td>
+  <td>Medium</td>
+  <td>MA</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>smb</td>
+  <td>600</td>
+  <td>Semi Bold (Demi Bold)</td>
+  <td>MA</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>bld</td>
+  <td>700</td>
+  <td>Bold</td>
+  <td>MO</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>xbd</td>
+  <td>800</td>
+  <td>Extra Bold (Ultra Bold)</td>
+  <td>MA</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>blk</td>
+  <td>900</td>
+  <td>Black (Heavy)</td>
+  <td>MO</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>thn-wd</td>
+  <td>100</td>
+  <td>Thin (Hairline)</td>
+  <td>MG</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>xlg-wd</td>
+  <td>200</td>
+  <td>Extra Light (Ultra Light)</td>
+  <td>MA</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>lgt-wd</td>
+  <td>300</td>
+  <td>Light</td>
+  <td>MA</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>reg-wd</td>
+  <td>400</td>
+  <td>Regular</td>
+  <td>MG</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>med-wd</td>
+  <td>500</td>
+  <td>Medium</td>
+  <td>MA</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>smb-wd</td>
+  <td>600</td>
+  <td>Semi Bold (Demi Bold)</td>
+  <td>MA</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>bld-wd</td>
+  <td>700</td>
+  <td>Bold</td>
+  <td>MG</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>xbd-wd</td>
+  <td>800</td>
+  <td>Extra Bold (Ultra Bold)</td>
+  <td>MA</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>blk-wd</td>
+  <td>900</td>
+  <td>Black (Heavy)</td>
+  <td>MG</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>thn-it</td>
+  <td>100</td>
+  <td>Italic Thin (Hairline)</td>
+  <td>MG</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>xlg-it</td>
+  <td>200</td>
+  <td>Italic Extra Light (Ultra Light)</td>
+  <td>MA</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>lgt-it</td>
+  <td>300</td>
+  <td>Italic Light</td>
+  <td>MA</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>reg-it</td>
+  <td>400</td>
+  <td>Italic Regular</td>
+  <td>MG</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>med-it</td>
+  <td>500</td>
+  <td>Italic Medium</td>
+  <td>MA</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>smb-it</td>
+  <td>600</td>
+  <td>Italic Semi Bold (Demi Bold)</td>
+  <td>MA</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>bld-it</td>
+  <td>700</td>
+  <td>Italic Bold</td>
+  <td>MG</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>xbd-it</td>
+  <td>800</td>
+  <td>Extra Bold (Ultra Bold)</td>
+  <td>MA</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>blk-it</td>
+  <td>900</td>
+  <td>Black (Heavy)</td>
+  <td>MG</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>thn-wd-it</td>
+  <td>100</td>
+  <td>Italic Thin (Hairline)</td>
+  <td>MG</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>xlg-wd-it</td>
+  <td>200</td>
+  <td>Italic Extra Light (Ultra Light)</td>
+  <td>MA</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>lgt-wd-it</td>
+  <td>300</td>
+  <td>Italic Light</td>
+  <td>MA</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>reg-wd-it</td>
+  <td>400</td>
+  <td>Italic Regular</td>
+  <td>MG</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>med-wd-it</td>
+  <td>500</td>
+  <td>Italic Medium</td>
+  <td>MA</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>smb-wd-it</td>
+  <td>600</td>
+  <td>Italic Semi Bold (Demi Bold)</td>
+  <td>MA</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>bld-wd-it</td>
+  <td>700</td>
+  <td>Italic Bold</td>
+  <td>MG</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>xbd-wd-it</td>
+  <td>800</td>
+  <td>Extra Bold (Ultra Bold)</td>
+  <td>MA</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>blk-wd-it</td>
+  <td>900</td>
+  <td>Black (Heavy)</td>
+  <td>MG</td>
+  <td><strong>4.000</strong></td>
+</tr>
+</tbody>
+</table>
 
-<ul>
-<li><strong>thn</strong>        100     Thin (Hairline)                          <em>MO</em></li>
-<li><strong>xlg</strong>        200     Extra Light (Ultra Light)</li>
-<li><strong>lgt</strong>        300     Light</li>
-<li><strong>reg</strong>        400     Regular                                  <em>MO</em></li>
-<li><strong>med</strong>        500     Medium</li>
-<li><strong>smb</strong>        600     Semi Bold (Demi Bold)</li>
-<li><strong>bld</strong>        700     Bold                                     <em>MO</em></li>
-<li><strike>xbd          800     Extra Bold (Ultra Bold)</strike></li>
-<li><strike>blk          900     Black (Heavy)</strike></li>
-<li><strong>thn-it</strong>     100     Italic Thin (Hairline)               <em>MG</em></li>
-<li><strong>xlg-it</strong>     200     Italic Extra Light (Ultra Light)</li>
-<li><strong>lgt-it</strong>     300     Italic Light</li>
-<li><strong>reg-it</strong>     400     Italic Regular                       <em>MG</em></li>
-<li><strong>med-it</strong>     500     Italic Medium</li>
-<li><strong>smb-it</strong>     600     Italic Semi Bold (Demi Bold)</li>
-<li><strong>bld-it</strong>     700     Italic Bold                             <em>MG</em></li>
-<li><strike>xbd_it       800     Extra Bold (Ultra Bold)</strike></li>
-<li><strike>blk_it       900     Black (Heavy)</strike></li>
-</ul></li>
-</ol>
+<h4>Axes</h4>
 
-<ul>
-<li>Axes:
-<ul>
-<li>weight axes only</li>
-<li>italic axes with weight axes</li>
-<li>weight and italic axes</li>
-</ul></li>
-</ul></li>
-</ol>
+<table>
+<thead>
+<tr>
+  <th>axes</th>
+  <th>version</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>weight axes only</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>italic axes with weight axes</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>weight and italic axes</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>weight and width</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>width axes only</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>italic axes with weight axes and width axes</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>optical Size</td>
+  <td><strong>4.000</strong></td>
+</tr>
+</tbody>
+</table>
 
 <hr />
 
+<p>An example of what we are planning in terms of the new Black MO (Original Master)
+and new Wide MO.</p>
 
-<ol>
-<li><p>Contents ∞ 4.000:</p>
+<p><img src="assets/media/adv_nm_wd_bld_blk.svg" alt="adv<em>nrm</em>wde<em>bld</em>blk" /></p>
 
-<ol>
-<li><p>Count:</p>
-
-<ul>
-<li>MO = 4</li>
-<li>MG = 12</li>
-<li>I = 16</li>
-<li>Master Glyphs: ≃ 10352</li>
-</ul></li>
-<li><p>Masters: </p>
-
-<ul>
-<li>Thin Normal(100, 8pt, 24pt, 144pt)</li>
-<li>Regular Normal(400, 8pt, 24pt, 144pt)</li>
-<li>Bold Normal(700, 8pt, 24pt, 144pt)</li>
-<li>Black Normal(700, 8pt, 24pt, 144pt) NEW!</li>
-<li>Thin Wide(100, 8pt, 24pt, 144pt) NEW</li>
-<li>Regular Wide(400, 8pt, 24pt, 144pt) NEW!</li>
-<li>Bold Wide(700, 8pt, 24pt, 144pt) NEW!</li>
-<li>Black Wide(700, 8pt, 24pt, 144pt) NEW!</li>
-<li>Thin Italic Normal(100, 8pt, 24pt, 144pt)</li>
-<li>Regular Italic Normal(400, 8pt, 24pt, 144pt)</li>
-<li>Bold Italic Normal(700, 8pt, 24pt, 144pt)</li>
-<li>Black Italic Normal(700, 8pt, 24pt, 144pt) NEW!</li>
-<li>Thin Italic Wide(100, 8pt, 24pt, 144pt) NEW!</li>
-<li>Regular Italic Wide(400, 8pt, 24pt, 144pt) NEW!</li>
-<li>Bold Italic Wide(700, 8pt, 24pt, 144pt) NEW!</li>
-<li>Black Italic Wide(700, 8pt, 24pt, 144pt) NEW!</li>
-</ul></li>
-<li><p>Instances: </p>
-
-<ul>
-<li><strong>thn</strong>         100     Thin (Hairline)                         <em>MO</em></li>
-<li><strong>xlg</strong>         200     Extra Light (Ultra Light)</li>
-<li><strong>lgt</strong>         300     Light</li>
-<li><strong>reg</strong>         400     Regular                                 <em>MO</em></li>
-<li><strong>med</strong>         500     Medium</li>
-<li><strong>smb</strong>         600     Semi Bold (Demi Bold)</li>
-<li><strong>bld</strong>         700     Bold                                    <em>MO</em></li>
-<li><strong>xbd</strong>         800     Extra Bold (Ultra Bold)</li>
-<li><strong>blk</strong>         900     Black (Heavy)                           <em>MO</em> NEW!</li>
-<li><strong>thn-wd</strong>      100     Thin (Hairline)                         <em>MG</em> NEW!</li>
-<li><strong>xlg-wd</strong>      200     Extra Light (Ultra Light)</li>
-<li><strong>lgt-wd</strong>      300     Light</li>
-<li><strong>reg-wd</strong>      400     Regular                                 <em>MG</em> NEW!</li>
-<li><strong>med-wd</strong>      500     Medium</li>
-<li><strong>smb-wd</strong>      600     Semi Bold (Demi Bold)</li>
-<li><strong>bld-wd</strong>      700     Bold                                    <em>MG</em> NEW!</li>
-<li><strong>xbd-wd</strong>      800     Extra Bold (Ultra Bold)</li>
-<li><strong>blk-wd</strong>      900     Black (Heavy)                           <em>MG</em> NEW!</li>
-<li><strong>thn-it</strong>      100     Italic Thin (Hairline)                  <em>MG</em></li>
-<li><strong>xlg-it</strong>      200     Italic Extra Light (Ultra Light)</li>
-<li><strong>lgt-it</strong>      300     Italic Light</li>
-<li><strong>reg-it</strong>      400     Italic Regular                          <em>MG</em></li>
-<li><strong>med-it</strong>      500     Italic Medium</li>
-<li><strong>smb-it</strong>      600     Italic Semi Bold (Demi Bold)</li>
-<li><strong>bld-it</strong>      700     Italic Bold                             <em>MG</em></li>
-<li><strong>xbd-it</strong>      800     Extra Bold (Ultra Bold)</li>
-<li><strong>blk-it</strong>      900     Black (Heavy)                           <em>MG</em> NEW!</li>
-<li><strong>thn-wd-it</strong>   100     Italic Thin (Hairline)                  <em>MG</em> NEW!</li>
-<li><strong>xlg-wd-it</strong>   200     Italic Extra Light (Ultra Light)</li>
-<li><strong>lgt-wd-it</strong>   300     Italic Light</li>
-<li><strong>reg-wd-it</strong>   400     Italic Regular                          <em>MG</em> NEW!</li>
-<li><strong>med-wd-it</strong>   500     Italic Medium</li>
-<li><strong>smb-wd-it</strong>   600     Italic Semi Bold (Demi Bold)</li>
-<li><strong>bld-wd-it</strong>   700     Italic Bold                             <em>MG</em> NEW!</li>
-<li><strong>xbd-wd-it</strong>   800     Extra Bold (Ultra Bold)</li>
-<li><strong>blk-wd-it</strong>   900     Black (Heavy)                           <em>MG</em> NEW!</li>
-</ul></li>
-</ol>
-
-<ul>
-<li>Axes:
-<ul>
-<li>weight axes only</li>
-<li>italic axes with weight axes</li>
-<li>weight and italic axes</li>
-<li>weight and width</li>
-<li>width axes only</li>
-<li>italic axes with weight axes and width axes</li>
-<li>optical Size</li>
-</ul></li>
-</ul></li>
-</ol>
+<p>image: #002, 0.001, svg, Advent bold-black and normal wide.</p>
 
 <hr />
-
 
 <h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Kerning</strong></h3>
 
-With the help of Typefacet Integrated Autokern, we have obtained the first layer of kerning for the upright bold.
+<p>With the help of Typefacet Integrated Autokern, we have obtained the first layer of kerning for the upright bold.
 By using VRD TYPL Kerning Adjust, 
-we made the corrections, and the rest of the optimisations required per weight.
+we made the corrections, and the rest of the optimisations required per weight.</p>
 
-We have Classified our glyphs in a way where no kerning loss is observed. By dividing by Language Set, without language intrusion between classes.
-Small Case and Capitals are also non intruding. This increases size minimally but maintains kerning pair loss at zero.
+<p>We have Classified our glyphs in a way where no kerning loss is observed. By dividing by Language Set, without language intrusion between classes.
+Small Case and Capitals are also non intruding. This increases size minimally but maintains kerning pair loss at zero.</p>
 
-During the process we attempted to maintain the Italics width according to the contour. This created a larger alteration size and jittering italics transition due to changing width - even if the kerning was precise. We eventually opted for the slant-to-right-side-corner and maintained the regular kerning along to the italics and smoother animation on Italics.
-
+<p>During the process we attempted to maintain the Italics width according to the contour. This created a larger alteration size and jittering italics transition due to changing width - even if the kerning was precise. We eventually opted for the slant-to-right-side-corner and maintained the regular kerning along to the italics and smoother animation on Italics.</p>
 
 <hr />
 
-
 <h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Kerning / Standard Sets</strong></h3>
 
-All the letter combinations have been kerned but we also perform testing afterwards, for various reasons (Ommited) some kerning pairs are not included. This brings us to testing the kerning on a specific set of letters, the other letters are left to maintain the mechanical, automated kerning.
+<p>All the letter combinations have been kerned but we also perform testing afterwards, for various reasons (Ommited) some kerning pairs are not included. This brings us to testing the kerning on a specific set of letters, the other letters are left to maintain the mechanical, automated kerning.</p>
 
-VivaRado standard kerning sets are defined as follows:
+<p>VivaRado standard kerning sets are defined as follows:</p>
 
 <ul>
 <li><p>Letter Based(LB):</p>
@@ -1193,7 +1472,7 @@ later you can export to Componentized UFOs.</p>
 </ul></li>
 <li>User Feedback Mechanisms:
 <ul>
-<li><a href="&#x6d;a&#105;&#x6c;&#x74;&#111;&#x3a;&#115;&#x75;&#112;&#x70;&#x6f;&#x72;&#x74;&#64;&#118;&#105;&#118;&#97;&#x72;ad&#111;&#46;&#x63;&#111;&#109;">&#115;&#x75;&#112;&#x70;&#x6f;&#x72;&#x74;&#64;&#118;&#105;&#118;&#97;&#x72;ad&#111;&#46;&#x63;&#111;&#109;</a></li>
+<li><a href="&#x6d;&#97;&#x69;&#x6c;&#x74;&#x6f;&#x3a;&#115;&#x75;&#x70;&#x70;&#111;&#x72;&#116;&#x40;&#x76;&#x69;&#x76;&#x61;&#114;&#97;&#100;&#x6f;&#46;c&#x6f;&#x6d;">&#115;&#x75;&#x70;&#x70;&#111;&#x72;&#116;&#x40;&#x76;&#x69;&#x76;&#x61;&#114;&#97;&#100;&#x6f;&#46;c&#x6f;&#x6d;</a></li>
 </ul></li>
 </ul></li>
 </ul>
