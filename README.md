@@ -687,7 +687,7 @@ Or from EFO:
 
 
 
-#### Work Breakdown Structure
+#### Kerning Work Breakdown Structure
 
 ```mermaid
 sequenceDiagram
