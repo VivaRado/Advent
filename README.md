@@ -798,7 +798,9 @@ For the kerning we depend on TypeFacet Autokern.
 
 Overview:
 
-At this point we are waiting a PR and in April we can start the planning for Advent 4 that is the inclusion of Cyrillic.
+**2019-04-14**:
+
+We updated Autokern to python3 allowing it to still function in python2, a very important step as it will be used for kerning throughout all the new weights and widths. We have overviewed and identified the glyph sets and encoding NAMs we are going to use for the extension to scripts like cyrillic. We have an understanding of what are the contour alterations that will allow for the new masters, like wide and black in terms of percentage of alteration and we have initiated the design of some glyphs during.
 
 ```mermaid
 gantt
