@@ -508,8 +508,7 @@ image: #001, 0.001, svg, Advent Masters and Instances sankey.
 
 ---
 
-An example of what we are planning in terms of the new Black MO (Original Master)
-and new Wide MO.
+An example of what we are planning in terms of the new Black MO (Original Master) and new Wide MO. The wide version is planned to be **20% Wider** compared to the current normal and the black version is planned to be **60% Bolder** compared to the current bold.
 
 ![adv_nrm_wde_bld_blk](README/assets/media/adv_nm_wd_bld_blk.svg)
 
