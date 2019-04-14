@@ -754,7 +754,7 @@ sequenceDiagram
 	end
 
 ```
-diagram: #006, ∞0.001, mermaid, Work Breakdown Structure of Advent
+diagram: #006, ∞0.001, mermaid, Work Breakdown Structure of Advent for Kerning.
 
 ---
 
