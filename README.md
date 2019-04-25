@@ -428,7 +428,7 @@ The diagram shows the Original Masters (MO), Generated Masters (MG) that get adj
 
 ![Masters and Instances](README/assets/media/advent_masters_sankey.svg)
 
-image: #001, 0.001, svg, Advent Masters and Instances sankey.
+image: #001, 0.002, svg, Advent Masters and Instances sankey.
 
 ---
 
@@ -512,7 +512,7 @@ An example of what we are planning in terms of the new Black MO (Original Master
 
 ![adv_nrm_wde_bld_blk](README/assets/media/adv_mo_mg.svg)
 
-image: #002, 0.001, svg, Advent bold-black and normal wide.
+image: #002, 0.002, svg, Advent MO and MG Masters.
 
 ---
 
