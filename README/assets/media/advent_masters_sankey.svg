@@ -1,748 +1,1732 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="sankey_svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="155 72 1126.6 650" style="enable-background:new 155 72 1126.6 650;" xml:space="preserve">
+	 width="1126.6px" height="650px" viewBox="257 72 1126.6 650" style="enable-background:new 257 72 1126.6 650;"
+	 xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#3182BD;stroke-width:21.625;stroke-opacity:0.4;}
-	.st1{fill:none;stroke:#FFB77B;stroke-width:21.625;stroke-opacity:0.4;}
-	.st2{fill:none;stroke:#A1D99B;stroke-width:21.625;stroke-opacity:0.4;}
-	.st3{fill:none;stroke:#86C3B8;stroke-width:21.625;stroke-opacity:0.4;}
-	.st4{fill:none;stroke:#B49D89;stroke-width:21.625;stroke-opacity:0.4;}
-	.st5{opacity:0.9;fill:#3182BD;}
-	.st6{opacity:0.9;fill:#A1D99B;}
-	.st7{fill:#FFFFFF;}
-	.st8{font-family:monospace;}
-	.st9{font-size:21px;}
-	.st10{fill:#FD8D3C;fill-opacity:0.9;}
-	.st11{fill:#6BAED6;fill-opacity:0.9;}
-	.st12{font-size:15px;}
-	.st13{fill:#86C3B8;fill-opacity:0.9;}
-	.st14{opacity:0.9;fill:#86C3B8;}
-	.st15{fill:#B49D89;fill-opacity:0.9;}
-	.st16{fill:#E0CCBD;fill-opacity:0.9;}
-	.st17{opacity:0.9;fill:#B49D89;}
-	.st18{fill:#9DB0A0;fill-opacity:0.9;}
-	.st19{font-size:11px;}
-	.st20{fill:#A7DBF2;fill-opacity:0.9;}
-	.st21{opacity:0.9;fill:#E0CCBD;}
-	.st22{fill:#B1DDD4;fill-opacity:0.9;}
-	.st23{fill:#C4D6C6;fill-opacity:0.9;}
-	.st24{fill:none;stroke:#3182BD;stroke-width:11;stroke-opacity:0.4;}
-	.st25{opacity:0.4;}
-	.st26{fill:none;stroke:#B49D89;stroke-width:11;}
-	.st27{fill:none;stroke:#86C3B8;stroke-width:11;stroke-opacity:0.4;}
-	.st28{fill:none;stroke:#739990;stroke-width:11;stroke-opacity:0.4;}
-	.st29{enable-background:new    ;}
-	.st30{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st0{fill:none;stroke:#231F20;stroke-miterlimit:10;}
+	.st1{fill:#231F20;}
+	.st2{fill:#FFFFFF;}
+	.st3{enable-background:new    ;}
+	.st4{font-family:'monospace';}
+	.st5{font-size:20.1313px;}
+	.st6{font-size:14.3795px;}
+	.st7{font-size:10.545px;}
+	.st8{fill:none;stroke:#231F20;stroke-miterlimit:10;stroke-dasharray:2.1026,2.1026;}
+	.st9{fill:none;stroke:#231F20;stroke-miterlimit:10;stroke-dasharray:1.9711,1.9711;}
+	.st10{fill:none;stroke:#231F20;stroke-miterlimit:10;stroke-dasharray:2.0285,2.0285;}
+	.st11{fill:none;stroke:#231F20;stroke-miterlimit:10;stroke-dasharray:2.0066,2.0066;}
+	.st12{fill:none;stroke:#231F20;stroke-miterlimit:10;stroke-dasharray:1.9695,1.9695;}
 </style>
 <title>Your Diagram Title</title>
-<g>
-	<path class="st0" d="M382.5,227.7h40.9l117.4-97.8H569	">
-<title>weight_axes → thn:
-1</title>
-	</path>
-	<path class="st0" d="M382.5,249.3h68.7l88.5,44.8H569	">
-<title>weight_axes → reg:
-1</title>
-	</path>
-	<path class="st0" d="M382.5,270.9h57.9l100.1,188.4H569	">
-<title>weight_axes → bld:
-1</title>
-	</path>
-	<path class="st0" d="M382.5,292.6h42.9l115.4,333.1H569	">
-<title>weight_axes → blk:
-1</title>
-	</path>
-	<path class="st1" d="M382.5,364.8h42.9l290.6-248.4h23.6	">
-<title>width_axes → thn_wd:
-1</title>
-	</path>
-	<path class="st1" d="M382.5,386.4h158.3l175.1-103.5h23.6	">
-<title>width_axes → reg_wd:
-1</title>
-	</path>
-	<path class="st1" d="M382.5,408.1h158.3l175.1,41.4h23.6	">
-<title>width_axes → bld_wd:
-1</title>
-	</path>
-	<path class="st1" d="M382.5,429.7h40.9l292.5,164.6h23.6	">
-<title>width_axes → blk_wd:
-1</title>
-	</path>
-	<path class="st2" d="M382.5,502.3h40.7l481.8-302.6h25.3	">
-<title>ital_axes → thn_it:
-1</title>
-	</path>
-	<path class="st2" d="M382.5,523.9h50.9l471.5-157.7h23.6	">
-<title>ital_axes → reg_it:
-1</title>
-	</path>
-	<path class="st2" d="M382.5,545.6h56.2l466.3-12.9h23.6	">
-<title>ital_axes → bld_it:
-1</title>
-	</path>
-	<path class="st2" d="M382.5,567.2h40.9l481.5,132h23.6	">
-<title>ital_axes → blk_it:
-1</title>
-	</path>
-	<path class="st0" d="M629,151.5h23l252.9,26.6h23.6	">
-<title>thn → thn_it:
-1</title>
-	</path>
-	<path class="st0" d="M629,316.7h23l252.9,27.8h23.6	">
-<title>reg → reg_it:
-1</title>
-	</path>
-	<path class="st0" d="M629,481h23l252.9,30.1h23.6	">
-<title>bld → bld_it:
-1</title>
-	</path>
-	<path class="st0" d="M629,647.2h23l252.9,30.3h23.6	">
-<title>blk → blk_it:
-1</title>
-	</path>
-	<path class="st0" d="M629,129.9h21.5l65.4-35.1h23.6	">
-<title>thn → thn_wd:
-1</title>
-	</path>
-	<path class="st0" d="M629,295.1h24.7l62.2-33.8h23.6	">
-<title>reg → reg_wd:
-1</title>
-	</path>
-	<path class="st0" d="M629,459.4h23.2l63.8-31.6h23.6	">
-<title>bld → bld_wd:
-1</title>
-	</path>
-	<path class="st0" d="M629,625.6h23l63.9-9.7h23.6	">
-<title>blk → blk_wd:
-1</title>
-	</path>
-	<path class="st3" d="M1008.5,178.1h26.5l52-26.9h24	">
-<title>thn_it → thn_wd_it:
-1</title>
-	</path>
-	<path class="st3" d="M1008.5,344.6h26.5l52-28.3h24	">
-<title>reg_it → reg_wd_it:
-1</title>
-	</path>
-	<path class="st3" d="M1008.5,511.1h26.5l51.1-29.7h24.9	">
-<title>bld_it → bld_wd_it:
-1</title>
-	</path>
-	<path class="st3" d="M1008.5,677.6h26.5l52-29.3h24	">
-<title>blk_it → blk_wd_it:
-1</title>
-	</path>
-	<path class="st4" d="M819.5,94.8H846l241.3,34.7h23.7	">
-<title>thn_wd → thn_wd_it:
-1</title>
-	</path>
-	<path class="st4" d="M819.5,261.3H846l241,33.3h24	">
-<title>reg_wd → reg_wd_it:
-1</title>
-	</path>
-	<path class="st4" d="M819.5,427.8H846l241,31.9h24	">
-<title>bld_wd → bld_wd_it:
-1</title>
-	</path>
-	<path class="st4" d="M819.5,594.3H846l241,32.4h24	">
-<title>blk_wd → blk_wd_it:
-1</title>
-	</path>
-</g>
-<g transform="translate(216.5,264.875)">
-	<g>
-		<g id="r1_9_" shape-rendering="crispEdges">
-			<rect x="-44.5" y="-48" class="st5" width="210.5" height="86.7"/>
-			<title>weight_axes:
+<g id="XMLID_1980_">
+	<g id="XMLID_1283_">
+		<g id="XMLID_1282_">
+			<g id="XMLID_1281_">
+				<g id="XMLID_1765_">
+					<g id="XMLID_1847_">
+						<polyline class="st0" points="507.5,233.3 546.7,233.3 659.2,139.5 680.2,139.5 						"/>
+						<g>
+							<polygon class="st1" points="676.8,143.6 676.2,142.9 679.8,139.5 676.2,136.2 676.8,135.5 681.2,139.5 							"/>
+						</g>
+					</g>
+					<g id="XMLID_1844_">
+						<polyline class="st0" points="507.5,254 573.3,254 658.1,296.9 680.2,296.9 						"/>
+						<g>
+							<polygon class="st1" points="676.8,301 676.2,300.3 679.8,296.9 676.2,293.6 676.8,292.9 681.2,296.9 							"/>
+						</g>
+					</g>
+					<g id="XMLID_1841_">
+						<polyline class="st0" points="507.5,274.7 563,274.7 658.9,455.3 680.2,455.3 						"/>
+						<g>
+							<polygon class="st1" points="676.8,459.4 676.2,458.7 679.8,455.3 676.2,452 676.8,451.2 681.2,455.3 							"/>
+						</g>
+					</g>
+					<g id="XMLID_1838_">
+						<polyline class="st0" points="507.5,295.5 548.6,295.5 659.2,614.8 680.2,614.8 						"/>
+						<g>
+							<polygon class="st1" points="676.8,618.9 676.2,618.2 679.8,614.8 676.2,611.5 676.8,610.7 681.2,614.8 							"/>
+						</g>
+					</g>
+					<g id="XMLID_1835_">
+						<polyline class="st0" points="507.5,364.7 548.6,364.7 827.2,126.6 843.7,126.6 						"/>
+						<g>
+							<polygon class="st1" points="840.4,130.7 839.7,130 843.3,126.6 839.7,123.2 840.4,122.5 844.8,126.6 							"/>
+						</g>
+					</g>
+					<g id="XMLID_1832_">
+						<polyline class="st0" points="507.5,385.4 659.2,385.4 827.1,286.2 843.6,286.2 						"/>
+						<g>
+							<polygon class="st1" points="840.3,290.3 839.6,289.6 843.2,286.2 839.6,282.9 840.3,282.1 844.7,286.2 							"/>
+						</g>
+					</g>
+					<g id="XMLID_1829_">
+						<polyline class="st0" points="507.5,406.2 659.2,406.2 827.1,445.9 843.6,445.9 						"/>
+						<g>
+							<polygon class="st1" points="840.3,450 839.6,449.3 843.2,445.9 839.6,442.6 840.3,441.8 844.7,445.9 							"/>
+						</g>
+					</g>
+					<g id="XMLID_1826_">
+						<polyline class="st0" points="507.5,426.9 546.7,426.9 827.1,584.7 843.6,584.7 						"/>
+						<g>
+							<polygon class="st1" points="840.3,588.8 839.6,588.1 843.2,584.7 839.6,581.4 840.3,580.6 844.7,584.7 							"/>
+						</g>
+					</g>
+					<g id="XMLID_1823_">
+						<polyline class="st0" points="507.5,496.5 546.5,496.5 1003.3,206.5 1026.5,206.5 						"/>
+						<g>
+							<polygon class="st1" points="1023.2,210.5 1022.5,209.8 1026.1,206.5 1022.5,203.1 1023.2,202.4 1027.6,206.5 							"/>
+						</g>
+					</g>
+					<g id="XMLID_1820_">
+						<polyline class="st0" points="507.5,517.2 556.2,517.2 979,366.1 1024.8,366.1 						"/>
+						<g>
+							<polygon class="st1" points="1021.5,370.2 1020.8,369.4 1024.4,366.1 1020.8,362.7 1021.5,362 1025.9,366.1 							"/>
+						</g>
+					</g>
+					<g id="XMLID_1817_">
+						<polyline class="st0" points="507.5,538 561.3,538 1008.3,525.7 1024.9,525.7 						"/>
+						<g>
+							<polygon class="st1" points="1021.6,529.8 1020.9,529 1024.5,525.7 1020.9,522.3 1021.6,521.6 1026,525.7 							"/>
+						</g>
+					</g>
+					<g id="XMLID_1814_">
+						<polyline class="st0" points="507.5,558.8 546.7,558.8 1008.2,685.3 1024.8,685.3 						"/>
+						<g>
+							<polygon class="st1" points="1021.5,689.4 1020.8,688.6 1024.4,685.3 1020.8,681.9 1021.5,681.2 1025.9,685.3 							"/>
+						</g>
+					</g>
+					<g id="XMLID_1811_">
+						<polyline class="st0" points="743.8,160.2 765.8,160.2 1003.2,185.7 1024.8,185.7 						"/>
+						<g>
+							<polygon class="st1" points="1021.5,189.8 1020.8,189.1 1024.4,185.7 1020.8,182.4 1021.5,181.7 1025.9,185.7 							"/>
+						</g>
+					</g>
+					<g id="XMLID_1808_">
+						<polyline class="st0" points="743.8,318.6 765.8,318.6 1008.2,345.3 1024.8,345.3 						"/>
+						<g>
+							<polygon class="st1" points="1021.5,349.4 1020.8,348.6 1024.4,345.3 1020.8,341.9 1021.5,341.2 1025.9,345.3 							"/>
+						</g>
+					</g>
+					<g id="XMLID_1805_">
+						<polyline class="st0" points="743.8,476.1 765.8,476.1 1008.2,505 1024.8,505 						"/>
+						<g>
+							<polygon class="st1" points="1021.5,509.1 1020.8,508.3 1024.4,505 1020.8,501.6 1021.5,500.9 1025.9,505 							"/>
+						</g>
+					</g>
+					<g id="XMLID_1802_">
+						<polyline class="st0" points="743.8,635.4 765.8,635.4 1008.2,664.5 1024.8,664.5 						"/>
+						<g>
+							<polygon class="st1" points="1021.5,668.6 1020.8,667.8 1024.4,664.5 1020.8,661.1 1021.5,660.4 1025.9,664.5 							"/>
+						</g>
+					</g>
+					<g id="XMLID_1799_">
+						<polyline class="st0" points="743.8,139.5 764.4,139.5 827.1,105.9 843.6,105.9 						"/>
+						<g>
+							<polygon class="st1" points="840.3,110 839.6,109.3 843.2,105.9 839.6,102.5 840.3,101.8 844.7,105.9 							"/>
+						</g>
+					</g>
+					<g id="XMLID_1796_">
+						<polyline class="st0" points="743.8,297.9 767.4,297.9 827.1,265.5 843.6,265.5 						"/>
+						<g>
+							<polygon class="st1" points="840.3,269.6 839.6,268.9 843.2,265.5 839.6,262.1 840.3,261.4 844.7,265.5 							"/>
+						</g>
+					</g>
+					<g id="XMLID_1793_">
+						<polyline class="st0" points="743.8,455.4 766,455.4 827.2,425.1 843.7,425.1 						"/>
+						<g>
+							<polygon class="st1" points="840.4,429.2 839.7,428.5 843.3,425.1 839.7,421.8 840.4,421 844.8,425.1 							"/>
+						</g>
+					</g>
+					<g id="XMLID_1790_">
+						<polyline class="st0" points="743.8,614.7 765.8,614.7 827.1,605.4 843.6,605.4 						"/>
+						<g>
+							<polygon class="st1" points="840.3,609.5 839.6,608.8 843.2,605.4 839.6,602.1 840.3,601.3 844.7,605.4 							"/>
+						</g>
+					</g>
+					<g id="XMLID_1787_">
+						<polyline class="st0" points="1107.6,185.7 1133,185.7 1182.8,160 1199.7,160 						"/>
+						<g>
+							<polygon class="st1" points="1196.4,164 1195.7,163.3 1199.3,160 1195.7,156.6 1196.4,155.9 1200.8,160 							"/>
+						</g>
+					</g>
+					<g id="XMLID_1784_">
+						<polyline class="st0" points="1107.6,345.4 1133,345.4 1182.8,318.2 1199.7,318.2 						"/>
+						<g>
+							<polygon class="st1" points="1196.4,322.3 1195.7,321.6 1199.3,318.2 1195.7,314.9 1196.4,314.1 1200.8,318.2 							"/>
+						</g>
+					</g>
+					<g id="XMLID_1781_">
+						<polyline class="st0" points="1107.6,505 1133,505 1181.9,476.5 1199.7,476.5 						"/>
+						<g>
+							<polygon class="st1" points="1196.4,480.6 1195.7,479.9 1199.3,476.5 1195.7,473.1 1196.4,472.4 1200.8,476.5 							"/>
+						</g>
+					</g>
+					<g id="XMLID_1778_">
+						<polyline class="st0" points="1107.6,664.6 1133,664.6 1182.8,636.5 1199.7,636.5 						"/>
+						<g>
+							<polygon class="st1" points="1196.4,640.6 1195.7,639.9 1199.3,636.5 1195.7,633.1 1196.4,632.4 1200.8,636.5 							"/>
+						</g>
+					</g>
+					<g id="XMLID_1775_">
+						<polyline class="st0" points="926.4,105.9 951.8,105.9 1183.1,139.2 1199.7,139.2 						"/>
+						<g>
+							<polygon class="st1" points="1196.4,143.2 1195.7,142.5 1199.3,139.2 1195.7,135.8 1196.4,135.1 1200.8,139.2 							"/>
+						</g>
+					</g>
+					<g id="XMLID_1772_">
+						<polyline class="st0" points="926.4,265.5 951.8,265.5 1182.8,297.4 1199.7,297.4 						"/>
+						<g>
+							<polygon class="st1" points="1196.4,301.5 1195.7,300.8 1199.3,297.4 1195.7,294.1 1196.4,293.3 1200.8,297.4 							"/>
+						</g>
+					</g>
+					<g id="XMLID_1769_">
+						<polyline class="st0" points="926.4,425.1 951.8,425.1 1182.8,455.7 1199.7,455.7 						"/>
+						<g>
+							<polygon class="st1" points="1196.4,459.8 1195.7,459.1 1199.3,455.7 1195.7,452.3 1196.4,451.6 1200.8,455.7 							"/>
+						</g>
+					</g>
+					<g id="XMLID_1766_">
+						<polyline class="st0" points="926.4,584.7 951.8,584.7 1182.8,615.8 1199.7,615.8 						"/>
+						<g>
+							<polygon class="st1" points="1196.4,619.9 1195.7,619.1 1199.3,615.8 1195.7,612.4 1196.4,611.7 1200.8,615.8 							"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g id="XMLID_1255_">
+		<g id="XMLID_1762_" transform="translate(216.5,264.875)">
+			<g id="XMLID_1763_">
+				<g id="r1_1_" shape-rendering="crispEdges">
+					<title>weight_axes:
 5</title>
+				</g>
+			</g>
 		</g>
-	</g>
-</g>
-<g transform="translate(216.5,413)">
-	<g>
-		<g id="r3_12_" shape-rendering="crispEdges">
-			<rect x="-44.5" y="78.5" class="st6" width="210.5" height="86.5"/>
-			<title>width_axes:
+		<g id="XMLID_1759_" transform="translate(216.5,413)">
+			<g id="XMLID_1760_">
+				<g id="r3_1_" shape-rendering="crispEdges">
+					<title>width_axes:
 4</title>
+				</g>
+			</g>
 		</g>
-	</g>
-</g>
-<g transform="translate(0,264.875)">
-	<g>
-		<text transform="matrix(1 0 0 1 192 9.497070e-002)" class="st7 st8 st9">weight</text>
-	</g>
-</g>
-<g transform="translate(0,413)">
-	<g>
-		<text transform="matrix(1 0 0 1 192 126.5049)" class="st7 st8 st9">width</text>
-	</g>
-</g>
-<g transform="translate(216.5,539.5)">
-	<rect id="r5_2_" x="-44.5" y="-185.2" shape-rendering="crispEdges" class="st10" width="210.5" height="86.5">
-	<title>ital_axes:
+		<g id="XMLID_1729_" transform="translate(649.5,416.25)">
+			<g id="XMLID_1730_">
+				<g id="r16_1_" shape-rendering="crispEdges">
+					<title>bld_it:
+2</title>
+				</g>
+			</g>
+		</g>
+		<g id="XMLID_1700_">
+			<g id="XMLID_1703_" transform="translate(649.5,499.5)">
+				<g id="XMLID_1704_">
+					<g id="r13_1_" shape-rendering="crispEdges">
+						<title>blk_wd:
+2</title>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="XMLID_1556_">
+			<g id="XMLID_1598_">
+				<g id="XMLID_1602_" transform="translate(649.5,5.684341886080802e-14)">
+					<g id="XMLID_1603_">
+						<g id="r10_39_" shape-rendering="crispEdges">
+							<title>thn_wd:
+2</title>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="XMLID_1528_">
+			<g id="XMLID_1531_">
+				<g id="XMLID_1534_" transform="translate(649.5,5.684341886080802e-14)">
+					<g id="XMLID_1535_">
+						<g id="r10_38_" shape-rendering="crispEdges">
+							<title>thn_wd:
+2</title>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="XMLID_2741_">
+			<path class="st2" d="M507.5,222.9V306H305.7v-83.1H507.5 M509.5,220.9h-2H305.7h-2v2V306v2h2h201.8h2v-2v-83.1V220.9L509.5,220.9
+				z"/>
+		</g>
+		<g id="XMLID_2740_">
+			<path class="st2" d="M507.5,486.2v82.9H305.7v-82.9H507.5 M509.5,484.2h-2H305.7h-2v2v82.9v2h2h201.8h2v-2v-82.9V484.2
+				L509.5,484.2z"/>
+		</g>
+		<g id="XMLID_2739_" transform="translate(216.5,539.5)">
+			<g id="r5_4_" shape-rendering="crispEdges">
+				<path class="st2" d="M291-184.8v82.9H89.2v-82.9H291 M293-186.8h-2H89.2h-2v2v82.9v2h2H291h2v-2v-82.9V-186.8L293-186.8z"/>
+				<title>ital_axes:
 4</title>
-	</rect>
-</g>
-<g transform="translate(0,539.5)">
-	<g>
-		<text transform="matrix(1 0 0 1 192 -137.2175)" class="st7 st8 st9">ital</text>
-	</g>
-</g>
-<g transform="translate(433,221.05532449097544)">
-	<rect id="r6" x="136" y="-102" shape-rendering="crispEdges" class="st11" width="60" height="43.3">
-	<title>thn:
-2</title>
-	</rect>
-	<text transform="matrix(1 0 0 1 152.9564 -75.1251)" class="st7 st8 st12">thn</text>
-</g>
-<g transform="translate(433,304.3053244909754)">
-	<rect id="r7" x="136" y="-20.3" shape-rendering="crispEdges" class="st11" width="60" height="43.3">
-	<title>reg:
-2</title>
-	</rect>
-	<text transform="matrix(1 0 0 1 152.9564 5.875)" class="st7 st8 st12">reg</text>
-</g>
-<g transform="translate(433,387.5553244909754)">
-	<rect id="r8" x="136" y="61.3" shape-rendering="crispEdges" class="st11" width="60" height="43.3">
-	<title>bld:
-2</title>
-	</rect>
-	<text transform="matrix(1 0 0 1 152.9565 87.875)" class="st7 st8 st12">bld</text>
-</g>
-<g transform="translate(433,470.8053244909754)">
-	<rect id="r9" x="136" y="144" shape-rendering="crispEdges" class="st11" width="60" height="43.3">
-	<title>blk:
-2</title>
-	</rect>
-	<text transform="matrix(1 0 0 1 152.9493 170.5049)" class="st7 st8 st12">blk</text>
-</g>
-<g transform="translate(649.5,83.25000000000006)">
-	<rect id="r14" x="279" y="84" shape-rendering="crispEdges" class="st13" width="80" height="43.3">
-	<title>thn_it:
-2</title>
-	</rect>
-</g>
-<g transform="translate(649.5,249.75000000000006)">
-	<rect id="r15" x="279" y="84" shape-rendering="crispEdges" class="st13" width="80" height="43.3">
-	<title>reg_it:
-2</title>
-	</rect>
-</g>
-<g transform="translate(649.5,416.25)">
-	<g>
-		<g id="r16_11_" shape-rendering="crispEdges">
-			<rect x="279" y="84" class="st14" width="80" height="43.3"/>
-			<title>bld_it:
-2</title>
+			</g>
 		</g>
-	</g>
-</g>
-<g transform="translate(649.5,582.75)">
-	<rect id="r17" x="279" y="84" shape-rendering="crispEdges" class="st13" width="80" height="43.3">
-	<title>blk_it:
-2</title>
-	</rect>
-</g>
-<g>
-	<g transform="translate(649.5,5.684341886080802e-14)">
-		<rect id="r10" x="90" y="84" shape-rendering="crispEdges" class="st15" width="80" height="43.3">
-		<title>thn_wd:
-2</title>
-		</rect>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 754.5739 110.875)" class="st7 st8 st12">thn_it</text>
-	</g>
-</g>
-<g>
-	<g transform="translate(649.5,5.684341886080802e-14)">
-		<rect id="r10_5_" x="115.1" y="361.5" shape-rendering="crispEdges" class="st16" width="80" height="43.3">
-		<title>thn_wd:
-2</title>
-		</rect>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 779.7073 388.375)" class="st7 st8 st12">smb_it</text>
-	</g>
-</g>
-<g>
-	<g transform="translate(649.5,166.50000000000006)">
-		<rect id="r11" x="90" y="84" shape-rendering="crispEdges" class="st15" width="80" height="43.3">
-		<title>reg_wd:
-2</title>
-		</rect>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 754.5747 277.375)" class="st7 st8 st12">reg_it</text>
-	</g>
-</g>
-<g>
-	<g transform="translate(649.5,333)">
-		<g>
-			<g id="r12_12_" shape-rendering="crispEdges">
-				<rect x="90" y="84" class="st17" width="80" height="43.3"/>
-				<title>bld_wd:
+		<g id="XMLID_2738_" transform="translate(433,221.05532449097544)">
+			<g id="r6_23_" shape-rendering="crispEdges">
+				<path class="st2" d="M310.8-91.9v41.5h-57.5v-41.5H310.8 M312.8-93.9h-2h-57.5h-2v2v41.5v2h2h57.5h2v-2v-41.5V-93.9L312.8-93.9z
+					"/>
+				<title>thn:
 2</title>
 			</g>
 		</g>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 754.5743 443.875)" class="st7 st8 st12">bld_it</text>
-	</g>
-</g>
-<g>
-	<g transform="translate(649.5,499.5)">
-		<g>
-			<g id="r13_12_" shape-rendering="crispEdges">
-				<rect x="90" y="84" class="st17" width="80" height="43.3"/>
-				<title>blk_wd:
+		<g id="XMLID_2737_" transform="translate(433,304.3053244909754)">
+			<g id="r7_3_" shape-rendering="crispEdges">
+				<path class="st2" d="M310.8-17v41.5h-57.5V-17H310.8 M312.8-19h-2h-57.5h-2v2v41.5v2h2h57.5h2v-2V-17V-19L312.8-19z"/>
+				<title>reg:
 2</title>
 			</g>
 		</g>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 754.574 610.375)" class="st7 st8 st12">blk_it</text>
-	</g>
-</g>
-<g>
-	<text transform="matrix(1 0 0 1 943.574 194.125)" class="st7 st8 st12">thn_wd</text>
-</g>
-<g>
-	<text transform="matrix(1 0 0 1 943.5743 360.625)" class="st7 st8 st12">reg_wd</text>
-</g>
-<g>
-	<text transform="matrix(1 0 0 1 943.5739 527.125)" class="st7 st8 st12">bld_wd</text>
-</g>
-<g>
-	<text transform="matrix(1 0 0 1 943.5745 693.625)" class="st7 st8 st12">blk_wd</text>
-</g>
-<g>
-	<g transform="translate(866,214.69354215944944)">
-		<rect id="r18" x="245" y="-96" shape-rendering="crispEdges" class="st18" width="105" height="43.3">
-		<title>thn_wd_it:
+		<g id="XMLID_2736_" transform="translate(433,387.5553244909754)">
+			<g id="r8_3_" shape-rendering="crispEdges">
+				<path class="st2" d="M310.8,57.7v41.5h-57.5V57.7H310.8 M312.8,55.7h-2h-57.5h-2v2v41.5v2h2h57.5h2v-2V57.7V55.7L312.8,55.7z"/>
+				<title>bld:
 2</title>
-		</rect>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 1126.2622 145.5685)" class="st7 st8 st12">thn_wd_it</text>
-	</g>
-</g>
-<g>
-	<g transform="translate(866,302.8145674944094)">
-		<rect id="r19" x="245" y="-19" shape-rendering="crispEdges" class="st18" width="105" height="43.3">
-		<title>reg_wd_it:
+			</g>
+		</g>
+		<g id="XMLID_2735_" transform="translate(433,470.8053244909754)">
+			<g id="r9_3_" shape-rendering="crispEdges">
+				<path class="st2" d="M310.8,133.6v41.5h-57.5v-41.5H310.8 M312.8,131.6h-2h-57.5h-2v2v41.5v2h2h57.5h2v-2v-41.5V131.6
+					L312.8,131.6z"/>
+				<title>blk:
 2</title>
-		</rect>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 1126.2626 310.6895)" class="st7 st8 st12">reg_wd_it</text>
-	</g>
-</g>
-<g>
-	<g transform="translate(866,390.9355928293694)">
-		<rect id="r20" x="245" y="58" shape-rendering="crispEdges" class="st18" width="105" height="43.3">
-		<title>bld_wd_it:
-2</title>
-		</rect>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 1126.2622 475.8106)" class="st7 st8 st12">bld_wd_it</text>
-	</g>
-</g>
-<g>
-	<g transform="translate(866,479.8730412512094)">
-		<rect id="r21" x="245" y="136" shape-rendering="crispEdges" class="st18" width="105" height="43.3">
-		<title>blk_wd_it:
-2</title>
-		</rect>
-	</g>
-	<g>
-		<text transform="matrix(1 0 0 1 1126.2628 642.748)" class="st7 st8 st12">blk_wd_it</text>
-	</g>
-</g>
-<text transform="matrix(1 0 0 1 572.5 130.25)" class="st7 st8 st19">∞3</text>
-<text transform="matrix(1 0 0 1 744.1667 94.8125)" class="st7 st8 st19">∞3</text>
-<text transform="matrix(1 0 0 1 744.1667 261.3124)" class="st7 st8 st19">∞3</text>
-<text transform="matrix(1 0 0 1 934.5 178.7775)" class="st7 st8 st19">∞4</text>
-<text transform="matrix(1 0 0 1 1116.5 130.2502)" class="st7 st8 st19">∞4</text>
-<text transform="matrix(1 0 0 1 1116.5 295.118)" class="st7 st8 st19">∞4</text>
-<text transform="matrix(1 0 0 1 1116.5 460.2501)" class="st7 st8 st19">∞4</text>
-<text transform="matrix(1 0 0 1 1116.5 627.618)" class="st7 st8 st19">∞4</text>
-<text transform="matrix(1 0 0 1 1199.2377 130.2502)" class="st7 st8 st19">MG</text>
-<text transform="matrix(1 0 0 1 1199.2377 295.118)" class="st7 st8 st19">MG</text>
-<text transform="matrix(1 0 0 1 1199.2377 460.2501)" class="st7 st8 st19">MG</text>
-<text transform="matrix(1 0 0 1 1199.2377 627.618)" class="st7 st8 st19">MG</text>
-<text transform="matrix(1 0 0 1 934.5 344.5627)" class="st7 st8 st19">∞4</text>
-<text transform="matrix(1 0 0 1 934.5 511.0627)" class="st7 st8 st19">∞4</text>
-<text transform="matrix(1 0 0 1 934.5 677.5627)" class="st7 st8 st19">∞4</text>
-<text transform="matrix(1 0 0 1 991.4043 178.7775)" class="st7 st8 st19">MG</text>
-<text transform="matrix(1 0 0 1 991.4043 344.5627)" class="st7 st8 st19">MG</text>
-<text transform="matrix(1 0 0 1 991.4043 511.0627)" class="st7 st8 st19">MG</text>
-<text transform="matrix(1 0 0 1 991.4043 677.5627)" class="st7 st8 st19">MG</text>
-<text transform="matrix(1 0 0 1 744.1667 427.8124)" class="st7 st8 st19">∞3</text>
-<text transform="matrix(1 0 0 1 744.1667 594.3124)" class="st7 st8 st19">∞4</text>
-<text transform="matrix(1 0 0 1 803.4043 94.8125)" class="st7 st8 st19">MG</text>
-<text transform="matrix(1 0 0 1 803.4043 261.3124)" class="st7 st8 st19">MG</text>
-<text transform="matrix(1 0 0 1 803.4043 427.8124)" class="st7 st8 st19">MG</text>
-<text transform="matrix(1 0 0 1 803.4043 594.3124)" class="st7 st8 st19">MG</text>
-<text transform="matrix(1 0 0 1 572.5 295.1179)" class="st7 st8 st19">∞3</text>
-<text transform="matrix(1 0 0 1 572.5 460.2502)" class="st7 st8 st19">∞3</text>
-<text transform="matrix(1 0 0 1 572.5 625.618)" class="st7 st8 st19">∞4</text>
-<text transform="matrix(1 0 0 1 612.0709 130.25)" class="st7 st8 st19">MO</text>
-<text transform="matrix(1 0 0 1 612.0709 295.1179)" class="st7 st8 st19">MO</text>
-<text transform="matrix(1 0 0 1 612.0709 460.2502)" class="st7 st8 st19">MO</text>
-<text transform="matrix(1 0 0 1 612.0709 625.618)" class="st7 st8 st19">MO</text>
-<g>
-	<text transform="matrix(1 0 0 1 1115.3334 158.2502)" class="st7 st8 st19">100</text>
-	<text transform="matrix(1 0 0 1 1115.3334 323.118)" class="st7 st8 st19">400</text>
-	<text transform="matrix(1 0 0 1 1115.3334 488.2501)" class="st7 st8 st19">700</text>
-	<text transform="matrix(1 0 0 1 1115.3334 655.618)" class="st7 st8 st19">900</text>
-	<text transform="matrix(1 0 0 1 933.5 206.7775)" class="st7 st8 st19">100</text>
-	<text transform="matrix(1 0 0 1 933.5 372.5627)" class="st7 st8 st19">400</text>
-	<text transform="matrix(1 0 0 1 933.5 539.0627)" class="st7 st8 st19">700</text>
-	<text transform="matrix(1 0 0 1 933.5 705.5627)" class="st7 st8 st19">900</text>
-	<text transform="matrix(1 0 0 1 743.5 122.8125)" class="st7 st8 st19">100</text>
-	<text transform="matrix(1 0 0 1 743.5 289.3124)" class="st7 st8 st19">400</text>
-	<text transform="matrix(1 0 0 1 743.5 455.8124)" class="st7 st8 st19">700</text>
-	<text transform="matrix(1 0 0 1 743.5 622.3124)" class="st7 st8 st19">900</text>
-	<text transform="matrix(1 0 0 1 573.1666 158.25)" class="st7 st8 st19">100</text>
-	<text transform="matrix(1 0 0 1 573.1666 323.1178)" class="st7 st8 st19">400</text>
-	<text transform="matrix(1 0 0 1 573.1666 488.2502)" class="st7 st8 st19">700</text>
-	<text transform="matrix(1 0 0 1 573.1666 653.618)" class="st7 st8 st19">900</text>
-</g>
-<g>
-	<g transform="translate(433,221.05532449097544)">
-		<rect id="r6_5_" x="161" y="7.9" shape-rendering="crispEdges" class="st20" width="60" height="43.3">
-		<title>thn:
-2</title>
-		</rect>
-		<text transform="matrix(1 0 0 1 177.9564 34.8193)" class="st7 st8 st12">lgt</text>
-	</g>
-	<text transform="matrix(1 0 0 1 643.1188 241.625)" class="st7 st8 st19">I</text>
-	<text transform="matrix(1 0 0 1 598.1666 269.625)" class="st7 st8 st19">300</text>
-</g>
-<g>
-	<g transform="translate(433,221.05532449097544)">
-		<rect id="r6_10_" x="161" y="172.9" shape-rendering="crispEdges" class="st20" width="60" height="43.3">
-		<title>thn:
-2</title>
-		</rect>
-		<text transform="matrix(1 0 0 1 177.9564 199.736)" class="st7 st8 st12">smb</text>
-	</g>
-	<text transform="matrix(1 0 0 1 643.1188 405.3751)" class="st7 st8 st19">I</text>
-	<text transform="matrix(1 0 0 1 598.1666 433.3751)" class="st7 st8 st19">600</text>
-</g>
-<g>
-	<g transform="translate(433,221.05532449097544)">
-		<rect id="r6_9_" x="161" y="310.8" shape-rendering="crispEdges" class="st20" width="60" height="43.3">
-		<title>thn:
-2</title>
-		</rect>
-		<text transform="matrix(1 0 0 1 177.9564 337.6667)" class="st7 st8 st12">xbd</text>
-	</g>
-	<text transform="matrix(1 0 0 1 643.1188 543.5627)" class="st7 st8 st19">I</text>
-	<text transform="matrix(1 0 0 1 598.1666 571.5627)" class="st7 st8 st19">800</text>
-</g>
-<g>
-	<g>
-		<g transform="translate(649.5,5.684341886080802e-14)">
+			</g>
+		</g>
+		<g id="XMLID_2727_" transform="translate(649.5,83.25000000000006)">
 			<g>
-				<g id="r10_29_" shape-rendering="crispEdges">
-					<rect x="115.1" y="500.3" class="st21" width="80" height="43.3"/>
+				<g id="r14_13_" shape-rendering="crispEdges">
+					<path class="st2" d="M458.1,92.1v41.5h-76.7V92.1H458.1 M460.1,90.1h-2h-76.7h-2v2v41.5v2h2h76.7h2v-2V92.1V90.1L460.1,90.1z"
+						/>
+					<title>thn_it:
+2</title>
+				</g>
+			</g>
+		</g>
+		<g id="XMLID_2726_" transform="translate(649.5,249.75000000000006)">
+			<g id="r15_3_" shape-rendering="crispEdges">
+				<path class="st2" d="M458.1,85.2v41.5h-76.7V85.2H458.1 M460.1,83.2h-2h-76.7h-2v2v41.5v2h2h76.7h2v-2V85.2V83.2L460.1,83.2z"/>
+				<title>reg_it:
+2</title>
+			</g>
+		</g>
+		<g id="XMLID_2725_">
+			<path class="st2" d="M1107.6,494.6v41.5h-76.7v-41.5H1107.6 M1109.6,492.6h-2h-76.7h-2v2v41.5v2h2h76.7h2v-2v-41.5V492.6
+				L1109.6,492.6z"/>
+		</g>
+		<g id="XMLID_2724_" transform="translate(649.5,582.75)">
+			<g id="r17_3_" shape-rendering="crispEdges">
+				<path class="st2" d="M458.1,71.4v41.5h-76.7V71.4H458.1 M460.1,69.4h-2h-76.7h-2v2v41.5v2h2h76.7h2v-2V71.4V69.4L460.1,69.4z"/>
+				<title>blk_it:
+2</title>
+			</g>
+		</g>
+		<g id="XMLID_2722_">
+			<g id="XMLID_2723_" transform="translate(649.5,5.684341886080802e-14)">
+				<g id="r10_37_" shape-rendering="crispEdges">
+					<path class="st2" d="M276.9,95.5V137h-76.7V95.5H276.9 M278.9,93.5h-2h-76.7h-2v2V137v2h2h76.7h2v-2V95.5V93.5L278.9,93.5z"/>
 					<title>thn_wd:
 2</title>
 				</g>
 			</g>
 		</g>
-		<g>
-			<text transform="matrix(1 0 0 1 779.7073 527.125)" class="st7 st8 st12">xbd_it</text>
-		</g>
-	</g>
-	<text transform="matrix(1 0 0 1 834.5856 512.0627)" class="st7 st8 st19">I</text>
-	<text transform="matrix(1 0 0 1 768.6334 540.0627)" class="st7 st8 st19">800</text>
-</g>
-<g>
-	<text transform="matrix(1 0 0 1 834.5856 373.0666)" class="st7 st8 st19">I</text>
-	<text transform="matrix(1 0 0 1 743.5 401.0666)" class="st7 st8 st19">600</text>
-</g>
-<g>
-	<g>
-		<g transform="translate(649.5,5.684341886080802e-14)">
-			<rect id="r10_10_" x="115.1" y="306" shape-rendering="crispEdges" class="st16" width="80" height="43.3">
-			<title>thn_wd:
-2</title>
-			</rect>
-		</g>
-		<g>
-			<text transform="matrix(1 0 0 1 779.7073 332.875)" class="st7 st8 st12">med_it</text>
-		</g>
-	</g>
-	<text transform="matrix(1 0 0 1 834.5856 318.0593)" class="st7 st8 st19">I</text>
-	<text transform="matrix(1 0 0 1 768.6334 346.0593)" class="st7 st8 st19">500</text>
-</g>
-<g>
-	<g>
-		<g transform="translate(649.5,5.684341886080802e-14)">
-			<rect id="r10_6_" x="115.1" y="195" shape-rendering="crispEdges" class="st16" width="80" height="43.3">
-			<title>thn_wd:
-2</title>
-			</rect>
-		</g>
-		<g>
-			<text transform="matrix(1 0 0 1 779.7073 221.875)" class="st7 st8 st12">lgt_it</text>
-		</g>
-	</g>
-	<text transform="matrix(1 0 0 1 834.5856 206.5002)" class="st7 st8 st19">I</text>
-	<text transform="matrix(1 0 0 1 768.6334 234.5002)" class="st7 st8 st19">300</text>
-</g>
-<g>
-	<g>
-		<g transform="translate(649.5,5.684341886080802e-14)">
-			<g>
-				<g id="r10_34_" shape-rendering="crispEdges">
-					<rect x="115.1" y="139.5" class="st21" width="80" height="43.3"/>
+		<g id="XMLID_2720_">
+			<g id="XMLID_2721_" transform="translate(649.5,5.684341886080802e-14)">
+				<g id="r10_36_" shape-rendering="crispEdges">
+					<path class="st2" d="M300.9,361.6v41.5h-76.7v-41.5H300.9 M302.9,359.6h-2h-76.7h-2v2v41.5v2h2h76.7h2v-2v-41.5V359.6
+						L302.9,359.6z"/>
 					<title>thn_wd:
 2</title>
 				</g>
 			</g>
 		</g>
-		<g>
-			<text transform="matrix(1 0 0 1 779.7073 166.375)" class="st7 st8 st12">xlg_it</text>
-		</g>
-	</g>
-	<text transform="matrix(1 0 0 1 834.5856 151.4929)" class="st7 st8 st19">I</text>
-	<text transform="matrix(1 0 0 1 768.6334 179.4929)" class="st7 st8 st19">200</text>
-</g>
-<g>
-	<g>
-		<g transform="translate(649.5,5.684341886080802e-14)">
-			<rect id="r10_22_" x="303.1" y="222.8" shape-rendering="crispEdges" class="st22" width="80" height="43.3">
-			<title>thn_wd:
+		<g id="XMLID_2718_">
+			<g id="XMLID_2719_" transform="translate(649.5,166.50000000000006)">
+				<g id="r11_3_" shape-rendering="crispEdges">
+					<path class="st2" d="M276.9,88.7v41.5h-76.7V88.7H276.9 M278.9,86.7h-2h-76.7h-2v2v41.5v2h2h76.7h2v-2V88.7V86.7L278.9,86.7z"
+						/>
+					<title>reg_wd:
 2</title>
-			</rect>
-		</g>
-		<g>
-			<text transform="matrix(1 0 0 1 967.6658 249.6875)" class="st7 st8 st12">xlg_wd</text>
-		</g>
-	</g>
-	<text transform="matrix(1 0 0 1 1021.544 235.2502)" class="st7 st8 st19">I</text>
-	<text transform="matrix(1 0 0 1 957.5919 263.2502)" class="st7 st8 st19">200</text>
-</g>
-<g>
-	<g>
-		<g transform="translate(649.5,5.684341886080802e-14)">
-			<rect id="r10_20_" x="303.1" y="278.3" shape-rendering="crispEdges" class="st22" width="80" height="43.3">
-			<title>thn_wd:
-2</title>
-			</rect>
-		</g>
-		<g>
-			<text transform="matrix(1 0 0 1 967.6658 305.1875)" class="st7 st8 st12">lgt_wd</text>
-		</g>
-	</g>
-	<text transform="matrix(1 0 0 1 1021.544 290.5627)" class="st7 st8 st19">I</text>
-	<text transform="matrix(1 0 0 1 957.5919 318.5627)" class="st7 st8 st19">300</text>
-</g>
-<g>
-	<g>
-		<g transform="translate(649.5,5.684341886080802e-14)">
-			<rect id="r10_18_" x="303.1" y="389.3" shape-rendering="crispEdges" class="st22" width="80" height="43.3">
-			<title>thn_wd:
-2</title>
-			</rect>
-		</g>
-		<g>
-			<text transform="matrix(1 0 0 1 967.6658 416.1875)" class="st7 st8 st12">med_wd</text>
-		</g>
-	</g>
-	<text transform="matrix(1 0 0 1 1021.544 401.094)" class="st7 st8 st19">I</text>
-	<text transform="matrix(1 0 0 1 957.5919 429.094)" class="st7 st8 st19">500</text>
-</g>
-<g>
-	<g>
-		<g transform="translate(649.5,5.684341886080802e-14)">
-			<rect id="r10_16_" x="303.1" y="444.8" shape-rendering="crispEdges" class="st22" width="80" height="43.3">
-			<title>thn_wd:
-2</title>
-			</rect>
-		</g>
-		<g>
-			<text transform="matrix(1 0 0 1 967.6658 471.6875)" class="st7 st8 st12">smb_wd</text>
-		</g>
-	</g>
-	<text transform="matrix(1 0 0 1 1021.544 456.4065)" class="st7 st8 st19">I</text>
-	<text transform="matrix(1 0 0 1 957.5919 484.4065)" class="st7 st8 st19">600</text>
-</g>
-<g>
-	<g>
-		<g transform="translate(649.5,5.684341886080802e-14)">
-			<rect id="r10_9_" x="303.1" y="583.6" shape-rendering="crispEdges" class="st22" width="80" height="43.3">
-			<title>thn_wd:
-2</title>
-			</rect>
-		</g>
-		<g>
-			<text transform="matrix(1 0 0 1 967.6658 610.4375)" class="st7 st8 st12">xbd_wd</text>
-		</g>
-	</g>
-	<text transform="matrix(1 0 0 1 1021.544 594.3127)" class="st7 st8 st19">I</text>
-	<text transform="matrix(1 0 0 1 957.5919 622.3127)" class="st7 st8 st19">800</text>
-</g>
-<g>
-	<g>
-		<g transform="translate(866,479.8730412512094)">
-			<rect id="r21_4_" x="269.9" y="52.5" shape-rendering="crispEdges" class="st23" width="105" height="43.3">
-			<title>blk_wd_it:
-2</title>
-			</rect>
-		</g>
-		<g>
-			<text transform="matrix(1 0 0 1 1151.1293 559.2793)" class="st7 st8 st12">xbd_wd_it</text>
-		</g>
-	</g>
-	<text transform="matrix(1 0 0 1 1230.152 545.5627)" class="st7 st8 st19">I</text>
-	<text transform="matrix(1 0 0 1 1140.1998 573.5627)" class="st7 st8 st19">800</text>
-</g>
-<g>
-	<g>
-		<g transform="translate(866,390.9355928293694)">
-			<rect id="r20_4_" x="269.9" y="3" shape-rendering="crispEdges" class="st23" width="105" height="43.3">
-			<title>bld_wd_it:
-2</title>
-			</rect>
-		</g>
-		<g>
-			<text transform="matrix(1 0 0 1 1151.1287 420.7703)" class="st7 st8 st12">smb_wd_it</text>
-		</g>
-	</g>
-	<text transform="matrix(1 0 0 1 1230.152 406.3752)" class="st7 st8 st19">I</text>
-	<text transform="matrix(1 0 0 1 1140.1998 434.3752)" class="st7 st8 st19">600</text>
-</g>
-<g>
-	<g>
-		<g transform="translate(866,390.9355928293694)">
-			<rect id="r20_6_" x="269.9" y="-52.1" shape-rendering="crispEdges" class="st23" width="105" height="43.3">
-			<title>bld_wd_it:
-2</title>
-			</rect>
-		</g>
-		<g>
-			<text transform="matrix(1 0 0 1 1151.1287 365.7299)" class="st7 st8 st12">med_wd_it</text>
-		</g>
-	</g>
-	<text transform="matrix(1 0 0 1 1230.152 351.6252)" class="st7 st8 st19">I</text>
-	<text transform="matrix(1 0 0 1 1140.1998 379.6252)" class="st7 st8 st19">500</text>
-</g>
-<g>
-	<g>
-		<g transform="translate(866,390.9355928293694)">
-			<rect id="r20_8_" x="269.9" y="-160.2" shape-rendering="crispEdges" class="st23" width="105" height="43.3">
-			<title>bld_wd_it:
-2</title>
-			</rect>
-		</g>
-		<g>
-			<text transform="matrix(1 0 0 1 1151.1287 257.6492)" class="st7 st8 st12">lgt_wd_it</text>
-		</g>
-	</g>
-	<text transform="matrix(1 0 0 1 1230.152 243.6252)" class="st7 st8 st19">I</text>
-	<text transform="matrix(1 0 0 1 1140.1998 271.6252)" class="st7 st8 st19">300</text>
-</g>
-<g>
-	<g>
-		<g transform="translate(866,390.9355928293694)">
-			<rect id="r20_10_" x="269.9" y="-215.2" shape-rendering="crispEdges" class="st23" width="105" height="43.3">
-			<title>bld_wd_it:
-2</title>
-			</rect>
-		</g>
-		<g>
-			<text transform="matrix(1 0 0 1 1151.1287 202.6089)" class="st7 st8 st12">xlg_wd_it</text>
-		</g>
-	</g>
-	<text transform="matrix(1 0 0 1 1230.152 188.8752)" class="st7 st8 st19">I</text>
-	<text transform="matrix(1 0 0 1 1140.1998 216.8752)" class="st7 st8 st19">200</text>
-</g>
-<g>
-	<g transform="translate(433,221.05532449097544)">
-		<rect id="r6_4_" x="161" y="-47" shape-rendering="crispEdges" class="st20" width="60" height="43.3">
-		<title>thn:
-2</title>
-		</rect>
-		<text transform="matrix(1 0 0 1 177.9564 -20.1529)" class="st7 st8 st12">xlg</text>
-	</g>
-	<text transform="matrix(1 0 0 1 643.1188 186.875)" class="st7 st8 st19">I</text>
-	<text transform="matrix(1 0 0 1 598.1666 214.875)" class="st7 st8 st19">200</text>
-</g>
-<g>
-	<g transform="translate(433,221.05532449097544)">
-		<rect id="r6_2_" x="161" y="117.9" shape-rendering="crispEdges" class="st20" width="60" height="43.3">
-		<title>thn:
-2</title>
-		</rect>
-		<text transform="matrix(1 0 0 1 177.9564 144.7638)" class="st7 st8 st12">med</text>
-	</g>
-	<text transform="matrix(1 0 0 1 643.1188 350.625)" class="st7 st8 st19">I</text>
-	<text transform="matrix(1 0 0 1 598.1666 378.625)" class="st7 st8 st19">500</text>
-</g>
-<path class="st24" d="M574.6,327.2v33.3v88.1 M594,344.6h-19.4 M594,400.1h-19.4"/>
-<path class="st24" d="M574.6,492.1v33.9v88.8 M594,537.5h-19.4"/>
-<path class="st24" d="M574.6,162.3v33.3v88.1 M594,179.6h-19.4 M594,235.2h-19.4"/>
-<g>
-	<g>
-		<g>
-			<g class="st25">
-				<path class="st26" d="M745.2,294.2v33.3v90.1 M764.5,311.5h-19.4 M764.5,367h-19.4"/>
+				</g>
 			</g>
 		</g>
-		<g>
-			<g class="st25">
-				<path class="st26" d="M745.2,460.1V494v88.8 M764.5,505.4h-19.4"/>
+		<g id="XMLID_2717_">
+			<path class="st2" d="M926.4,414.8v41.5h-76.7v-41.5H926.4 M928.4,412.8h-2h-76.7h-2v2v41.5v2h2h76.7h2v-2v-41.5V412.8
+				L928.4,412.8z"/>
+		</g>
+		<g id="XMLID_2716_">
+			<path class="st2" d="M926.4,574.4v41.5h-76.7v-41.5H926.4 M928.4,572.4h-2h-76.7h-2v2v41.5v2h2h76.7h2v-2v-41.5V572.4
+				L928.4,572.4z"/>
+		</g>
+		<g id="XMLID_2714_">
+			<g id="XMLID_2715_" transform="translate(866,214.69354215944944)">
+				<g id="r18_3_" shape-rendering="crispEdges">
+					<path class="st2" d="M440.5-85.9v41.5H339.8v-41.5H440.5 M442.5-87.9h-2H339.8h-2v2v41.5v2h2h100.7h2v-2v-41.5V-87.9
+						L442.5-87.9z"/>
+					<title>thn_wd_it:
+2</title>
+				</g>
 			</g>
 		</g>
-		<g>
-			<g class="st25">
-				<path class="st26" d="M745.2,127.3v34.3v89.1 M764.5,145.6h-19.4 M764.5,201.1h-19.4"/>
+		<g id="XMLID_2712_">
+			<g id="XMLID_2713_" transform="translate(866,302.8145674944094)">
+				<g id="r19_3_" shape-rendering="crispEdges">
+					<path class="st2" d="M440.5-15.7v41.5H339.8v-41.5H440.5 M442.5-17.7h-2H339.8h-2v2v41.5v2h2h100.7h2v-2v-41.5V-17.7
+						L442.5-17.7z"/>
+					<title>reg_wd_it:
+2</title>
+				</g>
+			</g>
+		</g>
+		<g id="XMLID_2710_">
+			<g id="XMLID_2711_" transform="translate(866,390.9355928293694)">
+				<g id="r20_19_" shape-rendering="crispEdges">
+					<path class="st2" d="M440.5,54.4V96H339.8V54.4H440.5 M442.5,52.4h-2H339.8h-2v2V96v2h2h100.7h2v-2V54.4V52.4L442.5,52.4z"/>
+					<title>bld_wd_it:
+2</title>
+				</g>
+			</g>
+		</g>
+		<g id="XMLID_2708_">
+			<g id="XMLID_2709_" transform="translate(866,479.8730412512094)">
+				<g id="r21_7_" shape-rendering="crispEdges">
+					<path class="st2" d="M440.5,125.5V167H339.8v-41.5H440.5 M442.5,123.5h-2H339.8h-2v2V167v2h2h100.7h2v-2v-41.5V123.5
+						L442.5,123.5z"/>
+					<title>blk_wd_it:
+2</title>
+				</g>
+			</g>
+		</g>
+		<g id="XMLID_2706_">
+			<g id="XMLID_2707_" transform="translate(433,221.05532449097544)">
+				<g id="r6_22_" shape-rendering="crispEdges">
+					<path class="st2" d="M334.7,13.4V55h-57.5V13.4H334.7 M336.7,11.4h-2h-57.5h-2v2V55v2h2h57.5h2v-2V13.4V11.4L336.7,11.4z"/>
+					<title>thn:
+2</title>
+				</g>
+			</g>
+		</g>
+		<g id="XMLID_2704_">
+			<g id="XMLID_2705_" transform="translate(433,221.05532449097544)">
+				<g id="r6_21_" shape-rendering="crispEdges">
+					<path class="st2" d="M334.7,171.6v41.5h-57.5v-41.5H334.7 M336.7,169.6h-2h-57.5h-2v2v41.5v2h2h57.5h2v-2v-41.5V169.6
+						L336.7,169.6z"/>
+					<title>thn:
+2</title>
+				</g>
+			</g>
+		</g>
+		<g id="XMLID_2702_">
+			<g id="XMLID_2703_" transform="translate(433,221.05532449097544)">
+				<g id="r6_20_" shape-rendering="crispEdges">
+					<path class="st2" d="M334.7,303.8v41.5h-57.5v-41.5H334.7 M336.7,301.8h-2h-57.5h-2v2v41.5v2h2h57.5h2v-2v-41.5V301.8
+						L336.7,301.8z"/>
+					<title>thn:
+2</title>
+				</g>
+			</g>
+		</g>
+		<g id="XMLID_2701_">
+			<path class="st2" d="M950.4,494.6v41.5h-76.7v-41.5H950.4 M952.4,492.6h-2h-76.7h-2v2v41.5v2h2h76.7h2v-2v-41.5V492.6
+				L952.4,492.6z"/>
+		</g>
+		<g id="XMLID_2698_">
+			<g id="XMLID_2699_">
+				<g id="XMLID_2700_" transform="translate(649.5,5.684341886080802e-14)">
+					<g id="r10_35_" shape-rendering="crispEdges">
+						<path class="st2" d="M300.9,308.4v41.5h-76.7v-41.5H300.9 M302.9,306.4h-2h-76.7h-2v2v41.5v2h2h76.7h2v-2v-41.5V306.4
+							L302.9,306.4z"/>
+						<title>thn_wd:
+2</title>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="XMLID_2695_">
+			<g id="XMLID_2696_">
+				<g id="XMLID_2697_" transform="translate(649.5,5.684341886080802e-14)">
+					<g id="r10_33_" shape-rendering="crispEdges">
+						<path class="st2" d="M300.9,201.9v41.5h-76.7v-41.5H300.9 M302.9,199.9h-2h-76.7h-2v2v41.5v2h2h76.7h2v-2v-41.5V199.9
+							L302.9,199.9z"/>
+						<title>thn_wd:
+2</title>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="XMLID_2694_">
+			<path class="st2" d="M950.4,148.7v41.5h-76.7v-41.5H950.4 M952.4,146.7h-2h-76.7h-2v2v41.5v2h2h76.7h2v-2v-41.5V146.7
+				L952.4,146.7z"/>
+		</g>
+		<g id="XMLID_2691_">
+			<g id="XMLID_2692_">
+				<g id="XMLID_2693_" transform="translate(649.5,5.684341886080802e-14)">
+					<g id="r10_32_" shape-rendering="crispEdges">
+						<path class="st2" d="M481.2,228.6v41.5h-76.7v-41.5H481.2 M483.2,226.6h-2h-76.7h-2v2v41.5v2h2h76.7h2v-2v-41.5V226.6
+							L483.2,226.6z"/>
+						<title>thn_wd:
+2</title>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="XMLID_2688_">
+			<g id="XMLID_2689_">
+				<g id="XMLID_2690_" transform="translate(649.5,5.684341886080802e-14)">
+					<g id="r10_31_" shape-rendering="crispEdges">
+						<path class="st2" d="M481.2,281.8v41.5h-76.7v-41.5H481.2 M483.2,279.8h-2h-76.7h-2v2v41.5v2h2h76.7h2v-2v-41.5V279.8
+							L483.2,279.8z"/>
+						<title>thn_wd:
+2</title>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="XMLID_2685_">
+			<g id="XMLID_2686_">
+				<g id="XMLID_2687_" transform="translate(649.5,5.684341886080802e-14)">
+					<g id="r10_30_" shape-rendering="crispEdges">
+						<path class="st2" d="M481.2,388.2v41.5h-76.7v-41.5H481.2 M483.2,386.2h-2h-76.7h-2v2v41.5v2h2h76.7h2v-2v-41.5V386.2
+							L483.2,386.2z"/>
+						<title>thn_wd:
+2</title>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="XMLID_2682_">
+			<g id="XMLID_2683_">
+				<g id="XMLID_2684_" transform="translate(649.5,5.684341886080802e-14)">
+					<g id="r10_28_" shape-rendering="crispEdges">
+						<path class="st2" d="M481.2,441.4v41.5h-76.7v-41.5H481.2 M483.2,439.4h-2h-76.7h-2v2v41.5v2h2h76.7h2v-2v-41.5V439.4
+							L483.2,439.4z"/>
+						<title>thn_wd:
+2</title>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="XMLID_2679_">
+			<g id="XMLID_2680_">
+				<g id="XMLID_2681_" transform="translate(649.5,5.684341886080802e-14)">
+					<g id="r10_27_" shape-rendering="crispEdges">
+						<path class="st2" d="M481.2,574.5V616h-76.7v-41.5H481.2 M483.2,572.5h-2h-76.7h-2v2V616v2h2h76.7h2v-2v-41.5V572.5
+							L483.2,572.5z"/>
+						<title>thn_wd:
+2</title>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="XMLID_2676_">
+			<g id="XMLID_2677_">
+				<g id="XMLID_2678_" transform="translate(866,479.8730412512094)">
+					<g id="r21_6_" shape-rendering="crispEdges">
+						<path class="st2" d="M464.3,45.5V87H363.7V45.5H464.3 M466.3,43.5h-2H363.7h-2v2V87v2h2h100.7h2v-2V45.5V43.5L466.3,43.5z"/>
+						<title>blk_wd_it:
+2</title>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="XMLID_2673_">
+			<g id="XMLID_2674_">
+				<g id="XMLID_2675_" transform="translate(866,390.9355928293694)">
+					<g id="r20_18_" shape-rendering="crispEdges">
+						<path class="st2" d="M464.3,1.7v41.5H363.7V1.7H464.3 M466.3-0.3h-2H363.7h-2v2v41.5v2h2h100.7h2v-2V1.7V-0.3L466.3-0.3z"/>
+						<title>bld_wd_it:
+2</title>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="XMLID_2660_">
+			<g id="XMLID_2671_">
+				<g id="XMLID_2672_" transform="translate(866,390.9355928293694)">
+					<g id="r20_17_" shape-rendering="crispEdges">
+						<path class="st2" d="M464.3-51.1v41.5H363.7v-41.5H464.3 M466.3-53.1h-2H363.7h-2v2v41.5v2h2h100.7h2v-2v-41.5V-53.1
+							L466.3-53.1z"/>
+						<title>bld_wd_it:
+2</title>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="XMLID_2638_">
+			<g id="XMLID_2653_">
+				<g id="XMLID_2654_" transform="translate(866,390.9355928293694)">
+					<g id="r20_16_" shape-rendering="crispEdges">
+						<path class="st2" d="M464.3-154.7v41.5H363.7v-41.5H464.3 M466.3-156.7h-2H363.7h-2v2v41.5v2h2h100.7h2v-2v-41.5V-156.7
+							L466.3-156.7z"/>
+						<title>bld_wd_it:
+2</title>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="XMLID_1312_">
+			<g id="XMLID_1313_">
+				<g id="XMLID_1314_" transform="translate(866,390.9355928293694)">
+					<g id="r20_15_" shape-rendering="crispEdges">
+						<path class="st2" d="M464.3-207.5v41.5H363.7v-41.5H464.3 M466.3-209.5h-2H363.7h-2v2v41.5v2h2h100.7h2v-2v-41.5V-209.5
+							L466.3-209.5z"/>
+						<title>bld_wd_it:
+2</title>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="XMLID_1310_">
+			<g id="XMLID_1311_" transform="translate(433,221.05532449097544)">
+				<g id="r6_19_" shape-rendering="crispEdges">
+					<path class="st2" d="M334.7-39.2V2.3h-57.5v-41.5H334.7 M336.7-41.2h-2h-57.5h-2v2V2.3v2h2h57.5h2v-2v-41.5V-41.2L336.7-41.2z"
+						/>
+					<title>thn:
+2</title>
+				</g>
+			</g>
+		</g>
+		<g id="XMLID_1277_">
+			<g id="XMLID_1279_" transform="translate(433,221.05532449097544)">
+				<g id="r6_18_" shape-rendering="crispEdges">
+					<path class="st2" d="M334.7,118.9v41.5h-57.5v-41.5H334.7 M336.7,116.9h-2h-57.5h-2v2v41.5v2h2h57.5h2v-2v-41.5V116.9
+						L336.7,116.9z"/>
+					<title>thn:
+2</title>
+				</g>
+			</g>
+		</g>
+		<g id="XMLID_1284_">
+			<g id="XMLID_1764_">
+				<rect x="306.2" y="223.4" class="st2" width="200.8" height="82.1"/>
+				<path class="st1" d="M506.5,223.9V305H306.7v-81.1H506.5 M507.5,222.9H305.7V306h201.8V222.9L507.5,222.9z"/>
+			</g>
+			<g id="XMLID_1761_">
+				<rect x="306.2" y="486.7" class="st2" width="200.8" height="81.9"/>
+				<path class="st1" d="M506.5,487.2v80.9H306.7v-80.9H506.5 M507.5,486.2H305.7v82.9h201.8V486.2L507.5,486.2z"/>
+			</g>
+			<g id="XMLID_1751_" transform="translate(216.5,539.5)">
+				<g id="r5_1_" shape-rendering="crispEdges">
+					<rect x="89.7" y="-184.3" class="st2" width="200.8" height="81.9"/>
+					<path class="st1" d="M290-183.8v80.9H90.2v-80.9H290 M291-184.8H89.2v82.9H291V-184.8L291-184.8z"/>
+					<title>ital_axes:
+4</title>
+				</g>
+			</g>
+			<g id="XMLID_1745_" transform="translate(433,221.05532449097544)">
+				<g id="r6_17_" shape-rendering="crispEdges">
+					<rect x="253.7" y="-91.4" class="st2" width="56.5" height="40.5"/>
+					<path class="st1" d="M309.8-90.9v39.5h-55.5v-39.5H309.8 M310.8-91.9h-57.5v41.5h57.5V-91.9L310.8-91.9z"/>
+					<title>thn:
+2</title>
+				</g>
+			</g>
+			<g id="XMLID_1742_" transform="translate(433,304.3053244909754)">
+				<g id="r7_1_" shape-rendering="crispEdges">
+					<rect x="253.7" y="-16.5" class="st2" width="56.5" height="40.5"/>
+					<path class="st1" d="M309.8-16v39.5h-55.5V-16H309.8 M310.8-17h-57.5v41.5h57.5V-17L310.8-17z"/>
+					<title>reg:
+2</title>
+				</g>
+			</g>
+			<g id="XMLID_1739_" transform="translate(433,387.5553244909754)">
+				<g id="r8_1_" shape-rendering="crispEdges">
+					<rect x="253.7" y="58.2" class="st2" width="56.5" height="40.5"/>
+					<path class="st1" d="M309.8,58.7v39.5h-55.5V58.7H309.8 M310.8,57.7h-57.5v41.5h57.5V57.7L310.8,57.7z"/>
+					<title>bld:
+2</title>
+				</g>
+			</g>
+			<g id="XMLID_1736_" transform="translate(433,470.8053244909754)">
+				<g id="r9_1_" shape-rendering="crispEdges">
+					<rect x="253.7" y="134.1" class="st2" width="56.5" height="40.5"/>
+					<path class="st1" d="M309.8,134.6v39.5h-55.5v-39.5H309.8 M310.8,133.6h-57.5v41.5h57.5V133.6L310.8,133.6z"/>
+					<title>blk:
+2</title>
+				</g>
+			</g>
+			<g id="XMLID_1734_" transform="translate(649.5,83.25000000000006)">
+				<g>
+					<g id="r14_11_" shape-rendering="crispEdges">
+						<rect x="381.9" y="92.6" class="st2" width="75.7" height="40.5"/>
+						<path class="st1" d="M457.1,93.1v39.5h-74.7V93.1H457.1 M458.1,92.1h-76.7v41.5h76.7V92.1L458.1,92.1z"/>
+						<title>thn_it:
+2</title>
+					</g>
+				</g>
+			</g>
+			<g id="XMLID_1732_" transform="translate(649.5,249.75000000000006)">
+				<g id="r15_1_" shape-rendering="crispEdges">
+					<rect x="381.9" y="85.7" class="st2" width="75.7" height="40.5"/>
+					<path class="st1" d="M457.1,86.2v39.5h-74.7V86.2H457.1 M458.1,85.2h-76.7v41.5h76.7V85.2L458.1,85.2z"/>
+					<title>reg_it:
+2</title>
+				</g>
+			</g>
+			<g id="XMLID_1731_">
+				<rect x="1031.4" y="495.1" class="st2" width="75.7" height="40.5"/>
+				<path class="st1" d="M1106.6,495.6v39.5h-74.7v-39.5H1106.6 M1107.6,494.6h-76.7v41.5h76.7V494.6L1107.6,494.6z"/>
+			</g>
+			<g id="XMLID_1727_" transform="translate(649.5,582.75)">
+				<g id="r17_1_" shape-rendering="crispEdges">
+					<rect x="381.9" y="71.9" class="st2" width="75.7" height="40.5"/>
+					<path class="st1" d="M457.1,72.4v39.5h-74.7V72.4H457.1 M458.1,71.4h-76.7v41.5h76.7V71.4L458.1,71.4z"/>
+					<title>blk_it:
+2</title>
+				</g>
+			</g>
+			<g id="XMLID_1722_">
+				<g id="XMLID_1725_" transform="translate(649.5,5.684341886080802e-14)">
+					<g id="r10_26_" shape-rendering="crispEdges">
+						<rect x="200.7" y="96" class="st2" width="75.7" height="40.5"/>
+						<path class="st1" d="M275.9,96.5V136h-74.7V96.5H275.9 M276.9,95.5h-76.7V137h76.7V95.5L276.9,95.5z"/>
+						<title>thn_wd:
+2</title>
+					</g>
+				</g>
+			</g>
+			<g id="XMLID_1717_">
+				<g id="XMLID_1720_" transform="translate(649.5,5.684341886080802e-14)">
+					<g id="r10_25_" shape-rendering="crispEdges">
+						<rect x="224.7" y="362.1" class="st2" width="75.7" height="40.5"/>
+						<path class="st1" d="M299.9,362.6v39.5h-74.7v-39.5H299.9 M300.9,361.6h-76.7v41.5h76.7V361.6L300.9,361.6z"/>
+						<title>thn_wd:
+2</title>
+					</g>
+				</g>
+			</g>
+			<g id="XMLID_1712_">
+				<g id="XMLID_1715_" transform="translate(649.5,166.50000000000006)">
+					<g id="r11_1_" shape-rendering="crispEdges">
+						<rect x="200.7" y="89.2" class="st2" width="75.7" height="40.5"/>
+						<path class="st1" d="M275.9,89.7v39.5h-74.7V89.7H275.9 M276.9,88.7h-76.7v41.5h76.7V88.7L276.9,88.7z"/>
+						<title>reg_wd:
+2</title>
+					</g>
+				</g>
+			</g>
+			<g id="XMLID_1706_">
+				<g id="XMLID_1709_" transform="translate(649.5,333)">
+					<g id="XMLID_1710_">
+						<g id="r12_1_" shape-rendering="crispEdges">
+							<g id="XMLID_1711_">
+								<rect x="200.7" y="82.3" class="st2" width="75.7" height="40.5"/>
+								<path class="st1" d="M275.9,82.8v39.5h-74.7V82.8H275.9 M276.9,81.8h-76.7v41.5h76.7V81.8L276.9,81.8z"/>
+							</g>
+							<title>bld_wd:
+2</title>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="XMLID_1705_">
+				<rect x="850.2" y="574.9" class="st2" width="75.7" height="40.5"/>
+				<path class="st1" d="M925.4,575.4v39.5h-74.7v-39.5H925.4 M926.4,574.4h-76.7v41.5h76.7V574.4L926.4,574.4z"/>
+			</g>
+			<g id="XMLID_1687_">
+				<g id="XMLID_1690_" transform="translate(866,214.69354215944944)">
+					<g id="r18_1_" shape-rendering="crispEdges">
+						<rect x="340.3" y="-85.4" class="st2" width="99.7" height="40.5"/>
+						<path class="st1" d="M439.5-84.9v39.5h-98.7v-39.5H439.5 M440.5-85.9H339.8v41.5h100.7V-85.9L440.5-85.9z"/>
+						<title>thn_wd_it:
+2</title>
+					</g>
+				</g>
+			</g>
+			<g id="XMLID_1682_">
+				<g id="XMLID_1685_" transform="translate(866,302.8145674944094)">
+					<g id="r19_1_" shape-rendering="crispEdges">
+						<rect x="340.3" y="-15.2" class="st2" width="99.7" height="40.5"/>
+						<path class="st1" d="M439.5-14.7v39.5h-98.7v-39.5H439.5 M440.5-15.7H339.8v41.5h100.7V-15.7L440.5-15.7z"/>
+						<title>reg_wd_it:
+2</title>
+					</g>
+				</g>
+			</g>
+			<g id="XMLID_1677_">
+				<g id="XMLID_1680_" transform="translate(866,390.9355928293694)">
+					<g id="r20_14_" shape-rendering="crispEdges">
+						<rect x="340.3" y="54.9" class="st2" width="99.7" height="40.5"/>
+						<path class="st1" d="M439.5,55.4V95h-98.7V55.4H439.5 M440.5,54.4H339.8V96h100.7V54.4L440.5,54.4z"/>
+						<title>bld_wd_it:
+2</title>
+					</g>
+				</g>
+			</g>
+			<g id="XMLID_1672_">
+				<g id="XMLID_1675_" transform="translate(866,479.8730412512094)">
+					<g id="r21_5_" shape-rendering="crispEdges">
+						<rect x="340.3" y="126" class="st2" width="99.7" height="40.5"/>
+						<path class="st1" d="M439.5,126.5V166h-98.7v-39.5H439.5 M440.5,125.5H339.8V167h100.7V125.5L440.5,125.5z"/>
+						<title>blk_wd_it:
+2</title>
+					</g>
+				</g>
+			</g>
+			<g id="XMLID_1617_">
+				<g id="XMLID_1620_" transform="translate(433,221.05532449097544)">
+					<g id="r6_16_" shape-rendering="crispEdges">
+						<rect x="277.7" y="13.9" class="st2" width="56.5" height="40.5"/>
+						<path class="st1" d="M333.7,14.4V54h-55.5V14.4H333.7 M334.7,13.4h-57.5V55h57.5V13.4L334.7,13.4z"/>
+						<title>thn:
+2</title>
+					</g>
+				</g>
+			</g>
+			<g id="XMLID_1611_">
+				<g id="XMLID_1614_" transform="translate(433,221.05532449097544)">
+					<g id="r6_15_" shape-rendering="crispEdges">
+						<rect x="277.7" y="172.1" class="st2" width="56.5" height="40.5"/>
+						<path class="st1" d="M333.7,172.6v39.5h-55.5v-39.5H333.7 M334.7,171.6h-57.5v41.5h57.5V171.6L334.7,171.6z"/>
+						<title>thn:
+2</title>
+					</g>
+				</g>
+			</g>
+			<g id="XMLID_1605_">
+				<g id="XMLID_1608_" transform="translate(433,221.05532449097544)">
+					<g id="r6_14_" shape-rendering="crispEdges">
+						<rect x="277.7" y="304.3" class="st2" width="56.5" height="40.5"/>
+						<path class="st1" d="M333.7,304.8v39.5h-55.5v-39.5H333.7 M334.7,303.8h-57.5v41.5h57.5V303.8L334.7,303.8z"/>
+						<title>thn:
+2</title>
+					</g>
+				</g>
+			</g>
+			<g id="XMLID_1604_">
+				<rect x="874.2" y="495.1" class="st2" width="75.7" height="40.5"/>
+				<path class="st1" d="M949.4,495.6v39.5h-74.7v-39.5H949.4 M950.4,494.6h-76.7v41.5h76.7V494.6L950.4,494.6z"/>
+			</g>
+			<g id="XMLID_1545_">
+				<g id="XMLID_1548_">
+					<g id="XMLID_1551_" transform="translate(649.5,5.684341886080802e-14)">
+						<g id="r10_24_" shape-rendering="crispEdges">
+							<rect x="224.7" y="308.9" class="st2" width="75.7" height="40.5"/>
+							<path class="st1" d="M299.9,309.4v39.5h-74.7v-39.5H299.9 M300.9,308.4h-76.7v41.5h76.7V308.4L300.9,308.4z"/>
+							<title>thn_wd:
+2</title>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="XMLID_1537_">
+				<g id="XMLID_1540_">
+					<g id="XMLID_1543_" transform="translate(649.5,5.684341886080802e-14)">
+						<g id="r10_23_" shape-rendering="crispEdges">
+							<rect x="224.7" y="202.4" class="st2" width="75.7" height="40.5"/>
+							<path class="st1" d="M299.9,202.9v39.5h-74.7v-39.5H299.9 M300.9,201.9h-76.7v41.5h76.7V201.9L300.9,201.9z"/>
+							<title>thn_wd:
+2</title>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="XMLID_1536_">
+				<rect x="874.2" y="149.2" class="st2" width="75.7" height="40.5"/>
+				<path class="st1" d="M949.4,149.7v39.5h-74.7v-39.5H949.4 M950.4,148.7h-76.7v41.5h76.7V148.7L950.4,148.7z"/>
+			</g>
+			<g id="XMLID_1520_">
+				<g id="XMLID_1523_">
+					<g id="XMLID_1526_" transform="translate(649.5,5.684341886080802e-14)">
+						<g id="r10_21_" shape-rendering="crispEdges">
+							<rect x="405" y="229.1" class="st2" width="75.7" height="40.5"/>
+							<path class="st1" d="M480.2,229.6v39.5h-74.7v-39.5H480.2 M481.2,228.6h-76.7v41.5h76.7V228.6L481.2,228.6z"/>
+							<title>thn_wd:
+2</title>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="XMLID_1512_">
+				<g id="XMLID_1515_">
+					<g id="XMLID_1518_" transform="translate(649.5,5.684341886080802e-14)">
+						<g id="r10_19_" shape-rendering="crispEdges">
+							<rect x="405" y="282.3" class="st2" width="75.7" height="40.5"/>
+							<path class="st1" d="M480.2,282.8v39.5h-74.7v-39.5H480.2 M481.2,281.8h-76.7v41.5h76.7V281.8L481.2,281.8z"/>
+							<title>thn_wd:
+2</title>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="XMLID_1504_">
+				<g id="XMLID_1507_">
+					<g id="XMLID_1510_" transform="translate(649.5,5.684341886080802e-14)">
+						<g id="r10_17_" shape-rendering="crispEdges">
+							<rect x="405" y="388.7" class="st2" width="75.7" height="40.5"/>
+							<path class="st1" d="M480.2,389.2v39.5h-74.7v-39.5H480.2 M481.2,388.2h-76.7v41.5h76.7V388.2L481.2,388.2z"/>
+							<title>thn_wd:
+2</title>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="XMLID_1496_">
+				<g id="XMLID_1499_">
+					<g id="XMLID_1502_" transform="translate(649.5,5.684341886080802e-14)">
+						<g id="r10_15_" shape-rendering="crispEdges">
+							<rect x="405" y="441.9" class="st2" width="75.7" height="40.5"/>
+							<path class="st1" d="M480.2,442.4v39.5h-74.7v-39.5H480.2 M481.2,441.4h-76.7v41.5h76.7V441.4L481.2,441.4z"/>
+							<title>thn_wd:
+2</title>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="XMLID_1488_">
+				<g id="XMLID_1491_">
+					<g id="XMLID_1494_" transform="translate(649.5,5.684341886080802e-14)">
+						<g id="r10_1_" shape-rendering="crispEdges">
+							<rect x="405" y="575" class="st2" width="75.7" height="40.5"/>
+							<path class="st1" d="M480.2,575.5V615h-74.7v-39.5H480.2 M481.2,574.5h-76.7V616h76.7V574.5L481.2,574.5z"/>
+							<title>thn_wd:
+2</title>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="XMLID_1480_">
+				<g id="XMLID_1483_">
+					<g id="XMLID_1486_" transform="translate(866,479.8730412512094)">
+						<g id="r21_1_" shape-rendering="crispEdges">
+							<rect x="364.2" y="46" class="st2" width="99.7" height="40.5"/>
+							<path class="st1" d="M463.3,46.5V86h-98.7V46.5H463.3 M464.3,45.5H363.7V87h100.7V45.5L464.3,45.5z"/>
+							<title>blk_wd_it:
+2</title>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="XMLID_1472_">
+				<g id="XMLID_1475_">
+					<g id="XMLID_1478_" transform="translate(866,390.9355928293694)">
+						<g id="r20_13_" shape-rendering="crispEdges">
+							<rect x="364.2" y="2.2" class="st2" width="99.7" height="40.5"/>
+							<path class="st1" d="M463.3,2.7v39.5h-98.7V2.7H463.3 M464.3,1.7H363.7v41.5h100.7V1.7L464.3,1.7z"/>
+							<title>bld_wd_it:
+2</title>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="XMLID_1464_">
+				<g id="XMLID_1467_">
+					<g id="XMLID_1470_" transform="translate(866,390.9355928293694)">
+						<g id="r20_12_" shape-rendering="crispEdges">
+							<rect x="364.2" y="-50.6" class="st2" width="99.7" height="40.5"/>
+							<path class="st1" d="M463.3-50.1v39.5h-98.7v-39.5H463.3 M464.3-51.1H363.7v41.5h100.7V-51.1L464.3-51.1z"/>
+							<title>bld_wd_it:
+2</title>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="XMLID_1456_">
+				<g id="XMLID_1459_">
+					<g id="XMLID_1462_" transform="translate(866,390.9355928293694)">
+						<g id="r20_11_" shape-rendering="crispEdges">
+							<rect x="364.2" y="-154.2" class="st2" width="99.7" height="40.5"/>
+							<path class="st1" d="M463.3-153.7v39.5h-98.7v-39.5H463.3 M464.3-154.7H363.7v41.5h100.7V-154.7L464.3-154.7z"/>
+							<title>bld_wd_it:
+2</title>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="XMLID_1448_">
+				<g id="XMLID_1451_">
+					<g id="XMLID_1454_" transform="translate(866,390.9355928293694)">
+						<g id="r20_1_" shape-rendering="crispEdges">
+							<rect x="364.2" y="-207" class="st2" width="99.7" height="40.5"/>
+							<path class="st1" d="M463.3-206.5v39.5h-98.7v-39.5H463.3 M464.3-207.5H363.7v41.5h100.7V-207.5L464.3-207.5z"/>
+							<title>bld_wd_it:
+2</title>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="XMLID_1442_">
+				<g id="XMLID_1445_" transform="translate(433,221.05532449097544)">
+					<g id="r6_13_" shape-rendering="crispEdges">
+						<rect x="277.7" y="-38.7" class="st2" width="56.5" height="40.5"/>
+						<path class="st1" d="M333.7-38.2V1.3h-55.5v-39.5H333.7 M334.7-39.2h-57.5V2.3h57.5V-39.2L334.7-39.2z"/>
+						<title>thn:
+2</title>
+					</g>
+				</g>
+			</g>
+			<g id="XMLID_1436_">
+				<g id="XMLID_1439_" transform="translate(433,221.05532449097544)">
+					<g id="r6_1_" shape-rendering="crispEdges">
+						<rect x="277.7" y="119.4" class="st2" width="56.5" height="40.5"/>
+						<path class="st1" d="M333.7,119.9v39.5h-55.5v-39.5H333.7 M334.7,118.9h-57.5v41.5h57.5V118.9L334.7,118.9z"/>
+						<title>thn:
+2</title>
+					</g>
+				</g>
+			</g>
+			<g id="XMLID_1278_">
+				<g id="XMLID_1756_" transform="translate(0,264.875)">
+					<g id="XMLID_1757_">
+						<g id="XMLID_1758_" class="st3">
+							<text transform="matrix(1 0 0 1 324.8308 4.1489)" class="st4 st5">weight</text>
+						</g>
+					</g>
+				</g>
+				<g id="XMLID_1753_" transform="translate(0,413)">
+					<g id="XMLID_1754_">
+						<g id="XMLID_1755_" class="st3">
+							<text transform="matrix(1 0 0 1 324.8308 119.2026)" class="st4 st5">width</text>
+						</g>
+					</g>
+				</g>
+				<g id="XMLID_1748_" transform="translate(0,539.5)">
+					<g id="XMLID_1749_">
+						<g id="XMLID_1750_" class="st3">
+							<text transform="matrix(1 0 0 1 324.8308 -138.8433)" class="st4 st5">ital</text>
+						</g>
+					</g>
+				</g>
+				<g id="XMLID_1746_" class="st3">
+					<text transform="matrix(1 0 0 1 702.491 154.9087)" class="st4 st6">thn</text>
+				</g>
+				<g id="XMLID_1743_" class="st3">
+					<text transform="matrix(1 0 0 1 702.491 312.3643)" class="st4 st6">reg</text>
+				</g>
+				<g id="XMLID_1740_" class="st3">
+					<text transform="matrix(1 0 0 1 702.491 470.7788)" class="st4 st6">bld</text>
+				</g>
+				<g id="XMLID_1737_" class="st3">
+					<text transform="matrix(1 0 0 1 702.4841 629.7974)" class="st4 st6">blk</text>
+				</g>
+				<g id="XMLID_1723_">
+					<g id="XMLID_1724_" class="st3">
+						<text transform="matrix(1 0 0 1 864.1335 121.3032)" class="st4 st6">thn_it</text>
+					</g>
+				</g>
+				<g id="XMLID_1718_">
+					<g id="XMLID_1719_" class="st3">
+						<text transform="matrix(1 0 0 1 888.2273 387.3247)" class="st4 st6">smb_it</text>
+					</g>
+				</g>
+				<g id="XMLID_1713_">
+					<g id="XMLID_1714_" class="st3">
+						<text transform="matrix(1 0 0 1 864.134 280.916)" class="st4 st6">reg_it</text>
+					</g>
+				</g>
+				<g id="XMLID_1707_">
+					<g id="XMLID_1708_" class="st3">
+						<text transform="matrix(1 0 0 1 864.134 440.5288)" class="st4 st6">bld_it</text>
+					</g>
+				</g>
+				<g id="XMLID_1701_">
+					<g id="XMLID_1702_" class="st3">
+						<text transform="matrix(1 0 0 1 864.1335 600.1411)" class="st4 st6">blk_it</text>
+					</g>
+				</g>
+				<g id="XMLID_1698_">
+					<g id="XMLID_1699_" class="st3">
+						<text transform="matrix(1 0 0 1 1045.3157 201.1099)" class="st4 st6">thn_wd</text>
+					</g>
+				</g>
+				<g id="XMLID_1696_">
+					<g id="XMLID_1697_" class="st3">
+						<text transform="matrix(1 0 0 1 1045.3157 360.7222)" class="st4 st6">reg_wd</text>
+					</g>
+				</g>
+				<g id="XMLID_1694_">
+					<g id="XMLID_1695_" class="st3">
+						<text transform="matrix(1 0 0 1 1045.3157 520.335)" class="st4 st6">bld_wd</text>
+					</g>
+				</g>
+				<g id="XMLID_1692_">
+					<g id="XMLID_1693_" class="st3">
+						<text transform="matrix(1 0 0 1 1045.3162 679.9478)" class="st4 st6">blk_wd</text>
+					</g>
+				</g>
+				<g id="XMLID_1688_">
+					<g id="XMLID_1689_" class="st3">
+						<text transform="matrix(1 0 0 1 1220.447 154.562)" class="st4 st6">thn_wd_it</text>
+					</g>
+				</g>
+				<g id="XMLID_1683_">
+					<g id="XMLID_1684_" class="st3">
+						<text transform="matrix(1 0 0 1 1220.447 312.8525)" class="st4 st6">reg_wd_it</text>
+					</g>
+				</g>
+				<g id="XMLID_1678_">
+					<g id="XMLID_1679_" class="st3">
+						<text transform="matrix(1 0 0 1 1220.447 471.1431)" class="st4 st6">bld_wd_it</text>
+					</g>
+				</g>
+				<g id="XMLID_1673_">
+					<g id="XMLID_1674_" class="st3">
+						<text transform="matrix(1 0 0 1 1220.4475 631.1753)" class="st4 st6">blk_wd_it</text>
+					</g>
+				</g>
+				<g id="XMLID_1671_" class="st3">
+					<text transform="matrix(1 0 0 1 689.5911 139.877)" class="st4 st7">∞3</text>
+				</g>
+				<g id="XMLID_1670_" class="st3">
+					<text transform="matrix(1 0 0 1 854.157 105.9053)" class="st4 st7">∞3</text>
+				</g>
+				<g id="XMLID_1669_" class="st3">
+					<text transform="matrix(1 0 0 1 854.157 265.5181)" class="st4 st7">∞3</text>
+				</g>
+				<g id="XMLID_1668_" class="st3">
+					<text transform="matrix(1 0 0 1 1036.6169 186.397)" class="st4 st7">∞4</text>
+				</g>
+				<g id="XMLID_1667_" class="st3">
+					<text transform="matrix(1 0 0 1 1211.0886 139.877)" class="st4 st7">∞4</text>
+				</g>
+				<g id="XMLID_1666_" class="st3">
+					<text transform="matrix(1 0 0 1 1211.0886 297.9253)" class="st4 st7">∞4</text>
+				</g>
+				<g id="XMLID_1665_" class="st3">
+					<text transform="matrix(1 0 0 1 1211.0886 456.2266)" class="st4 st7">∞4</text>
+				</g>
+				<g id="XMLID_1664_" class="st3">
+					<text transform="matrix(1 0 0 1 1211.0886 616.6714)" class="st4 st7">∞4</text>
+				</g>
+				<g id="XMLID_1663_" class="st3">
+					<text transform="matrix(1 0 0 1 1290.4036 139.877)" class="st4 st7">MG</text>
+				</g>
+				<g id="XMLID_1662_" class="st3">
+					<text transform="matrix(1 0 0 1 1290.4036 297.9253)" class="st4 st7">MG</text>
+				</g>
+				<g id="XMLID_1661_" class="st3">
+					<text transform="matrix(1 0 0 1 1290.4036 456.2266)" class="st4 st7">MG</text>
+				</g>
+				<g id="XMLID_1660_" class="st3">
+					<text transform="matrix(1 0 0 1 1290.4036 616.6714)" class="st4 st7">MG</text>
+				</g>
+				<g id="XMLID_1659_" class="st3">
+					<text transform="matrix(1 0 0 1 1036.6169 345.3247)" class="st4 st7">∞4</text>
+				</g>
+				<g id="XMLID_1658_" class="st3">
+					<text transform="matrix(1 0 0 1 1036.6169 504.937)" class="st4 st7">∞4</text>
+				</g>
+				<g id="XMLID_1657_" class="st3">
+					<text transform="matrix(1 0 0 1 1036.6169 664.5503)" class="st4 st7">∞4</text>
+				</g>
+				<g id="XMLID_1656_" class="st3">
+					<text transform="matrix(1 0 0 1 1091.1672 186.397)" class="st4 st7">MG</text>
+				</g>
+				<g id="XMLID_1655_" class="st3">
+					<text transform="matrix(1 0 0 1 1091.1672 345.3247)" class="st4 st7">MG</text>
+				</g>
+				<g id="XMLID_1654_" class="st3">
+					<text transform="matrix(1 0 0 1 1091.1672 504.937)" class="st4 st7">MG</text>
+				</g>
+				<g id="XMLID_1653_" class="st3">
+					<text transform="matrix(1 0 0 1 1091.1672 664.5503)" class="st4 st7">MG</text>
+				</g>
+				<g id="XMLID_1652_" class="st3">
+					<text transform="matrix(1 0 0 1 854.157 425.1304)" class="st4 st7">∞3</text>
+				</g>
+				<g id="XMLID_1651_" class="st3">
+					<text transform="matrix(1 0 0 1 854.157 584.7437)" class="st4 st7">∞4</text>
+				</g>
+				<g id="XMLID_1650_" class="st3">
+					<text transform="matrix(1 0 0 1 910.9441 105.9053)" class="st4 st7">MG</text>
+				</g>
+				<g id="XMLID_1649_" class="st3">
+					<text transform="matrix(1 0 0 1 910.9441 265.5181)" class="st4 st7">MG</text>
+				</g>
+				<g id="XMLID_1648_" class="st3">
+					<text transform="matrix(1 0 0 1 910.9441 425.1304)" class="st4 st7">MG</text>
+				</g>
+				<g id="XMLID_1647_" class="st3">
+					<text transform="matrix(1 0 0 1 910.9441 584.7437)" class="st4 st7">MG</text>
+				</g>
+				<g id="XMLID_1646_" class="st3">
+					<text transform="matrix(1 0 0 1 689.5911 297.9248)" class="st4 st7">∞3</text>
+				</g>
+				<g id="XMLID_1645_" class="st3">
+					<text transform="matrix(1 0 0 1 689.5911 456.2266)" class="st4 st7">∞3</text>
+				</g>
+				<g id="XMLID_1644_" class="st3">
+					<text transform="matrix(1 0 0 1 689.5911 614.7534)" class="st4 st7">∞4</text>
+				</g>
+				<g id="XMLID_1643_" class="st3">
+					<text transform="matrix(1 0 0 1 727.5251 139.877)" class="st4 st7">MO</text>
+				</g>
+				<g id="XMLID_1642_" class="st3">
+					<text transform="matrix(1 0 0 1 727.5251 297.9248)" class="st4 st7">MO</text>
+				</g>
+				<g id="XMLID_1641_" class="st3">
+					<text transform="matrix(1 0 0 1 727.5251 456.2266)" class="st4 st7">MO</text>
+				</g>
+				<g id="XMLID_1640_" class="st3">
+					<text transform="matrix(1 0 0 1 727.5251 614.7534)" class="st4 st7">MO</text>
+				</g>
+				<g id="XMLID_1623_">
+					<g id="XMLID_1639_" class="st3">
+						<text transform="matrix(1 0 0 1 1209.97 166.7188)" class="st4 st7">100</text>
+					</g>
+					<g id="XMLID_1638_" class="st3">
+						<text transform="matrix(1 0 0 1 1209.97 324.7671)" class="st4 st7">400</text>
+					</g>
+					<g id="XMLID_1637_" class="st3">
+						<text transform="matrix(1 0 0 1 1209.97 483.0684)" class="st4 st7">700</text>
+					</g>
+					<g id="XMLID_1636_" class="st3">
+						<text transform="matrix(1 0 0 1 1209.97 643.5132)" class="st4 st7">900</text>
+					</g>
+					<g id="XMLID_1635_" class="st3">
+						<text transform="matrix(1 0 0 1 1035.6584 213.2388)" class="st4 st7">100</text>
+					</g>
+					<g id="XMLID_1634_" class="st3">
+						<text transform="matrix(1 0 0 1 1035.6584 372.1665)" class="st4 st7">400</text>
+					</g>
+					<g id="XMLID_1633_" class="st3">
+						<text transform="matrix(1 0 0 1 1035.6584 531.7788)" class="st4 st7">700</text>
+					</g>
+					<g id="XMLID_1632_" class="st3">
+						<text transform="matrix(1 0 0 1 1035.6584 691.3911)" class="st4 st7">900</text>
+					</g>
+					<g id="XMLID_1631_" class="st3">
+						<text transform="matrix(1 0 0 1 853.5178 132.747)" class="st4 st7">100</text>
+					</g>
+					<g id="XMLID_1630_" class="st3">
+						<text transform="matrix(1 0 0 1 853.5178 292.3599)" class="st4 st7">400</text>
+					</g>
+					<g id="XMLID_1629_" class="st3">
+						<text transform="matrix(1 0 0 1 853.5178 451.9722)" class="st4 st7">700</text>
+					</g>
+					<g id="XMLID_1628_" class="st3">
+						<text transform="matrix(1 0 0 1 853.5178 611.5845)" class="st4 st7">900</text>
+					</g>
+					<g id="XMLID_1627_" class="st3">
+						<text transform="matrix(1 0 0 1 690.2302 166.7188)" class="st4 st7">100</text>
+					</g>
+					<g id="XMLID_1626_" class="st3">
+						<text transform="matrix(1 0 0 1 690.2302 324.7666)" class="st4 st7">400</text>
+					</g>
+					<g id="XMLID_1625_" class="st3">
+						<text transform="matrix(1 0 0 1 690.2302 483.0684)" class="st4 st7">700</text>
+					</g>
+					<g id="XMLID_1624_" class="st3">
+						<text transform="matrix(1 0 0 1 690.2302 641.5952)" class="st4 st7">900</text>
+					</g>
+				</g>
+				<g id="XMLID_1621_" class="st3">
+					<text transform="matrix(1 0 0 1 726.4568 260.3052)" class="st4 st6">lgt</text>
+				</g>
+				<g id="XMLID_1619_" class="st3">
+					<text transform="matrix(1 0 0 1 752.2888 246.645)" class="st4 st7">MA</text>
+				</g>
+				<g id="XMLID_1618_" class="st3">
+					<text transform="matrix(1 0 0 1 714.196 273.4868)" class="st4 st7">300</text>
+				</g>
+				<g id="XMLID_1615_" class="st3">
+					<text transform="matrix(1 0 0 1 726.4568 418.3999)" class="st4 st6">smb</text>
+				</g>
+				<g id="XMLID_1613_" class="st3">
+					<text transform="matrix(1 0 0 1 752.2888 403.6216)" class="st4 st7">MA</text>
+				</g>
+				<g id="XMLID_1612_" class="st3">
+					<text transform="matrix(1 0 0 1 714.196 430.4634)" class="st4 st7">600</text>
+				</g>
+				<g id="XMLID_1609_" class="st3">
+					<text transform="matrix(1 0 0 1 726.4568 550.625)" class="st4 st6">xbd</text>
+				</g>
+				<g id="XMLID_1607_" class="st3">
+					<text transform="matrix(1 0 0 1 752.2888 536.0928)" class="st4 st7">MA</text>
+				</g>
+				<g id="XMLID_1606_" class="st3">
+					<text transform="matrix(1 0 0 1 714.196 562.9346)" class="st4 st7">800</text>
+				</g>
+				<g id="XMLID_1600_">
+					<g id="XMLID_1601_" class="st3">
+						<text transform="matrix(1 0 0 1 888.2273 520.335)" class="st4 st6">xbd_it</text>
+					</g>
+				</g>
+				<g id="XMLID_1597_" class="st3">
+					<text transform="matrix(1 0 0 1 935.8357 505.896)" class="st4 st7">MA</text>
+				</g>
+				<g id="XMLID_1593_" class="st3">
+					<text transform="matrix(1 0 0 1 877.6116 532.7378)" class="st4 st7">800</text>
+				</g>
+				<g id="XMLID_1553_">
+					<g id="XMLID_1555_" class="st3">
+						<text transform="matrix(1 0 0 1 935.8357 372.6494)" class="st4 st7">MA</text>
+					</g>
+					<g id="XMLID_1554_" class="st3">
+						<text transform="matrix(1 0 0 1 878.5178 399.4912)" class="st4 st7">600</text>
+					</g>
+				</g>
+				<g id="XMLID_1549_">
+					<g id="XMLID_1550_" class="st3">
+						<text transform="matrix(1 0 0 1 888.2273 334.1201)" class="st4 st6">med_it</text>
+					</g>
+				</g>
+				<g id="XMLID_1547_" class="st3">
+					<text transform="matrix(1 0 0 1 935.8357 319.9175)" class="st4 st7">MA</text>
+				</g>
+				<g id="XMLID_1546_" class="st3">
+					<text transform="matrix(1 0 0 1 877.6116 346.7593)" class="st4 st7">500</text>
+				</g>
+				<g id="XMLID_1541_">
+					<g id="XMLID_1542_" class="st3">
+						<text transform="matrix(1 0 0 1 888.2273 227.7119)" class="st4 st6">lgt_it</text>
+					</g>
+				</g>
+				<g id="XMLID_1539_" class="st3">
+					<text transform="matrix(1 0 0 1 935.8357 212.9731)" class="st4 st7">MA</text>
+				</g>
+				<g id="XMLID_1538_" class="st3">
+					<text transform="matrix(1 0 0 1 877.6116 239.8149)" class="st4 st7">300</text>
+				</g>
+				<g id="XMLID_1532_">
+					<g id="XMLID_1533_" class="st3">
+						<text transform="matrix(1 0 0 1 888.2273 174.5078)" class="st4 st6">xlg_it</text>
+					</g>
+				</g>
+				<g id="XMLID_1530_" class="st3">
+					<text transform="matrix(1 0 0 1 935.8357 160.2412)" class="st4 st7">MA</text>
+				</g>
+				<g id="XMLID_1529_" class="st3">
+					<text transform="matrix(1 0 0 1 877.6116 187.083)" class="st4 st7">200</text>
+				</g>
+				<g id="XMLID_1524_">
+					<g id="XMLID_1525_" class="st3">
+						<text transform="matrix(1 0 0 1 1068.4109 254.374)" class="st4 st6">xlg_wd</text>
+					</g>
+				</g>
+				<g id="XMLID_1522_" class="st3">
+					<text transform="matrix(1 0 0 1 1115.0603 240.5337)" class="st4 st7">MA</text>
+				</g>
+				<g id="XMLID_1521_" class="st3">
+					<text transform="matrix(1 0 0 1 1058.7537 267.3754)" class="st4 st7">200</text>
+				</g>
+				<g id="XMLID_1516_">
+					<g id="XMLID_1517_" class="st3">
+						<text transform="matrix(1 0 0 1 1068.4109 307.5781)" class="st4 st6">lgt_wd</text>
+					</g>
+				</g>
+				<g id="XMLID_1514_" class="st3">
+					<text transform="matrix(1 0 0 1 1115.0603 293.5581)" class="st4 st7">MA</text>
+				</g>
+				<g id="XMLID_1513_" class="st3">
+					<text transform="matrix(1 0 0 1 1058.7537 320.3999)" class="st4 st7">300</text>
+				</g>
+				<g id="XMLID_1508_">
+					<g id="XMLID_1509_" class="st3">
+						<text transform="matrix(1 0 0 1 1068.4109 413.9863)" class="st4 st6">med_wd</text>
+					</g>
+				</g>
+				<g id="XMLID_1506_" class="st3">
+					<text transform="matrix(1 0 0 1 1115.0603 399.5176)" class="st4 st7">MA</text>
+				</g>
+				<g id="XMLID_1505_" class="st3">
+					<text transform="matrix(1 0 0 1 1058.7537 426.3594)" class="st4 st7">500</text>
+				</g>
+				<g id="XMLID_1500_">
+					<g id="XMLID_1501_" class="st3">
+						<text transform="matrix(1 0 0 1 1068.4109 467.1909)" class="st4 st6">smb_wd</text>
+					</g>
+				</g>
+				<g id="XMLID_1498_" class="st3">
+					<text transform="matrix(1 0 0 1 1115.0603 452.542)" class="st4 st7">MA</text>
+				</g>
+				<g id="XMLID_1497_" class="st3">
+					<text transform="matrix(1 0 0 1 1058.7537 479.3838)" class="st4 st7">600</text>
+				</g>
+				<g id="XMLID_1492_">
+					<g id="XMLID_1493_" class="st3">
+						<text transform="matrix(1 0 0 1 1068.4109 600.2017)" class="st4 st6">xbd_wd</text>
+					</g>
+				</g>
+				<g id="XMLID_1490_" class="st3">
+					<text transform="matrix(1 0 0 1 1115.0603 584.7437)" class="st4 st7">MA</text>
+				</g>
+				<g id="XMLID_1489_" class="st3">
+					<text transform="matrix(1 0 0 1 1058.7537 611.5854)" class="st4 st7">800</text>
+				</g>
+				<g id="XMLID_1484_">
+					<g id="XMLID_1485_" class="st3">
+						<text transform="matrix(1 0 0 1 1244.2854 551.1592)" class="st4 st6">xbd_wd_it</text>
+					</g>
+				</g>
+				<g id="XMLID_1482_" class="st3">
+					<text transform="matrix(1 0 0 1 1315.0393 538.0103)" class="st4 st7">MA</text>
+				</g>
+				<g id="XMLID_1481_" class="st3">
+					<text transform="matrix(1 0 0 1 1233.8079 564.8521)" class="st4 st7">800</text>
+				</g>
+				<g id="XMLID_1476_">
+					<g id="XMLID_1477_" class="st3">
+						<text transform="matrix(1 0 0 1 1244.2844 418.3799)" class="st4 st6">smb_wd_it</text>
+					</g>
+				</g>
+				<g id="XMLID_1474_" class="st3">
+					<text transform="matrix(1 0 0 1 1315.0393 404.5801)" class="st4 st7">MA</text>
+				</g>
+				<g id="XMLID_1473_" class="st3">
+					<text transform="matrix(1 0 0 1 1233.8079 431.4219)" class="st4 st7">600</text>
+				</g>
+				<g id="XMLID_1468_">
+					<g id="XMLID_1469_" class="st3">
+						<text transform="matrix(1 0 0 1 1244.2844 365.6162)" class="st4 st6">med_wd_it</text>
+					</g>
+				</g>
+				<g id="XMLID_1466_" class="st3">
+					<text transform="matrix(1 0 0 1 1315.0393 352.0947)" class="st4 st7">MA</text>
+				</g>
+				<g id="XMLID_1465_" class="st3">
+					<text transform="matrix(1 0 0 1 1233.8079 378.9365)" class="st4 st7">500</text>
+				</g>
+				<g id="XMLID_1460_">
+					<g id="XMLID_1461_" class="st3">
+						<text transform="matrix(1 0 0 1 1244.2844 262.0063)" class="st4 st6">lgt_wd_it</text>
+					</g>
+				</g>
+				<g id="XMLID_1458_" class="st3">
+					<text transform="matrix(1 0 0 1 1315.0393 248.5625)" class="st4 st7">MA</text>
+				</g>
+				<g id="XMLID_1457_" class="st3">
+					<text transform="matrix(1 0 0 1 1233.8079 275.4042)" class="st4 st7">300</text>
+				</g>
+				<g id="XMLID_1452_">
+					<g id="XMLID_1453_" class="st3">
+						<text transform="matrix(1 0 0 1 1244.2844 209.2427)" class="st4 st6">xlg_wd_it</text>
+					</g>
+				</g>
+				<g id="XMLID_1450_" class="st3">
+					<text transform="matrix(1 0 0 1 1315.0393 196.0771)" class="st4 st7">MA</text>
+				</g>
+				<g id="XMLID_1449_" class="st3">
+					<text transform="matrix(1 0 0 1 1233.8079 222.9189)" class="st4 st7">200</text>
+				</g>
+				<g id="XMLID_1446_" class="st3">
+					<text transform="matrix(1 0 0 1 726.4568 207.6069)" class="st4 st6">xlg</text>
+				</g>
+				<g id="XMLID_1444_" class="st3">
+					<text transform="matrix(1 0 0 1 752.2888 194.1597)" class="st4 st7">MA</text>
+				</g>
+				<g id="XMLID_1443_" class="st3">
+					<text transform="matrix(1 0 0 1 714.196 221.0015)" class="st4 st7">200</text>
+				</g>
+				<g id="XMLID_1440_" class="st3">
+					<text transform="matrix(1 0 0 1 726.4568 365.7017)" class="st4 st6">med</text>
+				</g>
+				<g id="XMLID_1438_" class="st3">
+					<text transform="matrix(1 0 0 1 752.2888 351.1362)" class="st4 st7">MA</text>
+				</g>
+				<g id="XMLID_1437_" class="st3">
+					<text transform="matrix(1 0 0 1 714.196 377.978)" class="st4 st7">500</text>
+				</g>
+				<g id="XMLID_1321_" transform="translate(0,264.875)">
+					<g id="XMLID_1328_">
+						<text id="XMLID_1332_" transform="matrix(1 0 0 1 331.8606 366.5728)" class="st4 st7">Original Master</text>
+						<text id="XMLID_1331_" transform="matrix(1 0 0 1 331.8606 392.6479)" class="st4 st7">Generated Master</text>
+						<text id="XMLID_1330_" transform="matrix(1 0 0 1 331.8606 418.7231)" class="st4 st7">Automatic Master</text>
+					</g>
+				</g>
+				<g id="XMLID_1270_" transform="translate(0,264.875)">
+					<g id="XMLID_1271_">
+						<text id="XMLID_1320_" transform="matrix(1 0 0 1 453.6072 366.5728)" class="st4 st7">4</text>
+						<text id="XMLID_1319_" transform="matrix(1 0 0 1 453.6072 392.6479)" class="st4 st7">12</text>
+						<text id="XMLID_1318_" transform="matrix(1 0 0 1 453.6072 418.7231)" class="st4 st7">16</text>
+					</g>
+				</g>
+				<g id="XMLID_1267_">
+					<text id="XMLID_1268_" transform="matrix(1 0 0 1 309.739 630.9351)" class="st4 st7">MO</text>
+				</g>
+				<g id="XMLID_1263_">
+					<text id="XMLID_1264_" transform="matrix(1 0 0 1 309.739 657.2358)" class="st4 st7">MG</text>
+				</g>
+				<g id="XMLID_1259_">
+					<text id="XMLID_1260_" transform="matrix(1 0 0 1 309.739 684.0776)" class="st4 st7">MA</text>
+				</g>
+			</g>
+		</g>
+		<g id="XMLID_1257_">
+			<g id="XMLID_1266_">
+				<rect id="XMLID_1269_" x="305.7" y="617.7" class="st0" width="19.7" height="19.7"/>
+			</g>
+			<g id="XMLID_1262_">
+				<rect id="XMLID_1265_" x="305.7" y="644.1" class="st0" width="19.7" height="19.7"/>
+			</g>
+			<g id="XMLID_1258_">
+				<rect id="XMLID_1261_" x="305.7" y="670.9" class="st0" width="19.7" height="19.7"/>
+			</g>
+		</g>
+		<line id="XMLID_1256_" class="st0" x1="440.8" y1="617.7" x2="440.8" y2="690.7"/>
+	</g>
+	<g id="XMLID_1309_">
+		<g id="XMLID_1280_">
+			<g id="XMLID_1351_">
+				<g>
+					<line class="st0" x1="1223.6" y1="345.2" x2="1222.6" y2="345.2"/>
+					<line class="st8" x1="1220.5" y1="345.2" x2="1213.1" y2="345.2"/>
+					<line class="st0" x1="1212.1" y1="345.2" x2="1211.1" y2="345.2"/>
+					<g>
+						<polygon class="st1" points="1220.3,341.1 1219.6,341.8 1223.2,345.2 1219.6,348.5 1220.3,349.3 1224.7,345.2 						"/>
+					</g>
+				</g>
+				<g>
+					<line class="st0" x1="1223.6" y1="398.4" x2="1222.6" y2="398.4"/>
+					<line class="st8" x1="1220.5" y1="398.4" x2="1213.1" y2="398.4"/>
+					<line class="st0" x1="1212.1" y1="398.4" x2="1211.1" y2="398.4"/>
+					<g>
+						<polygon class="st1" points="1220.3,394.3 1219.6,395 1223.2,398.4 1219.6,401.7 1220.3,402.5 1224.7,398.4 						"/>
+					</g>
+				</g>
+			</g>
+			<g id="XMLID_1343_">
+				<line class="st0" x1="1223.6" y1="531" x2="1222.6" y2="531"/>
+				<line class="st8" x1="1220.5" y1="531" x2="1213.1" y2="531"/>
+				<line class="st0" x1="1212.1" y1="531" x2="1211.1" y2="531"/>
+				<g>
+					<polygon class="st1" points="1220.3,527 1219.6,527.7 1223.2,531 1219.6,534.4 1220.3,535.1 1224.7,531 					"/>
+				</g>
+			</g>
+			<g id="XMLID_1426_">
+				<g>
+					<line class="st0" x1="704.1" y1="345.4" x2="703.1" y2="345.4"/>
+					<line class="st8" x1="701" y1="345.4" x2="693.7" y2="345.4"/>
+					<line class="st0" x1="692.6" y1="345.4" x2="691.6" y2="345.4"/>
+					<g>
+						<polygon class="st1" points="700.8,341.3 700.1,342 703.7,345.4 700.1,348.7 700.8,349.4 705.2,345.4 						"/>
+					</g>
+				</g>
+				<g>
+					<line class="st0" x1="704.1" y1="398.6" x2="703.1" y2="398.6"/>
+					<line class="st8" x1="701" y1="398.6" x2="693.7" y2="398.6"/>
+					<line class="st0" x1="692.6" y1="398.6" x2="691.6" y2="398.6"/>
+					<g>
+						<polygon class="st1" points="700.8,394.5 700.1,395.2 703.7,398.6 700.1,401.9 700.8,402.7 705.2,398.6 						"/>
+					</g>
+				</g>
+			</g>
+			<g id="XMLID_1418_">
+				<line class="st0" x1="704.1" y1="530.3" x2="703.1" y2="530.3"/>
+				<line class="st8" x1="701" y1="530.3" x2="693.7" y2="530.3"/>
+				<line class="st0" x1="692.6" y1="530.3" x2="691.6" y2="530.3"/>
+				<g>
+					<polygon class="st1" points="700.8,526.2 700.1,526.9 703.7,530.3 700.1,533.6 700.8,534.4 705.2,530.3 					"/>
+				</g>
+			</g>
+			<g id="XMLID_1379_">
+				<g>
+					<line class="st0" x1="1047.9" y1="393.8" x2="1046.9" y2="393.8"/>
+					<line class="st8" x1="1044.8" y1="393.8" x2="1037.4" y2="393.8"/>
+					<line class="st0" x1="1036.4" y1="393.8" x2="1035.4" y2="393.8"/>
+					<g>
+						<polygon class="st1" points="1044.6,389.7 1043.9,390.4 1047.5,393.8 1043.9,397.1 1044.6,397.9 1049,393.8 						"/>
+					</g>
+				</g>
+				<g>
+					<line class="st0" x1="1047.9" y1="447" x2="1046.9" y2="447"/>
+					<line class="st8" x1="1044.8" y1="447" x2="1037.4" y2="447"/>
+					<line class="st0" x1="1036.4" y1="447" x2="1035.4" y2="447"/>
+					<g>
+						<polygon class="st1" points="1044.6,442.9 1043.9,443.6 1047.5,447 1043.9,450.3 1044.6,451.1 1049,447 						"/>
+					</g>
+				</g>
+			</g>
+			<g id="XMLID_1371_">
+				<line class="st0" x1="1047.9" y1="579.7" x2="1046.9" y2="579.7"/>
+				<line class="st8" x1="1044.8" y1="579.7" x2="1037.4" y2="579.7"/>
+				<line class="st0" x1="1036.4" y1="579.7" x2="1035.4" y2="579.7"/>
+				<g>
+					<polygon class="st1" points="1044.6,575.6 1043.9,576.3 1047.5,579.6 1043.9,583 1044.6,583.7 1049,579.6 					"/>
+				</g>
+			</g>
+			<g id="XMLID_1361_">
+				<g>
+					<line class="st0" x1="1047.9" y1="234.7" x2="1046.9" y2="234.7"/>
+					<line class="st8" x1="1044.8" y1="234.7" x2="1037.4" y2="234.7"/>
+					<line class="st0" x1="1036.4" y1="234.7" x2="1035.4" y2="234.7"/>
+					<g>
+						<polygon class="st1" points="1044.6,230.6 1043.9,231.4 1047.5,234.7 1043.9,238.1 1044.6,238.8 1049,234.7 						"/>
+					</g>
+				</g>
+				<g>
+					<line class="st0" x1="1047.9" y1="287.9" x2="1046.9" y2="287.9"/>
+					<line class="st8" x1="1044.8" y1="287.9" x2="1037.4" y2="287.9"/>
+					<line class="st0" x1="1036.4" y1="287.9" x2="1035.4" y2="287.9"/>
+					<g>
+						<polygon class="st1" points="1044.6,283.8 1043.9,284.6 1047.5,287.9 1043.9,291.3 1044.6,292 1049,287.9 						"/>
+					</g>
+				</g>
+			</g>
+			<g id="XMLID_1408_">
+				<g>
+					<line class="st0" x1="704.1" y1="187.2" x2="703.1" y2="187.2"/>
+					<line class="st8" x1="701" y1="187.2" x2="693.7" y2="187.2"/>
+					<line class="st0" x1="692.6" y1="187.2" x2="691.6" y2="187.2"/>
+					<g>
+						<polygon class="st1" points="700.8,183.1 700.1,183.8 703.7,187.2 700.1,190.5 700.8,191.3 705.2,187.2 						"/>
+					</g>
+				</g>
+				<g>
+					<line class="st0" x1="704.1" y1="240.5" x2="703.1" y2="240.5"/>
+					<line class="st8" x1="701" y1="240.5" x2="693.7" y2="240.5"/>
+					<line class="st0" x1="692.6" y1="240.5" x2="691.6" y2="240.5"/>
+					<g>
+						<polygon class="st1" points="700.8,236.4 700.1,237.1 703.7,240.5 700.1,243.8 700.8,244.6 705.2,240.5 						"/>
+					</g>
+				</g>
+			</g>
+			<g id="XMLID_1404_">
+				<g>
+					<line class="st0" x1="867.6" y1="313.6" x2="866.6" y2="313.6"/>
+					<line class="st8" x1="864.5" y1="313.6" x2="857.1" y2="313.6"/>
+					<line class="st0" x1="856.1" y1="313.6" x2="855.1" y2="313.6"/>
+					<g>
+						<polygon class="st1" points="864.3,309.5 863.6,310.3 867.2,313.6 863.6,317 864.3,317.7 868.6,313.6 						"/>
+					</g>
+				</g>
+				<g>
+					<line class="st0" x1="867.6" y1="366.8" x2="866.6" y2="366.8"/>
+					<line class="st8" x1="864.5" y1="366.8" x2="857.1" y2="366.8"/>
+					<line class="st0" x1="856.1" y1="366.8" x2="855.1" y2="366.8"/>
+					<g>
+						<polygon class="st1" points="864.3,362.7 863.6,363.5 867.2,366.8 863.6,370.2 864.3,370.9 868.6,366.8 						"/>
+					</g>
+				</g>
+			</g>
+			<g id="XMLID_1399_">
+				<line class="st0" x1="867.6" y1="499.5" x2="866.6" y2="499.5"/>
+				<line class="st8" x1="864.5" y1="499.5" x2="857.1" y2="499.5"/>
+				<line class="st0" x1="856.1" y1="499.5" x2="855.1" y2="499.5"/>
+				<g>
+					<polygon class="st1" points="864.3,495.4 863.6,496.2 867.2,499.5 863.6,502.9 864.3,503.6 868.6,499.5 					"/>
+				</g>
+			</g>
+			<g id="XMLID_1393_">
+				<g>
+					<line class="st0" x1="867.6" y1="154.6" x2="866.6" y2="154.6"/>
+					<line class="st8" x1="864.5" y1="154.6" x2="857.1" y2="154.6"/>
+					<line class="st0" x1="856.1" y1="154.6" x2="855.1" y2="154.6"/>
+					<g>
+						<polygon class="st1" points="864.3,150.5 863.6,151.2 867.2,154.6 863.6,157.9 864.3,158.7 868.6,154.6 						"/>
+					</g>
+				</g>
+				<g>
+					<line class="st0" x1="867.6" y1="207.8" x2="866.6" y2="207.8"/>
+					<line class="st8" x1="864.5" y1="207.8" x2="857.1" y2="207.8"/>
+					<line class="st0" x1="856.1" y1="207.8" x2="855.1" y2="207.8"/>
+					<g>
+						<polygon class="st1" points="864.3,203.7 863.6,204.4 867.2,207.8 863.6,211.2 864.3,211.9 868.6,207.8 						"/>
+					</g>
+				</g>
+			</g>
+			<g id="XMLID_1333_">
+				<g>
+					<line class="st0" x1="1223.6" y1="188" x2="1222.6" y2="188"/>
+					<line class="st8" x1="1220.5" y1="188" x2="1213.1" y2="188"/>
+					<line class="st0" x1="1212.1" y1="188" x2="1211.1" y2="188"/>
+					<g>
+						<polygon class="st1" points="1220.3,184 1219.6,184.7 1223.2,188 1219.6,191.4 1220.3,192.1 1224.7,188 						"/>
+					</g>
+				</g>
+				<g>
+					<line class="st0" x1="1223.6" y1="241.3" x2="1222.6" y2="241.3"/>
+					<line class="st8" x1="1220.5" y1="241.3" x2="1213.1" y2="241.3"/>
+					<line class="st0" x1="1212.1" y1="241.3" x2="1211.1" y2="241.3"/>
+					<g>
+						<polygon class="st1" points="1220.3,237.2 1219.6,237.9 1223.2,241.3 1219.6,244.6 1220.3,245.3 1224.7,241.3 						"/>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="XMLID_1308_">
+			<g id="XMLID_1307_">
+				<g>
+					<line class="st0" x1="1211.1" y1="328.6" x2="1211.1" y2="329.6"/>
+					<line class="st9" x1="1211.1" y1="331.6" x2="1211.1" y2="444.9"/>
+					<line class="st0" x1="1211.1" y1="445.9" x2="1211.1" y2="446.9"/>
+				</g>
+			</g>
+			<g id="XMLID_1286_">
+				<g>
+					<line class="st0" x1="1211.1" y1="487.6" x2="1211.1" y2="488.6"/>
+					<line class="st10" x1="1211.1" y1="490.6" x2="1211.1" y2="603.2"/>
+					<line class="st0" x1="1211.1" y1="604.2" x2="1211.1" y2="605.2"/>
+				</g>
+			</g>
+			<g id="XMLID_1305_">
+				<g>
+					<line class="st0" x1="691.6" y1="328.7" x2="691.6" y2="329.7"/>
+					<line class="st11" x1="691.6" y1="331.7" x2="691.6" y2="443.1"/>
+					<line class="st0" x1="691.6" y1="444.1" x2="691.6" y2="445.1"/>
+				</g>
+			</g>
+			<g id="XMLID_1304_">
+				<g>
+					<line class="st0" x1="691.6" y1="486.8" x2="691.6" y2="487.8"/>
+					<line class="st10" x1="691.6" y1="489.8" x2="691.6" y2="602.4"/>
+					<line class="st0" x1="691.6" y1="603.4" x2="691.6" y2="604.4"/>
+				</g>
+			</g>
+			<g id="XMLID_1302_">
+				<g>
+					<line class="st0" x1="1035.4" y1="377.2" x2="1035.4" y2="378.2"/>
+					<line class="st12" x1="1035.4" y1="380.2" x2="1035.4" y2="493.4"/>
+					<line class="st0" x1="1035.4" y1="494.4" x2="1035.4" y2="495.4"/>
+				</g>
+			</g>
+			<g id="XMLID_1301_">
+				<g>
+					<line class="st0" x1="1035.4" y1="536.2" x2="1035.4" y2="537.2"/>
+					<line class="st10" x1="1035.4" y1="539.3" x2="1035.4" y2="651.8"/>
+					<line class="st0" x1="1035.4" y1="652.8" x2="1035.4" y2="653.8"/>
+				</g>
+			</g>
+			<g id="XMLID_1300_">
+				<g>
+					<line class="st0" x1="1035.4" y1="217.1" x2="1035.4" y2="218.1"/>
+					<line class="st9" x1="1035.4" y1="220.1" x2="1035.4" y2="333.4"/>
+					<line class="st0" x1="1035.4" y1="334.4" x2="1035.4" y2="335.4"/>
+				</g>
+			</g>
+			<g id="XMLID_1306_">
+				<g>
+					<line class="st0" x1="691.6" y1="170.6" x2="691.6" y2="171.6"/>
+					<line class="st11" x1="691.6" y1="173.6" x2="691.6" y2="285"/>
+					<line class="st0" x1="691.6" y1="286" x2="691.6" y2="287"/>
+				</g>
+			</g>
+			<g id="XMLID_1303_">
+				<g>
+					<line class="st0" x1="855.1" y1="297" x2="855.1" y2="298"/>
+					<polyline class="st9" points="855.1,300 855.1,329 855.1,413.4 					"/>
+					<line class="st0" x1="855.1" y1="414.3" x2="855.1" y2="415.3"/>
+				</g>
+			</g>
+			<g id="XMLID_1288_">
+				<g>
+					<line class="st0" x1="855.1" y1="456.1" x2="855.1" y2="457.1"/>
+					<polyline class="st10" points="855.1,459.1 855.1,488.6 855.1,571.7 					"/>
+					<line class="st0" x1="855.1" y1="572.7" x2="855.1" y2="573.7"/>
+				</g>
+			</g>
+			<g id="XMLID_1287_">
+				<g>
+					<line class="st0" x1="855.1" y1="137" x2="855.1" y2="138"/>
+					<line class="st9" x1="855.1" y1="140" x2="855.1" y2="253.4"/>
+					<line class="st0" x1="855.1" y1="254.3" x2="855.1" y2="255.3"/>
+				</g>
+			</g>
+			<g id="XMLID_1285_">
+				<g>
+					<line class="st0" x1="1211.1" y1="170.4" x2="1211.1" y2="171.4"/>
+					<line class="st9" x1="1211.1" y1="173.4" x2="1211.1" y2="286.7"/>
+					<line class="st0" x1="1211.1" y1="287.7" x2="1211.1" y2="288.7"/>
+				</g>
 			</g>
 		</g>
 	</g>
 </g>
-<path class="st27" d="M933.2,377.8V411v90.1 M952.6,395.1h-19.4 M952.6,450.6h-19.4"/>
-<path class="st27" d="M933.2,543.7v33.9v88.8 M952.6,589h-19.4"/>
-<path class="st27" d="M933.2,210.8v34.3v89.1 M952.6,229.2h-19.4 M952.6,284.7h-19.4"/>
-<path class="st28" d="M1116.5,327.1v33.3v90.1 M1135.9,344.4h-19.4 M1135.9,399.9h-19.4"/>
-<path class="st28" d="M1116.5,493v33.9v88.8 M1135.9,538.3h-19.4"/>
-<path class="st28" d="M1116.5,162.1v34.3v89.1 M1135.9,180.5h-19.4 M1135.9,236h-19.4"/>
-<g>
-	<g transform="translate(0,264.875)">
-		<g>
-			<text transform="matrix(1 0 0 1 199.3333 378.1575)" class="st29"><tspan x="0" y="0" class="st8 st19">Original Master</tspan><tspan x="0" y="27.2" class="st8 st19">Generated Master</tspan><tspan x="0" y="54.4" class="st8 st19">Instance</tspan></text>
-		</g>
-	</g>
-	<g transform="translate(0,264.875)">
-		<g>
-			<text transform="matrix(1 0 0 1 326.3333 378.1575)" class="st29"><tspan x="0" y="0" class="st8 st19">4</tspan><tspan x="0" y="27.2" class="st8 st19">12</tspan><tspan x="0" y="54.4" class="st8 st19">16</tspan></text>
-		</g>
-	</g>
-	<g>
-		<rect x="172" y="628.7" class="st30" width="20.6" height="20.6"/>
-		<g>
-			<text transform="matrix(1 0 0 1 176.2573 642.4973)" class="st8 st19">MO</text>
-		</g>
-	</g>
-	<g>
-		<rect x="172" y="656.2" class="st30" width="20.6" height="20.6"/>
-		<g>
-			<text transform="matrix(1 0 0 1 176.2573 669.933)" class="st8 st19">MG</text>
-		</g>
-	</g>
-	<g>
-		<rect x="172" y="684.2" class="st30" width="20.6" height="20.6"/>
-		<g>
-			<text transform="matrix(1 0 0 1 179.2817 697.933)" class="st8 st19">I</text>
-		</g>
-	</g>
-</g>
-<line class="st30" x1="313" y1="628.7" x2="313" y2="704.8"/>
 </svg>
