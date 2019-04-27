@@ -798,33 +798,51 @@ For the kerning we depend on TypeFacet Autokern.
 
 Overview:
 
-**2019-04-14**:
+**2019-04-27**:
 
-We updated Autokern to python3 allowing it to still function in python2, a very important step as it will be used for kerning throughout all the new weights and widths. We have overviewed and identified the glyph sets and encoding NAMs we are going to use for the extension to scripts like cyrillic. We have an understanding of what are the contour alterations that will allow for the new masters, like wide and black in terms of percentage of alteration and we have initiated the design of some glyphs during.
+We have a layout for the plan of Script Extension and Master Extension that will take place between 2019-04-27 until 2019-05-26.
+
+We will initially design and integrate the Cyrillic to Advent∞3, to 3 Original Masters (MO) and 3 Generated Master (MG). The design and integration for Advent∞3 SeC will take approximately 11 days. At this point Advent∞3 will be available with Cyrillic at 7 Instances of Upright and 7 Instances of Italic.
+
+After that we will branch and update the Advent∞3: 3 MO and 3 MG with additional Masters 1 MO and 9 MG, Initially we will do a Master Extension for Latin and then a Script Extension for all the new masters. That will cover the Black and Wide axes and result to Advent∞4. For the Latin Masters Extension (MeL), Greek Masters Extension (MeG) and Cyrillic Script Extension (SeC) this will require approximately 20 Days. 
+
+The planning is for alphabetic glyphs and does not include any calculation of additional glyphs of any form. We will have to review the progress and update accordingly. After the review of the plan and assignment of additional tasks for fulfilment of additional glyphs, kerning and arbitrary corrections, Advent∞4 will be available with Cyrillic at 18 Instances of Upright and Upright Wide, 18 Instances of Italic and Italic Wide, total of 36 Instances.
+
 
 ```mermaid
 gantt
         dateFormat  YYYY-MM-DD
         title Advent Schedule
         section Advent 3
-        #ADV-0001 Advent 3:         done,des1, 2018-08-22,2019-02-16
-        ADV-0003 Advent 3 PR:         done,des2, 2019-02-16, 2019-04-01
-        ADV-0004 Advent 4 Planning:         des3, after des2, 2019-04-30
-        ADV-0004-0001:         done, des4, 2019-03-31, 2h
-        ADV-0004-0002 Compare NAM:         done, des5, 2019-04-09, 2h
-        ADV-0004-0003 MI Map:         done, des6, 2019-04-10, 2h
+        #ADV-0001 Advent 3:                                                  done, des1,  2018-08-22, 2019-02-16
+        #ADV-0003 Advent 3 PR:                                               done, des2,  2019-02-16, 2019-04-01
+        #ADV-0004 Advent 4 Planning:                                               des3,  after des2, 2019-04-30
+        #ADV-0004-0001:                                                      done, des4,  2019-03-31, 2h
+        ADV-0004-0002 Compare NAM:                                           done, des5,  2019-04-09, 2h
+        ADV-0004-0003 MI Map:                                                done, des6,  2019-04-10, 2h
         
-        ADV-0004-0005 Autokern Reintegration to TYPL - Standalone Repo: done, des8, 2019-04-12, 6h
-        ADV-0004-0006 Cupcake Day!:         done, des9, 2019-04-13, 2h
-        ADV-0004-0007 Advent Master Planning:         des10, 2019-04-14, 2019-04-25
-        
-        ADV-0004-0017:         des20, 2019-04-24, 2h
-        ADV-0004-0018:         des21, 2019-04-25, 2h
-        ADV-0004-0019:         des22, 2019-04-26, 2h
-        ADV-0004-0020:         des23, 2019-04-27, 2h
-        ADV-0004-0021:         des24, 2019-04-28, 2h
-        ADV-0004-0022:         des25, 2019-04-29, 2h
-        ADV-0004-0023:         des26, 2019-04-30, 2h
+        ADV-0004-0005 Autokern Reintegration to TYPL - Standalone Repo:      done, des8,  2019-04-12, 6h
+        ADV-0004-0006 Cupcake Day!:                                          done, des9,  2019-04-13, 2h
+
+        ADV-0004-0007-0001 Advent 3 and 4 Master Planning:                         des10, 2019-04-14, 2019-04-25
+
+        ADV-0003-0008-0001 Advent 3 Script Extension Cyrillic (SeC) Planning:      des27, 2019-04-26, 2h
+        ADV-0004-0007-0001 Advent 4 Master Extension Latin (MeL) Planning:         des28, 2019-04-27, 2h
+        ADV-0004-0008-0001 Advent 4 Script Extension Cyrillic (SeC) Planning:      des28, 2019-04-27, 1h
+
+        ADV-0003-0008-0001 Advent 3 SE Cyrillic:                                   des29, 2019-04-27, 11d
+            ADV-0003-0008-0001-0001 Advent SeC WO:                                 des30, 2019-04-27, 8d
+                ADV-0003-0008-0001-0001 Advent SeC WO Capital:               done, des31, 2019-04-27, 5h
+            ADV-0003-0008-0001-0001 Advent SeC WG:                                 des32, after des30, 3d
+
+        ADV-0004-0007-0001 Advent 4 ME Latin and ME Greek:                         des33, after des32, 10d
+            ADV-0004-0007-0001 Advent MeL WO:                                      des34, after des32, 3d
+            ADV-0004-0007-0001 Advent MeL WG:                                      des35, after des34, 7d
+
+        ADV-0004-0008-0001 Advent 4 SE Cyrillic:                                   des36, after des35, 10d
+            ADV-0004-0008-0001 Advent SeC WO:                                      des37, after des35, 3d
+            ADV-0004-0008-0001 Advent SeC WG:                                      des38, after des37, 7d
+
 ```
 
 
@@ -835,9 +853,15 @@ gantt
     *  **ADV-0004** / After PR in April 2019:
         *  **Advent ∞4.000**
     *  **ADV-0004 Advent ∞4.000 Planning** / After PR whole April 2019:
-        *  Planning for ∞ 4.000: 
+        *  Planning for ∞4.000: 
             *  Project Goals
             *  Duration
+                *  Alphabetic Glyphs:
+                    *  Script Extension:
+                        *  Advent 3 SE Cyrillic 11 days
+                        *  Advent 4 SE Cyrillic 10 days
+                    *  Master Extension
+                        *  Advent 4 ME Latin and Greek 11 days
             *  Masters and Instances
                 *  Masters and Instances Map
             *  Scripts
@@ -853,9 +877,64 @@ gantt
         *  ~~**ADV-0004-0003 Masters and Instances Map**~~ 2019-04-10 4h
         *  ~~**ADV-0004-0005 Autokern Reintegration to TYPL**~~ 2019-04-12 6h
         *  ~~**ADV-0004-0006 Advent Fontbakery Cupcake Day!**~~ 2019-04-13 2h
-        *  ~~**ADV-0004-0007 Advent Master Planning**~~ 2019-04-14 2h
+        *  ~~**ADV-0004-0007-0001 Advent Master Planning**~~ 2019-04-14 2h
             *  Master Planning MA and MG added to README/plans
 
+Task Codes:
+
+*  ADV-∞-0002: Encodings
+*  ADV-∞-0003: Information Architecture
+*  ADV-∞-0005: Kerning
+    *  ADV-∞-0005-0001: Kerning Planning
+*  ADV-∞-0006: Mentions
+*  ADV-∞-0007: Masters
+    *  ADV-∞-0007-0001: Master Planning
+    *  ADV-∞-0007-0002: Master Extension
+*  ADV-∞-0008: Script Extension
+    *  ADV-∞-0008-0001: Cyrillic Script Extension (SeC)
+        *  ADV-∞-0008-0001-0001: SeC Capitals WO and WG
+        *  ADV-∞-0008-0001-0002: SeC SmallCase WO and WG
+    *  ADV-∞-0008-0001: Cyrillic Script Extension (SeC)
+
+Task Codes Versioned:
+
+*  ADV-0003: Advent 3
+    *  ADV-0003-0007: Masters
+        *  ADV-0003-0007-0001: Master Planning
+    *  ADV-0003-0008: Script Extension
+        *  ADV-0003-0008-0001: Cyrillic Script Extension (SeC)
+            *  ADV-0003-0008-0001-0001: SeC Capitals WO and WG
+            *  ADV-0003-0008-0001-0002: SeC SmallCase WO and WG
+*  ADV-0004: Advent 4
+    *  ADV-0004-0002: Encodings
+    *  ADV-0004-0003: Information Architecture
+    *  ADV-0004-0005: Kerning
+        *  ADV-0004-0005-0001: Kerning Planning
+    *  ADV-0004-0007: Masters
+        *  ADV-0004-0007-0001: Master Planning
+        *  ADV-0004-0007-0002: Master Extension
+    *  ADV-0004-0008: Script Extension
+        *  ADV-0004-0008-0001: Cyrillic Script Extension (SeC)
+            *  ADV-0004-0008-0001-0001: SeC Capitals WO and WG
+            *  ADV-0004-0008-0001-0002: SeC SmallCase WO and WG
+        *  ADV-0004-0008-0001: Cyrillic Script Extension (SeC)
+
+
+
+---
+
+### **Introduction / Phase Introduction / Planning Phase / Safe Planning / Schedule Planning / Timeline**
+
+
+-  July 01 2018: Start of Redesign
+-  January 28 2019: Final Kerning for CB for G and L.
+-  January 31 2019: Contour Fixes, Updates for all weights and anchor alignments.
+-  February 16 2019: Updated to match contour optimisations of [mjlagattuta fork](https://github.com/mjlagattuta/Advent-Pro), Updated sources. Observe process at [Advent Third Pickup +](https://github.com/VivaRado/Advent/issues/13)
+-  February 17 2019: Updated to match Kerning Classification optimisations of [mjlagattuta fork](https://github.com/mjlagattuta/Advent-Pro). Further Classification updates, reduction of kerning pairs by 307, Updated sources. Observe process at [Advent Third Pickup +](https://github.com/VivaRado/Advent/issues/13)
+-  March 23 2019: Documentation Restructure, according to VivaRado ORGDOC.
+-  April 01 2019: Initiation of planning for Advent 4.
+-  April 14 2019: Standalone repo for autokern in python3 and 2.
+-  April 27 2019: Plan for delivery of Advent 4
 
 
 ---
@@ -984,6 +1063,14 @@ We can now create a **Quality Plan** by identifying the valid **Quality Targets*
 **MG**: Master Generated, a master automatically generated and manually fixed.
 
 **MA**: Master Automated, completely automatically generated.
+
+**SE**: Script Extension.
+
+**SeC**: Script Extension Cyrillic.
+
+**ME**: Master Extension.
+
+**MeL**: Master Extension Latin.
 
 ---
 ### **Reference**
