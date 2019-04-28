@@ -811,38 +811,61 @@ The planning is for alphabetic glyphs and does not include any calculation of ad
 
 ```mermaid
 gantt
-        dateFormat  YYYY-MM-DD
-        title Advent Schedule
-        section Advent 3
-        #ADV-0001 Advent 3:                                                  done, des1,  2018-08-22, 2019-02-16
-        #ADV-0003 Advent 3 PR:                                               done, des2,  2019-02-16, 2019-04-01
-        #ADV-0004 Advent 4 Planning:                                               des3,  after des2, 2019-04-30
-        #ADV-0004-0001:                                                      done, des4,  2019-03-31, 2h
-        ADV-0004-0002 Compare NAM:                                           done, des5,  2019-04-09, 2h
-        ADV-0004-0003 MI Map:                                                done, des6,  2019-04-10, 2h
-        
-        ADV-0004-0005 Autokern Reintegration to TYPL - Standalone Repo:      done, des8,  2019-04-12, 6h
-        ADV-0004-0006 Cupcake Day!:                                          done, des9,  2019-04-13, 2h
+dateFormat  YYYY-MM-DD
+title Advent Schedule
+section Advent 3
+#ADV-0001 Advent 3:                                                  done, des1,  2018-08-22, 2019-02-16
+#ADV-0003 Advent 3 PR:                                               done, des2,  2019-02-16, 2019-04-01
+#ADV-0004 Advent 4 Planning:                                               des3,  after des2, 2019-04-30
+#ADV-0004-0001:                                                      done, des4,  2019-03-31, 2h
+ADV-0004-0002 Compare NAM:                                           done, des5,  2019-04-09, 2h
+ADV-0004-0003 MI Map:                                                done, des6,  2019-04-10, 2h
+ADV-0004-0005 Autokern Reintegration to TYPL - Standalone Repo:      done, des8,  2019-04-12, 6h
+ADV-0004-0006 Cupcake Day!:                                          done, des9,  2019-04-13, 2h
 
-        ADV-0004-0007-0001 Advent 3 and 4 Master Planning:                         des10, 2019-04-14, 2019-04-25
+ADV-0004-0007-0001 Advent 3 and 4 Master Planning:                         des10, 2019-04-14, 2019-04-25
 
-        ADV-0003-0008-0001 Advent 3 Script Extension Cyrillic (SeC) Planning:      des27, 2019-04-26, 2h
-        ADV-0004-0007-0001 Advent 4 Master Extension Latin (MeL) Planning:         des28, 2019-04-27, 2h
-        ADV-0004-0008-0001 Advent 4 Script Extension Cyrillic (SeC) Planning:      des28, 2019-04-27, 1h
+ADV-0003-0008-0001 Advent 3 Script Extension Cyrillic (SeC) Planning:      des27, 2019-04-26, 2h
+ADV-0004-0007-0001 Advent 4 Master Extension Latin (MeL) Planning:         des28, 2019-04-27, 2h
+ADV-0004-0008-0001 Advent 4 Script Extension Cyrillic (SeC) Planning:      des28, 2019-04-27, 1h
+#
+section Advent 3 SE Cyrillic
 
-        ADV-0003-0008-0001 Advent 3 SE Cyrillic:                                   des29, 2019-04-27, 11d
-            ADV-0003-0008-0001-0001 Advent SeC WO:                                 des30, 2019-04-27, 8d
-                ADV-0003-0008-0001-0001 Advent SeC WO Capital:               done, des31, 2019-04-27, 5h
-            ADV-0003-0008-0001-0001 Advent SeC WG:                                 des32, after des30, 3d
+ADV-0003-0008-0001 Advent 3 SE Cyrillic:                             crit, des29, 2019-04-27, 12d
+    ADV-0003-0008-0001-0001 Advent SeC WO:                         active, des30, 2019-04-27, 9d
+        SeC WO 1:                                                  active, des39, 2019-04-27, 3d
+            WO Capital:                                              done, des31, 2019-04-27, 5h
+        3 SeC WO 2:                                                        des40, after des39, 3d
+        3 SeC WO 3:                                                        des41, after des40, 3d
 
-        ADV-0004-0007-0001 Advent 4 ME Latin and ME Greek:                         des33, after des32, 10d
-            ADV-0004-0007-0001 Advent MeL WO:                                      des34, after des32, 3d
-            ADV-0004-0007-0001 Advent MeL WG:                                      des35, after des34, 7d
+    ADV-0003-0008-0001-0001 SeC WG:                                        des32, after des30, 3d
+        3 SeC WG 1:                                                        des42, after des30, 1d
+        3 SeC WG 2:                                                        des43, after des42, 1d
+        3 SeC WG 3:                                                        des44, after des43, 1d
+#
+section 4 ME Latin and Greek
 
-        ADV-0004-0008-0001 Advent 4 SE Cyrillic:                                   des36, after des35, 10d
-            ADV-0004-0008-0001 Advent SeC WO:                                      des37, after des35, 3d
-            ADV-0004-0008-0001 Advent SeC WG:                                      des38, after des37, 7d
+ADV-0004-0007-0001 4 ME Latin and ME Greek:                          crit, des33, after des32, 10d
+    ADV-0004-0007-0001 MeL WO:                                             des34, after des32, 3d
+        4 MeL WO 1:                                                        des45, after des32, 1d
+        4 MeL WO 1:                                                        des46, after des45, 1d
+        4 MeL WO 1:                                                        des47, after des46, 1d
+    ADV-0004-0007-0001 MeL WG:                                             des35, after des34, 7d
+        4 MeL WG 1:                                                        des48, after des34, 3d
+        4 MeL WG 2:                                                        des49, after des48, 3d
+        4 MeL WG 3:                                                        des50, after des49, 1d
+#
+section 4 SE Cyrillic
 
+ADV-0004-0008-0001 4 SE Cyrillic:                                    crit, des36, after des35, 10d
+    ADV-0004-0008-0001 SeC WO:                                             des37, after des35, 3d
+        4 SeC WO 1:                                                        des51, after des35, 1d
+        4 SeC WO 2:                                                        des52, after des51, 1d
+        4 SeC WO 3:                                                        des53, after des52, 1d
+    ADV-0004-0008-0001 SeC WG:                                             des38, after des37, 7d
+        4 SeC WG 1:                                                        des54, after des37, 3d
+        4 SeC WG 2:                                                        des55, after des54, 3d
+        4 SeC WG 3:                                                        des56, after des55, 1d
 ```
 
 
