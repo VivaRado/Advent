@@ -854,10 +854,10 @@ ADV-0004-0007-0001 4 ME Latin and ME Greek:                          crit, des33
         4 MeL MO 3 bld:                                                    des47, after des46, 1d
         4 MeL MO 4 blk:                                                    des57, after des47, 1d
     ADV-0004-0007-0001 MeL MG:                                             des35, after des34, 8d
-        4 MeL MG 1 reg:                                                    des48, after des34, 2d
-        4 MeL MG 2 thn:                                                    des49, after des48, 2d
-        4 MeL MG 3 bld:                                                    des50, after des49, 2d
-        4 MeL MG 4 blk:                                                    des51, after des50, 2d
+        4 MeL MG 1 reg_it, reg_wd_it:                                      des48, after des34, 2d
+        4 MeL MG 2 thn_it, thn_wd_it:                                      des49, after des48, 2d
+        4 MeL MG 3 bld_it, bld_wd_it:                                      des50, after des49, 2d
+        4 MeL MG 4 blk_it, blk_wd_it:                                      des51, after des50, 2d
 #
 section 4 SE Cyrillic
 
@@ -868,10 +868,10 @@ ADV-0004-0008-0001 4 SE Cyrillic:                                    crit, des36
         4 SeC MO bld 3:                                                    des53, after des52, 1d
         4 SeC MO blk 4:                                                    des60, after des53, 1d
     ADV-0004-0008-0001 SeC MG:                                             des38, after des37, 8d
-        4 SeC MG reg 1:                                                    des54, after des37, 2d
-        4 SeC MG thn 2:                                                    des55, after des54, 2d
-        4 SeC MG bld 3:                                                    des56, after des55, 2d
-        4 SeC MG blk 4:                                                    des61, after des56, 2d
+        4 SeC MG reg_it 1, reg_wd_it:                                      des54, after des37, 2d
+        4 SeC MG thn_it 2, thn_wd_it:                                      des55, after des54, 2d
+        4 SeC MG bld_it 3, bld_wd_it:                                      des56, after des55, 2d
+        4 SeC MG blk_it 4, blk_wd_it:                                      des61, after des56, 2d
 ```
 
 
