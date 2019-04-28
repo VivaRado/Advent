@@ -833,15 +833,15 @@ section Advent 3 SE Cyrillic
 
 ADV-0003-0008-0001 Advent 3 SE Cyrillic:                             crit, des29, 2019-04-27, 12d
     ADV-0003-0008-0001-0001 Advent SeC MO:                         active, des30, 2019-04-27, 9d
-        SeC MO 1 (04/27 to 04/30):                                 active, des39, 2019-04-27, 3d
+        SeC MO 1 reg (04/27 to 04/30):                             active, des39, 2019-04-27, 3d
             MO Capital:                                              done, des31, 2019-04-27, 5h
-        3 SeC MO 2 (04/30 to 05/03):                                       des40, after des39, 3d
-        3 SeC MO 3:                                                        des41, after des40, 3d
+        3 SeC MO 2 thn (04/30 to 05/03):                                   des40, after des39, 3d
+        3 SeC MO 3 bld:                                                    des41, after des40, 3d
 
     ADV-0003-0008-0001-0001 SeC MG:                                        des32, after des30, 3d
-        3 SeC MG 1:                                                        des42, after des30, 1d
-        3 SeC MG 2:                                                        des43, after des42, 1d
-        3 SeC MG 3:                                                        des44, after des43, 1d
+        3 SeC MG 1 reg_it:                                                 des42, after des30, 1d
+        3 SeC MG 2 thn_it:                                                 des43, after des42, 1d
+        3 SeC MG 3 bld_it:                                                 des44, after des43, 1d
 #
 section 4 ME Latin and Greek
 
