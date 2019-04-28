@@ -774,7 +774,9 @@ h2 strong {
 }
 /* mermaid */
 
-.codehilite.mermaid .section {
+.codehilite.mermaid .section.section1,
+.codehilite.mermaid .section.section3,
+.codehilite.mermaid .section.section5 {
     fill: transparent !important;
 }
 
