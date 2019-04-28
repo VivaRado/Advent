@@ -832,40 +832,40 @@ ADV-0004-0008-0001 Advent 4 Script Extension Cyrillic (SeC) Planning:      des28
 section Advent 3 SE Cyrillic
 
 ADV-0003-0008-0001 Advent 3 SE Cyrillic:                             crit, des29, 2019-04-27, 12d
-    ADV-0003-0008-0001-0001 Advent SeC WO:                         active, des30, 2019-04-27, 9d
-        SeC WO 1:                                                  active, des39, 2019-04-27, 3d
-            WO Capital:                                              done, des31, 2019-04-27, 5h
-        3 SeC WO 2:                                                        des40, after des39, 3d
-        3 SeC WO 3:                                                        des41, after des40, 3d
+    ADV-0003-0008-0001-0001 Advent SeC MO:                         active, des30, 2019-04-27, 9d
+        SeC MO 1 (04/27 to 04/30):                                 active, des39, 2019-04-27, 3d
+            MO Capital:                                              done, des31, 2019-04-27, 5h
+        3 SeC MO 2 (04/30 to 05/03):                                       des40, after des39, 3d
+        3 SeC MO 3:                                                        des41, after des40, 3d
 
-    ADV-0003-0008-0001-0001 SeC WG:                                        des32, after des30, 3d
-        3 SeC WG 1:                                                        des42, after des30, 1d
-        3 SeC WG 2:                                                        des43, after des42, 1d
-        3 SeC WG 3:                                                        des44, after des43, 1d
+    ADV-0003-0008-0001-0001 SeC MG:                                        des32, after des30, 3d
+        3 SeC MG 1:                                                        des42, after des30, 1d
+        3 SeC MG 2:                                                        des43, after des42, 1d
+        3 SeC MG 3:                                                        des44, after des43, 1d
 #
 section 4 ME Latin and Greek
 
 ADV-0004-0007-0001 4 ME Latin and ME Greek:                          crit, des33, after des32, 10d
-    ADV-0004-0007-0001 MeL WO:                                             des34, after des32, 3d
-        4 MeL WO 1:                                                        des45, after des32, 1d
-        4 MeL WO 1:                                                        des46, after des45, 1d
-        4 MeL WO 1:                                                        des47, after des46, 1d
-    ADV-0004-0007-0001 MeL WG:                                             des35, after des34, 7d
-        4 MeL WG 1:                                                        des48, after des34, 3d
-        4 MeL WG 2:                                                        des49, after des48, 3d
-        4 MeL WG 3:                                                        des50, after des49, 1d
+    ADV-0004-0007-0001 MeL MO:                                             des34, after des32, 3d
+        4 MeL MO 1:                                                        des45, after des32, 1d
+        4 MeL MO 1:                                                        des46, after des45, 1d
+        4 MeL MO 1:                                                        des47, after des46, 1d
+    ADV-0004-0007-0001 MeL MG:                                             des35, after des34, 7d
+        4 MeL MG 1:                                                        des48, after des34, 3d
+        4 MeL MG 2:                                                        des49, after des48, 3d
+        4 MeL MG 3:                                                        des50, after des49, 1d
 #
 section 4 SE Cyrillic
 
 ADV-0004-0008-0001 4 SE Cyrillic:                                    crit, des36, after des35, 10d
-    ADV-0004-0008-0001 SeC WO:                                             des37, after des35, 3d
-        4 SeC WO 1:                                                        des51, after des35, 1d
-        4 SeC WO 2:                                                        des52, after des51, 1d
-        4 SeC WO 3:                                                        des53, after des52, 1d
-    ADV-0004-0008-0001 SeC WG:                                             des38, after des37, 7d
-        4 SeC WG 1:                                                        des54, after des37, 3d
-        4 SeC WG 2:                                                        des55, after des54, 3d
-        4 SeC WG 3:                                                        des56, after des55, 1d
+    ADV-0004-0008-0001 SeC MO:                                             des37, after des35, 3d
+        4 SeC MO 1:                                                        des51, after des35, 1d
+        4 SeC MO 2:                                                        des52, after des51, 1d
+        4 SeC MO 3:                                                        des53, after des52, 1d
+    ADV-0004-0008-0001 SeC MG:                                             des38, after des37, 7d
+        4 SeC MG 1:                                                        des54, after des37, 3d
+        4 SeC MG 2:                                                        des55, after des54, 3d
+        4 SeC MG 3:                                                        des56, after des55, 1d
 ```
 
 
@@ -915,8 +915,8 @@ Task Codes:
     *  ADV-∞-0007-0002: Master Extension
 *  ADV-∞-0008: Script Extension
     *  ADV-∞-0008-0001: Cyrillic Script Extension (SeC)
-        *  ADV-∞-0008-0001-0001: SeC Capitals WO and WG
-        *  ADV-∞-0008-0001-0002: SeC SmallCase WO and WG
+        *  ADV-∞-0008-0001-0001: SeC Capitals MO and MG
+        *  ADV-∞-0008-0001-0002: SeC SmallCase MO and MG
     *  ADV-∞-0008-0001: Cyrillic Script Extension (SeC)
 
 Task Codes Versioned:
@@ -926,8 +926,8 @@ Task Codes Versioned:
         *  ADV-0003-0007-0001: Master Planning
     *  ADV-0003-0008: Script Extension
         *  ADV-0003-0008-0001: Cyrillic Script Extension (SeC)
-            *  ADV-0003-0008-0001-0001: SeC Capitals WO and WG
-            *  ADV-0003-0008-0001-0002: SeC SmallCase WO and WG
+            *  ADV-0003-0008-0001-0001: SeC Capitals MO and MG
+            *  ADV-0003-0008-0001-0002: SeC SmallCase MO and MG
 *  ADV-0004: Advent 4
     *  ADV-0004-0002: Encodings
     *  ADV-0004-0003: Information Architecture
@@ -938,8 +938,8 @@ Task Codes Versioned:
         *  ADV-0004-0007-0002: Master Extension
     *  ADV-0004-0008: Script Extension
         *  ADV-0004-0008-0001: Cyrillic Script Extension (SeC)
-            *  ADV-0004-0008-0001-0001: SeC Capitals WO and WG
-            *  ADV-0004-0008-0001-0002: SeC SmallCase WO and WG
+            *  ADV-0004-0008-0001-0001: SeC Capitals MO and MG
+            *  ADV-0004-0008-0001-0002: SeC SmallCase MO and MG
         *  ADV-0004-0008-0001: Cyrillic Script Extension (SeC)
 
 
