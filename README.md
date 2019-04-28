@@ -800,7 +800,7 @@ Overview:
 
 **2019-04-27**:
 
-We have a layout for the plan of Script Extension and Master Extension that will take place between 2019-04-27 until 2019-05-26.
+We have a layout for the plan of Script Extension and Master Extension that will take place between 2019-04-27 until 2019-06-02.
 
 We will initially design and integrate the Cyrillic to Advent∞3, to 3 Original Masters (MO) and 3 Generated Master (MG). The design and integration for Advent∞3 SeC will take approximately 11 days. At this point Advent∞3 will be available with Cyrillic at 7 Instances of Upright and 7 Instances of Italic.
 
@@ -834,9 +834,9 @@ section Advent 3 SE Cyrillic
 ADV-0003-0008-0001 Advent 3 SE Cyrillic:                             crit, des29, 2019-04-27, 12d
     ADV-0003-0008-0001-0001 Advent SeC MO:                         active, des30, 2019-04-27, 9d
         SeC MO 1 reg (04/27 to 04/30):                             active, des39, 2019-04-27, 3d
-            MO reg Capital:                                              done, des31, 2019-04-27, 5h
-            MO reg Capital 39/39:                                        done, des31, 2019-04-28, 5h
-            MO reg SmallCase 9/45:                                       done, des31, 2019-04-28, 1h
+            MO reg Capital:                                          done, des31, 2019-04-27, 5h
+            MO reg Capital 39/39:                                    done, des31, 2019-04-28, 5h
+            MO reg SmallCase 9/45:                                   done, des31, 2019-04-28, 1h
         3 SeC MO 2 thn (04/30 to 05/03):                                   des40, after des39, 3d
         3 SeC MO 3 bld:                                                    des41, after des40, 3d
 
@@ -847,27 +847,31 @@ ADV-0003-0008-0001 Advent 3 SE Cyrillic:                             crit, des29
 #
 section 4 ME Latin and Greek
 
-ADV-0004-0007-0001 4 ME Latin and ME Greek:                          crit, des33, after des32, 10d
-    ADV-0004-0007-0001 MeL MO:                                             des34, after des32, 3d
-        4 MeL MO 1:                                                        des45, after des32, 1d
-        4 MeL MO 1:                                                        des46, after des45, 1d
-        4 MeL MO 1:                                                        des47, after des46, 1d
-    ADV-0004-0007-0001 MeL MG:                                             des35, after des34, 7d
-        4 MeL MG 1:                                                        des48, after des34, 3d
-        4 MeL MG 2:                                                        des49, after des48, 3d
-        4 MeL MG 3:                                                        des50, after des49, 1d
+ADV-0004-0007-0001 4 ME Latin and ME Greek:                          crit, des33, after des32, 12d
+    ADV-0004-0007-0001 MeL MO:                                             des34, after des32, 4d
+        4 MeL MO 1 reg:                                                    des45, after des32, 1d
+        4 MeL MO 2 thn:                                                    des46, after des45, 1d
+        4 MeL MO 3 bld:                                                    des47, after des46, 1d
+        4 MeL MO 4 blk:                                                    des57, after des47, 1d
+    ADV-0004-0007-0001 MeL MG:                                             des35, after des34, 8d
+        4 MeL MG 1 reg:                                                    des48, after des34, 2d
+        4 MeL MG 2 thn:                                                    des49, after des48, 2d
+        4 MeL MG 3 bld:                                                    des50, after des49, 2d
+        4 MeL MG 4 blk:                                                    des51, after des50, 2d
 #
 section 4 SE Cyrillic
 
-ADV-0004-0008-0001 4 SE Cyrillic:                                    crit, des36, after des35, 10d
-    ADV-0004-0008-0001 SeC MO:                                             des37, after des35, 3d
-        4 SeC MO 1:                                                        des51, after des35, 1d
-        4 SeC MO 2:                                                        des52, after des51, 1d
-        4 SeC MO 3:                                                        des53, after des52, 1d
-    ADV-0004-0008-0001 SeC MG:                                             des38, after des37, 7d
-        4 SeC MG 1:                                                        des54, after des37, 3d
-        4 SeC MG 2:                                                        des55, after des54, 3d
-        4 SeC MG 3:                                                        des56, after des55, 1d
+ADV-0004-0008-0001 4 SE Cyrillic:                                    crit, des36, after des35, 12d
+    ADV-0004-0008-0001 SeC MO:                                             des37, after des35, 4d
+        4 SeC MO reg 1:                                                    des51, after des35, 1d
+        4 SeC MO thn 2:                                                    des52, after des51, 1d
+        4 SeC MO bld 3:                                                    des53, after des52, 1d
+        4 SeC MO blk 4:                                                    des60, after des53, 1d
+    ADV-0004-0008-0001 SeC MG:                                             des38, after des37, 8d
+        4 SeC MG reg 1:                                                    des54, after des37, 2d
+        4 SeC MG thn 2:                                                    des55, after des54, 2d
+        4 SeC MG bld 3:                                                    des56, after des55, 2d
+        4 SeC MG blk 4:                                                    des61, after des56, 2d
 ```
 
 
