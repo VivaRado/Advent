@@ -837,6 +837,7 @@ ADV-0003-0008-0001 Advent 3 SE Cyrillic:                             crit, des29
             MO reg Capital:                                          done, des31, 2019-04-27, 5h
             MO reg Capital 39/39:                                    done, des31, 2019-04-28, 5h
             MO reg SmallCase 9/45:                                   done, des31, 2019-04-28, 1h
+            MO reg SmallCase 45/45:                                  done, des62, 2019-04-29, 4h
         3 SeC MO 2 thn (04/30 to 05/03):                                   des40, after des39, 3d
         3 SeC MO 3 bld:                                                    des41, after des40, 3d
 
@@ -964,6 +965,7 @@ Task Codes Versioned:
 -  April 01 2019: Initiation of planning for Advent 4.
 -  April 14 2019: Standalone repo for autokern in python3 and 2.
 -  April 27 2019: Plan for delivery of Advent 4
+-  April 29 2019: ADV-0003-0008-0001-0001 SeC MO 1 reg
 
 
 ---
