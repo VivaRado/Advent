@@ -839,6 +839,9 @@ ADV-0003-0008-0001 Advent 3 SE Cyrillic:                             crit, des29
             MO reg SmallCase 9/45:                                   done, des31, 2019-04-28, 1h
             MO reg SmallCase 45/45:                                  done, des62, 2019-04-29, 4h
         3 SeC MO 2 thn (04/30 to 05/03):                                   des40, after des39, 3d
+            MO reg Capital 15/39, SmallCase 17/45:                   done, des63, 2019-05-01, 4h
+            MO reg Capital 27/39, SmallCase 21/45:                         des64, 2019-05-02, 4h
+            MO reg Capital 39/39, SmallCase 45/45:                         des64, 2019-05-03, 4h
         3 SeC MO 3 bld:                                                    des41, after des40, 3d
 
     ADV-0003-0008-0001-0001 SeC MG:                                        des32, after des30, 3d
