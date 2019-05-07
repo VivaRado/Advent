@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
-		<title>VRD | Advent | 3.011 | 2019/05/05</title>
+		<title>VRD | Advent | 3.011 | 2019/05/07</title>
 		<link rel="stylesheet" type="text/css" href="assets/css/style.css">
 		<link rel="stylesheet" type="text/css" href="assets/css/code_native.css">
 		<script type="text/javascript" src="assets/js/mermaid.js"></script>
@@ -125,11 +125,11 @@
 <h4>Contributors:</h4>
 
 <ul>
-<li>VivaRado <a href="&#109;&#x61;&#105;&#x6c;&#116;&#111;&#x3a;&#x73;&#117;&#x70;&#112;&#111;&#114;&#116;&#x40;&#118;&#105;&#x76;&#x61;r&#97;&#100;&#x6f;&#x2e;&#x63;&#111;&#x6d;">&#x73;&#117;&#x70;&#112;&#111;&#114;&#116;&#x40;&#118;&#105;&#x76;&#x61;r&#97;&#100;&#x6f;&#x2e;&#x63;&#111;&#x6d;</a></li>
+<li>VivaRado <a href="&#x6d;a&#x69;l&#116;&#111;:&#x73;&#117;&#112;&#x70;&#111;r&#x74;&#64;&#118;&#105;v&#x61;r&#x61;&#100;&#x6f;&#x2e;&#99;&#111;&#x6d;">&#x73;&#117;&#112;&#x70;&#111;r&#x74;&#64;&#118;&#105;v&#x61;r&#x61;&#100;&#x6f;&#x2e;&#99;&#111;&#x6d;</a></li>
 <li>Andreas Kalpakidis</li>
 <li>Madina Akhmatova</li>
 <li>Dave Crossland</li>
-<li>Michael LaGattuta <a href="&#109;&#97;&#x69;&#108;&#116;&#x6f;&#58;&#x6d;j&#x6c;&#x61;&#103;&#x61;&#116;&#116;&#x75;&#116;&#x61;&#64;g&#109;&#x61;&#105;&#108;&#x2e;&#x63;&#x6f;&#109;">&#x6d;j&#x6c;&#x61;&#103;&#x61;&#116;&#116;&#x75;&#116;&#x61;&#64;g&#109;&#x61;&#105;&#108;&#x2e;&#x63;&#x6f;&#109;</a></li>
+<li>Michael LaGattuta <a href="&#109;&#97;&#105;l&#116;&#111;&#58;&#109;&#106;&#108;&#97;&#x67;&#x61;&#116;&#x74;&#x75;&#x74;a&#64;&#103;m&#x61;&#105;&#x6c;&#x2e;&#99;&#x6f;&#x6d;">&#109;&#106;&#108;&#97;&#x67;&#x61;&#116;&#x74;&#x75;&#x74;a&#64;&#103;m&#x61;&#105;&#x6c;&#x2e;&#99;&#x6f;&#x6d;</a></li>
 <li>Behdad Esfahbod</li>
 </ul>
 
@@ -1348,7 +1348,7 @@ ADV-0004-0008-0001 Advent 4 Script Extension Cyrillic (SeC) Planning:      des28
 #
 section Advent 3 SE Cyrillic
 
-ADV-0003-0008-0001 Advent 3 SE Cyrillic:                             crit, des29, 2019-04-27, 12d
+ADV-0003-0008-0001 Advent 3 SE Cyrillic:                             crit, des29, 2019-04-27, 15d
     ADV-0003-0008-0001-0001 Advent SeC MO:                           done, des30, 2019-04-27,  9d
         SeC MO 1 reg (04/27 to 04/30):                               done, des39, 2019-04-27,  3d
             MO reg Capital:                                          done, des31, 2019-04-27,  5h
@@ -1356,13 +1356,16 @@ ADV-0003-0008-0001 Advent 3 SE Cyrillic:                             crit, des29
             MO reg SmallCase 9/45:                                   done, des31, 2019-04-28,  1h
             MO reg SmallCase 45/45:                                  done, des62, 2019-04-29,  4h
         3 SeC MO 2 thn (04/30 to 05/03):                             done, des40, after des39, 3d
-            MO reg Capital 15/39, SmallCase 17/45:                   done, des63, 2019-05-01,  4h
-            MO reg Capital 39/39, SmallCase 45/45:                   done, des64, 2019-05-02,  2h
+            MO thn Capital 15/39, SmallCase 17/45:                   done, des63, 2019-05-01,  4h
+            MO thn Capital 39/39, SmallCase 45/45:                   done, des64, 2019-05-02,  2h
         3 SeC MO 3 bld:                                              done, des41, after des40, 3d
             MO bld Capital 39/39, SmallCase 45/45:                   done, des65, 2019-05-05,  5h
 
-    ADV-0003-0008-0001-0001 SeC MG:                                        des32, after des30, 3d
-        3 SeC MG 1 reg_it:                                                 des42, after des30, 1d
+    ADV-0003-0008-0001-0002 Advent SeC MO Integration of vectors:          des58, after des30, 3d
+        MO thn Capitals:                                             done, des59, 2019-05-07,  5h
+
+    ADV-0003-0008-0001-0001 SeC MG:                                        des32, after des58, 3d
+        3 SeC MG 1 reg_it:                                                 des42, after des58, 1d
         3 SeC MG 2 thn_it:                                                 des43, after des42, 1d
         3 SeC MG 3 bld_it:                                                 des44, after des43, 1d
 #
@@ -1487,10 +1490,10 @@ ADV-0004-0008-0001 4 SE Cyrillic:                                    crit, des36
 <ul>
 <li>ADV-∞-0008-0001: Cyrillic Script Extension (SeC)
 <ul>
-<li>ADV-∞-0008-0001-0001: SeC Capitals MO and MG</li>
-<li>ADV-∞-0008-0001-0002: SeC SmallCase MO and MG</li>
+<li>ADV-∞-0008-0001-0001: 
+SeC Capitals, SeC SmallCase MO and MG</li>
+<li>ADV-∞-0008-0001-0002: SeC integration of vectors to the font.</li>
 </ul></li>
-<li>ADV-∞-0008-0001: Cyrillic Script Extension (SeC)</li>
 </ul></li>
 </ul>
 
@@ -1529,8 +1532,8 @@ ADV-0004-0008-0001 4 SE Cyrillic:                                    crit, des36
 <ul>
 <li>ADV-0004-0008-0001: Cyrillic Script Extension (SeC)
 <ul>
-<li>ADV-0004-0008-0001-0001: SeC Capitals MO and MG</li>
-<li>ADV-0004-0008-0001-0002: SeC SmallCase MO and MG</li>
+<li>ADV-0004-0008-0001-0001: SeC Capitals, SmallCase MO and MG</li>
+<li>ADV-0004-0008-0001-0002: SeC integration of vectors to the font.</li>
 </ul></li>
 <li>ADV-0004-0008-0001: Cyrillic Script Extension (SeC)</li>
 </ul></li>
@@ -1623,7 +1626,7 @@ ADV-0004-0008-0001 4 SE Cyrillic:                                    crit, des36
 </ul></li>
 <li>User Feedback Mechanisms:
 <ul>
-<li><a href="&#109;&#97;&#105;&#x6c;&#x74;&#111;&#x3a;&#115;&#x75;&#112;&#x70;&#x6f;&#114;&#116;&#x40;&#x76;&#x69;&#x76;&#x61;ra&#100;&#111;&#46;&#x63;&#x6f;&#109;">&#115;&#x75;&#112;&#x70;&#x6f;&#114;&#116;&#x40;&#x76;&#x69;&#x76;&#x61;ra&#100;&#111;&#46;&#x63;&#x6f;&#109;</a></li>
+<li><a href="&#109;&#97;&#105;&#108;&#x74;&#111;&#58;&#115;&#x75;&#x70;&#x70;&#x6f;&#x72;&#x74;&#64;&#118;&#105;&#118;&#97;&#114;&#x61;&#100;&#x6f;&#46;&#99;&#x6f;&#109;">&#115;&#x75;&#x70;&#x70;&#x6f;&#x72;&#x74;&#64;&#118;&#105;&#118;&#97;&#114;&#x61;&#100;&#x6f;&#46;&#99;&#x6f;&#109;</a></li>
 </ul></li>
 </ul></li>
 </ul>

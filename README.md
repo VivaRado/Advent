@@ -831,7 +831,7 @@ ADV-0004-0008-0001 Advent 4 Script Extension Cyrillic (SeC) Planning:      des28
 #
 section Advent 3 SE Cyrillic
 
-ADV-0003-0008-0001 Advent 3 SE Cyrillic:                             crit, des29, 2019-04-27, 12d
+ADV-0003-0008-0001 Advent 3 SE Cyrillic:                             crit, des29, 2019-04-27, 15d
     ADV-0003-0008-0001-0001 Advent SeC MO:                           done, des30, 2019-04-27,  9d
         SeC MO 1 reg (04/27 to 04/30):                               done, des39, 2019-04-27,  3d
             MO reg Capital:                                          done, des31, 2019-04-27,  5h
@@ -839,13 +839,16 @@ ADV-0003-0008-0001 Advent 3 SE Cyrillic:                             crit, des29
             MO reg SmallCase 9/45:                                   done, des31, 2019-04-28,  1h
             MO reg SmallCase 45/45:                                  done, des62, 2019-04-29,  4h
         3 SeC MO 2 thn (04/30 to 05/03):                             done, des40, after des39, 3d
-            MO reg Capital 15/39, SmallCase 17/45:                   done, des63, 2019-05-01,  4h
-            MO reg Capital 39/39, SmallCase 45/45:                   done, des64, 2019-05-02,  2h
+            MO thn Capital 15/39, SmallCase 17/45:                   done, des63, 2019-05-01,  4h
+            MO thn Capital 39/39, SmallCase 45/45:                   done, des64, 2019-05-02,  2h
         3 SeC MO 3 bld:                                              done, des41, after des40, 3d
             MO bld Capital 39/39, SmallCase 45/45:                   done, des65, 2019-05-05,  5h
 
-    ADV-0003-0008-0001-0001 SeC MG:                                        des32, after des30, 3d
-        3 SeC MG 1 reg_it:                                                 des42, after des30, 1d
+    ADV-0003-0008-0001-0002 Advent SeC MO Integration of vectors:          des58, after des30, 3d
+        MO thn Capitals:                                             done, des59, 2019-05-07,  5h
+
+    ADV-0003-0008-0001-0001 SeC MG:                                        des32, after des58, 3d
+        3 SeC MG 1 reg_it:                                                 des42, after des58, 1d
         3 SeC MG 2 thn_it:                                                 des43, after des42, 1d
         3 SeC MG 3 bld_it:                                                 des44, after des43, 1d
 #
@@ -927,9 +930,9 @@ Task Codes:
     *  ADV-∞-0007-0002: Master Extension
 *  ADV-∞-0008: Script Extension
     *  ADV-∞-0008-0001: Cyrillic Script Extension (SeC)
-        *  ADV-∞-0008-0001-0001: SeC Capitals MO and MG
-        *  ADV-∞-0008-0001-0002: SeC SmallCase MO and MG
-    *  ADV-∞-0008-0001: Cyrillic Script Extension (SeC)
+        *  ADV-∞-0008-0001-0001: 
+            SeC Capitals, SeC SmallCase MO and MG
+        *  ADV-∞-0008-0001-0002: SeC integration of vectors to the font.
 
 Task Codes Versioned:
 
@@ -950,8 +953,8 @@ Task Codes Versioned:
         *  ADV-0004-0007-0002: Master Extension
     *  ADV-0004-0008: Script Extension
         *  ADV-0004-0008-0001: Cyrillic Script Extension (SeC)
-            *  ADV-0004-0008-0001-0001: SeC Capitals MO and MG
-            *  ADV-0004-0008-0001-0002: SeC SmallCase MO and MG
+            *  ADV-0004-0008-0001-0001: SeC Capitals, SmallCase MO and MG
+            *  ADV-0004-0008-0001-0002: SeC integration of vectors to the font.
         *  ADV-0004-0008-0001: Cyrillic Script Extension (SeC)
 
 
