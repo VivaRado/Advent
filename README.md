@@ -844,7 +844,7 @@ ADV-0003-0008-0001 Advent 3 SE Cyrillic:                             crit, des29
         3 SeC MO 3 bld:                                              done, des41, after des40, 3d
             MO bld Capital 39/39, SmallCase 45/45:                   done, des65, 2019-05-05,  5h
 
-    ADV-0003-0008-0001-0002 Advent SeC MO Integration of vectors:          des58, after des30, 3d
+    ADV-0003-0008-0001-0002 Advent SeC MO Integration of vectors:  active, des58, after des30, 3d
         MO thn Capitals:                                             done, des59, 2019-05-07,  5h
 
     ADV-0003-0008-0001-0001 SeC MG:                                        des32, after des58, 3d
