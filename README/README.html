@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
-		<title>VRD | Advent | 3.011 | 2019/05/07</title>
+		<title>VRD | Advent | 3.011 | 2019/05/08</title>
 		<link rel="stylesheet" type="text/css" href="assets/css/style.css">
 		<link rel="stylesheet" type="text/css" href="assets/css/code_native.css">
 		<script type="text/javascript" src="assets/js/mermaid.js"></script>
@@ -125,11 +125,11 @@
 <h4>Contributors:</h4>
 
 <ul>
-<li>VivaRado <a href="&#109;&#x61;&#105;&#x6c;&#116;&#x6f;&#x3a;&#115;&#117;&#x70;&#112;&#x6f;&#114;&#x74;&#64;&#118;&#x69;&#x76;&#x61;&#114;&#97;&#x64;&#111;&#46;&#x63;&#x6f;m">&#115;&#117;&#x70;&#112;&#x6f;&#114;&#x74;&#64;&#118;&#x69;&#x76;&#x61;&#114;&#97;&#x64;&#111;&#46;&#x63;&#x6f;m</a></li>
+<li>VivaRado <a href="&#109;&#x61;&#105;&#108;&#x74;&#111;:&#115;&#x75;p&#112;&#x6f;&#x72;&#116;&#x40;&#x76;&#105;&#118;&#x61;&#114;&#97;d&#x6f;.&#99;&#111;&#x6d;">&#115;&#x75;p&#112;&#x6f;&#x72;&#116;&#x40;&#x76;&#105;&#118;&#x61;&#114;&#97;d&#x6f;.&#99;&#111;&#x6d;</a></li>
 <li>Andreas Kalpakidis</li>
 <li>Madina Akhmatova</li>
 <li>Dave Crossland</li>
-<li>Michael LaGattuta <a href="&#109;&#97;&#x69;&#108;&#116;&#x6f;&#58;&#x6d;&#x6a;&#108;&#97;&#103;&#97;&#116;&#x74;&#x75;&#116;&#97;&#64;&#x67;&#109;&#97;&#105;&#x6c;&#x2e;&#x63;&#111;&#109;">&#x6d;&#x6a;&#108;&#97;&#103;&#97;&#116;&#x74;&#x75;&#116;&#97;&#64;&#x67;&#109;&#97;&#105;&#x6c;&#x2e;&#x63;&#111;&#109;</a></li>
+<li>Michael LaGattuta <a href="&#x6d;&#97;&#x69;&#108;&#116;&#111;&#x3a;m&#106;&#x6c;&#x61;&#x67;&#97;&#116;&#116;&#117;&#116;&#x61;&#64;&#103;&#x6d;&#x61;&#x69;&#x6c;&#46;&#99;&#111;&#109;">m&#106;&#x6c;&#x61;&#x67;&#97;&#116;&#116;&#117;&#116;&#x61;&#64;&#103;&#x6d;&#x61;&#x69;&#x6c;&#46;&#99;&#111;&#109;</a></li>
 <li>Behdad Esfahbod</li>
 </ul>
 
@@ -1111,6 +1111,66 @@ later you can export to Componentized UFOs.</p>
 
 <hr />
 
+<h4>Script Expansion</h4>
+
+<p>During script expansion (SE), we have a NAM file, with unicode and name information <a href="README/plans/ADV3_SeC_integration">located here</a>. And the appropriate MO PDF files for each weight or MO. The work takes place per MO or weight, per glyph and the appropriate procedues take place. The MG (Generated Masters) don't need new vectors, just adjustments so those masters don't have PDF files with vectors. The task is then to position the vectors in the font. While working with the plans we update them to reflect the given changes. At the same time we repair any notable contour fixes, width fixes and whatever we see that is out of order.</p>
+
+<p>We have divided the vector integration work to given procedures:</p>
+
+<ul>
+<li>GP (Glyph Placement)</li>
+<li>WA (Width Adjustment)</li>
+<li>GF (Glyph Fix)</li>
+</ul>
+
+<hr />
+
+<p><strong>Glyph Placement</strong>:</p>
+
+<p>When dealing with a MO (Original Master), we initially position the vectors in the font, without any worry for width. Glyph Placement also deals with assigning components.</p>
+
+<p><strong>Width Adjustment</strong>:</p>
+
+<p>This deals with the adjustment of the glyph width where we determine if we have similar looking glyphs and transfer the width to the newly added glyph.</p>
+
+<p><strong>Glyph Fix</strong>:</p>
+
+<p>This is intended for the MG (Generated Masters), like italics or wide version where we keep the original glyphs but adjust them after applying an effect like slant or width.</p>
+
+<hr />
+
+<p>From the ADV3<em>SeC</em>integration file:</p>
+
+<pre><code>1024 0x0400 Ѐ CYRILLIC CAPITAL LETTER IE WITH GRAVE False
+    GP_MG (thn,reg,bld), 
+    WA_MO (thn,reg,bld), 
+    GF_MG (thn_it,reg_it,bld_it), 
+    WA_MG (thn_it,reg_it,bld_it)
+</code></pre>
+
+<p>We can then see that this glyph has been updated with the following procedures:</p>
+
+<ul>
+<li>GP_MG (Glyph Placement):
+<ul>
+<li>Component from existing glyphs like "E". This glyph has been placed for three Generated Masters (thn,reg,bld)</li>
+</ul></li>
+<li>WA_MO (Width Adjustment):
+<ul>
+<li>Widths (bearings) have been adjusted. This glyph widths have been adjusted for three Original Masters (thn,reg,bld)</li>
+</ul></li>
+<li>GF<em>MG (Glyph Fix):
+<ul>
+<li>This glyph was fixed after application of an effect like slant or width. This glyph has been fixed for three Generated Masters (thn<em>it,reg</em>it,bld</em>it)</li>
+</ul></li>
+<li>WA<em>MG (Width Adjustment):
+<ul>
+<li>Widths (bearings) have been adjusted. This glyph widths have been adjusted for three Generated Masters (thn<em>it,reg</em>it,bld</em>it)</li>
+</ul></li>
+</ul>
+
+<hr />
+
 <h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Glyphs</strong></h3>
 
 <ul>
@@ -1363,6 +1423,7 @@ ADV-0003-0008-0001 Advent 3 SE Cyrillic:                             crit, des29
 
     ADV-0003-0008-0001-0002 Advent SeC MO Integration of vectors:  active, des58, after des30, 3d
         MO thn Capitals:                                             done, des59, 2019-05-07,  5h
+        MO thn LowerCase:                                            done, des62, 2019-05-08,  5h
 
     ADV-0003-0008-0001-0001 SeC MG:                                        des32, after des58, 3d
         3 SeC MG 1 reg_it:                                                 des42, after des58, 1d
@@ -1626,7 +1687,7 @@ SeC Capitals, SeC SmallCase MO and MG</li>
 </ul></li>
 <li>User Feedback Mechanisms:
 <ul>
-<li><a href="&#x6d;&#x61;&#105;&#108;&#x74;&#x6f;&#58;&#x73;&#117;&#x70;p&#111;&#114;&#x74;&#64;v&#x69;&#118;&#x61;&#x72;&#x61;&#x64;&#111;&#x2e;&#x63;o&#109;">&#x73;&#117;&#x70;p&#111;&#114;&#x74;&#64;v&#x69;&#118;&#x61;&#x72;&#x61;&#x64;&#111;&#x2e;&#x63;o&#109;</a></li>
+<li><a href="m&#97;&#105;&#x6c;&#116;&#x6f;&#x3a;&#115;&#117;&#112;&#x70;&#111;&#114;&#x74;&#64;&#x76;&#105;&#118;&#x61;&#x72;&#x61;&#100;&#111;&#46;&#x63;&#111;&#x6d;">&#115;&#117;&#112;&#x70;&#111;&#114;&#x74;&#64;&#x76;&#105;&#118;&#x61;&#x72;&#x61;&#100;&#111;&#46;&#x63;&#111;&#x6d;</a></li>
 </ul></li>
 </ul></li>
 </ul>

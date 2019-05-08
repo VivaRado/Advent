@@ -581,7 +581,6 @@ More information in: [Kerning Pair Details](https://github.com/VivaRado/Advent/b
 
 **If you notice a possible kerning improvement we would like to hear about it.**
 
-
 ---
 
 ### **Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Components**
@@ -615,6 +614,56 @@ At this moment advent supports Latin, and Greek Encoding as ∞3.000.
 	*  *Opentype Features Glyphs*
 
 [Encoding NAM Files](https://github.com/googlefonts/gftools/tree/master/Lib/gftools/encodings)
+
+---
+
+#### Script Expansion
+
+During script expansion (SE), we have a NAM file, with unicode and name information [located here](README/plans/ADV3_SeC_integration). And the appropriate MO PDF files for each weight or MO. The work takes place per MO or weight, per glyph and the appropriate procedues take place. The MG (Generated Masters) don't need new vectors, just adjustments so those masters don't have PDF files with vectors. The task is then to position the vectors in the font. While working with the plans we update them to reflect the given changes. At the same time we repair any notable contour fixes, width fixes and whatever we see that is out of order.
+
+We have divided the vector integration work to given procedures:
+
+*  GP (Glyph Placement)
+*  WA (Width Adjustment)
+*  GF (Glyph Fix)
+
+---
+
+**Glyph Placement**:
+
+When dealing with a MO (Original Master), we initially position the vectors in the font, without any worry for width. Glyph Placement also deals with assigning components.
+
+**Width Adjustment**:
+
+This deals with the adjustment of the glyph width where we determine if we have similar looking glyphs and transfer the width to the newly added glyph.
+
+**Glyph Fix**:
+
+This is intended for the MG (Generated Masters), like italics or wide version where we keep the original glyphs but adjust them after applying an effect like slant or width.
+
+---
+
+From the ADV3_SeC_integration file:
+
+```
+1024 0x0400 Ѐ CYRILLIC CAPITAL LETTER IE WITH GRAVE False
+	GP_MG (thn,reg,bld), 
+	WA_MO (thn,reg,bld), 
+	GF_MG (thn_it,reg_it,bld_it), 
+	WA_MG (thn_it,reg_it,bld_it)
+```
+
+We can then see that this glyph has been updated with the following procedures:
+
+*  GP_MG (Glyph Placement):
+	*  Component from existing glyphs like "E". This glyph has been placed for three Generated Masters (thn,reg,bld)
+*  WA_MO (Width Adjustment):
+	*  Widths (bearings) have been adjusted. This glyph widths have been adjusted for three Original Masters (thn,reg,bld)
+*  GF_MG (Glyph Fix):
+	*  This glyph was fixed after application of an effect like slant or width. This glyph has been fixed for three Generated Masters (thn_it,reg_it,bld_it)
+*  WA_MG (Width Adjustment):
+	*  Widths (bearings) have been adjusted. This glyph widths have been adjusted for three Generated Masters (thn_it,reg_it,bld_it)
+
 
 ---
 
@@ -846,6 +895,7 @@ ADV-0003-0008-0001 Advent 3 SE Cyrillic:                             crit, des29
 
     ADV-0003-0008-0001-0002 Advent SeC MO Integration of vectors:  active, des58, after des30, 3d
         MO thn Capitals:                                             done, des59, 2019-05-07,  5h
+        MO thn LowerCase:                                            done, des62, 2019-05-08,  5h
 
     ADV-0003-0008-0001-0001 SeC MG:                                        des32, after des58, 3d
         3 SeC MG 1 reg_it:                                                 des42, after des58, 1d
