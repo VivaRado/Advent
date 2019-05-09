@@ -48,116 +48,116 @@ GF = Glyph Fix
 	GF_MG (thn_it,reg_it,bld_it), 
 	WA_MG (thn_it,reg_it,bld_it)
 1033 0x0409 Љ CYRILLIC CAPITAL LETTER LJE False
-	GP_MO (thn)
-	WA_MO (thn)
+	GP_MO (thn,reg)
+	WA_MO (thn,reg)
 1034 0x040A Њ CYRILLIC CAPITAL LETTER NJE False
-	GP_MO (thn)
-	WA_MO (thn)
+	GP_MO (thn,reg)
+	WA_MO (thn,reg)
 1035 0x040B Ћ CYRILLIC CAPITAL LETTER TSHE False
-	GP_MO (thn)
-	WA_MO (thn)
+	GP_MO (thn,reg)
+	WA_MO (thn,reg)
 1036 0x040C Ќ CYRILLIC CAPITAL LETTER KJE False
-	GP_MO (thn)
-	WA_MO (thn)
+	GP_MO (thn,reg)
+	WA_MO (thn,reg)
 1037 0x040D Ѝ CYRILLIC CAPITAL LETTER I WITH GRAVE False
-	GP_MO (thn)
-	WA_MO (thn)
+	GP_MO (thn,reg)
+	WA_MO (thn,reg)
 1038 0x040E Ў CYRILLIC CAPITAL LETTER SHORT U False
-	GP_MO (thn)
-	WA_MO (thn)
+	GP_MO (thn,reg)
+	WA_MO (thn,reg)
 1039 0x040F Џ CYRILLIC CAPITAL LETTER DZHE False
-	GP_MO (thn)
-	WA_MO (thn)
+	GP_MO (thn,reg)
+	WA_MO (thn,reg)
 1040 0x0410 А CYRILLIC CAPITAL LETTER A False
-	GP_MO (thn)
-	WA_MO (thn)
+	GP_MO (thn,reg)
+	WA_MO (thn,reg)
 1041 0x0411 Б CYRILLIC CAPITAL LETTER BE False
-	GP_MO (thn)
-	WA_MO (thn)
+	GP_MO (thn,reg)
+	WA_MO (thn,reg)
 1042 0x0412 В CYRILLIC CAPITAL LETTER VE False
-	GP_MO (thn)
-	WA_MO (thn)
+	GP_MO (thn,reg)
+	WA_MO (thn,reg)
 1043 0x0413 Г CYRILLIC CAPITAL LETTER GHE False
-	GP_MO (thn)
-	WA_MO (thn)
+	GP_MO (thn,reg)
+	WA_MO (thn,reg)
 1044 0x0414 Д CYRILLIC CAPITAL LETTER DE False
-	GP_MO (thn)
-	WA_MO (thn)
+	GP_MO (thn,reg)
+	WA_MO (thn,reg)
 1045 0x0415 Е CYRILLIC CAPITAL LETTER IE False
-	GP_MO (thn)
-	WA_MO (thn)
+	GP_MO (thn,reg)
+	WA_MO (thn,reg)
 1046 0x0416 Ж CYRILLIC CAPITAL LETTER ZHE False
-	GP_MO (thn)
-	WA_MO (thn)
+	GP_MO (thn,reg)
+	WA_MO (thn,reg)
 1047 0x0417 З CYRILLIC CAPITAL LETTER ZE False
-	GP_MO (thn)
-	WA_MO (thn)
+	GP_MO (thn,reg)
+	WA_MO (thn,reg)
 1048 0x0418 И CYRILLIC CAPITAL LETTER I False
-	GP_MO (thn)
-	WA_MO (thn)
+	GP_MO (thn,reg)
+	WA_MO (thn,reg)
 1049 0x0419 Й CYRILLIC CAPITAL LETTER SHORT I False
-	GP_MO (thn)
-	WA_MO (thn)
+	GP_MO (thn,reg)
+	WA_MO (thn,reg)
 1050 0x041A К CYRILLIC CAPITAL LETTER KA False
-	GP_MO (thn)
-	WA_MO (thn)
+	GP_MO (thn,reg)
+	WA_MO (thn,reg)
 1051 0x041B Л CYRILLIC CAPITAL LETTER EL False
-	GP_MO (thn)
-	WA_MO (thn)
+	GP_MO (thn,reg)
+	WA_MO (thn,reg)
 1052 0x041C М CYRILLIC CAPITAL LETTER EM False
-	GP_MO (thn)
-	WA_MO (thn)
+	GP_MO (thn,reg)
+	WA_MO (thn,reg)
 1053 0x041D Н CYRILLIC CAPITAL LETTER EN False
-	GP_MO (thn)
-	WA_MO (thn)
+	GP_MO (thn,reg)
+	WA_MO (thn,reg)
 1054 0x041E О CYRILLIC CAPITAL LETTER O False
-	GP_MO (thn)
-	WA_MO (thn)
+	GP_MO (thn,reg)
+	WA_MO (thn,reg)
 1055 0x041F П CYRILLIC CAPITAL LETTER PE False
-	GP_MO (thn)
-	WA_MO (thn)
+	GP_MO (thn,reg)
+	WA_MO (thn,reg)
 1056 0x0420 Р CYRILLIC CAPITAL LETTER ER False
-	GP_MO (thn)
-	WA_MO (thn)
+	GP_MO (thn,reg)
+	WA_MO (thn,reg)
 1057 0x0421 С CYRILLIC CAPITAL LETTER ES False
-	GP_MO (thn)
-	WA_MO (thn)
+	GP_MO (thn,reg)
+	WA_MO (thn,reg)
 1058 0x0422 Т CYRILLIC CAPITAL LETTER TE False
-	GP_MO (thn)
-	WA_MO (thn)
+	GP_MO (thn,reg)
+	WA_MO (thn,reg)
 1059 0x0423 У CYRILLIC CAPITAL LETTER U False
-	GP_MO (thn)
-	WA_MO (thn)
+	GP_MO (thn,reg)
+	WA_MO (thn,reg)
 1060 0x0424 Ф CYRILLIC CAPITAL LETTER EF False
-	GP_MO (thn)
-	WA_MO (thn)
+	GP_MO (thn,reg)
+	WA_MO (thn,reg)
 1061 0x0425 Х CYRILLIC CAPITAL LETTER HA False
-	GP_MO (thn)
-	WA_MO (thn)
+	GP_MO (thn,reg)
+	WA_MO (thn,reg)
 1062 0x0426 Ц CYRILLIC CAPITAL LETTER TSE False
-	GP_MO (thn)
-	WA_MO (thn)
+	GP_MO (thn,reg)
+	WA_MO (thn,reg)
 1063 0x0427 Ч CYRILLIC CAPITAL LETTER CHE False
-	GP_MO (thn)
-	WA_MO (thn)
+	GP_MO (thn,reg)
+	WA_MO (thn,reg)
 1064 0x0428 Ш CYRILLIC CAPITAL LETTER SHA False
-	GP_MO (thn)
-	WA_MO (thn)
+	GP_MO (thn,reg)
+	WA_MO (thn,reg)
 1065 0x0429 Щ CYRILLIC CAPITAL LETTER SHCHA False
-	GP_MO (thn)
-	WA_MO (thn)
+	GP_MO (thn,reg)
+	WA_MO (thn,reg)
 1066 0x042A Ъ CYRILLIC CAPITAL LETTER HARD SIGN False
-	GP_MO (thn)
-	WA_MO (thn)
+	GP_MO (thn,reg)
+	WA_MO (thn,reg)
 1067 0x042B Ы CYRILLIC CAPITAL LETTER YERU False
-	GP_MO (thn)
-	WA_MO (thn)
+	GP_MO (thn,reg)
+	WA_MO (thn,reg)
 1068 0x042C Ь CYRILLIC CAPITAL LETTER SOFT SIGN False
-	GP_MO (thn)
-	WA_MO (thn)
+	GP_MO (thn,reg)
+	WA_MO (thn,reg)
 1069 0x042D Э CYRILLIC CAPITAL LETTER E False
-	GP_MO (thn)
-	WA_MO (thn)
+	GP_MO (thn,reg)
+	WA_MO (thn,reg)
 1070 0x042E Ю CYRILLIC CAPITAL LETTER YU False
 	GP_MO (thn)
 	WA_MO (thn)
