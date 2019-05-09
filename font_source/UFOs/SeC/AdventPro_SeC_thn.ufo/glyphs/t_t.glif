@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t_t" format="1">
+  <advance width="405"/>
+  <outline>
+    <component base="t" xOffset="165"/>
+    <contour>
+      <point x="60.1652" y="132.37" type="line" smooth="yes"/>
+      <point x="60.1652" y="59.1652"/>
+      <point x="86.238" y="27.0756"/>
+      <point x="152.423" y="4.0112" type="curve"/>
+      <point x="145.403" y="-13.0364" type="line"/>
+      <point x="72.1988" y="9.0252"/>
+      <point x="40.1092" y="54.1512"/>
+      <point x="40.1092" y="132.37" type="curve" smooth="yes"/>
+      <point x="40.1092" y="699.954" type="line"/>
+      <point x="60.1652" y="699.954" type="line"/>
+      <point x="60.1652" y="500.397" type="line"/>
+      <point x="211.588" y="500.397" type="line"/>
+      <point x="211.588" y="482.347" type="line"/>
+      <point x="60.1652" y="482.347" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0463" format="1">
+  <advance width="502"/>
+  <unicode hex="0463"/>
+  <outline>
+    <component base="uni044C" xOffset="46"/>
+    <contour>
+      <point x="21" y="415" type="line"/>
+      <point x="21" y="397" type="line"/>
+      <point x="257" y="397" type="line"/>
+      <point x="257" y="415" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>0.6</real>
+    <real>1</real>
+    <real>0.929</real>
+    <real>1</real>
+  </array>
+  </dict>
+  </lib>
+</glyph>

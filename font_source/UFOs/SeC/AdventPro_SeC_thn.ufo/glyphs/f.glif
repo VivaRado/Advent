@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f" format="1">
+  <advance width="247"/>
+  <unicode hex="0066"/>
+  <outline>
+    <contour>
+      <point x="220" y="689" type="line"/>
+      <point x="210" y="692"/>
+      <point x="203" y="693"/>
+      <point x="194" y="693" type="curve" smooth="yes"/>
+      <point x="132" y="695"/>
+      <point x="59" y="665"/>
+      <point x="59" y="550" type="curve" smooth="yes"/>
+      <point x="59" y="500" type="line"/>
+      <point x="210" y="500" type="line"/>
+      <point x="203" y="484" type="line"/>
+      <point x="59" y="484" type="line"/>
+      <point x="59" y="0" type="line"/>
+      <point x="39" y="0" type="line"/>
+      <point x="39" y="550" type="line" smooth="yes"/>
+      <point x="39" y="673"/>
+      <point x="118" y="710"/>
+      <point x="188" y="710" type="curve" smooth="yes"/>
+      <point x="200" y="710"/>
+      <point x="213" y="710"/>
+      <point x="224" y="707" type="curve"/>
+    </contour>
+  </outline>
+</glyph>
