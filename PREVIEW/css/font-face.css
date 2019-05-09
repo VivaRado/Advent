@@ -4,3 +4,8 @@
 	font-family:'AdventProVar';
 	font-style: normal;
 }
+@font-face {
+	src: url('../fonts/AdventPro-SeC-Thin.otf');
+	font-family:'AdventProSeC';
+	font-style: normal;
+}

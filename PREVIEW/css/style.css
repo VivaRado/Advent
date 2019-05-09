@@ -104,7 +104,15 @@ color: #ddd;
 
 }
 
-h2 {
+h2.sec {
+	line-height: 0.8em;
+	font-family: 'AdventProSeC';
+	font-size: 6em;
+	/*letter-spacing: 0.05em;*/
+	font-feature-settings: "kern" 1;
+	font-weight: 100;
+}
+h2.var {
 	line-height: 0.8em;
 	font-family: 'AdventProVar';
 	font-size: 6em;
@@ -121,12 +129,17 @@ h2 small {
 	font-weight: 100;
 }
 .description {
-	font-family: 'AdventProVar';
-	font-feature-settings: "kern" 1;
 	font-size: 2em;
-	/*letter-spacing: 0.04em;*/
 	font-kerning: normal;
 	line-height: 1;
+}
+.description.var {
+	font-family: 'AdventProVar';
+	font-feature-settings: "kern" 1;
+}
+.description.sec {
+	font-family: 'AdventProSeC';
+	font-feature-settings: "kern" 1;
 }
 .sample, .no_sample {
 	font-size: 2em;
