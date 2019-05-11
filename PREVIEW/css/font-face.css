@@ -5,7 +5,12 @@
 	font-style: normal;
 }
 @font-face {
-	src: url('../fonts/AdventPro-SeC-Thin.otf');
-	font-family:'AdventProSeC';
+	src: url('../fonts/AdventPro_SeC_thn.ttf');
+	font-family:'AdventProSeC_thn';
+	font-style: normal;
+}
+@font-face {
+	src: url('../fonts/AdventPro_SeC_reg.ttf');
+	font-family:'AdventProSeC_reg';
 	font-style: normal;
 }

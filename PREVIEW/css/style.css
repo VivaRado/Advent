@@ -104,13 +104,23 @@ color: #ddd;
 
 }
 
-h2.sec {
+h2.sec_thn {
 	line-height: 0.8em;
-	font-family: 'AdventProSeC';
+	font-family: 'AdventProSeC_thn';
 	font-size: 6em;
 	/*letter-spacing: 0.05em;*/
 	font-feature-settings: "kern" 1;
 	font-weight: 100;
+	
+}
+h2.sec_reg {
+	line-height: 0.8em;
+	font-family: 'AdventProSeC_reg';
+	font-size: 6em;
+	/*letter-spacing: 0.05em;*/
+	font-feature-settings: "kern" 1;
+	font-weight: 400;
+	
 }
 h2.var {
 	line-height: 0.8em;
@@ -137,8 +147,12 @@ h2 small {
 	font-family: 'AdventProVar';
 	font-feature-settings: "kern" 1;
 }
-.description.sec {
-	font-family: 'AdventProSeC';
+.description.sec_thn {
+	font-family: 'AdventProSeC_thn';
+	font-feature-settings: "kern" 1;
+}
+.description.sec_reg {
+	font-family: 'AdventProSeC_reg';
 	font-feature-settings: "kern" 1;
 }
 .sample, .no_sample {
