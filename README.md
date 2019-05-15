@@ -880,7 +880,7 @@ ADV-0004-0008-0001 Advent 4 Script Extension Cyrillic (SeC) Planning:      des28
 #
 section Advent 3 SE Cyrillic
 
-ADV-0003-0008-0001 Advent 3 SE Cyrillic:                             crit, des29, 2019-04-27, 21d
+ADV-0003-0008-0001 Advent 3 SE Cyrillic:                             crit, des29, 2019-04-27, 22d
     ADV-0003-0008-0001-0001 Advent SeC MO:                           done, des30, 2019-04-27,  9d
         SeC MO 1 reg (04/27 to 04/30):                               done, des39, 2019-04-27,  3d
             MO reg Capital:                                          done, des31, 2019-04-27,  5h
