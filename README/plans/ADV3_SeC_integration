@@ -315,20 +315,20 @@ GF = Glyph Fix
 	GP_MO (thn,reg)
 	WA_MO (thn,reg)
 1130 0x046A Ѫ CYRILLIC CAPITAL LETTER BIG YUS False
-	GP_MO (thn,reg)
-	WA_MO (thn,reg)
+	GP_MO (thn,reg,bld)
+	WA_MO (thn,reg,bld)
 1131 0x046B ѫ CYRILLIC SMALL LETTER BIG YUS False
 	GP_MO (thn,reg)
 	WA_MO (thn,reg)
 1138 0x0472 Ѳ CYRILLIC CAPITAL LETTER FITA False
 	GP_MO (thn,reg,bld)
-	WA_MO (thn,reg)
+	WA_MO (thn,reg,bld)
 1139 0x0473 ѳ CYRILLIC SMALL LETTER FITA False
 	GP_MO (thn,reg)
 	WA_MO (thn,reg)
 1140 0x0474 Ѵ CYRILLIC CAPITAL LETTER IZHITSA False
-	GP_MO (thn,reg)
-	WA_MO (thn,reg)
+	GP_MO (thn,reg,bld)
+	WA_MO (thn,reg,bld)
 1141 0x0475 ѵ CYRILLIC SMALL LETTER IZHITSA False
 	GP_MO (thn,reg)
 	WA_MO (thn,reg)
@@ -351,86 +351,86 @@ GF = Glyph Fix
 	GP_MO (thn,reg)
 	WA_MO (thn,reg)
 1174 0x0496 Җ CYRILLIC CAPITAL LETTER ZHE WITH DESCENDER False
-	GP_MO (thn,reg)
-	WA_MO (thn,reg)
+	GP_MO (thn,reg,bld)
+	WA_MO (thn,reg,bld)
 1175 0x0497 җ CYRILLIC SMALL LETTER ZHE WITH DESCENDER False
 	GP_MO (thn,reg)
 	WA_MO (thn,reg)
 1176 0x0498 Ҙ CYRILLIC CAPITAL LETTER ZE WITH DESCENDER False
-	GP_MO (thn,reg)
-	WA_MO (thn,reg)
+	GP_MO (thn,reg,bld)
+	WA_MO (thn,reg,bld)
 1177 0x0499 ҙ CYRILLIC SMALL LETTER ZE WITH DESCENDER False
 	GP_MO (thn,reg)
 	WA_MO (thn,reg)
 1178 0x049A Қ CYRILLIC CAPITAL LETTER KA WITH DESCENDER False
-	GP_MO (thn,reg)
-	WA_MO (thn,reg)
+	GP_MO (thn,reg,bld)
+	WA_MO (thn,reg,bld)
 1179 0x049B қ CYRILLIC SMALL LETTER KA WITH DESCENDER False
 	GP_MO (thn,reg)
 	WA_MO (thn,reg)
 1180 0x049C Ҝ CYRILLIC CAPITAL LETTER KA WITH VERTICAL STROKE False
-	GP_MO (thn,reg)
-	WA_MO (thn,reg)
+	GP_MO (thn,reg,bld)
+	WA_MO (thn,reg,bld)
 1181 0x049D ҝ CYRILLIC SMALL LETTER KA WITH VERTICAL STROKE False
 	GP_MO (thn,reg)
 	WA_MO (thn,reg)
 1184 0x04A0 Ҡ CYRILLIC CAPITAL LETTER BASHKIR KA False
-	GP_MO (thn,reg)
-	WA_MO (thn,reg)
+	GP_MO (thn,reg,bld)
+	WA_MO (thn,reg,bld)
 1185 0x04A1 ҡ CYRILLIC SMALL LETTER BASHKIR KA False
 	GP_MO (thn,reg)
 	WA_MO (thn,reg)
 1186 0x04A2 Ң CYRILLIC CAPITAL LETTER EN WITH DESCENDER False
-	GP_MO (thn,reg)
-	WA_MO (thn,reg)
+	GP_MO (thn,reg,bld)
+	WA_MO (thn,reg,bld)
 1187 0x04A3 ң CYRILLIC SMALL LETTER EN WITH DESCENDER False
 	GP_MO (thn,reg)
 	WA_MO (thn,reg)
 1188 0x04A4 Ҥ CYRILLIC CAPITAL LIGATURE EN GHE False
-	GP_MO (thn,reg)
-	WA_MO (thn,reg)
+	GP_MO (thn,reg,bld)
+	WA_MO (thn,reg,bld)
 1189 0x04A5 ҥ CYRILLIC SMALL LIGATURE EN GHE False
 	GP_MO (thn,reg)
 	WA_MO (thn,reg)
 1194 0x04AA Ҫ CYRILLIC CAPITAL LETTER ES WITH DESCENDER False
-	GP_MO (thn,reg)
-	WA_MO (thn,reg)
+	GP_MO (thn,reg,bld)
+	WA_MO (thn,reg,bld)
 1195 0x04AB ҫ CYRILLIC SMALL LETTER ES WITH DESCENDER False
 	GP_MO (thn,reg)
 	WA_MO (thn,reg)
 1198 0x04AE Ү CYRILLIC CAPITAL LETTER STRAIGHT U False
-	GP_MO (thn,reg)
-	WA_MO (thn,reg)
+	GP_MO (thn,reg,bld)
+	WA_MO (thn,reg,bld)
 1199 0x04AF ү CYRILLIC SMALL LETTER STRAIGHT U False
 	GP_MO (thn,reg)
 	WA_MO (thn,reg)
 1200 0x04B0 Ұ CYRILLIC CAPITAL LETTER STRAIGHT U WITH STROKE False
-	GP_MO (thn,reg)
-	WA_MO (thn,reg)
+	GP_MO (thn,reg,bld)
+	WA_MO (thn,reg,bld)
 1201 0x04B1 ұ CYRILLIC SMALL LETTER STRAIGHT U WITH STROKE False
 	GP_MO (thn,reg)
 	WA_MO (thn,reg)
 1202 0x04B2 Ҳ CYRILLIC CAPITAL LETTER HA WITH DESCENDER False
-	GP_MO (thn,reg)
-	WA_MO (thn,reg)
+	GP_MO (thn,reg,bld)
+	WA_MO (thn,reg,bld)
 1203 0x04B3 ҳ CYRILLIC SMALL LETTER HA WITH DESCENDER False
 	GP_MO (thn,reg)
 	WA_MO (thn,reg)
 1206 0x04B6 Ҷ CYRILLIC CAPITAL LETTER CHE WITH DESCENDER False
-	GP_MO (thn,reg)
-	WA_MO (thn,reg)
+	GP_MO (thn,reg,bld)
+	WA_MO (thn,reg,bld)
 1207 0x04B7 ҷ CYRILLIC SMALL LETTER CHE WITH DESCENDER False
 	GP_MO (thn,reg)
 	WA_MO (thn,reg)
 1208 0x04B8 Ҹ CYRILLIC CAPITAL LETTER CHE WITH VERTICAL STROKE False
-	GP_MO (thn,reg)
-	WA_MO (thn,reg)
+	GP_MO (thn,reg,bld)
+	WA_MO (thn,reg,bld)
 1209 0x04B9 ҹ CYRILLIC SMALL LETTER CHE WITH VERTICAL STROKE False
 	GP_MO (thn,reg)
 	WA_MO (thn,reg)
 1210 0x04BA Һ CYRILLIC CAPITAL LETTER SHHA False
-	GP_MO (thn,reg)
-	WA_MO (thn,reg)
+	GP_MO (thn,reg,bld)
+	WA_MO (thn,reg,bld)
 1211 0x04BB һ CYRILLIC SMALL LETTER SHHA False
 	GP_MO (thn,reg)
 	WA_MO (thn,reg)
@@ -438,14 +438,14 @@ GF = Glyph Fix
 	GP_MO (thn,reg)
 	WA_MO (thn,reg)
 1217 0x04C1 Ӂ CYRILLIC CAPITAL LETTER ZHE WITH BREVE False
-	GP_MO (thn,reg)
-	WA_MO (thn,reg)
+	GP_MO (thn,reg,bld)
+	WA_MO (thn,reg,bld)
 1218 0x04C2 ӂ CYRILLIC SMALL LETTER ZHE WITH BREVE False
 	GP_MO (thn,reg)
 	WA_MO (thn,reg)
 1227 0x04CB Ӌ CYRILLIC CAPITAL LETTER KHAKASSIAN CHE False
-	GP_MO (thn,reg)
-	WA_MO (thn,reg)
+	GP_MO (thn,reg,bld)
+	WA_MO (thn,reg,bld)
 1228 0x04CC ӌ CYRILLIC SMALL LETTER KHAKASSIAN CHE False
 	GP_MO (thn,reg)
 	WA_MO (thn,reg)
@@ -453,128 +453,128 @@ GF = Glyph Fix
 	GP_MO (thn,reg)
 	WA_MO (thn,reg)
 1232 0x04D0 Ӑ CYRILLIC CAPITAL LETTER A WITH BREVE False
-	GP_MO (thn,reg)
-	WA_MO (thn,reg)
+	GP_MO (thn,reg,bld)
+	WA_MO (thn,reg,bld)
 1233 0x04D1 ӑ CYRILLIC SMALL LETTER A WITH BREVE False
 	GP_MO (thn,reg)
 	WA_MO (thn,reg)
 1234 0x04D2 Ӓ CYRILLIC CAPITAL LETTER A WITH DIAERESIS False
-	GP_MO (thn,reg)
-	WA_MO (thn,reg)
+	GP_MO (thn,reg,bld)
+	WA_MO (thn,reg,bld)
 1235 0x04D3 ӓ CYRILLIC SMALL LETTER A WITH DIAERESIS False
 	GP_MO (thn,reg)
 	WA_MO (thn,reg)
 1236 0x04D4 Ӕ CYRILLIC CAPITAL LIGATURE A IE False
-	GP_MO (thn,reg)
-	WA_MO (thn,reg)
+	GP_MO (thn,reg,bld)
+	WA_MO (thn,reg,bld)
 1237 0x04D5 ӕ CYRILLIC SMALL LIGATURE A IE False
 	GP_MO (thn,reg)
 	WA_MO (thn,reg)
 1238 0x04D6 Ӗ CYRILLIC CAPITAL LETTER IE WITH BREVE False
-	GP_MO (thn,reg)
-	WA_MO (thn,reg)
+	GP_MO (thn,reg,bld)
+	WA_MO (thn,reg,bld)
 1239 0x04D7 ӗ CYRILLIC SMALL LETTER IE WITH BREVE False
 	GP_MO (thn,reg)
 	WA_MO (thn,reg)
 1240 0x04D8 Ә CYRILLIC CAPITAL LETTER SCHWA False
-	GP_MO (thn,reg)
-	WA_MO (thn,reg)
+	GP_MO (thn,reg,bld)
+	WA_MO (thn,reg,bld)
 1241 0x04D9 ә CYRILLIC SMALL LETTER SCHWA False
 	GP_MO (thn,reg)
 	WA_MO (thn,reg)
 1244 0x04DC Ӝ CYRILLIC CAPITAL LETTER ZHE WITH DIAERESIS False
-	GP_MO (thn,reg)
-	WA_MO (thn,reg)
+	GP_MO (thn,reg,bld)
+	WA_MO (thn,reg,bld)
 1245 0x04DD ӝ CYRILLIC SMALL LETTER ZHE WITH DIAERESIS False
 	GP_MO (thn,reg)
 	WA_MO (thn,reg)
 1246 0x04DE Ӟ CYRILLIC CAPITAL LETTER ZE WITH DIAERESIS False
-	GP_MO (thn,reg)
-	WA_MO (thn,reg)
+	GP_MO (thn,reg,bld)
+	WA_MO (thn,reg,bld)
 1247 0x04DF ӟ CYRILLIC SMALL LETTER ZE WITH DIAERESIS False
 	GP_MO (thn,reg)
 	WA_MO (thn,reg)
 1250 0x04E2 Ӣ CYRILLIC CAPITAL LETTER I WITH MACRON False
-	GP_MO (thn,reg)
-	WA_MO (thn,reg)
+	GP_MO (thn,reg,bld)
+	WA_MO (thn,reg,bld)
 1251 0x04E3 ӣ CYRILLIC SMALL LETTER I WITH MACRON False
 	GP_MO (thn,reg)
 	WA_MO (thn,reg)
 1252 0x04E4 Ӥ CYRILLIC CAPITAL LETTER I WITH DIAERESIS False
-	GP_MO (thn,reg)
-	WA_MO (thn,reg)
+	GP_MO (thn,reg,bld)
+	WA_MO (thn,reg,bld)
 1253 0x04E5 ӥ CYRILLIC SMALL LETTER I WITH DIAERESIS False
 	GP_MO (thn,reg)
 	WA_MO (thn,reg)
 1254 0x04E6 Ӧ CYRILLIC CAPITAL LETTER O WITH DIAERESIS False
-	GP_MO (thn,reg)
-	WA_MO (thn,reg)
+	GP_MO (thn,reg,bld)
+	WA_MO (thn,reg,bld)
 1255 0x04E7 ӧ CYRILLIC SMALL LETTER O WITH DIAERESIS False
 	GP_MO (thn,reg)
 	WA_MO (thn,reg)
 1256 0x04E8 Ө CYRILLIC CAPITAL LETTER BARRED O False
-	GP_MO (thn,reg)
-	WA_MO (thn,reg)
+	GP_MO (thn,reg,bld)
+	WA_MO (thn,reg,bld)
 1257 0x04E9 ө CYRILLIC SMALL LETTER BARRED O False
 	GP_MO (thn,reg)
 	WA_MO (thn,reg)
 1262 0x04EE Ӯ CYRILLIC CAPITAL LETTER U WITH MACRON False
-	GP_MO (thn,reg)
-	WA_MO (thn,reg)
+	GP_MO (thn,reg,bld)
+	WA_MO (thn,reg,bld)
 1263 0x04EF ӯ CYRILLIC SMALL LETTER U WITH MACRON False
 	GP_MO (thn,reg)
 	WA_MO (thn,reg)
 1264 0x04F0 Ӱ CYRILLIC CAPITAL LETTER U WITH DIAERESIS False
-	GP_MO (thn,reg)
-	WA_MO (thn,reg)
+	GP_MO (thn,reg,bld)
+	WA_MO (thn,reg,bld)
 1265 0x04F1 ӱ CYRILLIC SMALL LETTER U WITH DIAERESIS False
 	GP_MO (thn,reg)
 	WA_MO (thn,reg)
 1266 0x04F2 Ӳ CYRILLIC CAPITAL LETTER U WITH DOUBLE ACUTE False
-	GP_MO (thn,reg)
-	WA_MO (thn,reg)
+	GP_MO (thn,reg,bld)
+	WA_MO (thn,reg,bld)
 1267 0x04F3 ӳ CYRILLIC SMALL LETTER U WITH DOUBLE ACUTE False
 	GP_MO (thn,reg)
 	WA_MO (thn,reg)
 1268 0x04F4 Ӵ CYRILLIC CAPITAL LETTER CHE WITH DIAERESIS False
-	GP_MO (thn,reg)
-	WA_MO (thn,reg)
+	GP_MO (thn,reg,bld)
+	WA_MO (thn,reg,bld)
 1269 0x04F5 ӵ CYRILLIC SMALL LETTER CHE WITH DIAERESIS False
 	GP_MO (thn,reg)
 	WA_MO (thn,reg)
 1270 0x04F6 Ӷ CYRILLIC CAPITAL LETTER GHE WITH DESCENDER False
-	GP_MO (thn,reg)
-	WA_MO (thn,reg)
+	GP_MO (thn,reg,bld)
+	WA_MO (thn,reg,bld)
 1271 0x04F7 ӷ CYRILLIC SMALL LETTER GHE WITH DESCENDER False
 	GP_MO (thn,reg)
 	WA_MO (thn,reg)
 1272 0x04F8 Ӹ CYRILLIC CAPITAL LETTER YERU WITH DIAERESIS False
-	GP_MO (thn,reg)
-	WA_MO (thn,reg)
+	GP_MO (thn,reg,bld)
+	WA_MO (thn,reg,bld)
 1273 0x04F9 ӹ CYRILLIC SMALL LETTER YERU WITH DIAERESIS False
 	GP_MO (thn,reg)
 	WA_MO (thn,reg)
 1306 0x051A Ԛ CYRILLIC CAPITAL LETTER QA False
-	GP_MO (thn,reg)
-	WA_MO (thn,reg)
+	GP_MO (thn,reg,bld)
+	WA_MO (thn,reg,bld)
 1307 0x051B ԛ CYRILLIC SMALL LETTER QA False
 	GP_MO (thn,reg)
 	WA_MO (thn,reg)
 1308 0x051C Ԝ CYRILLIC CAPITAL LETTER WE False
-	GP_MO (thn,reg)
-	WA_MO (thn,reg)
+	GP_MO (thn,reg,bld)
+	WA_MO (thn,reg,bld)
 1309 0x051D ԝ CYRILLIC SMALL LETTER WE False
 	GP_MO (thn,reg)
 	WA_MO (thn,reg)
 8366 0x20AE ₮ TUGRIK SIGN False
-	GP_MO (thn,reg)
-	WA_MO (thn,reg)
+	GP_MO (thn,reg,bld)
+	WA_MO (thn,reg,bld)
 8372 0x20B4 ₴ HRYVNIA SIGN False
-	GP_MO (thn,reg)
-	WA_MO (thn,reg)
+	GP_MO (thn,reg,bld)
+	WA_MO (thn,reg,bld)
 8376 0x20B8 ₸ TENGE SIGN False
-	GP_MO (thn,reg)
-	WA_MO (thn,reg)
+	GP_MO (thn,reg,bld)
+	WA_MO (thn,reg,bld)
 8470 0x2116 № NUMERO SIGN False
-	GP_MO (thn,reg)
-	WA_MO (thn,reg)
+	GP_MO (thn,reg,bld)
+	WA_MO (thn,reg,bld)
