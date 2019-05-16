@@ -902,9 +902,10 @@ ADV-0003-0008-0001 Advent 3 SE Cyrillic:                             crit, des29
             MO reg 16/39 Capitals:                                   done, des59, 2019-05-09,  6h
             MO reg Capitals:                                         done, des67, 2019-05-10,  6h
             MO reg Complete:                                         done, des68, 2019-05-11,  8h
-        3 SeC MO 2 bld:                                            active, des66, after des65, 4d
+        3 SeC MO 3 bld:                                              done, des66, after des65, 4d
             MO bld 24/39 Capitals:                                   done, des69, 2019-05-14,  4h
             MO bld All Capitals:                                     done, des70, 2019-05-15,  2h
+            MO bld Complete:                                         done, des71, 2019-05-16,  5h
 
     ADV-0003-0008-0001-0001 SeC MG:                                        des32, after des58, 3d
         3 SeC MG 1 reg_it:                                                 des42, after des58, 1d
