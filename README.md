@@ -880,7 +880,7 @@ ADV-0004-0008-0001 Advent 4 Script Extension Cyrillic (SeC) Planning:      des28
 #
 section Advent 3 SE Cyrillic
 
-ADV-0003-0008-0001 Advent 3 SE Cyrillic:                             crit, des29, 2019-04-27, 22d
+ADV-0003-0008-0001 Advent 3 SE Cyrillic:                             crit, des29, 2019-04-27, 23d
     ADV-0003-0008-0001-0001 Advent SeC MO:                           done, des30, 2019-04-27,  9d
         SeC MO 1 reg (04/27 to 04/30):                               done, des39, 2019-04-27,  3d
             MO reg Capital:                                          done, des31, 2019-04-27,  5h
@@ -893,7 +893,7 @@ ADV-0003-0008-0001 Advent 3 SE Cyrillic:                             crit, des29
         3 SeC MO 3 bld:                                              done, des41, after des40, 3d
             MO bld Capital 39/39, SmallCase 45/45:                   done, des65, 2019-05-05,  5h
 
-    ADV-0003-0008-0001-0002 Advent SeC MO Integration of vectors:    done, des58, after des30, 10d
+    ADV-0003-0008-0001-0002 Advent SeC MO Integration of vectors:    done, des58, after des30, 11d
         3 SeC MO 1 thn:                                              done, des64, after des30, 3d
             MO thn Capitals:                                         done, des59, 2019-05-07,  5h
             MO thn LowerCase:                                        done, des62, 2019-05-08,  5h
@@ -902,7 +902,7 @@ ADV-0003-0008-0001 Advent 3 SE Cyrillic:                             crit, des29
             MO reg 16/39 Capitals:                                   done, des59, 2019-05-09,  6h
             MO reg Capitals:                                         done, des67, 2019-05-10,  6h
             MO reg Complete:                                         done, des68, 2019-05-11,  8h
-        3 SeC MO 3 bld:                                              done, des66, after des65, 4d
+        3 SeC MO 3 bld:                                              done, des66, after des65, 5d
             MO bld 24/39 Capitals:                                   done, des69, 2019-05-14,  4h
             MO bld All Capitals:                                     done, des70, 2019-05-15,  2h
             MO bld Complete:                                         done, des71, 2019-05-16,  5h
