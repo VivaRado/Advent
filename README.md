@@ -912,10 +912,14 @@ ADV-0003-0008-0001 Advent 3 SE Cyrillic:                             crit, des29
         3 SeC MG 2 bld_it:                                           done, des43, after des42, 1d
         3 SeC MG 3 thn_it:                                           done, des44, after des43, 1d
         SeC MG fixes:                                                      des72, after des44, 1d
+
+    ADV-0003-0005-0001 Kerning Planning SeC:                               des73, after des72, 2d
+        Kerning Pairs and Grouping:                                        des74, after des72, 1d
+        Kerning Compression:                                               des75, after des74, 1d
 #
 section 4 ME Latin and Greek
 
-ADV-0004-0007-0001 4 ME Latin and ME Greek:                          crit, des33, after des32, 12d
+ADV-0004-0007-0001 4 ME Latin and ME Greek:                          crit, des33, 2019-06-07, 12d
     ADV-0004-0007-0001 MeL MO:                                             des34, after des32, 4d
         4 MeL MO 1 reg:                                                    des45, after des32, 1d
         4 MeL MO 2 thn:                                                    des46, after des45, 1d
