@@ -911,6 +911,7 @@ ADV-0003-0008-0001 Advent 3 SE Cyrillic:                             crit, des29
         3 SeC MG 1 reg_it:                                           done, des42, after des58, 1d
         3 SeC MG 2 bld_it:                                           done, des43, after des42, 1d
         3 SeC MG 3 thn_it:                                           done, des44, after des43, 1d
+        SeC MG fixes:                                                      des72, after des44, 1d
 #
 section 4 ME Latin and Greek
 
