@@ -920,8 +920,8 @@ ADV-0003-0008-0001 Advent 3 SE Cyrillic:                             crit, des29
 section 4 ME Latin and Greek
 
 ADV-0004-0007-0001 4 ME Latin and ME Greek:                          crit, des33, 2019-06-07, 12d
-    ADV-0004-0007-0001 MeL MO:                                             des34, after des32, 4d
-        4 MeL MO 1 reg:                                                    des45, after des32, 1d
+    ADV-0004-0007-0001 MeL MO:                                             des34, 2019-06-07, 4d
+        4 MeL MO 1 reg:                                                    des45, 2019-06-07, 1d
         4 MeL MO 2 thn:                                                    des46, after des45, 1d
         4 MeL MO 3 bld:                                                    des47, after des46, 1d
         4 MeL MO 4 blk:                                                    des57, after des47, 1d
