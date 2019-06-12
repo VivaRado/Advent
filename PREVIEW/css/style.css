@@ -122,6 +122,15 @@ h2.sec_reg {
 	font-weight: 400;
 	
 }
+h2.sec_bld {
+	line-height: 0.8em;
+	font-family: 'AdventProSeC_bld';
+	font-size: 6em;
+	/*letter-spacing: 0.05em;*/
+	font-feature-settings: "kern" 1;
+	font-weight: 400;
+	
+}
 h2.var {
 	line-height: 0.8em;
 	font-family: 'AdventProVar';

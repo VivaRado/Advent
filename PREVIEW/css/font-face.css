@@ -14,3 +14,8 @@
 	font-family:'AdventProSeC_reg';
 	font-style: normal;
 }
+@font-face {
+	src: url('../fonts/AdventPro_SeC_bld.ttf');
+	font-family:'AdventProSeC_bld';
+	font-style: normal;
+}
