@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
-		<title>VRD | Advent | 3.021 | 2019/05/19</title>
+		<title>VRD | Advent | 3.021 | 2019/06/18</title>
 		<link rel="stylesheet" type="text/css" href="assets/css/style.css">
 		<link rel="stylesheet" type="text/css" href="assets/css/code_native.css">
 		<script type="text/javascript" src="assets/js/mermaid.js"></script>
@@ -125,11 +125,11 @@
 <h4>Contributors:</h4>
 
 <ul>
-<li>VivaRado <a href="&#109;&#x61;&#105;&#x6c;&#x74;&#111;&#x3a;&#x73;&#x75;&#x70;p&#x6f;&#114;&#116;&#x40;&#118;i&#118;&#97;ra&#x64;&#111;&#46;&#x63;o&#109;">&#x73;&#x75;&#x70;p&#x6f;&#114;&#116;&#x40;&#118;i&#118;&#97;ra&#x64;&#111;&#46;&#x63;o&#109;</a></li>
+<li>VivaRado <a href="&#x6d;&#97;&#x69;&#x6c;&#x74;&#x6f;&#58;&#115;u&#x70;&#x70;&#x6f;r&#116;&#64;&#118;&#x69;&#x76;&#97;&#x72;&#x61;&#100;&#x6f;&#46;&#99;&#111;&#109;">&#115;u&#x70;&#x70;&#x6f;r&#116;&#64;&#118;&#x69;&#x76;&#97;&#x72;&#x61;&#100;&#x6f;&#46;&#99;&#111;&#109;</a></li>
 <li>Andreas Kalpakidis</li>
 <li>Madina Akhmatova</li>
 <li>Dave Crossland</li>
-<li>Michael LaGattuta <a href="&#109;&#97;&#105;&#x6c;&#x74;&#x6f;&#58;&#x6d;&#106;&#108;&#97;&#x67;&#x61;&#116;&#116;&#117;&#116;&#x61;&#64;&#103;&#109;&#97;il.&#99;&#x6f;&#109;">&#x6d;&#106;&#108;&#97;&#x67;&#x61;&#116;&#116;&#117;&#116;&#x61;&#64;&#103;&#109;&#97;il.&#99;&#x6f;&#109;</a></li>
+<li>Michael LaGattuta <a href="&#x6d;&#97;&#x69;lto:&#109;&#106;&#x6c;&#x61;&#x67;&#97;&#116;tut&#97;&#64;&#x67;&#x6d;&#97;&#x69;&#x6c;&#x2e;&#99;&#111;&#109;">&#109;&#106;&#x6c;&#x61;&#x67;&#97;&#116;tut&#97;&#64;&#x67;&#x6d;&#97;&#x69;&#x6c;&#x2e;&#99;&#111;&#109;</a></li>
 <li>Behdad Esfahbod</li>
 </ul>
 
@@ -1137,6 +1137,10 @@ later you can export to Componentized UFOs.</p>
 
 <p>This is intended for the MG (Generated Masters), like italics or wide version where we keep the original glyphs but adjust them after applying an effect like slant or width.</p>
 
+<h4>Glyph Distributor</h4>
+
+<p>For integrating the glyphs to the EFO we use the Glyph Distributor, it is responsible for taking glif files from provided UFO and placing it to the appropriate EFO directory. Updating the glyphlib and the contents file.</p>
+
 <hr />
 
 <p>From the ADV3<em>SeC</em>integration file:</p>
@@ -1377,6 +1381,10 @@ later you can export to Componentized UFOs.</p>
 
 <p>Overview:</p>
 
+<p><strong>2019-06-12</strong>:</p>
+
+<p>We are preparing our approval documents for our stakeholders to review, for Script Extension to Cyrillic for version 3.</p>
+
 <p><strong>2019-04-27</strong>:</p>
 
 <p>We have a layout for the plan of Script Extension and Master Extension that will take place between 2019-04-27 until 2019-06-02.</p>
@@ -1435,21 +1443,25 @@ ADV-0003-0008-0001 Advent 3 SE Cyrillic:                             crit, des29
             MO bld All Capitals:                                     done, des70, 2019-05-15,  2h
             MO bld Complete:                                         done, des71, 2019-05-16,  5h
 
-    ADV-0003-0008-0001-0001 SeC MG:                                        des32, after des58, 4d
+    ADV-0003-0008-0001-0001 SeC MG:                                  done, des32, after des58, 4d
         3 SeC MG 1 reg_it:                                           done, des42, after des58, 1d
         3 SeC MG 2 bld_it:                                           done, des43, after des42, 1d
         3 SeC MG 3 thn_it:                                           done, des44, after des43, 1d
-        SeC MG fixes:                                                      des72, after des44, 1d
+        SeC MG fixes:                                                done, des72, after des44, 1d
 
-    ADV-0003-0005-0001 Kerning Planning SeC:                               des73, after des72, 2d
-        Kerning Pairs and Grouping:                                        des74, after des72, 1d
+    ADV-0003-0003-0001 Preview and Approval Documents:                     des77, 2019-06-12,  2d
+    ADV-0003-0004-0001 EFO Build for Version 3:                            des76, after des77, 10d
+    ADV-0003-0004-0001-0001 EFO Glyph Distributor:                         des78, after des77, 10d
+
+    ADV-0003-0005-0001 Kerning Planning SeC:                               des73, after des76, 2d
+        Kerning Pairs and Grouping:                                        des74, after des76, 1d
         Kerning Compression:                                               des75, after des74, 1d
 #
 section 4 ME Latin and Greek
 
-ADV-0004-0007-0001 4 ME Latin and ME Greek:                          crit, des33, 2019-06-07, 12d
-    ADV-0004-0007-0001 MeL MO:                                             des34, 2019-06-07, 4d
-        4 MeL MO 1 reg:                                                    des45, 2019-06-07, 1d
+ADV-0004-0007-0001 4 ME Latin and ME Greek:                          crit, des33, after des74, 12d
+    ADV-0004-0007-0001 MeL MO:                                             des34, after des74, 4d
+        4 MeL MO 1 reg:                                                    des45, after des74, 1d
         4 MeL MO 2 thn:                                                    des46, after des45, 1d
         4 MeL MO 3 bld:                                                    des47, after des46, 1d
         4 MeL MO 4 blk:                                                    des57, after des47, 1d
@@ -1551,7 +1563,17 @@ ADV-0004-0008-0001 4 SE Cyrillic:                                    crit, des36
 
 <ul>
 <li>ADV-∞-0002: Encodings</li>
-<li>ADV-∞-0003: Information Architecture</li>
+<li>ADV-∞-0003: Information Architecture
+<ul>
+<li>ADV-∞-0003-0001: Preview and Approval Documents</li>
+</ul></li>
+<li>ADV-∞-0004: EFO
+<ul>
+<li>ADV-∞-0004-0001: EFO Build
+<ul>
+<li>ADV-∞-0004-0001-0001: EFO Glyph Distributor</li>
+</ul></li>
+</ul></li>
 <li>ADV-∞-0005: Kerning
 <ul>
 <li>ADV-∞-0005-0001: Kerning Planning</li>
@@ -1590,11 +1612,23 @@ SeC Capitals, SeC SmallCase MO and MG</li>
 <li>ADV-0003-0008-0001-0002: SeC SmallCase MO and MG</li>
 </ul></li>
 </ul></li>
+<li>ADV-0003-0004: EFO
+<ul>
+<li>ADV-0003-0004-0001: EFO Build for Version 3
+<ul>
+<li>ADV-0003-0004-0001-0001: EFO Glyph Distributor</li>
+</ul></li>
+</ul></li>
+<li>ADV-0003-0003: Information Architecture
+<ul>
+<li>ADV-0003-0003-0001: Preview and Approval Documents</li>
+</ul></li>
 </ul></li>
 <li>ADV-0004: Advent 4
 <ul>
 <li>ADV-0004-0002: Encodings</li>
 <li>ADV-0004-0003: Information Architecture</li>
+<li>ADV-0004-0004: EFO</li>
 <li>ADV-0004-0005: Kerning
 <ul>
 <li>ADV-0004-0005-0001: Kerning Planning</li>
@@ -1702,7 +1736,7 @@ SeC Capitals, SeC SmallCase MO and MG</li>
 </ul></li>
 <li>User Feedback Mechanisms:
 <ul>
-<li><a href="&#x6d;&#97;&#x69;&#x6c;&#x74;&#111;&#58;&#x73;u&#x70;&#112;&#111;&#114;&#x74;&#x40;&#118;&#105;&#118;a&#x72;&#97;&#100;&#111;&#46;&#x63;&#x6f;&#x6d;">&#x73;u&#x70;&#112;&#111;&#114;&#x74;&#x40;&#118;&#105;&#118;a&#x72;&#97;&#100;&#111;&#46;&#x63;&#x6f;&#x6d;</a></li>
+<li><a href="&#x6d;&#97;i&#x6c;&#x74;o&#x3a;&#115;&#x75;&#112;&#112;&#x6f;&#x72;&#x74;&#64;&#x76;&#105;&#x76;&#x61;&#114;&#x61;&#100;&#x6f;&#x2e;&#x63;&#x6f;&#109;">&#115;&#x75;&#112;&#112;&#x6f;&#x72;&#x74;&#64;&#x76;&#105;&#x76;&#x61;&#114;&#x61;&#100;&#x6f;&#x2e;&#x63;&#x6f;&#109;</a></li>
 </ul></li>
 </ul></li>
 </ul>

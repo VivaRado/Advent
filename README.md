@@ -641,6 +641,11 @@ This deals with the adjustment of the glyph width where we determine if we have 
 
 This is intended for the MG (Generated Masters), like italics or wide version where we keep the original glyphs but adjust them after applying an effect like slant or width.
 
+#### Glyph Distributor
+
+For integrating the glyphs to the EFO we use the Glyph Distributor, it is responsible for taking glif files from provided UFO and placing it to the appropriate EFO directory. Updating the glyphlib and the contents file.
+
+
 ---
 
 From the ADV3_SeC_integration file:
@@ -847,6 +852,10 @@ For the kerning we depend on TypeFacet Autokern.
 
 Overview:
 
+**2019-06-12**:
+
+We are preparing our approval documents for our stakeholders to review, for Script Extension to Cyrillic for version 3.
+
 **2019-04-27**:
 
 We have a layout for the plan of Script Extension and Master Extension that will take place between 2019-04-27 until 2019-06-02.
@@ -907,21 +916,25 @@ ADV-0003-0008-0001 Advent 3 SE Cyrillic:                             crit, des29
             MO bld All Capitals:                                     done, des70, 2019-05-15,  2h
             MO bld Complete:                                         done, des71, 2019-05-16,  5h
 
-    ADV-0003-0008-0001-0001 SeC MG:                                        des32, after des58, 4d
+    ADV-0003-0008-0001-0001 SeC MG:                                  done, des32, after des58, 4d
         3 SeC MG 1 reg_it:                                           done, des42, after des58, 1d
         3 SeC MG 2 bld_it:                                           done, des43, after des42, 1d
         3 SeC MG 3 thn_it:                                           done, des44, after des43, 1d
-        SeC MG fixes:                                                      des72, after des44, 1d
+        SeC MG fixes:                                                done, des72, after des44, 1d
 
-    ADV-0003-0005-0001 Kerning Planning SeC:                               des73, after des72, 2d
-        Kerning Pairs and Grouping:                                        des74, after des72, 1d
+    ADV-0003-0003-0001 Preview and Approval Documents:                     des77, 2019-06-12,  2d
+    ADV-0003-0004-0001 EFO Build for Version 3:                            des76, after des77, 10d
+    ADV-0003-0004-0001-0001 EFO Glyph Distributor:                         des78, after des77, 10d
+
+    ADV-0003-0005-0001 Kerning Planning SeC:                               des73, after des76, 2d
+        Kerning Pairs and Grouping:                                        des74, after des76, 1d
         Kerning Compression:                                               des75, after des74, 1d
 #
 section 4 ME Latin and Greek
 
-ADV-0004-0007-0001 4 ME Latin and ME Greek:                          crit, des33, 2019-06-07, 12d
-    ADV-0004-0007-0001 MeL MO:                                             des34, 2019-06-07, 4d
-        4 MeL MO 1 reg:                                                    des45, 2019-06-07, 1d
+ADV-0004-0007-0001 4 ME Latin and ME Greek:                          crit, des33, after des74, 12d
+    ADV-0004-0007-0001 MeL MO:                                             des34, after des74, 4d
+        4 MeL MO 1 reg:                                                    des45, after des74, 1d
         4 MeL MO 2 thn:                                                    des46, after des45, 1d
         4 MeL MO 3 bld:                                                    des47, after des46, 1d
         4 MeL MO 4 blk:                                                    des57, after des47, 1d
@@ -987,6 +1000,10 @@ Task Codes:
 
 *  ADV-∞-0002: Encodings
 *  ADV-∞-0003: Information Architecture
+    *  ADV-∞-0003-0001: Preview and Approval Documents
+*  ADV-∞-0004: EFO
+    *  ADV-∞-0004-0001: EFO Build
+        *  ADV-∞-0004-0001-0001: EFO Glyph Distributor
 *  ADV-∞-0005: Kerning
     *  ADV-∞-0005-0001: Kerning Planning
 *  ADV-∞-0006: Mentions
@@ -1008,9 +1025,15 @@ Task Codes Versioned:
         *  ADV-0003-0008-0001: Cyrillic Script Extension (SeC)
             *  ADV-0003-0008-0001-0001: SeC Capitals MO and MG
             *  ADV-0003-0008-0001-0002: SeC SmallCase MO and MG
+    *  ADV-0003-0004: EFO
+        *  ADV-0003-0004-0001: EFO Build for Version 3
+            *  ADV-0003-0004-0001-0001: EFO Glyph Distributor
+    *  ADV-0003-0003: Information Architecture
+        *  ADV-0003-0003-0001: Preview and Approval Documents
 *  ADV-0004: Advent 4
     *  ADV-0004-0002: Encodings
     *  ADV-0004-0003: Information Architecture
+    *  ADV-0004-0004: EFO
     *  ADV-0004-0005: Kerning
         *  ADV-0004-0005-0001: Kerning Planning
     *  ADV-0004-0007: Masters
