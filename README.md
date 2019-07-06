@@ -856,13 +856,13 @@ Overview:
 
 We are preparing our approval documents for our stakeholders to review, for Script Extension to Cyrillic for version 3.
 
-**2019-04-27**:
+**2019-07-06**:
 
 We have a layout for the plan of Script Extension and Master Extension that will take place between 2019-04-27 until 2019-06-02.
 
 We will initially design and integrate the Cyrillic to Advent∞3, to 3 Original Masters (MO) and 3 Generated Master (MG). The design and integration for Advent∞3 SeC will take approximately 11 days. At this point Advent∞3 will be available with Cyrillic at 7 Instances of Upright and 7 Instances of Italic.
 
-After that we will branch and update the Advent∞3: 3 MO and 3 MG with additional Masters 1 MO and 9 MG, Initially we will do a Master Extension for Latin and then a Script Extension for all the new masters. That will cover the Black and Wide axes and result to Advent∞4. For the Latin Masters Extension (MeL), Greek Masters Extension (MeG) and Cyrillic Script Extension (SeC) this will require approximately 20 Days. 
+After that we will branch and update the Advent∞3 to Advent∞4: 3 MO and 3 MG with additional Masters 1 MO and 9 MG, Initially we will do a Master Extension for all the new masters. That will cover the Black, Wide axes and Wide Italic and result to Advent∞4. Approximately by the end of July.
 
 The planning is for alphabetic glyphs and does not include any calculation of additional glyphs of any form. We will have to review the progress and update accordingly. After the review of the plan and assignment of additional tasks for fulfilment of additional glyphs, kerning and arbitrary corrections, Advent∞4 will be available with Cyrillic at 18 Instances of Upright and Upright Wide, 18 Instances of Italic and Italic Wide, total of 36 Instances.
 
@@ -884,7 +884,7 @@ ADV-0004-0006 Cupcake Day!:                                          done, des9,
 ADV-0004-0007-0001 Advent 3 and 4 Master Planning:                         des10, 2019-04-14, 2019-04-25
 
 ADV-0003-0008-0001 Advent 3 Script Extension Cyrillic (SeC) Planning:      des27, 2019-04-26, 2h
-ADV-0004-0007-0001 Advent 4 Master Extension Latin (MeL) Planning:         des28, 2019-04-27, 2h
+ADV-0004-0007-0001 Advent 4 Master Extension Latin (MaE) Planning:         des28, 2019-04-27, 2h
 ADV-0004-0008-0001 Advent 4 Script Extension Cyrillic (SeC) Planning:      des28, 2019-04-27, 1h
 #
 section Advent 3 SE Cyrillic
@@ -923,40 +923,30 @@ ADV-0003-0008-0001 Advent 3 SE Cyrillic:                             crit, des29
         SeC MG fixes:                                                done, des72, after des44, 1d
 
     ADV-0003-0003-0001 Preview and Approval Documents:                     des77, 2019-06-12,  2d
-    ADV-0003-0004-0001 EFO Build for Version 3:                            des76, after des77, 10d
-    ADV-0003-0004-0001-0001 EFO Glyph Distributor:                         des78, after des77, 10d
+    #ADV-0003-0004-0001 EFO Build for Version 3:                            des76, after des77, 10d
+    #ADV-0003-0004-0001-0001 EFO Glyph Distributor:                         des78, after des77, 10d
 
-    ADV-0003-0005-0001 Kerning Planning SeC:                               des73, after des76, 2d
-        Kerning Pairs and Grouping:                                        des74, after des76, 1d
-        Kerning Compression:                                               des75, after des74, 1d
+    #ADV-0003-0005-0001 Kerning Planning SeC:                               des73, after des76, 2d
+    #    Kerning Pairs and Grouping:                                        des74, after des76, 1d
+    #    Kerning Compression:                                               des75, after des74, 1d
 #
-section 4 ME Latin and Greek
+section 4 Master Extension All Scripts
 
-ADV-0004-0007-0001 4 ME Latin and ME Greek:                          crit, des33, after des74, 12d
-    ADV-0004-0007-0001 MeL MO:                                             des34, after des74, 4d
-        4 MeL MO 1 reg:                                                    des45, after des74, 1d
-        4 MeL MO 2 thn:                                                    des46, after des45, 1d
-        4 MeL MO 3 bld:                                                    des47, after des46, 1d
-        4 MeL MO 4 blk:                                                    des57, after des47, 1d
-    ADV-0004-0007-0001 MeL MG:                                             des35, after des34, 8d
-        4 MeL MG 1 reg_it, reg_wd_it:                                      des48, after des34, 2d
-        4 MeL MG 2 thn_it, thn_wd_it:                                      des49, after des48, 2d
-        4 MeL MG 3 bld_it, bld_wd_it:                                      des50, after des49, 2d
-        4 MeL MG 4 blk_it, blk_wd_it:                                      des51, after des50, 2d
-#
-section 4 SE Cyrillic
-
-ADV-0004-0008-0001 4 SE Cyrillic:                                    crit, des36, after des35, 12d
-    ADV-0004-0008-0001 SeC MO:                                             des37, after des35, 4d
-        4 SeC MO reg 1:                                                    des51, after des35, 1d
-        4 SeC MO thn 2:                                                    des52, after des51, 1d
-        4 SeC MO bld 3:                                                    des53, after des52, 1d
-        4 SeC MO blk 4:                                                    des60, after des53, 1d
-    ADV-0004-0008-0001 SeC MG:                                             des38, after des37, 8d
-        4 SeC MG reg_it 1, reg_wd_it:                                      des54, after des37, 2d
-        4 SeC MG thn_it 2, thn_wd_it:                                      des55, after des54, 2d
-        4 SeC MG bld_it 3, bld_wd_it:                                      des56, after des55, 2d
-        4 SeC MG blk_it 4, blk_wd_it:                                      des61, after des56, 2d
+ADV-0004-0007-0001 4 Master Extension:                              crit, des33, 2019-07-06, 12d
+    ADV-0004-0007-0001 MaE MO:                                             des76, 2019-07-06, 8d
+        4 MaE MO 4 blk:                                                    des77, 2019-07-06, 8d
+    ADV-0004-0007-0001 MaE MG blk_it:                                      des78, after des77, 1d
+        4 MaE MO 4 blk_it:                                                 des79, after des77, 1d
+    ADV-0004-0007-0001 MaE MG wd:                                          des34, after des79, 4d
+        4 MaE MG 1 thn_wd:                                                 des45, after des79, 1d
+        4 MaE MG 2 reg_wd:                                                 des46, after des45, 1d
+        4 MaE MG 3 bld_wd:                                                 des47, after des46, 1d
+        4 MaE MG 4 blk_wd:                                                 des57, after des47, 1d
+    ADV-0004-0007-0001 MaE MG wd_it:                                       des35, after des34, 8d
+        4 MaE MG 1 reg_wd_it:                                              des48, after des34, 2d
+        4 MaE MG 2 thn_wd_it:                                              des49, after des48, 2d
+        4 MaE MG 3 bld_wd_it:                                              des50, after des49, 2d
+        4 MaE MG 4 blk_wd_it:                                              des51, after des50, 2d
 ```
 
 
