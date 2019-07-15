@@ -933,8 +933,8 @@ ADV-0003-0008-0001 Advent 3 SE Cyrillic:                             crit, des29
 section 4 Master Extension All Scripts
 
 ADV-0004-0007-0001 4 Master Extension:                              crit, des33, 2019-07-06, 12d
-    ADV-0004-0007-0001 MaE MO:                                             des76, 2019-07-06, 8d
-        4 MaE MO 4 blk:                                                    des77, 2019-07-06, 8d
+    ADV-0004-0007-0001 MaE MO:                                             des76, 2019-07-06, 12d
+        4 MaE MO 4 blk:                                                    des77, 2019-07-06, 12d
     ADV-0004-0007-0001 MaE MG blk_it:                                      des78, after des77, 1d
         4 MaE MO 4 blk_it:                                                 des79, after des77, 1d
     ADV-0004-0007-0001 MaE MG wd:                                          des34, after des79, 4d
