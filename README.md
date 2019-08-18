@@ -923,30 +923,30 @@ ADV-0003-0008-0001 Advent 3 SE Cyrillic:                             crit, des29
         SeC MG fixes:                                                done, des72, after des44, 1d
 
     ADV-0003-0003-0001 Preview and Approval Documents:                     des77, 2019-06-12,  2d
-    #ADV-0003-0004-0001 EFO Build for Version 3:                            des76, after des77, 10d
-    #ADV-0003-0004-0001-0001 EFO Glyph Distributor:                         des78, after des77, 10d
+    #ADV-0003-0004-0001 EFO Build for Version 3:                           des76, after des77, 10d
+    #ADV-0003-0004-0001-0001 EFO Glyph Distributor:                        des78, after des77, 10d
 
-    #ADV-0003-0005-0001 Kerning Planning SeC:                               des73, after des76, 2d
-    #    Kerning Pairs and Grouping:                                        des74, after des76, 1d
-    #    Kerning Compression:                                               des75, after des74, 1d
+    #ADV-0003-0005-0001 Kerning Planning SeC:                              des73, after des76, 2d
+    #    Kerning Pairs and Grouping:                                       des74, after des76, 1d
+    #    Kerning Compression:                                              des75, after des74, 1d
 #
 section 4 Master Extension All Scripts
 
 ADV-0004-0007-0001 4 Master Extension:                              crit, des33, 2019-07-06, 12d
-    ADV-0004-0007-0001 MaE MO:                                             des76, 2019-07-06, 12d
-        4 MaE MO 4 blk:                                                    des77, 2019-07-06, 12d
-    ADV-0004-0007-0001 MaE MG blk_it:                                      des78, after des77, 1d
-        4 MaE MO 4 blk_it:                                                 des79, after des77, 1d
-    ADV-0004-0007-0001 MaE MG wd:                                          des34, after des79, 4d
-        4 MaE MG 1 thn_wd:                                                 des45, after des79, 1d
-        4 MaE MG 2 reg_wd:                                                 des46, after des45, 1d
-        4 MaE MG 3 bld_wd:                                                 des47, after des46, 1d
-        4 MaE MG 4 blk_wd:                                                 des57, after des47, 1d
-    ADV-0004-0007-0001 MaE MG wd_it:                                       des35, after des34, 8d
-        4 MaE MG 1 reg_wd_it:                                              des48, after des34, 2d
-        4 MaE MG 2 thn_wd_it:                                              des49, after des48, 2d
-        4 MaE MG 3 bld_wd_it:                                              des50, after des49, 2d
-        4 MaE MG 4 blk_wd_it:                                              des51, after des50, 2d
+    ADV-0004-0007-0001 MaE MO:                                      done, des76, 2019-07-06, 2019-08-19
+        4 MaE MO 4 blk:                                             done, des77, 2019-07-06, 2019-08-19
+    ADV-0004-0007-0001 MaE MG blk_it:                                     des78, after des77, 1d
+        4 MaE MO 4 blk_it:                                                des79, after des77, 1d
+    ADV-0004-0007-0001 MaE MG wd:                                         des34, after des79, 4d
+        4 MaE MG 1 thn_wd:                                                des45, after des79, 1d
+        4 MaE MG 2 reg_wd:                                                des46, after des45, 1d
+        4 MaE MG 3 bld_wd:                                                des47, after des46, 1d
+        4 MaE MG 4 blk_wd:                                                des57, after des47, 1d
+    ADV-0004-0007-0001 MaE MG wd_it:                                      des35, after des34, 8d
+        4 MaE MG 1 reg_wd_it:                                             des48, after des34, 2d
+        4 MaE MG 2 thn_wd_it:                                             des49, after des48, 2d
+        4 MaE MG 3 bld_wd_it:                                             des50, after des49, 2d
+        4 MaE MG 4 blk_wd_it:                                             des51, after des50, 2d
 ```
 
 
