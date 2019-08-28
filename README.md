@@ -504,7 +504,7 @@ image: #001, 0.002, svg, Advent Masters and Instances sankey.
 | weight and width                            | **4.000** |
 | width axes only                             | **4.000** |
 | italic axes with weight axes and width axes | **4.000** |
-| optical Size                                | **4.000** |
+| optical size                                | **4.000** |
 
 ---
 
@@ -937,11 +937,11 @@ ADV-0004-0007-0001 4 Master Extension:                              crit, des33,
         4 MaE MO 4 blk:                                             done, des77, 2019-07-06, 2019-08-19
     ADV-0004-0007-0001 MaE MG blk_it:                               done, des78, after des77, 2d
         4 MaE MO 4 blk_it:                                          done, des79, after des77, 2d
-    ADV-0004-0007-0001 MaE MG wd:                                         des34, after des79, 8d
-        4 MaE MG 1 thn_wd:                                                des45, after des79, 2d
-        4 MaE MG 2 reg_wd:                                                des46, after des45, 2d
-        4 MaE MG 3 bld_wd:                                                des47, after des46, 2d
-        4 MaE MG 4 blk_wd:                                                des57, after des47, 2d
+    ADV-0004-0007-0001 MaE MG wd:                                         des34, after des79, 25d
+        4 MaE MG 1 thn_wd:                                                des45, after des79, 7d
+        4 MaE MG 2 reg_wd:                                                des46, after des45, 6d
+        4 MaE MG 3 bld_wd:                                                des47, after des46, 6d
+        4 MaE MG 4 blk_wd:                                                des57, after des47, 6d
     ADV-0004-0007-0001 MaE MG wd_it:                                      des35, after des34, 8d
         4 MaE MG 1 reg_wd_it:                                             des48, after des34, 2d
         4 MaE MG 2 thn_wd_it:                                             des49, after des48, 2d

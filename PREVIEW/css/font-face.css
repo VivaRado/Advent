@@ -5,22 +5,27 @@
 	font-style: normal;
 }
 @font-face {
-	src: url('../fonts/AdventPro_SeC_thn.ttf');
-	font-family:'AdventProSeC_thn';
+	src: url('../fonts/AdventPro_4_thn.ttf');
+	font-family:'AdventPro4_thn';
 	font-style: normal;
 }
 @font-face {
-	src: url('../fonts/AdventPro_SeC_reg.ttf');
-	font-family:'AdventProSeC_reg';
+	src: url('../fonts/AdventPro_4_reg.ttf');
+	font-family:'AdventPro4_reg';
 	font-style: normal;
 }
 @font-face {
-	src: url('../fonts/AdventPro_SeC_bld.ttf');
-	font-family:'AdventProSeC_bld';
+	src: url('../fonts/AdventPro_4_bld.ttf');
+	font-family:'AdventPro4_bld';
 	font-style: normal;
 }
 @font-face {
-	src: url('../fonts/AdventPro_SeC_blk.ttf');
-	font-family:'AdventProSeC_blk';
+	src: url('../fonts/AdventPro_4_blk.ttf');
+	font-family:'AdventPro4_blk';
+	font-style: normal;
+}
+@font-face {
+	src: url('../fonts/AdventPro_4_thn_wd.ttf');
+	font-family:'AdventPro4_thn_wd';
 	font-style: normal;
 }
