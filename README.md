@@ -939,7 +939,7 @@ ADV-0004-0007-0001 4 Master Extension:                              crit, des33,
         4 MaE MO 4 blk_it:                                          done, des79, after des77, 2d
     ADV-0004-0007-0001 MaE MG wd:                                         des34, after des79, 25d
         4 MaE MG 1 thn_wd:                                          done, des45, after des79, 7d
-        4 MaE MG 2 reg_wd:                                                des46, after des45, 6d
+        4 MaE MG 2 reg_wd:                                                des46, after des45, 10d
         4 MaE MG 3 bld_wd:                                                des47, after des46, 6d
         4 MaE MG 4 blk_wd:                                                des57, after des47, 6d
     ADV-0004-0007-0001 MaE MG wd_it:                                      des35, after des34, 8d
