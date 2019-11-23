@@ -39,3 +39,8 @@
 	font-family:'AdventPro4_bld_wd';
 	font-style: normal;
 }
+@font-face {
+	src: url('../fonts/AdventPro_4_blk_wd.ttf');
+	font-family:'AdventPro4_blk_wd';
+	font-style: normal;
+}
