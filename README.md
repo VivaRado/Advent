@@ -868,7 +868,7 @@ The planning is for alphabetic glyphs and does not include any calculation of ad
 
 **2019-11-23**:
 
-We have just finished the main work on all the wide masters from thin, regular, bold and finaly black. This means that it is time for minor adjustments and iterations on these masters, after this we can conclude the work by generating the italics for those masters.
+We have just finished the main work on all the wide masters from thin, regular, bold and finally black. This means that it is time for minor adjustments and iterations on these masters, after this we can conclude the work by generating the italics for those masters.
 
 
 ```mermaid
