@@ -866,6 +866,10 @@ After that we will branch and update the Advent∞3 to Advent∞4: 3 MO and 3 MG
 
 The planning is for alphabetic glyphs and does not include any calculation of additional glyphs of any form. We will have to review the progress and update accordingly. After the review of the plan and assignment of additional tasks for fulfilment of additional glyphs, kerning and arbitrary corrections, Advent∞4 will be available with Cyrillic at 18 Instances of Upright and Upright Wide, 18 Instances of Italic and Italic Wide, total of 36 Instances.
 
+**2019-11-23**:
+
+We have just finished the main work on all the wide masters from thin, regular, bold and finaly black. This means that it is time for minor adjustments and iterations on these masters, after this we can conclude the work by generating the italics for those masters.
+
 
 ```mermaid
 gantt
@@ -932,16 +936,16 @@ ADV-0003-0008-0001 Advent 3 SE Cyrillic:                             crit, des29
 #
 section 4 Master Extension All Scripts
 
-ADV-0004-0007-0001 4 Master Extension:                              crit, des33, 2019-07-06, 12d
+ADV-0004-0007-0001 4 Master Extension:                              crit, des33, 2019-07-06, 150d
     ADV-0004-0007-0001 MaE MO:                                      done, des76, 2019-07-06, 2019-08-19
         4 MaE MO 4 blk:                                             done, des77, 2019-07-06, 2019-08-19
     ADV-0004-0007-0001 MaE MG blk_it:                               done, des78, after des77, 2d
         4 MaE MO 4 blk_it:                                          done, des79, after des77, 2d
-    ADV-0004-0007-0001 MaE MG wd:                                         des34, after des79, 60d
+    ADV-0004-0007-0001 MaE MG wd:                                   done, des34, after des79, 95d
         4 MaE MG 1 thn_wd:                                          done, des45, after des79, 7d
         4 MaE MG 2 reg_wd:                                          done, des46, after des45, 10d
         4 MaE MG 3 bld_wd:                                          done, des47, after des46, 30d
-        4 MaE MG 4 blk_wd:                                                des57, after des47, 6d
+        4 MaE MG 4 blk_wd:                                          done, des57, after des47, 48d
     ADV-0004-0007-0001 MaE MG wd_it:                                      des35, after des57, 8d
         4 MaE MG 1 reg_wd_it:                                             des48, after des57, 2d
         4 MaE MG 2 thn_wd_it:                                             des49, after des48, 2d
@@ -1052,6 +1056,7 @@ Task Codes Versioned:
 -  April 14 2019: Standalone repo for autokern in python3 and 2.
 -  April 27 2019: Plan for delivery of Advent 4
 -  April 29 2019: ADV-0003-0008-0001-0001 SeC MO 1 reg
+-  November 23 2019: ADV-0004-0007-0001 MaE MG wd
 
 
 ---
