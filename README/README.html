@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
-		<title>VRD | Advent | 3.05 | 2019/11/23</title>
+		<title>VRD | Advent | 3.50 | 2019/12/02</title>
 		<link rel="stylesheet" type="text/css" href="assets/css/style.css">
 		<link rel="stylesheet" type="text/css" href="assets/css/code_native.css">
 		<script type="text/javascript" src="assets/js/mermaid.js"></script>
@@ -125,11 +125,11 @@
 <h4>Contributors:</h4>
 
 <ul>
-<li>VivaRado <a href="&#x6d;&#97;&#105;&#108;&#x74;&#x6f;:&#115;&#x75;&#112;&#x70;&#111;&#x72;&#116;&#64;&#118;&#x69;&#118;&#97;&#114;&#97;&#100;&#111;.&#x63;&#111;&#109;">&#115;&#x75;&#112;&#x70;&#111;&#x72;&#116;&#64;&#118;&#x69;&#118;&#97;&#114;&#97;&#100;&#111;.&#x63;&#111;&#109;</a></li>
+<li>VivaRado <a href="&#x6d;&#97;&#x69;&#108;&#x74;&#x6f;&#58;&#115;&#117;&#x70;&#x70;&#x6f;&#x72;&#116;&#x40;&#118;&#x69;&#x76;&#97;r&#x61;&#100;&#x6f;&#x2e;&#x63;&#111;&#109;">&#115;&#117;&#x70;&#x70;&#x6f;&#x72;&#116;&#x40;&#118;&#x69;&#x76;&#97;r&#x61;&#100;&#x6f;&#x2e;&#x63;&#111;&#109;</a></li>
 <li>Andreas Kalpakidis</li>
 <li>Madina Akhmatova</li>
 <li>Dave Crossland</li>
-<li>Michael LaGattuta <a href="&#109;&#97;&#x69;&#108;t&#111;&#58;&#109;&#x6a;&#x6c;&#97;&#103;&#x61;&#x74;&#116;&#117;&#x74;&#x61;&#64;&#103;&#x6d;&#97;&#105;&#x6c;&#x2e;c&#111;m">&#109;&#x6a;&#x6c;&#97;&#103;&#x61;&#x74;&#116;&#117;&#x74;&#x61;&#64;&#103;&#x6d;&#97;&#105;&#x6c;&#x2e;c&#111;m</a></li>
+<li>Michael LaGattuta <a href="&#x6d;&#x61;&#x69;&#x6c;&#116;&#x6f;&#58;&#x6d;&#x6a;l&#97;&#103;&#x61;&#x74;&#116;&#x75;&#116;&#x61;&#x40;&#x67;&#109;a&#105;&#108;&#x2e;&#99;&#x6f;&#x6d;">&#x6d;&#x6a;l&#97;&#103;&#x61;&#x74;&#116;&#x75;&#116;&#x61;&#x40;&#x67;&#109;a&#105;&#108;&#x2e;&#99;&#x6f;&#x6d;</a></li>
 <li>Behdad Esfahbod</li>
 </ul>
 
@@ -582,7 +582,7 @@
 </tr>
 <tr>
   <td>Black Normal</td>
-  <td>700</td>
+  <td>900</td>
   <td>8pt, 24pt, 144pt</td>
   <td><strong>4.000</strong></td>
 </tr>
@@ -606,7 +606,7 @@
 </tr>
 <tr>
   <td>Black Wide</td>
-  <td>700</td>
+  <td>900</td>
   <td>8pt, 24pt, 144pt</td>
   <td><strong>4.000</strong></td>
 </tr>
@@ -630,7 +630,7 @@
 </tr>
 <tr>
   <td>Black Italic Normal</td>
-  <td>700</td>
+  <td>900</td>
   <td>8pt, 24pt, 144pt</td>
   <td><strong>4.000</strong></td>
 </tr>
@@ -654,7 +654,7 @@
 </tr>
 <tr>
   <td>Black Italic Wide</td>
-  <td>700</td>
+  <td>900</td>
   <td>8pt, 24pt, 144pt</td>
   <td><strong>4.000</strong></td>
 </tr>
@@ -1218,28 +1218,110 @@ later you can export to Componentized UFOs.</p>
 
 <h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Delivery</strong></h3>
 
-<p>Advent Pro Variable will be delivered in 7 Weights &amp; 7 Italic Weights and Variable format. All the Adobe Illustrator scripts, Fontlab Python and additional scripts will be provided. Forks of the original libraries with their alterations, and Encoding Files.</p>
+<p>Advent Pro Variable is delivered in 4 weight, 4 italic and 4 width Masters, generating 24 instances, variable formats come in flavors with segmented axes and a definitive version which includes all axes (wght,wdth,ital).</p>
 
-<p>The delivered font files are provided in UFO, WOFF, WOFF2, OTF, TTF, EFO.</p>
+<p>The delivered font files are provided in UFO, OTF, EFO and VAR TTF</p>
 
-<p>All the above files are available here.</p>
-
-<p>Variable font flavors designspace:
- - <a href="https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/weight.designspace">Variable with weight axes only</a>
- - <a href="https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/italic.designspace">Variable italic with weight axes</a>
- - <a href="https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/weight_italic.designspace">Variable with weight and italic axes</a></p>
+<p><a href="https://github.com/VivaRado/Advent/blob/master/font_source/UFOs">All the above files are available here</a>.</p>
 
 <hr />
 
 <h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Usage</strong></h3>
 
-<p>To compile from UFO:</p>
+<p><a href="https://github.com/VivaRado/Advent/blob/master/font_source/VAR">Variable format versions</a>.</p>
+
+<h4><strong>To compile from UFO</strong></h4>
 
 <p><code>fontmake -o variable -m '/font.designspace' --output-path '/adventpro-VF.ttf'</code></p>
 
-<p>Or from EFO:</p>
+<h4><strong>Or from EFO</strong></h4>
 
 <p><code>python3 '/efo_to_var.py' -s '/font_source/EFO' -o '/adventpro-VF.ttf'</code></p>
+
+<h4><strong>Compiled Using</strong></h4>
+
+<pre><code>fonttools==4.0.0
+cu2qu==1.6.6
+ufo2ft==2.9.0
+defcon==0.6.0
+</code></pre>
+
+<h4><strong>Compiling specific flavor</strong></h4>
+
+<p>Advent 4 with the introduction of a new axes and a new weight (wide and black), comes in flavored designspace files where those masters are partitioned. You can find the designspaces for advent 4 in <code>font_source/UFOs</code> labeled as <strong>adv4</strong>.</p>
+
+<ul>
+<li><p><strong>Designspace Flavors:</strong></p>
+
+<ul>
+<li><p>Active:</p>
+
+<ul>
+<li><p><strong>weight <a href="https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/latest/adv_wght.designspace">adv4_wght</a></strong></p>
+
+<ul>
+<li>Thin through Black, Only Normal Width, Only Non Italic.</li>
+<li>Weight axes only.</li>
+</ul></li>
+<li><p><strong>weight and width <a href="https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/latest/adv_wght_wdth.designspace">adv4_wght_wdth</a></strong></p>
+
+<ul>
+<li>Thin through Black, Normal through Expanded Width, Only Non Italic.</li>
+<li>Weight axes and Width axes.</li>
+</ul></li>
+<li><p><strong>weight and ital <a href="https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/latest/adv_wght_ital.designspace">adv4_wght_ital</a></strong></p>
+
+<ul>
+<li>Thin through Black, Only Normal Width, Non Italic through Italic.</li>
+<li>Weight axes and Italic axes.</li>
+</ul></li>
+<li><p><strong>weight,width,ital (DEFINITIVE) <a href="https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/latest/adv_wght_wdth_ital.designspace">adv4_wght_wdth_ital</a></strong></p>
+
+<ul>
+<li>Thin through Black, Normal through Expanded Width, Non Italic through Italic.</li>
+<li>Weight axes, Italic axes and Width axes.</li>
+</ul></li>
+</ul></li>
+<li><p>Preset:</p>
+
+<ul>
+<li><p><strong>weight, pre ital <a href="https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/latest/adv_wght_preital.designspace">adv4_wght_preital</a></strong></p>
+
+<ul>
+<li>Thin through Black, Only Normal Width, Only Italic.</li>
+<li>Weight axes but instances are preset to italic.</li>
+</ul></li>
+<li><p><strong>weight, pre width <a href="https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/latest/adv_wght_prewdth.designspace">adv4_wght_prewdth</a></strong></p>
+
+<ul>
+<li>Thin through Black, Only Expanded Width, Only Non Italic.</li>
+<li>Weight axes but instances are preset to Expanded Width.</li>
+</ul></li>
+<li><p><strong>weight, pre width, pre ital <a href="https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/latest/adv_wght_prewdth_preital.designspace">adv4_wght_prewdth_preital</a></strong></p>
+
+<ul>
+<li>Thin through Black, Only Expanded Width, Only Italic.</li>
+<li>Weight axes but instances are preset to Expanded Width and are preset to Italic.</li>
+</ul></li>
+<li><p><strong>weight and width, pre italic <a href="https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/latest/adv_wght_wdth_preital.designspace">adv4_wght_wdth_preital</a></strong></p>
+
+<ul>
+<li>Thin through Black, Normal through Expanded Width, Only Non Italic.</li>
+<li>Weight axes and Width axes but instances are preset to Italic.</li>
+</ul></li>
+<li><p><strong>weight and ital, pre width <a href="https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/latest/adv_wght_ital_prewdth.designspace">adv4_wght_ital_prewdth</a></strong></p>
+
+<ul>
+<li>Thin through Black, Only Expanded Width, Non Italic through Italic.</li>
+<li>Weight axes and Italic axes but instances are preset to Expanded Width.</li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ul>
+
+<h4><strong>Compiling Everything</strong></h4>
+
+<p>You can find <code>font_source/compile_latest_variable_flavors.sh</code>, By modifying to your needs, you can compile each of the above versions.</p>
 
 <hr />
 
@@ -1731,7 +1813,7 @@ SeC Capitals, SeC SmallCase MO and MG</li>
 </ul></li>
 <li>User Feedback Mechanisms:
 <ul>
-<li><a href="&#109;&#x61;&#x69;&#x6c;&#x74;&#111;&#58;&#115;&#117;&#112;&#112;&#111;&#x72;&#x74;&#x40;&#x76;&#105;&#118;&#x61;&#114;&#x61;&#100;&#x6f;&#46;&#x63;&#111;m">&#115;&#117;&#112;&#112;&#111;&#x72;&#x74;&#x40;&#x76;&#105;&#118;&#x61;&#114;&#x61;&#100;&#x6f;&#46;&#x63;&#111;m</a></li>
+<li><a href="&#x6d;&#x61;&#105;&#108;&#x74;&#111;&#58;&#115;&#117;&#x70;&#112;&#111;&#114;&#x74;&#64;&#118;&#x69;&#118;a&#x72;a&#100;&#x6f;&#46;&#99;&#x6f;&#x6d;">&#115;&#117;&#x70;&#112;&#111;&#114;&#x74;&#64;&#118;&#x69;&#118;a&#x72;a&#100;&#x6f;&#46;&#99;&#x6f;&#x6d;</a></li>
 </ul></li>
 </ul></li>
 </ul>

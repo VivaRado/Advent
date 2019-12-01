@@ -439,19 +439,19 @@ image: #001, 0.002, svg, Advent Masters and Instances sankey.
 | Thin Normal           | 100    | 8pt, 24pt, 144pt | 3.000     |
 | Regular Normal        | 400    | 8pt, 24pt, 144pt | 3.000     |
 | Bold Normal           | 700    | 8pt, 24pt, 144pt | 3.000     |
-| Black Normal          | 700    | 8pt, 24pt, 144pt | **4.000** |
+| Black Normal          | 900    | 8pt, 24pt, 144pt | **4.000** |
 | Thin Wide             | 100    | 8pt, 24pt, 144pt | **4.000** |
 | Regular Wide          | 400    | 8pt, 24pt, 144pt | **4.000** |
 | Bold Wide             | 700    | 8pt, 24pt, 144pt | **4.000** |
-| Black Wide            | 700    | 8pt, 24pt, 144pt | **4.000** |
+| Black Wide            | 900    | 8pt, 24pt, 144pt | **4.000** |
 | Thin Italic Normal    | 100    | 8pt, 24pt, 144pt | 3.000     |
 | Regular Italic Normal | 400    | 8pt, 24pt, 144pt | 3.000     |
 | Bold Italic Normal    | 700    | 8pt, 24pt, 144pt | 3.000     |
-| Black Italic Normal   | 700    | 8pt, 24pt, 144pt | **4.000** |
+| Black Italic Normal   | 900    | 8pt, 24pt, 144pt | **4.000** |
 | Thin Italic Wide      | 100    | 8pt, 24pt, 144pt | **4.000** |
 | Regular Italic Wide   | 400    | 8pt, 24pt, 144pt | **4.000** |
 | Bold Italic Wide      | 700    | 8pt, 24pt, 144pt | **4.000** |
-| Black Italic Wide     | 700    | 8pt, 24pt, 144pt | **4.000** |
+| Black Italic Wide     | 900    | 8pt, 24pt, 144pt | **4.000** |
 
 #### Instances
 
@@ -710,28 +710,80 @@ TrueType Hints
 
 ### **Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Delivery**
 
-Advent Pro Variable will be delivered in 7 Weights & 7 Italic Weights and Variable format. All the Adobe Illustrator scripts, Fontlab Python and additional scripts will be provided. Forks of the original libraries with their alterations, and Encoding Files.
+Advent Pro Variable is delivered in 4 weight, 4 italic and 4 width Masters, generating 24 instances, variable formats come in flavors with segmented axes and a definitive version which includes all axes (wght,wdth,ital).
 
-The delivered font files are provided in UFO, WOFF, WOFF2, OTF, TTF, EFO.
+The delivered font files are provided in UFO, OTF, EFO and VAR TTF
 
-All the above files are available here.
-
-Variable font flavors designspace:
- - [Variable with weight axes only](https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/weight.designspace)
- - [Variable italic with weight axes](https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/italic.designspace)
- - [Variable with weight and italic axes](https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/weight_italic.designspace)
+[All the above files are available here](https://github.com/VivaRado/Advent/blob/master/font_source/UFOs).
 
 ---
 
 ### **Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Usage**
 
-To compile from UFO:
+[Variable format versions](https://github.com/VivaRado/Advent/blob/master/font_source/VAR).
+
+#### **To compile from UFO**
 
 ```fontmake -o variable -m '/font.designspace' --output-path '/adventpro-VF.ttf'```
 
-Or from EFO:
+#### **Or from EFO**
 
 ```python3 '/efo_to_var.py' -s '/font_source/EFO' -o '/adventpro-VF.ttf'```
+
+#### **Compiled Using**
+
+```
+fonttools==4.0.0
+cu2qu==1.6.6
+ufo2ft==2.9.0
+defcon==0.6.0
+```
+
+#### **Compiling specific flavor**
+
+Advent 4 with the introduction of a new axes and a new weight (wide and black), comes in flavored designspace files where those masters are partitioned. You can find the designspaces for advent 4 in ```font_source/UFOs``` labeled as **adv4**.
+
+* **Designspace Flavors:**
+	* Active:
+		* **weight [adv4\_wght](https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/latest/adv_wght.designspace)**
+			* Thin through Black, Only Normal Width, Only Non Italic.
+			* Weight axes only.
+
+		* **weight and width [adv4\_wght\_wdth](https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/latest/adv_wght_wdth.designspace)**
+			* Thin through Black, Normal through Expanded Width, Only Non Italic.
+			* Weight axes and Width axes.
+
+		* **weight and ital [adv4\_wght\_ital](https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/latest/adv_wght_ital.designspace)**
+			* Thin through Black, Only Normal Width, Non Italic through Italic.
+			* Weight axes and Italic axes.
+
+		* **weight,width,ital (DEFINITIVE) [adv4\_wght\_wdth\_ital](https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/latest/adv_wght_wdth_ital.designspace)**
+			* Thin through Black, Normal through Expanded Width, Non Italic through Italic.
+			* Weight axes, Italic axes and Width axes.
+	* Preset:
+		* **weight, pre ital [adv4\_wght\_preital](https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/latest/adv_wght_preital.designspace)**
+			* Thin through Black, Only Normal Width, Only Italic.
+			* Weight axes but instances are preset to italic.
+
+		* **weight, pre width [adv4\_wght\_prewdth](https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/latest/adv_wght_prewdth.designspace)**
+			* Thin through Black, Only Expanded Width, Only Non Italic.
+			* Weight axes but instances are preset to Expanded Width.
+
+		* **weight, pre width, pre ital [adv4\_wght\_prewdth\_preital](https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/latest/adv_wght_prewdth_preital.designspace)**
+			* Thin through Black, Only Expanded Width, Only Italic.
+			* Weight axes but instances are preset to Expanded Width and are preset to Italic.
+
+		* **weight and width, pre italic [adv4\_wght\_wdth\_preital](https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/latest/adv_wght_wdth_preital.designspace)**
+			* Thin through Black, Normal through Expanded Width, Only Non Italic.
+			* Weight axes and Width axes but instances are preset to Italic.
+
+		* **weight and ital, pre width [adv4\_wght\_ital\_prewdth](https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/latest/adv_wght_ital_prewdth.designspace)**
+			* Thin through Black, Only Expanded Width, Non Italic through Italic.
+			* Weight axes and Italic axes but instances are preset to Expanded Width.
+
+#### **Compiling Everything**
+
+You can find ```font_source/compile_latest_variable_flavors.sh```, By modifying to your needs, you can compile each of the above versions.
 
 
 ---
