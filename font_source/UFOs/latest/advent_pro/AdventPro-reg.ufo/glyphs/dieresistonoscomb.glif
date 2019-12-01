@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresistonoscomb" format="1">
+  <advance width="267" height="962"/>
+  <outline>
+    <contour>
+      <point x="87" y="692" type="curve" smooth="yes"/>
+      <point x="87" y="674"/>
+      <point x="73" y="659"/>
+      <point x="54" y="659" type="curve" smooth="yes"/>
+      <point x="36" y="659"/>
+      <point x="20" y="674"/>
+      <point x="20" y="692" type="curve" smooth="yes"/>
+      <point x="20" y="711"/>
+      <point x="36" y="725"/>
+      <point x="54" y="725" type="curve" smooth="yes"/>
+      <point x="73" y="725"/>
+      <point x="87" y="711"/>
+    </contour>
+    <contour>
+      <point x="246" y="692" type="curve" smooth="yes"/>
+      <point x="246" y="674"/>
+      <point x="230" y="659"/>
+      <point x="212" y="659" type="curve" smooth="yes"/>
+      <point x="194" y="659"/>
+      <point x="179" y="674"/>
+      <point x="179" y="692" type="curve" smooth="yes"/>
+      <point x="179" y="711"/>
+      <point x="194" y="725"/>
+      <point x="212" y="725" type="curve" smooth="yes"/>
+      <point x="230" y="725"/>
+      <point x="246" y="711"/>
+    </contour>
+    <contour>
+      <point x="205" y="816" type="curve" smooth="yes"/>
+      <point x="152" y="736" type="line"/>
+      <point x="116" y="736" type="line"/>
+      <point x="154" y="843" type="line" smooth="yes"/>
+      <point x="160" y="861"/>
+      <point x="180" y="873"/>
+      <point x="198" y="863" type="curve" smooth="yes"/>
+      <point x="216" y="853"/>
+      <point x="215" y="831"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>0.694</real>
+    <real>0.6</real>
+    <real>1</real>
+    <real>1</real>
+  </array>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>angle</key>
+      <real>90</real>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>134.74</real>
+      <key>y</key>
+      <real>0</real>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

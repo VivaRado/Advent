@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedillacomb" format="1">
+  <advance width="267" height="962"/>
+  <outline>
+    <contour>
+      <point x="166" y="10" type="line"/>
+      <point x="140" y="-34" type="line"/>
+      <point x="148" y="-33"/>
+      <point x="157" y="-33"/>
+      <point x="166" y="-32" type="curve" smooth="yes"/>
+      <point x="232" y="-28"/>
+      <point x="271" y="-70"/>
+      <point x="271" y="-126" type="curve" smooth="yes"/>
+      <point x="271" y="-192"/>
+      <point x="215" y="-224"/>
+      <point x="156" y="-224" type="curve" smooth="yes"/>
+      <point x="110" y="-224"/>
+      <point x="56" y="-212"/>
+      <point x="54" y="-212" type="curve"/>
+      <point x="66" y="-164" type="line"/>
+      <point x="95" y="-170"/>
+      <point x="123" y="-175"/>
+      <point x="150" y="-175" type="curve" smooth="yes"/>
+      <point x="189" y="-175"/>
+      <point x="221" y="-165"/>
+      <point x="221" y="-124" type="curve" smooth="yes"/>
+      <point x="221" y="-89"/>
+      <point x="197" y="-82"/>
+      <point x="163" y="-82" type="curve" smooth="yes"/>
+      <point x="141" y="-82"/>
+      <point x="115" y="-86"/>
+      <point x="88" y="-89" type="curve"/>
+      <point x="75" y="-59" type="line"/>
+      <point x="116" y="10" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>0.694</real>
+    <real>0.6</real>
+    <real>1</real>
+    <real>1</real>
+  </array>
+  </dict>
+  </lib>
+</glyph>

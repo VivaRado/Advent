@@ -1,0 +1,62 @@
+<designspace format="3">
+	<axes>
+		<axis default="100" maximum="900" minimum="100" name="Weight" tag="wght">
+		</axis>
+		<axis default="100" maximum="200" minimum="100" name="Width" tag="wdth">
+		</axis>
+	</axes>
+	<sources>
+		<source familyname="Advent Pro" filename="advent_pro/AdventPro-thn_it.ufo" name="master_0">
+			<lib copy="1" />
+			<info copy="1" />
+			<kerning copy="1" />
+			<location>
+				<dimension name="Weight" xvalue="100" />
+				<dimension name="Width" xvalue="100" />
+			</location>
+		</source>
+		<source familyname="Advent Pro" filename="advent_pro/AdventPro-reg_it.ufo" name="master_1">
+			<location>
+				<dimension name="Weight" xvalue="400" />
+				<dimension name="Width" xvalue="100" />
+			</location>
+		</source>
+		<source familyname="Advent Pro" filename="advent_pro/AdventPro-bld_it.ufo" name="master_2">
+			<location>
+				<dimension name="Weight" xvalue="700" />
+				<dimension name="Width" xvalue="100" />
+			</location>
+		</source>
+		<source familyname="Advent Pro" filename="advent_pro/AdventPro-blk_it.ufo" name="master_3">
+			<location>
+				<dimension name="Weight" xvalue="900" />
+				<dimension name="Width" xvalue="100" />
+			</location>
+		</source>
+		<source familyname="Advent Pro" filename="advent_pro/AdventPro-thn_wd_it.ufo" name="master_4">
+			<kerning copy="1" />
+			<location>
+				<dimension name="Weight" xvalue="100" />
+				<dimension name="Width" xvalue="200" />
+			</location>
+		</source>
+		<source familyname="Advent Pro" filename="advent_pro/AdventPro-reg_wd_it.ufo" name="master_5">
+			<location>
+				<dimension name="Weight" xvalue="400" />
+				<dimension name="Width" xvalue="200" />
+			</location>
+		</source>
+		<source familyname="Advent Pro" filename="advent_pro/AdventPro-bld_wd_it.ufo" name="master_6">
+			<location>
+				<dimension name="Weight" xvalue="700" />
+				<dimension name="Width" xvalue="200" />
+			</location>
+		</source>
+		<source familyname="Advent Pro" filename="advent_pro/AdventPro-blk_wd_it.ufo" name="master_7">
+			<location>
+				<dimension name="Weight" xvalue="900" />
+				<dimension name="Width" xvalue="200" />
+			</location>
+		</source>
+	</sources>
+</designspace>

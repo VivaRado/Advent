@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="period" format="1">
+  <advance width="190" height="962"/>
+  <unicode hex="002E"/>
+  <outline>
+    <contour>
+      <point x="95" y="137" type="curve" smooth="yes"/>
+      <point x="138" y="137"/>
+      <point x="173" y="102"/>
+      <point x="173" y="60" type="curve" smooth="yes"/>
+      <point x="173" y="17"/>
+      <point x="138" y="-18"/>
+      <point x="95" y="-18" type="curve" smooth="yes"/>
+      <point x="51" y="-18"/>
+      <point x="17" y="17"/>
+      <point x="17" y="60" type="curve" smooth="yes"/>
+      <point x="17" y="102"/>
+      <point x="51" y="137"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>0.694</real>
+    <real>0.6</real>
+    <real>1</real>
+    <real>1</real>
+  </array>
+  </dict>
+  </lib>
+</glyph>

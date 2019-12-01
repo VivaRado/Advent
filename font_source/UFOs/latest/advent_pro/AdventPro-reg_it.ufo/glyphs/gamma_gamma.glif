@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="gamma_gamma" format="1">
+  <advance width="869" height="962"/>
+  <outline>
+    <component base="gamma" xOffset="359.5"/>
+    <contour>
+      <point x="542" y="500" type="line"/>
+      <point x="252" y="-58" type="line" smooth="yes"/>
+      <point x="229" y="-102"/>
+      <point x="194" y="-196"/>
+      <point x="73" y="-199" type="curve"/>
+      <point x="72" y="-156" type="line"/>
+      <point x="128" y="-154"/>
+      <point x="162" y="-123"/>
+      <point x="185" y="-79" type="curve" smooth="yes"/>
+      <point x="222" y="-6" type="line"/>
+      <point x="170" y="17"/>
+      <point x="161" y="70"/>
+      <point x="156" y="129" type="curve" smooth="yes"/>
+      <point x="127" y="500" type="line"/>
+      <point x="184" y="500" type="line"/>
+      <point x="213" y="140" type="line" smooth="yes"/>
+      <point x="219" y="75"/>
+      <point x="229" y="55"/>
+      <point x="249" y="43" type="curve"/>
+      <point x="485" y="500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>1</real>
+    <real>0.6</real>
+    <real>0.741</real>
+    <real>1</real>
+  </array>
+  </dict>
+  </lib>
+</glyph>

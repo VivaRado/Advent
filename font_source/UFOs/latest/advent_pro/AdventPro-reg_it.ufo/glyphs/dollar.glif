@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dollar" format="1">
+  <advance width="530" height="962"/>
+  <unicode hex="0024"/>
+  <outline>
+    <component base="S" xOffset="1.4784"/>
+    <contour>
+      <point x="225" y="-114" type="line"/>
+      <point x="422" y="818" type="line"/>
+      <point x="479" y="818" type="line"/>
+      <point x="281" y="-114" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>0.6</real>
+    <real>1</real>
+    <real>0.929</real>
+    <real>1</real>
+  </array>
+  </dict>
+  </lib>
+</glyph>

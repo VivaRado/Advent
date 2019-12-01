@@ -710,11 +710,13 @@ TrueType Hints
 
 ### **Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Delivery**
 
-Advent Pro Variable is delivered in 4 weight, 4 italic and 4 width Masters, generating 24 instances, variable formats come in flavors with segmented axes and a definitive version which includes all axes (wght,wdth,ital).
+Advent Pro Variable is delivered in 4 weight, 8 italic and 4 width Masters, variable formats come in flavors with segmented axes and a definitive version which includes all axes (wght,wdth,ital).
 
 The delivered font files are provided in UFO, OTF, EFO and VAR TTF
 
 [All the above files are available here](https://github.com/VivaRado/Advent/blob/master/font_source/UFOs).
+
+To keep things simple for the initial release, we don't generate intermediate instances as standalone OTFs, this brings the total of available weights deriging from only the masters to 16.
 
 ---
 
@@ -998,11 +1000,11 @@ ADV-0004-0007-0001 4 Master Extension:                              crit, des33,
         4 MaE MG 2 reg_wd:                                          done, des46, after des45, 10d
         4 MaE MG 3 bld_wd:                                          done, des47, after des46, 30d
         4 MaE MG 4 blk_wd:                                          done, des57, after des47, 48d
-    ADV-0004-0007-0001 MaE MG wd_it:                                      des35, after des57, 8d
-        4 MaE MG 1 reg_wd_it:                                             des48, after des57, 2d
-        4 MaE MG 2 thn_wd_it:                                             des49, after des48, 2d
-        4 MaE MG 3 bld_wd_it:                                             des50, after des49, 2d
-        4 MaE MG 4 blk_wd_it:                                             des51, after des50, 2d
+    ADV-0004-0007-0001 MaE MG wd_it:                                done, des35, after des57, 8d
+        4 MaE MG 1 reg_wd_it:                                       done, des48, after des57, 2d
+        4 MaE MG 2 thn_wd_it:                                       done, des49, after des48, 2d
+        4 MaE MG 3 bld_wd_it:                                       done, des50, after des49, 2d
+        4 MaE MG 4 blk_wd_it:                                       done, des51, after des50, 2d
 ```
 
 

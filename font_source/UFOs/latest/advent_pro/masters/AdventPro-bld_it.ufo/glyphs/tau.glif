@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tau" format="1">
+  <advance width="360" height="962"/>
+  <unicode hex="03C4"/>
+  <outline>
+    <contour>
+      <point x="262" y="148" type="line" smooth="yes"/>
+      <point x="251" y="97"/>
+      <point x="263" y="72"/>
+      <point x="306" y="56" type="curve"/>
+      <point x="242" y="-20" type="line"/>
+      <point x="167" y="0"/>
+      <point x="132" y="55"/>
+      <point x="149" y="133" type="curve" smooth="yes"/>
+      <point x="205" y="397" type="line"/>
+      <point x="112" y="397" type="line"/>
+      <point x="134" y="501" type="line"/>
+      <point x="437" y="501" type="line"/>
+      <point x="415" y="397" type="line"/>
+      <point x="315" y="397" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>1</real>
+    <real>0.6</real>
+    <real>0.741</real>
+    <real>1</real>
+  </array>
+  </dict>
+  </lib>
+</glyph>
