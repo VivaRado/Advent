@@ -59,9 +59,10 @@ $(function(){
 	//
 	var targ = $('#advent_thnregbld-wght');
 	var targ_2 = $('#advent_thnregbld-ital');
+	var targ_3= $('#advent_thnregbld-wdth');
 	//
-	//fluctuate_slider(targ, 40);
-	//
-	//fluctuate_slider(targ_2, 100);
+	//fluctuate_slider(targ, 50);
+	//fluctuate_slider(targ_2, 150);
+	//fluctuate_slider(targ_3, 100);
 	//
 });

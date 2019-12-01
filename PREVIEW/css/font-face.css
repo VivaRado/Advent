@@ -1,46 +1,69 @@
 /**/
 @font-face {
-	src: url('../fonts/adventpro-VF.ttf');
+	src: url('../fonts/adventpro-def-VF.ttf');
 	font-family:'AdventProVar';
 	font-style: normal;
 }
+/**/
 @font-face {
-	src: url('../fonts/AdventPro_4_thn.ttf');
+	src: url('../fonts/AdventPro-thn.ttf');
 	font-family:'AdventPro4_thn';
 	font-style: normal;
 }
 @font-face {
-	src: url('../fonts/AdventPro_4_reg.ttf');
+	src: url('../fonts/AdventPro-reg.ttf');
 	font-family:'AdventPro4_reg';
 	font-style: normal;
 }
 @font-face {
-	src: url('../fonts/AdventPro_4_bld.ttf');
+	src: url('../fonts/AdventPro-bld.ttf');
 	font-family:'AdventPro4_bld';
 	font-style: normal;
 }
 @font-face {
-	src: url('../fonts/AdventPro_4_blk.ttf');
+	src: url('../fonts/AdventPro-blk.ttf');
 	font-family:'AdventPro4_blk';
 	font-style: normal;
 }
+/**/
 @font-face {
-	src: url('../fonts/AdventPro_4_thn_wd.ttf');
+	src: url('../fonts/AdventPro-thn_wd.ttf');
 	font-family:'AdventPro4_thn_wd';
 	font-style: normal;
 }
 @font-face {
-	src: url('../fonts/AdventPro_4_reg_wd.ttf');
+	src: url('../fonts/AdventPro-reg_wd.ttf');
 	font-family:'AdventPro4_reg_wd';
 	font-style: normal;
 }
 @font-face {
-	src: url('../fonts/AdventPro_4_bld_wd.ttf');
+	src: url('../fonts/AdventPro-bld_wd.ttf');
 	font-family:'AdventPro4_bld_wd';
 	font-style: normal;
 }
 @font-face {
-	src: url('../fonts/AdventPro_4_blk_wd.ttf');
+	src: url('../fonts/AdventPro-blk_wd.ttf');
 	font-family:'AdventPro4_blk_wd';
+	font-style: normal;
+}
+/**/
+@font-face {
+	src: url('../fonts/AdventPro-thn_wd_it.ttf');
+	font-family:'AdventPro4_thn_wd_it';
+	font-style: normal;
+}
+@font-face {
+	src: url('../fonts/AdventPro-reg_wd_it.ttf');
+	font-family:'AdventPro4_reg_wd_it';
+	font-style: normal;
+}
+@font-face {
+	src: url('../fonts/AdventPro-bld_wd_it.ttf');
+	font-family:'AdventPro4_bld_wd_it';
+	font-style: normal;
+}
+@font-face {
+	src: url('../fonts/AdventPro-blk_wd_it.ttf');
+	font-family:'AdventPro4_blk_wd_it';
 	font-style: normal;
 }
