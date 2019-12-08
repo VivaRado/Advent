@@ -2,28 +2,73 @@ function axisSlidersToSamples(sliders, samples) {
 	var inputs = document.querySelectorAll(sliders);
 	var outputs = document.querySelectorAll(samples);
 
-	function doAxes() {
+	function doAxes(evt) {
+
 		var i, l, axes = {}, ffs = [];
+
 		for (i=0, l=inputs.length; i<l; i++) {
-			axes[inputs[i].name] = inputs[i].value;
-		}
-		for (i in axes) {
-			if (i.length === 4) {
-				ffs.push('"' + i + '" ' + axes[i]);
+
+			if (inputs[i].name == "mirror") {
+				
+				mirror_state = 0
+
+				if(inputs[i].checked){
+
+					mirror_state = 1
+
+				} 
+
+				axes[inputs[i].name] = mirror_state;
+				
+			} else {
+
+				axes[inputs[i].name] = inputs[i].value;
 			}
 		}
-		ffs = ffs.join(', ') || 'normal';
-		
+
+		for (i in axes) {
+			
+			if (i == "wght" || i == "ital" || i == "wdth" || i == "opsz" || i == "grad") {
+			
+				if (evt.target.className == "size") {
+					
+					if (axes["mirror"] == 1 && i == "opsz") {
+						
+						$(".opsz").val($(".size").val())
+						
+					}
+
+				}
+				
+				ffs.push('"' + i + '" ' + axes[i]);
+
+			}
+			
+		}
+
+			console.log(ffs)
+		ffsj = ffs.join(', ') || 'normal';
+
 		for (i=0, l=outputs.length; i<l; i++) {
-			outputs[i].style.fontVariationSettings = ffs;
-			$(".typeface h2")[0].style.fontVariationSettings = ffs;
+			
+			outputs[i].style.fontVariationSettings = ffsj;
+			outputs[i].style.fontSize = axes["size"]+'pt';
+
+			//no_optical = ffs.splice(0,ffs.length-1).join(', ')
+
+			$(".typeface h2")[0].style.fontVariationSettings = ffsj//no_optical;
+			//$(".typeface h2").css({"font-optical-sizing":"none"});
+
 		}
 	}
 	
 	var i, l;
+
 	for (i=0, l=inputs.length; i<l; i++) {
+
 		$(inputs[i]).on('input', doAxes);
 		$(inputs[i]).on('change', doAxes);
+
 	}
 }
 

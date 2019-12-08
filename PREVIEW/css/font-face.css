@@ -67,3 +67,9 @@
 	font-family:'AdventPro4_blk_wd_it';
 	font-style: normal;
 }
+/**/
+@font-face {
+	src: url('../fonts/adventpro-def-opsz-VF.ttf');
+	font-family:'AdventProVar_opsz';
+	font-style: normal;
+}

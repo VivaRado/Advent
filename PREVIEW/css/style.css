@@ -139,6 +139,14 @@ h2.var {
 	font-feature-settings: "kern" 1;
 	font-variation-settings: "wght" 100, "ital" 0;
 }
+h2.var_opsz {
+	line-height: 0.8em;
+	font-family: 'AdventProVar_opsz';
+	font-size: 6em;
+	/*letter-spacing: 0.05em;*/
+	font-feature-settings: "kern" 1;
+	font-variation-settings: "wght" 100, "ital" 0;
+}
 .sample,
 .sample *{
 	font-feature-settings: "kern" 1;
@@ -179,7 +187,7 @@ h2 small {
 	font-size: 2em
 }
 .L {
-	font-size: 3em
+	font-size: 2.667em
 }
 .XL {
 	font-size: 4em
@@ -250,7 +258,7 @@ input[type=range]::-moz-range-thumb {
 /**/
 .info_perm {
 	font-family: monospace;
-	font-size: 0.3em;
+	font-size: initial;
 	clear: both;
 	position: relative;
 	display: block;
