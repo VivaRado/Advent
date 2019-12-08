@@ -1,0 +1,2262 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><style>body {
+  max-width: 980px;
+  border: 1px solid #ddd;
+  outline: 1300px solid #fff;
+  margin: 16px auto;
+}
+
+body .markdown-body
+{
+  padding: 45px;
+}
+
+@font-face {
+  font-family: fontawesome-mini;
+  src: url(data:font/woff;charset=utf-8;base64,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) format('woff');
+}
+
+.markdown-body {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  color: #333333;
+  overflow: hidden;
+  font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  word-wrap: break-word;
+}
+
+.markdown-body a {
+  background: transparent;
+}
+
+.markdown-body a:active,
+.markdown-body a:hover {
+  outline: 0;
+}
+
+.markdown-body b,
+.markdown-body strong {
+  font-weight: bold;
+}
+
+.markdown-body mark {
+  background: #ff0;
+  color: #000;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.markdown-body sub,
+.markdown-body sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+.markdown-body sup {
+  top: -0.5em;
+}
+.markdown-body sub {
+  bottom: -0.25em;
+}
+
+.markdown-body h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+
+.markdown-body img {
+  border: 0;
+}
+
+.markdown-body hr {
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  height: 0;
+}
+
+.markdown-body pre {
+  overflow: auto;
+}
+
+.markdown-body code,
+.markdown-body kbd,
+.markdown-body pre,
+.markdown-body samp {
+  font-family: monospace, monospace;
+  font-size: 1em;
+}
+
+.markdown-body input {
+  color: inherit;
+  font: inherit;
+  margin: 0;
+}
+
+.markdown-body html input[disabled] {
+  cursor: default;
+}
+
+.markdown-body input {
+  line-height: normal;
+}
+
+.markdown-body input[type="checkbox"] {
+  box-sizing: border-box;
+  padding: 0;
+}
+
+.markdown-body table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.markdown-body td,
+.markdown-body th {
+  padding: 0;
+}
+
+.markdown-body .codehilitetable {
+  border: 0;
+  border-spacing: 0;
+}
+
+.markdown-body .codehilitetable tr {
+  border: 0;
+}
+
+.markdown-body .codehilitetable pre,
+.markdown-body .codehilitetable div.codehilite {
+  margin: 0;
+}
+
+.markdown-body .linenos,
+.markdown-body .code,
+.markdown-body .codehilitetable td {
+  border: 0;
+  padding: 0;
+}
+
+.markdown-body td:not(.linenos) .linenodiv {
+  padding: 0 !important;
+}
+
+.markdown-body .code {
+  width: 100%;
+}
+
+.markdown-body .linenos div pre,
+.markdown-body .linenodiv pre,
+.markdown-body .linenodiv {
+  border: 0;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+  -webkit-border-top-left-radius: 3px;
+  -webkit-border-bottom-left-radius: 3px;
+  -moz-border-radius-topleft: 3px;
+  -moz-border-radius-bottomleft: 3px;
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
+
+.markdown-body .code div pre,
+.markdown-body .code div {
+  border: 0;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+  -webkit-border-top-right-radius: 3px;
+  -webkit-border-bottom-right-radius: 3px;
+  -moz-border-radius-topright: 3px;
+  -moz-border-radius-bottomright: 3px;
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+}
+
+.markdown-body * {
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.markdown-body input {
+  font: 13px Helvetica, arial, freesans, clean, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol";
+  line-height: 1.4;
+}
+
+.markdown-body a {
+  color: #4183c4;
+  text-decoration: none;
+}
+
+.markdown-body a:hover,
+.markdown-body a:focus,
+.markdown-body a:active {
+  text-decoration: underline;
+}
+
+.markdown-body hr {
+  height: 0;
+  margin: 15px 0;
+  overflow: hidden;
+  background: transparent;
+  border: 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.markdown-body hr:before,
+.markdown-body hr:after {
+  display: table;
+  content: " ";
+}
+
+.markdown-body hr:after {
+  clear: both;
+}
+
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6 {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  line-height: 1.1;
+}
+
+.markdown-body h1 {
+  font-size: 30px;
+}
+
+.markdown-body h2 {
+  font-size: 21px;
+}
+
+.markdown-body h3 {
+  font-size: 16px;
+}
+
+.markdown-body h4 {
+  font-size: 14px;
+}
+
+.markdown-body h5 {
+  font-size: 12px;
+}
+
+.markdown-body h6 {
+  font-size: 11px;
+}
+
+.markdown-body blockquote {
+  margin: 0;
+}
+
+.markdown-body ul,
+.markdown-body ol {
+  padding: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.markdown-body ol ol,
+.markdown-body ul ol {
+  list-style-type: lower-roman;
+}
+
+.markdown-body ul ul ol,
+.markdown-body ul ol ol,
+.markdown-body ol ul ol,
+.markdown-body ol ol ol {
+  list-style-type: lower-alpha;
+}
+
+.markdown-body dd {
+  margin-left: 0;
+}
+
+.markdown-body code,
+.markdown-body pre,
+.markdown-body samp {
+  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  font-size: 12px;
+}
+
+.markdown-body pre {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.markdown-body kbd {
+  background-color: #e7e7e7;
+  background-image: -moz-linear-gradient(#fefefe, #e7e7e7);
+  background-image: -webkit-linear-gradient(#fefefe, #e7e7e7);
+  background-image: linear-gradient(#fefefe, #e7e7e7);
+  background-repeat: repeat-x;
+  border-radius: 2px;
+  border: 1px solid #cfcfcf;
+  color: #000;
+  padding: 3px 5px;
+  line-height: 10px;
+  font: 11px Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  display: inline-block;
+}
+
+.markdown-body>*:first-child {
+  margin-top: 0 !important;
+}
+
+.markdown-body>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+.markdown-body .headerlink {
+  font: normal 400 16px fontawesome-mini;
+  vertical-align: middle;
+  margin-left: -16px;
+  float: left;
+  display: inline-block;
+  text-decoration: none;
+  opacity: 0;
+  color: #333;
+}
+
+.markdown-body .headerlink:focus {
+  outline: none;
+}
+
+.markdown-body h1 .headerlink {
+  margin-top: 0.8rem;
+}
+
+.markdown-body h2 .headerlink,
+.markdown-body h3 .headerlink {
+  margin-top: 0.6rem;
+}
+
+.markdown-body h4 .headerlink {
+  margin-top: 0.2rem;
+}
+
+.markdown-body h5 .headerlink,
+.markdown-body h6 .headerlink {
+  margin-top: 0;
+}
+
+.markdown-body .headerlink:hover,
+.markdown-body h1:hover .headerlink,
+.markdown-body h2:hover .headerlink,
+.markdown-body h3:hover .headerlink,
+.markdown-body h4:hover .headerlink,
+.markdown-body h5:hover .headerlink,
+.markdown-body h6:hover .headerlink {
+  opacity: 1;
+  text-decoration: none;
+}
+
+.markdown-body h1 {
+  padding-bottom: 0.3em;
+  font-size: 2.25em;
+  line-height: 1.2;
+  border-bottom: 1px solid #eee;
+}
+
+.markdown-body h2 {
+  padding-bottom: 0.3em;
+  font-size: 1.75em;
+  line-height: 1.225;
+  border-bottom: 1px solid #eee;
+}
+
+.markdown-body h3 {
+  font-size: 1.5em;
+  line-height: 1.43;
+}
+
+.markdown-body h4 {
+  font-size: 1.25em;
+}
+
+.markdown-body h5 {
+  font-size: 1em;
+}
+
+.markdown-body h6 {
+  font-size: 1em;
+  color: #777;
+}
+
+.markdown-body p,
+.markdown-body blockquote,
+.markdown-body ul,
+.markdown-body ol,
+.markdown-body dl,
+.markdown-body table,
+.markdown-body pre,
+.markdown-body .admonition {
+  margin-top: 0;
+  margin-bottom: 16px;
+}
+
+.markdown-body hr {
+  height: 4px;
+  padding: 0;
+  margin: 16px 0;
+  background-color: #e7e7e7;
+  border: 0 none;
+}
+
+.markdown-body ul,
+.markdown-body ol {
+  padding-left: 2em;
+}
+
+.markdown-body ul ul,
+.markdown-body ul ol,
+.markdown-body ol ol,
+.markdown-body ol ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.markdown-body li>p {
+  margin-top: 16px;
+}
+
+.markdown-body dl {
+  padding: 0;
+}
+
+.markdown-body dl dt {
+  padding: 0;
+  margin-top: 16px;
+  font-size: 1em;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.markdown-body dl dd {
+  padding: 0 16px;
+  margin-bottom: 16px;
+}
+
+.markdown-body blockquote {
+  padding: 0 15px;
+  color: #777;
+  border-left: 4px solid #ddd;
+}
+
+.markdown-body blockquote>:first-child {
+  margin-top: 0;
+}
+
+.markdown-body blockquote>:last-child {
+  margin-bottom: 0;
+}
+
+.markdown-body table {
+  display: block;
+  width: 100%;
+  overflow: auto;
+  word-break: normal;
+  word-break: keep-all;
+}
+
+.markdown-body table th {
+  font-weight: bold;
+}
+
+.markdown-body table th,
+.markdown-body table td {
+  padding: 6px 13px;
+  border: 1px solid #ddd;
+}
+
+.markdown-body table tr {
+  background-color: #fff;
+  border-top: 1px solid #ccc;
+}
+
+.markdown-body table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+
+.markdown-body img {
+  max-width: 100%;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.markdown-body code,
+.markdown-body samp {
+  padding: 0;
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+  margin: 0;
+  font-size: 85%;
+  background-color: rgba(0,0,0,0.04);
+  border-radius: 3px;
+}
+
+.markdown-body code:before,
+.markdown-body code:after {
+  letter-spacing: -0.2em;
+  content: "\00a0";
+}
+
+.markdown-body pre>code {
+  padding: 0;
+  margin: 0;
+  font-size: 100%;
+  word-break: normal;
+  white-space: pre;
+  background: transparent;
+  border: 0;
+}
+
+.markdown-body .codehilite {
+  margin-bottom: 16px;
+}
+
+.markdown-body .codehilite pre,
+.markdown-body pre {
+  padding: 16px;
+  overflow: auto;
+  font-size: 85%;
+  line-height: 1.45;
+  background-color: #f7f7f7;
+  border-radius: 3px;
+}
+
+.markdown-body .codehilite pre {
+  margin-bottom: 0;
+  word-break: normal;
+}
+
+.markdown-body pre {
+  word-wrap: normal;
+}
+
+.markdown-body pre code {
+  display: inline;
+  max-width: initial;
+  padding: 0;
+  margin: 0;
+  overflow: initial;
+  line-height: inherit;
+  word-wrap: normal;
+  background-color: transparent;
+  border: 0;
+}
+
+.markdown-body pre code:before,
+.markdown-body pre code:after {
+  content: normal;
+}
+
+/* Admonition */
+.markdown-body .admonition {
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  position: relative;
+  border-radius: 3px;
+  border: 1px solid #e0e0e0;
+  border-left: 6px solid #333;
+  padding: 10px 10px 10px 30px;
+}
+
+.markdown-body .admonition table {
+  color: #333;
+}
+
+.markdown-body .admonition p {
+  padding: 0;
+}
+
+.markdown-body .admonition-title {
+  font-weight: bold;
+  margin: 0;
+}
+
+.markdown-body .admonition>.admonition-title {
+  color: #333;
+}
+
+.markdown-body .attention>.admonition-title {
+  color: #a6d796;
+}
+
+.markdown-body .caution>.admonition-title {
+  color: #d7a796;
+}
+
+.markdown-body .hint>.admonition-title {
+  color: #96c6d7;
+}
+
+.markdown-body .danger>.admonition-title {
+  color: #c25f77;
+}
+
+.markdown-body .question>.admonition-title {
+  color: #96a6d7;
+}
+
+.markdown-body .note>.admonition-title {
+  color: #d7c896;
+}
+
+.markdown-body .admonition:before,
+.markdown-body .attention:before,
+.markdown-body .caution:before,
+.markdown-body .hint:before,
+.markdown-body .danger:before,
+.markdown-body .question:before,
+.markdown-body .note:before {
+  font: normal normal 16px fontawesome-mini;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  line-height: 1.5;
+  color: #333;
+  position: absolute;
+  left: 0;
+  top: 0;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+.markdown-body .admonition:before {
+  content: "\f056\00a0";
+  color: 333;
+}
+
+.markdown-body .attention:before {
+  content: "\f058\00a0";
+  color: #a6d796;
+}
+
+.markdown-body .caution:before {
+  content: "\f06a\00a0";
+  color: #d7a796;
+}
+
+.markdown-body .hint:before {
+  content: "\f05a\00a0";
+  color: #96c6d7;
+}
+
+.markdown-body .danger:before {
+  content: "\f057\00a0";
+  color: #c25f77;
+}
+
+.markdown-body .question:before {
+  content: "\f059\00a0";
+  color: #96a6d7;
+}
+
+.markdown-body .note:before {
+  content: "\f040\00a0";
+  color: #d7c896;
+}
+
+.markdown-body .admonition::after {
+  content: normal;
+}
+
+.markdown-body .attention {
+  border-left: 6px solid #a6d796;
+}
+
+.markdown-body .caution {
+  border-left: 6px solid #d7a796;
+}
+
+.markdown-body .hint {
+  border-left: 6px solid #96c6d7;
+}
+
+.markdown-body .danger {
+  border-left: 6px solid #c25f77;
+}
+
+.markdown-body .question {
+  border-left: 6px solid #96a6d7;
+}
+
+.markdown-body .note {
+  border-left: 6px solid #d7c896;
+}
+
+.markdown-body .admonition>*:first-child {
+  margin-top: 0 !important;
+}
+
+.markdown-body .admonition>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* progress bar*/
+.markdown-body .progress {
+  display: block;
+  width: 300px;
+  margin: 10px 0;
+  height: 24px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  background-color: #ededed;
+  position: relative;
+  box-shadow: inset -1px 1px 3px rgba(0, 0, 0, .1);
+}
+
+.markdown-body .progress-label {
+  position: absolute;
+  text-align: center;
+  font-weight: bold;
+  width: 100%; margin: 0;
+  line-height: 24px;
+  color: #333;
+  text-shadow: 1px 1px 0 #fefefe, -1px -1px 0 #fefefe, -1px 1px 0 #fefefe, 1px -1px 0 #fefefe, 0 1px 0 #fefefe, 0 -1px 0 #fefefe, 1px 0 0 #fefefe, -1px 0 0 #fefefe, 1px 1px 2px #000;
+  -webkit-font-smoothing: antialiased !important;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.markdown-body .progress-bar {
+  height: 24px;
+  float: left;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  background-color: #96c6d7;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, .5), inset 0 -1px 0 rgba(0, 0, 0, .1);
+  background-size: 30px 30px;
+  background-image: -webkit-linear-gradient(
+    135deg, rgba(255, 255, 255, .4) 27%,
+    transparent 27%,
+    transparent 52%, rgba(255, 255, 255, .4) 52%,
+    rgba(255, 255, 255, .4) 77%,
+    transparent 77%, transparent
+  );
+  background-image: -moz-linear-gradient(
+    135deg,
+    rgba(255, 255, 255, .4) 27%, transparent 27%,
+    transparent 52%, rgba(255, 255, 255, .4) 52%,
+    rgba(255, 255, 255, .4) 77%, transparent 77%,
+    transparent
+  );
+  background-image: -ms-linear-gradient(
+    135deg,
+    rgba(255, 255, 255, .4) 27%, transparent 27%,
+    transparent 52%, rgba(255, 255, 255, .4) 52%,
+    rgba(255, 255, 255, .4) 77%, transparent 77%,
+    transparent
+  );
+  background-image: -o-linear-gradient(
+    135deg,
+    rgba(255, 255, 255, .4) 27%, transparent 27%,
+    transparent 52%, rgba(255, 255, 255, .4) 52%,
+    rgba(255, 255, 255, .4) 77%, transparent 77%,
+    transparent
+  );
+  background-image: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, .4) 27%, transparent 27%,
+    transparent 52%, rgba(255, 255, 255, .4) 52%,
+    rgba(255, 255, 255, .4) 77%, transparent 77%,
+    transparent
+  );
+}
+
+.markdown-body .progress-100plus .progress-bar {
+  background-color: #a6d796;
+}
+
+.markdown-body .progress-80plus .progress-bar {
+  background-color: #c6d796;
+}
+
+.markdown-body .progress-60plus .progress-bar {
+  background-color: #d7c896;
+}
+
+.markdown-body .progress-40plus .progress-bar {
+  background-color: #d7a796;
+}
+
+.markdown-body .progress-20plus .progress-bar {
+  background-color: #d796a6;
+}
+
+.markdown-body .progress-0plus .progress-bar {
+  background-color: #c25f77;
+}
+
+.markdown-body .candystripe-animate .progress-bar{
+  -webkit-animation: animate-stripes 3s linear infinite;
+  -moz-animation: animate-stripes 3s linear infinite;
+  animation: animate-stripes 3s linear infinite;
+}
+
+@-webkit-keyframes animate-stripes {
+  0% {
+    background-position: 0 0;
+  }
+
+  100% {
+    background-position: 60px 0;
+  }
+}
+
+@-moz-keyframes animate-stripes {
+  0% {
+    background-position: 0 0;
+  }
+
+  100% {
+    background-position: 60px 0;
+  }
+}
+
+@keyframes animate-stripes {
+  0% {
+    background-position: 0 0;
+  }
+
+  100% {
+    background-position: 60px 0;
+  }
+}
+
+.markdown-body .gloss .progress-bar {
+  box-shadow:
+    inset 0 4px 12px rgba(255, 255, 255, .7),
+    inset 0 -12px 0 rgba(0, 0, 0, .05);
+}
+
+/* MultiMarkdown Critic Blocks */
+.markdown-body .critic_mark {
+  background: #ff0;
+}
+
+.markdown-body .critic_delete {
+  color: #c82829;
+  text-decoration: line-through;
+}
+
+.markdown-body .critic_insert {
+  color: #718c00 ;
+  text-decoration: underline;
+}
+
+.markdown-body .critic_comment {
+  color: #8e908c;
+  font-style: italic;
+}
+
+.markdown-body .headeranchor {
+  font: normal normal 16px fontawesome-mini;
+  line-height: 1;
+  display: inline-block;
+  text-decoration: none;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.headeranchor:before {
+  content: '\e157';
+}
+
+.markdown-body .task-list-item {
+  list-style-type: none;
+}
+
+.markdown-body .task-list-item+.task-list-item {
+  margin-top: 3px;
+}
+
+.markdown-body .task-list-item input {
+  margin: 0 4px 0.25em -20px;
+  vertical-align: middle;
+}
+
+/* Media */
+@media only screen and (min-width: 480px) {
+  .markdown-body {
+    font-size:14px;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .markdown-body {
+    font-size:16px;
+  }
+}
+
+@media print {
+  .markdown-body * {
+    background: transparent !important;
+    color: black !important;
+    filter:none !important;
+    -ms-filter: none !important;
+  }
+
+  .markdown-body {
+    font-size:12pt;
+    max-width:100%;
+    outline:none;
+    border: 0;
+  }
+
+  .markdown-body a,
+  .markdown-body a:visited {
+    text-decoration: underline;
+  }
+
+  .markdown-body .headeranchor-link {
+    display: none;
+  }
+
+  .markdown-body a[href]:after {
+    content: " (" attr(href) ")";
+  }
+
+  .markdown-body abbr[title]:after {
+    content: " (" attr(title) ")";
+  }
+
+  .markdown-body .ir a:after,
+  .markdown-body a[href^="javascript:"]:after,
+  .markdown-body a[href^="#"]:after {
+    content: "";
+  }
+
+  .markdown-body pre {
+    white-space: pre;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+  }
+
+  .markdown-body pre,
+  .markdown-body blockquote {
+    border: 1px solid #999;
+    padding-right: 1em;
+    page-break-inside: avoid;
+  }
+
+  .markdown-body .progress,
+  .markdown-body .progress-bar {
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+  }
+
+  .markdown-body .progress {
+    border: 1px solid #ddd;
+  }
+
+  .markdown-body .progress-bar {
+    height: 22px;
+    border-right: 1px solid #ddd;
+  }
+
+  .markdown-body tr,
+  .markdown-body img {
+    page-break-inside: avoid;
+  }
+
+  .markdown-body img {
+    max-width: 100% !important;
+  }
+
+  .markdown-body p,
+  .markdown-body h2,
+  .markdown-body h3 {
+    orphans: 3;
+    widows: 3;
+  }
+
+  .markdown-body h2,
+  .markdown-body h3 {
+    page-break-after: avoid;
+  }
+}
+</style><style>/*GitHub*/
+.codehilite {background-color:#fff;color:#333333;}
+.codehilite .hll {background-color:#ffffcc;}
+.codehilite .c{color:#999988;font-style:italic}
+.codehilite .err{color:#a61717;background-color:#e3d2d2}
+.codehilite .k{font-weight:bold}
+.codehilite .o{font-weight:bold}
+.codehilite .cm{color:#999988;font-style:italic}
+.codehilite .cp{color:#999999;font-weight:bold}
+.codehilite .c1{color:#999988;font-style:italic}
+.codehilite .cs{color:#999999;font-weight:bold;font-style:italic}
+.codehilite .gd{color:#000000;background-color:#ffdddd}
+.codehilite .ge{font-style:italic}
+.codehilite .gr{color:#aa0000}
+.codehilite .gh{color:#999999}
+.codehilite .gi{color:#000000;background-color:#ddffdd}
+.codehilite .go{color:#888888}
+.codehilite .gp{color:#555555}
+.codehilite .gs{font-weight:bold}
+.codehilite .gu{color:#800080;font-weight:bold}
+.codehilite .gt{color:#aa0000}
+.codehilite .kc{font-weight:bold}
+.codehilite .kd{font-weight:bold}
+.codehilite .kn{font-weight:bold}
+.codehilite .kp{font-weight:bold}
+.codehilite .kr{font-weight:bold}
+.codehilite .kt{color:#445588;font-weight:bold}
+.codehilite .m{color:#009999}
+.codehilite .s{color:#dd1144}
+.codehilite .n{color:#333333}
+.codehilite .na{color:teal}
+.codehilite .nb{color:#0086b3}
+.codehilite .nc{color:#445588;font-weight:bold}
+.codehilite .no{color:teal}
+.codehilite .ni{color:purple}
+.codehilite .ne{color:#990000;font-weight:bold}
+.codehilite .nf{color:#990000;font-weight:bold}
+.codehilite .nn{color:#555555}
+.codehilite .nt{color:navy}
+.codehilite .nv{color:teal}
+.codehilite .ow{font-weight:bold}
+.codehilite .w{color:#bbbbbb}
+.codehilite .mf{color:#009999}
+.codehilite .mh{color:#009999}
+.codehilite .mi{color:#009999}
+.codehilite .mo{color:#009999}
+.codehilite .sb{color:#dd1144}
+.codehilite .sc{color:#dd1144}
+.codehilite .sd{color:#dd1144}
+.codehilite .s2{color:#dd1144}
+.codehilite .se{color:#dd1144}
+.codehilite .sh{color:#dd1144}
+.codehilite .si{color:#dd1144}
+.codehilite .sx{color:#dd1144}
+.codehilite .sr{color:#009926}
+.codehilite .s1{color:#dd1144}
+.codehilite .ss{color:#990073}
+.codehilite .bp{color:#999999}
+.codehilite .vc{color:teal}
+.codehilite .vg{color:teal}
+.codehilite .vi{color:teal}
+.codehilite .il{color:#009999}
+.codehilite .gc{color:#999;background-color:#EAF2F5}
+</style><title>002_M0_introduction</title></head><body><article class="markdown-body"><p><code>{include=partials/introduction/profile_project.md,M0}</code></p>
+<hr />
+<p><code>{include=partials/p_001_interactivedocumentation.md}</code></p>
+<hr />
+<p><code>{include=partials/introduction/phase_introduction/phase_introduction.md}</code></p>
+<hr />
+<h3 id="introduction-phase-introduction-initiation-phase"><strong>Introduction / Phase Introduction / Initiation Phase</strong><a class="headerlink" href="#introduction-phase-introduction-initiation-phase" title="Permanent link"></a></h3>
+<p><strong>Business Case</strong>:</p>
+<p>What are the benefits we are trying to get from the project and justification of the decision. It encapsulates the research done to see if the project is worth doing.</p>
+<hr />
+<ul>
+<li>
+<p><strong>Initiation Phase</strong> Components ∞0.001:</p>
+<ol>
+<li><strong>Business Case</strong>:<ul>
+<li>Strategic case</li>
+<li>Management case</li>
+</ul>
+</li>
+</ol>
+</li>
+</ul>
+<hr />
+<h3 id="introduction-phase-introduction-initiation-phase-business-case"><strong>Introduction / Phase Introduction / Initiation Phase / Business Case</strong><a class="headerlink" href="#introduction-phase-introduction-initiation-phase-business-case" title="Permanent link"></a></h3>
+<p><code>{include=partials/introduction/phase_introduction/initiation_phase/business_case.md}</code></p>
+<hr />
+<h3 id="introduction-phase-introduction-initiation-phase-business-case-solution-options"><strong>Introduction / Phase Introduction / Initiation Phase / Business Case / Solution Options</strong><a class="headerlink" href="#introduction-phase-introduction-initiation-phase-business-case-solution-options" title="Permanent link"></a></h3>
+<p><code>{include=partials/introduction/phase_introduction/initiation_phase/business_case/solution_options.md}</code></p>
+<hr />
+<h3 id="introduction-phase-introduction-initiation-phase-business-case-strategic-case"><strong>Introduction / Phase Introduction / Initiation Phase / Business Case / Strategic case</strong><a class="headerlink" href="#introduction-phase-introduction-initiation-phase-business-case-strategic-case" title="Permanent link"></a></h3>
+<p><code>{include=partials/introduction/phase_introduction/initiation_phase/business_case/strategic_case/strategic_case.md}</code></p>
+<hr />
+<h3 id="introduction-phase-introduction-initiation-phase-business-case-management-case"><strong>Introduction / Phase Introduction / Initiation Phase / Business Case / Management case</strong><a class="headerlink" href="#introduction-phase-introduction-initiation-phase-business-case-management-case" title="Permanent link"></a></h3>
+<p><code>{include=partials/introduction/phase_introduction/initiation_phase/business_case/management_case/management_case.md}</code></p>
+<hr />
+<h3 id="introduction-phase-introduction-initiation-phase-business-case-management-case-achievements-plan"><strong>Introduction / Phase Introduction / Initiation Phase / Business Case / Management case / Achievements Plan</strong><a class="headerlink" href="#introduction-phase-introduction-initiation-phase-business-case-management-case-achievements-plan" title="Permanent link"></a></h3>
+<p><code>{include=partials/introduction/phase_introduction/initiation_phase/business_case/management_case/achievements_plan.md}</code></p>
+<hr />
+<h3 id="introduction-phase-introduction-initiation-phase-project-charter"><strong>Introduction / Phase Introduction / Initiation Phase / Project Charter</strong><a class="headerlink" href="#introduction-phase-introduction-initiation-phase-project-charter" title="Permanent link"></a></h3>
+<ul>
+<li><strong>Project Charter</strong> Components ∞0.002:<ul>
+<li>Project Introduction</li>
+<li>Project Goals</li>
+<li>Deliverables</li>
+<li>Duration</li>
+</ul>
+</li>
+</ul>
+<hr />
+<h3 id="introduction-phase-introduction-initiation-phase-project-charter-project-introduction"><strong>Introduction / Phase Introduction / Initiation Phase / Project Charter / Project Introduction</strong><a class="headerlink" href="#introduction-phase-introduction-initiation-phase-project-charter-project-introduction" title="Permanent link"></a></h3>
+<ul>
+<li>
+<p><strong>Project Introduction</strong> Components ∞0.002:</p>
+<ul>
+<li>Project Name</li>
+<li>Project Statements<ul>
+<li>Vision Statement</li>
+<li>Mission Statement</li>
+</ul>
+</li>
+<li>Project Definition<ul>
+<li>Problem </li>
+<li>Opportunity</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<hr />
+<h3 id="introduction-phase-introduction-initiation-phase-project-charter-project-introduction-project-statements"><strong>Introduction / Phase Introduction / Initiation Phase / Project Charter / Project Introduction / Project Statements</strong><a class="headerlink" href="#introduction-phase-introduction-initiation-phase-project-charter-project-introduction-project-statements" title="Permanent link"></a></h3>
+<p><code>{include=partials/introduction/phase_introduction/initiation_phase/project_charter/project_statements.md}</code></p>
+<hr />
+<h3 id="introduction-phase-introduction-initiation-phase-project-charter-project-introduction-project-definition"><strong>Introduction / Phase Introduction / Initiation Phase / Project Charter / Project Introduction / Project Definition</strong><a class="headerlink" href="#introduction-phase-introduction-initiation-phase-project-charter-project-introduction-project-definition" title="Permanent link"></a></h3>
+<ul>
+<li>
+<p><strong>Problem</strong> Components ∞0.001:</p>
+<ul>
+<li>Problematic Vectors</li>
+<li>Dirty Contours</li>
+<li>Old Format</li>
+</ul>
+</li>
+<li>
+<p><strong>Opportunity</strong> Components ∞0.001:</p>
+<ul>
+<li>New Variable Font Format</li>
+<li>Cleaner Contrours</li>
+<li>Compression Concepts</li>
+<li>Lighter Offering</li>
+</ul>
+</li>
+</ul>
+<hr />
+<h3 id="introduction-phase-introduction-initiation-phase-project-charter-project-goals"><strong>Introduction / Phase Introduction / Initiation Phase / Project Charter / Project Goals</strong><a class="headerlink" href="#introduction-phase-introduction-initiation-phase-project-charter-project-goals" title="Permanent link"></a></h3>
+<ul>
+<li>Goals for ∞ 3.000:<ul>
+<li>To bring an updated Advent Pro to the Variable format, </li>
+<li>Add Italics Axes</li>
+<li>Add Weight Axes</li>
+</ul>
+</li>
+<li>Goals for ∞ 4.000:<ul>
+<li>Add Cyrillic</li>
+<li>Add Width Axes</li>
+<li>Add Optical Size Axes</li>
+</ul>
+</li>
+</ul>
+<hr />
+<h3 id="introduction-phase-introduction-initiation-phase-project-charter-deliverables"><strong>Introduction / Phase Introduction / Initiation Phase / Project Charter / Deliverables</strong><a class="headerlink" href="#introduction-phase-introduction-initiation-phase-project-charter-deliverables" title="Permanent link"></a></h3>
+<ul>
+<li><strong>Deliverables</strong> Components ∞0.001:<ul>
+<li>Advent Pro Variable:<ul>
+<li>Variation Weight Axes</li>
+<li>Variation Italic Axes</li>
+</ul>
+</li>
+<li>Advent Pro 14 Weights:<ul>
+<li>Classic Formats (TTF, OTF, &hellip;)</li>
+</ul>
+</li>
+<li>VRD-Typography-Library:<ul>
+<li>EFO to UFOs</li>
+<li>UFOs to EFO</li>
+<li>EFO to VAR</li>
+<li>Kerning Extract Similarity (SIMEX)</li>
+<li>Kerning Autokern</li>
+<li>Kerning Compress FlatD</li>
+<li>Componentize EFO</li>
+<li>Kerning Adjust UI</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<hr />
+<h3 id="introduction-phase-introduction-initiation-phase-project-charter-duration"><strong>Introduction / Phase Introduction / Initiation Phase / Project Charter / Duration</strong><a class="headerlink" href="#introduction-phase-introduction-initiation-phase-project-charter-duration" title="Permanent link"></a></h3>
+<ul>
+<li>
+<p><strong>Duration</strong> of Advent ∞3.000:</p>
+<ul>
+<li>22/08/2018 to 16/02/2019</li>
+</ul>
+</li>
+<li>
+<p><strong>Duration</strong> of Advent ∞4.000:</p>
+<ul>
+<li>April 1st 2019 to December 20th 2019</li>
+</ul>
+</li>
+</ul>
+<hr />
+<h3 id="introduction-phase-introduction-planning-phase"><strong>Introduction / Phase Introduction / Planning Phase</strong><a class="headerlink" href="#introduction-phase-introduction-planning-phase" title="Permanent link"></a></h3>
+<p>The Planning Phase, is where the project solution is further developed in as much detail as possible and the steps necessary to meet the project’s objectives.</p>
+<p>The Planning Phase consists of:</p>
+<ol>
+<li><strong>Safe Planning</strong></li>
+<li><strong>Stakeholders</strong></li>
+<li><strong>Quality Plan (PQP)</strong></li>
+</ol>
+<p>At this point, the project would have been planned in detail and is ready to be executed.</p>
+<hr />
+<h3 id="introduction-phase-introduction-planning-phase-safe-planning"><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning</strong><a class="headerlink" href="#introduction-phase-introduction-planning-phase-safe-planning" title="Permanent link"></a></h3>
+<p>The project&rsquo;s <strong>Work Planning / Project Plan</strong> is created outlining the activities, tasks, dependencies, and timeframes.</p>
+<ul>
+<li>
+<p><strong>Safe Planning</strong> Components (Scope Management): </p>
+<ul>
+<li>Projeect Plan:</li>
+<li>Work Planning:<ul>
+<li>Tasks Assignments</li>
+<li>Dependencies</li>
+</ul>
+</li>
+<li>Schedule Planning.<ul>
+<li>Timeline</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<hr />
+<h3 id="introduction-phase-introduction-planning-phase-safe-planning-project-plan"><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan</strong><a class="headerlink" href="#introduction-phase-introduction-planning-phase-safe-planning-project-plan" title="Permanent link"></a></h3>
+<p>Decide on the encoding sets and supported language scripts. Decide and plan the weights and how you will generate each weight. Understand the procedures and steps. Calculate or keep track of timelines, steps procedures and pitfalls.</p>
+<ol>
+<li><strong>Project Plan</strong> Components ∞0.001:<ol>
+<li><strong>Design</strong></li>
+<li><strong>Production</strong></li>
+<li><strong>Masters and Instances</strong></li>
+<li><strong>Kerning</strong></li>
+<li><strong>Components</strong></li>
+<li><strong>Language Scripts and Glyph Range</strong></li>
+<li><strong>Features</strong></li>
+<li><strong>Delivery</strong></li>
+</ol>
+</li>
+</ol>
+<hr />
+<h3 id="introduction-phase-introduction-planning-phase-safe-planning-project-plan-design"><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Design</strong><a class="headerlink" href="#introduction-phase-introduction-planning-phase-safe-planning-project-plan-design" title="Permanent link"></a></h3>
+<p>Advent originally featured 7 weights of geometric sharp curved high rise forms and modernized Greek Letters. This realease features 14 weights, the original updated and improved forms along with italics.</p>
+<hr />
+<h3 id="introduction-phase-introduction-planning-phase-safe-planning-project-plan-production"><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Production</strong><a class="headerlink" href="#introduction-phase-introduction-planning-phase-safe-planning-project-plan-production" title="Permanent link"></a></h3>
+<p>To produce the font, Illustrator and Fontlab was used originally in 2007, updating to Advent  Pro Variable in 2018, a set of scripts for Adobe Illustrator (JSX) and Fontlab (Python) where written, additionally python scripts and bash, for the composition and kerning. Later on VRD Typography Library was introduced allowing for easier modifications to the font by utilizing a new format - a container for UFO, called the EFO. VRD TYPL for kerning - and compression and Googles fontmake to compile the final variable font. </p>
+<p>Work was done on a Linux box with VirtualBox running Windows 8 and Mac OSX Lion.</p>
+<hr />
+<h3 id="introduction-phase-introduction-planning-phase-safe-planning-project-plan-masters-and-instances"><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Masters and Instances</strong><a class="headerlink" href="#introduction-phase-introduction-planning-phase-safe-planning-project-plan-masters-and-instances" title="Permanent link"></a></h3>
+<p>The diagram shows the Original Masters (MO), Generated Masters (MG) that get adjusted manually and the automatically generated instances (MA).</p>
+<p><img alt="Masters and Instances" src="/media/root/Malysh2/winshm/advent_repo/Advent/README/assets/media/advent_masters_sankey.svg" /></p>
+<p>image: #001, 0.002, svg, Advent Masters and Instances sankey.</p>
+<hr />
+<h4 id="masters">Masters<a class="headerlink" href="#masters" title="Permanent link"></a></h4>
+<table>
+<thead>
+<tr>
+<th>name</th>
+<th>weight</th>
+<th>size</th>
+<th>version</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Thin Normal</td>
+<td>100</td>
+<td>8pt, 24pt, 144pt</td>
+<td>3.000</td>
+</tr>
+<tr>
+<td>Regular Normal</td>
+<td>400</td>
+<td>8pt, 24pt, 144pt</td>
+<td>3.000</td>
+</tr>
+<tr>
+<td>Bold Normal</td>
+<td>700</td>
+<td>8pt, 24pt, 144pt</td>
+<td>3.000</td>
+</tr>
+<tr>
+<td>Black Normal</td>
+<td>900</td>
+<td>8pt, 24pt, 144pt</td>
+<td><strong>4.000</strong></td>
+</tr>
+<tr>
+<td>Thin Wide</td>
+<td>100</td>
+<td>8pt, 24pt, 144pt</td>
+<td><strong>4.000</strong></td>
+</tr>
+<tr>
+<td>Regular Wide</td>
+<td>400</td>
+<td>8pt, 24pt, 144pt</td>
+<td><strong>4.000</strong></td>
+</tr>
+<tr>
+<td>Bold Wide</td>
+<td>700</td>
+<td>8pt, 24pt, 144pt</td>
+<td><strong>4.000</strong></td>
+</tr>
+<tr>
+<td>Black Wide</td>
+<td>900</td>
+<td>8pt, 24pt, 144pt</td>
+<td><strong>4.000</strong></td>
+</tr>
+<tr>
+<td>Thin Italic Normal</td>
+<td>100</td>
+<td>8pt, 24pt, 144pt</td>
+<td>3.000</td>
+</tr>
+<tr>
+<td>Regular Italic Normal</td>
+<td>400</td>
+<td>8pt, 24pt, 144pt</td>
+<td>3.000</td>
+</tr>
+<tr>
+<td>Bold Italic Normal</td>
+<td>700</td>
+<td>8pt, 24pt, 144pt</td>
+<td>3.000</td>
+</tr>
+<tr>
+<td>Black Italic Normal</td>
+<td>900</td>
+<td>8pt, 24pt, 144pt</td>
+<td><strong>4.000</strong></td>
+</tr>
+<tr>
+<td>Thin Italic Wide</td>
+<td>100</td>
+<td>8pt, 24pt, 144pt</td>
+<td><strong>4.000</strong></td>
+</tr>
+<tr>
+<td>Regular Italic Wide</td>
+<td>400</td>
+<td>8pt, 24pt, 144pt</td>
+<td><strong>4.000</strong></td>
+</tr>
+<tr>
+<td>Bold Italic Wide</td>
+<td>700</td>
+<td>8pt, 24pt, 144pt</td>
+<td><strong>4.000</strong></td>
+</tr>
+<tr>
+<td>Black Italic Wide</td>
+<td>900</td>
+<td>8pt, 24pt, 144pt</td>
+<td><strong>4.000</strong></td>
+</tr>
+</tbody>
+</table>
+<h4 id="instances">Instances<a class="headerlink" href="#instances" title="Permanent link"></a></h4>
+<table>
+<thead>
+<tr>
+<th>acro</th>
+<th>weight</th>
+<th>name</th>
+<th>master</th>
+<th>version</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>thn</td>
+<td>100</td>
+<td>Thin (Hairline)</td>
+<td>MO</td>
+<td>3.000</td>
+</tr>
+<tr>
+<td>xlg</td>
+<td>200</td>
+<td>Extra Light (Ultra Light)</td>
+<td>MA</td>
+<td>3.000</td>
+</tr>
+<tr>
+<td>lgt</td>
+<td>300</td>
+<td>Light</td>
+<td>MA</td>
+<td>3.000</td>
+</tr>
+<tr>
+<td>reg</td>
+<td>400</td>
+<td>Regular</td>
+<td>MO</td>
+<td>3.000</td>
+</tr>
+<tr>
+<td>med</td>
+<td>500</td>
+<td>Medium</td>
+<td>MA</td>
+<td>3.000</td>
+</tr>
+<tr>
+<td>smb</td>
+<td>600</td>
+<td>Semi Bold (Demi Bold)</td>
+<td>MA</td>
+<td>3.000</td>
+</tr>
+<tr>
+<td>bld</td>
+<td>700</td>
+<td>Bold</td>
+<td>MO</td>
+<td>3.000</td>
+</tr>
+<tr>
+<td>xbd</td>
+<td>800</td>
+<td>Extra Bold (Ultra Bold)</td>
+<td>MA</td>
+<td>3.000</td>
+</tr>
+<tr>
+<td>blk</td>
+<td>900</td>
+<td>Black (Heavy)</td>
+<td>MO</td>
+<td><strong>4.000</strong></td>
+</tr>
+<tr>
+<td>thn-wd</td>
+<td>100</td>
+<td>Thin (Hairline)</td>
+<td>MG</td>
+<td><strong>4.000</strong></td>
+</tr>
+<tr>
+<td>xlg-wd</td>
+<td>200</td>
+<td>Extra Light (Ultra Light)</td>
+<td>MA</td>
+<td>3.000</td>
+</tr>
+<tr>
+<td>lgt-wd</td>
+<td>300</td>
+<td>Light</td>
+<td>MA</td>
+<td>3.000</td>
+</tr>
+<tr>
+<td>reg-wd</td>
+<td>400</td>
+<td>Regular</td>
+<td>MG</td>
+<td><strong>4.000</strong></td>
+</tr>
+<tr>
+<td>med-wd</td>
+<td>500</td>
+<td>Medium</td>
+<td>MA</td>
+<td>3.000</td>
+</tr>
+<tr>
+<td>smb-wd</td>
+<td>600</td>
+<td>Semi Bold (Demi Bold)</td>
+<td>MA</td>
+<td>3.000</td>
+</tr>
+<tr>
+<td>bld-wd</td>
+<td>700</td>
+<td>Bold</td>
+<td>MG</td>
+<td><strong>4.000</strong></td>
+</tr>
+<tr>
+<td>xbd-wd</td>
+<td>800</td>
+<td>Extra Bold (Ultra Bold)</td>
+<td>MA</td>
+<td>3.000</td>
+</tr>
+<tr>
+<td>blk-wd</td>
+<td>900</td>
+<td>Black (Heavy)</td>
+<td>MG</td>
+<td><strong>4.000</strong></td>
+</tr>
+<tr>
+<td>thn-it</td>
+<td>100</td>
+<td>Italic Thin (Hairline)</td>
+<td>MG</td>
+<td>3.000</td>
+</tr>
+<tr>
+<td>xlg-it</td>
+<td>200</td>
+<td>Italic Extra Light (Ultra Light)</td>
+<td>MA</td>
+<td>3.000</td>
+</tr>
+<tr>
+<td>lgt-it</td>
+<td>300</td>
+<td>Italic Light</td>
+<td>MA</td>
+<td>3.000</td>
+</tr>
+<tr>
+<td>reg-it</td>
+<td>400</td>
+<td>Italic Regular</td>
+<td>MG</td>
+<td>3.000</td>
+</tr>
+<tr>
+<td>med-it</td>
+<td>500</td>
+<td>Italic Medium</td>
+<td>MA</td>
+<td>3.000</td>
+</tr>
+<tr>
+<td>smb-it</td>
+<td>600</td>
+<td>Italic Semi Bold (Demi Bold)</td>
+<td>MA</td>
+<td>3.000</td>
+</tr>
+<tr>
+<td>bld-it</td>
+<td>700</td>
+<td>Italic Bold</td>
+<td>MG</td>
+<td>3.000</td>
+</tr>
+<tr>
+<td>xbd-it</td>
+<td>800</td>
+<td>Extra Bold (Ultra Bold)</td>
+<td>MA</td>
+<td>3.000</td>
+</tr>
+<tr>
+<td>blk-it</td>
+<td>900</td>
+<td>Black (Heavy)</td>
+<td>MG</td>
+<td><strong>4.000</strong></td>
+</tr>
+<tr>
+<td>thn-wd-it</td>
+<td>100</td>
+<td>Italic Thin (Hairline)</td>
+<td>MG</td>
+<td><strong>4.000</strong></td>
+</tr>
+<tr>
+<td>xlg-wd-it</td>
+<td>200</td>
+<td>Italic Extra Light (Ultra Light)</td>
+<td>MA</td>
+<td>3.000</td>
+</tr>
+<tr>
+<td>lgt-wd-it</td>
+<td>300</td>
+<td>Italic Light</td>
+<td>MA</td>
+<td>3.000</td>
+</tr>
+<tr>
+<td>reg-wd-it</td>
+<td>400</td>
+<td>Italic Regular</td>
+<td>MG</td>
+<td><strong>4.000</strong></td>
+</tr>
+<tr>
+<td>med-wd-it</td>
+<td>500</td>
+<td>Italic Medium</td>
+<td>MA</td>
+<td>3.000</td>
+</tr>
+<tr>
+<td>smb-wd-it</td>
+<td>600</td>
+<td>Italic Semi Bold (Demi Bold)</td>
+<td>MA</td>
+<td>3.000</td>
+</tr>
+<tr>
+<td>bld-wd-it</td>
+<td>700</td>
+<td>Italic Bold</td>
+<td>MG</td>
+<td><strong>4.000</strong></td>
+</tr>
+<tr>
+<td>xbd-wd-it</td>
+<td>800</td>
+<td>Extra Bold (Ultra Bold)</td>
+<td>MA</td>
+<td>3.000</td>
+</tr>
+<tr>
+<td>blk-wd-it</td>
+<td>900</td>
+<td>Black (Heavy)</td>
+<td>MG</td>
+<td><strong>4.000</strong></td>
+</tr>
+</tbody>
+</table>
+<h4 id="axes">Axes<a class="headerlink" href="#axes" title="Permanent link"></a></h4>
+<table>
+<thead>
+<tr>
+<th>axes</th>
+<th>version</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>weight axes only</td>
+<td>3.000</td>
+</tr>
+<tr>
+<td>italic axes with weight axes</td>
+<td>3.000</td>
+</tr>
+<tr>
+<td>weight and italic axes</td>
+<td>3.000</td>
+</tr>
+<tr>
+<td>weight and width</td>
+<td><strong>4.000</strong></td>
+</tr>
+<tr>
+<td>width axes only</td>
+<td><strong>4.000</strong></td>
+</tr>
+<tr>
+<td>italic axes with weight axes and width axes</td>
+<td><strong>4.000</strong></td>
+</tr>
+<tr>
+<td>optical size</td>
+<td><strong>4.000</strong></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<p>An example of what we are planning in terms of the new Black MO (Original Master) and new Wide MO. The wide version is planned to be <strong>150% Wider</strong> compared to the current normal and the black version is planned to be <strong>60% Bolder</strong> compared to the current bold.</p>
+<p><img alt="adv_nrm_wde_bld_blk" src="/media/root/Malysh2/winshm/advent_repo/Advent/README/assets/media/adv_mo_mg.svg" /></p>
+<p>image: #002, 0.002, svg, Advent MO and MG Masters.</p>
+<hr />
+<h4 id="optical-axis">Optical Axis<a class="headerlink" href="#optical-axis" title="Permanent link"></a></h4>
+<p>The masters have been set as follows:</p>
+<p><img alt="adv_opsz" src="/media/root/Malysh2/winshm/advent_repo/Advent/README/assets/media/advent_optical.svg" /></p>
+<p>image: #003, 0.001, svg, Advent Optical Size Axis (opsz), chart.</p>
+<hr />
+<h3 id="introduction-phase-introduction-planning-phase-safe-planning-project-plan-kerning"><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Kerning</strong><a class="headerlink" href="#introduction-phase-introduction-planning-phase-safe-planning-project-plan-kerning" title="Permanent link"></a></h3>
+<p>With the help of Typefacet Integrated Autokern, we have obtained the first layer of kerning for the upright bold.
+By using VRD TYPL Kerning Adjust, 
+we made the corrections, and the rest of the optimisations required per weight.</p>
+<p>We have Classified our glyphs in a way where no kerning loss is observed. By dividing by Language Set, without language intrusion between classes.
+Small Case and Capitals are also non intruding. This increases size minimally but maintains kerning pair loss at zero.</p>
+<p>During the process we attempted to maintain the Italics width according to the contour. This created a larger alteration size and jittering italics transition due to changing width - even if the kerning was precise. We eventually opted for the slant-to-right-side-corner and maintained the regular kerning along to the italics and smoother animation on Italics.</p>
+<hr />
+<h3 id="introduction-phase-introduction-planning-phase-safe-planning-project-plan-kerning-standard-sets"><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Kerning / Standard Sets</strong><a class="headerlink" href="#introduction-phase-introduction-planning-phase-safe-planning-project-plan-kerning-standard-sets" title="Permanent link"></a></h3>
+<p>All the letter combinations have been kerned but we also perform testing afterwards, for various reasons (Ommited) some kerning pairs are not included. This brings us to testing the kerning on a specific set of letters, the other letters are left to maintain the mechanical, automated kerning.</p>
+<p>VivaRado standard kerning sets are defined as follows:</p>
+<ul>
+<li>
+<p>Letter Based(LB):</p>
+<ul>
+<li>Latin Capitals(LBLC):</li>
+<li><code>A B C D E F G H I J K L M N O P Q R S T U V W X Y Z</code></li>
+<li>Latin SmallCase(LBLS):</li>
+<li><code>a b c d e f g h i j k l m n o p q r s t u v w x y</code></li>
+<li>Greek (GREEK UNICODES)(LBGC):</li>
+<li><code>Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω</code></li>
+<li>Greek SmallCase(LBGS):</li>
+<li><code>α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ σ ς τ υ φ χ ψ ω</code></li>
+<li>Numbers(LBNU):</li>
+<li><code>0 1 2 3 4 5 6 7 8 9</code></li>
+</ul>
+</li>
+<li>
+<p>Resulting Permutations that have been Adjusted:</p>
+<ul>
+<li>
+<p>Letter Based Permutations (LB):</p>
+</li>
+<li>
+<p>Latin VS Latin Capitals Letter Based Permutation (LBLCLC)</p>
+</li>
+<li>Latin VS Latin SmallCase Letter Based Permutation (LBLSLS)</li>
+<li>
+<p>Latin Capitals VS Latin SmallCase Letter Based Permutation (LBLCLS)</p>
+</li>
+<li>
+<p>Greek VS Greek Capitals Letter Based Permutation (LBGCGC)</p>
+</li>
+<li>Greek VS Greek SmallCase Letter Based Permutation (LBGSGS)</li>
+<li>Greek Capitals VS Greek SmallCase Letter Based Permutation (LBGCGS)</li>
+</ul>
+</li>
+<li>
+<p>Letter to Letter Adjustments:</p>
+<ul>
+<li>These are small adjustments due to design quirks, and when we decide that a glyph doesn&rsquo;t fit into classes or the class is not satisfying the kerning requirements completely.</li>
+</ul>
+</li>
+<li>Ommited:<ul>
+<li>Cross Language System Kerning (grek to latn and latn to grek).</li>
+<li>Greek &ldquo;sigma1&rdquo; on the Left Side for all grek.</li>
+</ul>
+</li>
+</ul>
+<hr />
+<h3 id="introduction-phase-introduction-planning-phase-safe-planning-project-plan-kerning-results"><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Kerning / Results</strong><a class="headerlink" href="#introduction-phase-introduction-planning-phase-safe-planning-project-plan-kerning-results" title="Permanent link"></a></h3>
+<p>The resulting kerning is:</p>
+<p><code>{'GG': 4458, 'GL': 761, 'LG': 708, 'LL': 166}</code></p>
+<p>Total Pairs: <code>6093</code></p>
+<p>More information in: <a href="https://github.com/VivaRado/Advent/blob/master/docs/kerning_adjustments/kerning_pair_details">Kerning Pair Details</a></p>
+<p><strong>If you notice a possible kerning improvement we would like to hear about it.</strong></p>
+<hr />
+<h3 id="introduction-phase-introduction-planning-phase-safe-planning-project-plan-components"><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Components</strong><a class="headerlink" href="#introduction-phase-introduction-planning-phase-safe-planning-project-plan-components" title="Permanent link"></a></h3>
+<p>Components are created by first running VRD/TYPL/SIMEX to obtain a component similarity index, then VRD/TYPL/COMPONENTS to Componentize the EFO,
+later you can export to Componentized UFOs.</p>
+<hr />
+<h3 id="introduction-phase-introduction-planning-phase-safe-planning-project-plan-scripts"><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Scripts</strong><a class="headerlink" href="#introduction-phase-introduction-planning-phase-safe-planning-project-plan-scripts" title="Permanent link"></a></h3>
+<p>At this moment advent supports Latin, and Greek Encoding as ∞3.000.</p>
+<ul>
+<li>
+<p><strong>Version ∞3.000</strong>:</p>
+<ul>
+<li>
+<p><strong>Current Character Support:</strong></p>
+<ul>
+<li><em>Latin</em></li>
+<li><em>Extended Latin</em></li>
+<li><em>Greek</em></li>
+<li><em>Baltic</em></li>
+<li><em>Turkish</em></li>
+</ul>
+</li>
+<li>
+<p><strong>Intended Character Support:</strong></p>
+<ul>
+<li>The Proposed Encoding/Glyph List: /encoding_list/suggested_encoding.py</li>
+<li>Current Encoding/Glyph List: /encoding_list/current_encoding.enc</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Version ∞4.000</strong>:</p>
+<ul>
+<li><em>Google Latin Plus</em></li>
+<li><em>Google Cyrillic Plus</em></li>
+<li><em>Google Greek</em></li>
+<li><em>Opentype Features Glyphs</em></li>
+</ul>
+</li>
+</ul>
+<p><a href="https://github.com/googlefonts/gftools/tree/master/Lib/gftools/encodings">Encoding NAM Files</a></p>
+<hr />
+<h4 id="script-expansion">Script Expansion<a class="headerlink" href="#script-expansion" title="Permanent link"></a></h4>
+<p>During script expansion (SE), we have a NAM file, with unicode and name information <a href="/media/root/Malysh2/winshm/advent_repo/Advent/README/README/plans/ADV3_SeC_integration">located here</a>. And the appropriate MO PDF files for each weight or MO. The work takes place per MO or weight, per glyph and the appropriate procedues take place. The MG (Generated Masters) don&rsquo;t need new vectors, just adjustments so those masters don&rsquo;t have PDF files with vectors. The task is then to position the vectors in the font. While working with the plans we update them to reflect the given changes. At the same time we repair any notable contour fixes, width fixes and whatever we see that is out of order.</p>
+<p>We have divided the vector integration work to given procedures:</p>
+<ul>
+<li>GP (Glyph Placement)</li>
+<li>WA (Width Adjustment)</li>
+<li>GF (Glyph Fix)</li>
+</ul>
+<hr />
+<p><strong>Glyph Placement</strong>:</p>
+<p>When dealing with a MO (Original Master), we initially position the vectors in the font, without any worry for width. Glyph Placement also deals with assigning components.</p>
+<p><strong>Width Adjustment</strong>:</p>
+<p>This deals with the adjustment of the glyph width where we determine if we have similar looking glyphs and transfer the width to the newly added glyph.</p>
+<p><strong>Glyph Fix</strong>:</p>
+<p>This is intended for the MG (Generated Masters), like italics or wide version where we keep the original glyphs but adjust them after applying an effect like slant or width.</p>
+<h4 id="glyph-distributor">Glyph Distributor<a class="headerlink" href="#glyph-distributor" title="Permanent link"></a></h4>
+<p>For integrating the glyphs to the EFO we use the Glyph Distributor, it is responsible for taking glif files from provided UFO and placing it to the appropriate EFO directory. Updating the glyphlib and the contents file.</p>
+<hr />
+<p>From the ADV3_SeC_integration file:</p>
+<div class="codehilite"><pre>1024 0x0400 Ѐ CYRILLIC CAPITAL LETTER IE WITH GRAVE False
+    GP_MG (thn,reg,bld), 
+    WA_MO (thn,reg,bld), 
+    GF_MG (thn_it,reg_it,bld_it), 
+    WA_MG (thn_it,reg_it,bld_it)
+</pre></div>
+
+<p>We can then see that this glyph has been updated with the following procedures:</p>
+<ul>
+<li>GP_MG (Glyph Placement):<ul>
+<li>Component from existing glyphs like &ldquo;E&rdquo;. This glyph has been placed for three Generated Masters (thn,reg,bld)</li>
+</ul>
+</li>
+<li>WA_MO (Width Adjustment):<ul>
+<li>Widths (bearings) have been adjusted. This glyph widths have been adjusted for three Original Masters (thn,reg,bld)</li>
+</ul>
+</li>
+<li>GF_MG (Glyph Fix):<ul>
+<li>This glyph was fixed after application of an effect like slant or width. This glyph has been fixed for three Generated Masters (thn_it,reg_it,bld_it)</li>
+</ul>
+</li>
+<li>WA_MG (Width Adjustment):<ul>
+<li>Widths (bearings) have been adjusted. This glyph widths have been adjusted for three Generated Masters (thn_it,reg_it,bld_it)</li>
+</ul>
+</li>
+</ul>
+<hr />
+<h3 id="introduction-phase-introduction-planning-phase-safe-planning-project-plan-glyphs"><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Glyphs</strong><a class="headerlink" href="#introduction-phase-introduction-planning-phase-safe-planning-project-plan-glyphs" title="Permanent link"></a></h3>
+<ul>
+<li>
+<p><strong>Version ∞3.000</strong>:</p>
+<p>The glyph range is ≃ 391</p>
+</li>
+<li>
+<p><strong>Version ∞4.000</strong>:</p>
+<p>The glyph range is ≃ 647</p>
+</li>
+</ul>
+<hr />
+<h3 id="introduction-phase-introduction-planning-phase-safe-planning-project-plan-features"><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Features</strong><a class="headerlink" href="#introduction-phase-introduction-planning-phase-safe-planning-project-plan-features" title="Permanent link"></a></h3>
+<p>Advent features at this moment include:</p>
+<ul>
+<li>
+<p>liga:</p>
+<ul>
+<li>sub f l by fl;</li>
+<li>sub f i by fi;</li>
+<li>sub f f l by ffl;</li>
+<li>sub f t by ft;</li>
+<li>sub t t by t_t;</li>
+<li>sub w w w by w_w_w;</li>
+<li>sub gamma gamma by gamma_gamma;</li>
+<li>sub gamma kappa by gamma_kappa;</li>
+<li>sub lambda lambda by lambda_lambda;</li>
+</ul>
+</li>
+</ul>
+<hr />
+<h3 id="introduction-phase-introduction-planning-phase-safe-planning-project-plan-hinting"><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Hinting</strong><a class="headerlink" href="#introduction-phase-introduction-planning-phase-safe-planning-project-plan-hinting" title="Permanent link"></a></h3>
+<p>TrueType Hints</p>
+<hr />
+<h3 id="introduction-phase-introduction-planning-phase-safe-planning-project-plan-delivery"><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Delivery</strong><a class="headerlink" href="#introduction-phase-introduction-planning-phase-safe-planning-project-plan-delivery" title="Permanent link"></a></h3>
+<p>Advent Pro Variable is delivered in 4 weight, 8 italic and 4 width Masters, variable formats come in flavors with segmented axes and a definitive version which includes all axes (wght,wdth,ital).</p>
+<p>The delivered font files are provided in UFO, OTF, EFO and VAR TTF</p>
+<p><a href="https://github.com/VivaRado/Advent/blob/master/font_source/UFOs">All the above files are available here</a>.</p>
+<p>To keep things simple for the initial release, we don&rsquo;t generate intermediate instances as standalone OTFs, this brings the total of available weights deriging from only the masters to 16.</p>
+<hr />
+<h3 id="introduction-phase-introduction-planning-phase-safe-planning-project-plan-usage"><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Usage</strong><a class="headerlink" href="#introduction-phase-introduction-planning-phase-safe-planning-project-plan-usage" title="Permanent link"></a></h3>
+<p><a href="https://github.com/VivaRado/Advent/blob/master/font_source/VAR">Variable format versions</a>.</p>
+<h4 id="to-compile-from-ufo"><strong>To compile from UFO</strong><a class="headerlink" href="#to-compile-from-ufo" title="Permanent link"></a></h4>
+<p><code>fontmake -o variable -m '/font.designspace' --output-path '/adventpro-VF.ttf'</code></p>
+<h4 id="or-from-efo"><strong>Or from EFO</strong><a class="headerlink" href="#or-from-efo" title="Permanent link"></a></h4>
+<p><code>python3 '/efo_to_var.py' -s '/font_source/EFO' -o '/adventpro-VF.ttf'</code></p>
+<h4 id="compiled-using"><strong>Compiled Using</strong><a class="headerlink" href="#compiled-using" title="Permanent link"></a></h4>
+<div class="codehilite"><pre>fonttools==4.0.0
+cu2qu==1.6.6
+ufo2ft==2.9.0
+defcon==0.6.0
+</pre></div>
+
+<h4 id="compiling-specific-flavor"><strong>Compiling specific flavor</strong><a class="headerlink" href="#compiling-specific-flavor" title="Permanent link"></a></h4>
+<p>Advent 4 with the introduction of a new axes and a new weight (wide and black), comes in flavored designspace files where those masters are partitioned. You can find the designspaces for advent 4 in <code>font_source/UFOs</code> labeled as <strong>adv4</strong>.</p>
+<ul>
+<li>
+<p><strong>Designspace Flavors:</strong></p>
+<ul>
+<li>
+<p>Active:</p>
+<ul>
+<li>
+<p><strong>weight <a href="https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/latest/adv_wght.designspace">adv4_wght</a></strong></p>
+<ul>
+<li>Thin through Black, Only Normal Width, Only Non Italic.</li>
+<li>Weight axes only.</li>
+</ul>
+</li>
+<li>
+<p><strong>weight and width <a href="https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/latest/adv_wght_wdth.designspace">adv4_wght_wdth</a></strong></p>
+<ul>
+<li>Thin through Black, Normal through Expanded Width, Only Non Italic.</li>
+<li>Weight axes and Width axes.</li>
+</ul>
+</li>
+<li>
+<p><strong>weight and ital <a href="https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/latest/adv_wght_ital.designspace">adv4_wght_ital</a></strong></p>
+<ul>
+<li>Thin through Black, Only Normal Width, Non Italic through Italic.</li>
+<li>Weight axes and Italic axes.</li>
+</ul>
+</li>
+<li>
+<p><strong>weight,width,ital (DEFINITIVE) <a href="https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/latest/adv_wght_wdth_ital.designspace">adv4_wght_wdth_ital</a></strong></p>
+<ul>
+<li>Thin through Black, Normal through Expanded Width, Non Italic through Italic.</li>
+<li>Weight axes, Italic axes and Width axes.</li>
+</ul>
+</li>
+<li>
+<p><strong>weight,width,ital,opsz <a href="https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/latest/adv_wght_wdth_ital_opsz.designspace">adv4_wght_wdth_ital_opsz</a></strong></p>
+<ul>
+<li>Thin through Black, Normal through Expanded Width, Non Italic through Italic.</li>
+<li>Weight axes, Italic axes and Width axes.</li>
+<li>Optical Size</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Preset:</p>
+<ul>
+<li>
+<p><strong>weight, pre ital <a href="https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/latest/adv_wght_preital.designspace">adv4_wght_preital</a></strong></p>
+<ul>
+<li>Thin through Black, Only Normal Width, Only Italic.</li>
+<li>Weight axes but instances are preset to italic.</li>
+</ul>
+</li>
+<li>
+<p><strong>weight, pre width <a href="https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/latest/adv_wght_prewdth.designspace">adv4_wght_prewdth</a></strong></p>
+<ul>
+<li>Thin through Black, Only Expanded Width, Only Non Italic.</li>
+<li>Weight axes but instances are preset to Expanded Width.</li>
+</ul>
+</li>
+<li>
+<p><strong>weight, pre width, pre ital <a href="https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/latest/adv_wght_prewdth_preital.designspace">adv4_wght_prewdth_preital</a></strong></p>
+<ul>
+<li>Thin through Black, Only Expanded Width, Only Italic.</li>
+<li>Weight axes but instances are preset to Expanded Width and are preset to Italic.</li>
+</ul>
+</li>
+<li>
+<p><strong>weight and width, pre italic <a href="https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/latest/adv_wght_wdth_preital.designspace">adv4_wght_wdth_preital</a></strong></p>
+<ul>
+<li>Thin through Black, Normal through Expanded Width, Only Non Italic.</li>
+<li>Weight axes and Width axes but instances are preset to Italic.</li>
+</ul>
+</li>
+<li>
+<p><strong>weight and ital, pre width <a href="https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/latest/adv_wght_ital_prewdth.designspace">adv4_wght_ital_prewdth</a></strong></p>
+<ul>
+<li>Thin through Black, Only Expanded Width, Non Italic through Italic.</li>
+<li>Weight axes and Italic axes but instances are preset to Expanded Width.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h4 id="compiling-everything"><strong>Compiling Everything</strong><a class="headerlink" href="#compiling-everything" title="Permanent link"></a></h4>
+<p>You can find <code>font_source/compile_latest_variable_flavors.sh</code>, By modifying to your needs, you can compile each of the above versions.</p>
+<hr />
+<h3 id="introduction-phase-introduction-planning-phase-safe-planning-work-planning"><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Work Planning</strong><a class="headerlink" href="#introduction-phase-introduction-planning-phase-safe-planning-work-planning" title="Permanent link"></a></h3>
+<h4 id="kerning-work-breakdown-structure">Kerning Work Breakdown Structure<a class="headerlink" href="#kerning-work-breakdown-structure" title="Permanent link"></a></h4>
+<p><div class="codehilite"><pre>sequenceDiagram
+    loop Advent
+        LevelA-&gt;&gt;LevelB: Advent Work Plan
+        alt Glyphs
+            alt Design
+                LevelB--&gt;LevelC: Cleaning and optimizing
+            end
+            alt Components
+                alt Generate groups.PLIST
+                    LevelC-&gt;&gt;LevelE: SIMEX to 100%
+                    alt Componentize Glyphs
+                         LevelD--&gt;LevelE: According to SIMEX 100%
+                    end
+                    alt Anchoring
+                         LevelD--&gt;LevelE: According to Anchors.JSON
+                    end
+                end
+            end
+        end
+        alt Kern
+            LevelB--&gt;LevelC: Flat Kerning
+            alt Run Autokern
+                LevelC-&gt;&gt;LevelE: Autokern Settings
+            end
+            LevelB--&gt;LevelC: Compressed Kerning
+                alt Generate groups.PLIST
+                    LevelC-&gt;&gt;LevelE: SIMEX to 80%
+                    alt Review groups.PLIST
+                        LevelD--&gt;LevelE: Best Practices
+                        alt Quality Targets
+                            LevelD--&gt;LevelE: No Cross Script
+                            LevelD--&gt;LevelE: Alpha. Order Parent Children
+                        end
+                    end    
+                    alt Compress Flat Kerning
+                        LevelD--&gt;LevelE: According to groups.PLIST
+                    end                  
+            end
+            LevelB--&gt;LevelC: Tested Kerning
+            alt Kern Adjust UI
+                LevelC-&gt;&gt;LevelE: According to LB Permutations
+                alt Review, Adjust
+                    LevelD--&gt;LevelE: Quality Targets
+                    alt Quality Targets
+                        LevelD--&gt;LevelE: No Kerning Loss
+                    end
+                end    
+                alt Compress Flat Kerning
+                    LevelD--&gt;LevelE: According to groups.PLIST
+                    LevelD--&gt;LevelE: According to adjustments.JSON
+                end                  
+            end                  
+        end
+        alt Variable
+            LevelC--&gt;LevelD: Export Variable
+            alt EFO to VAR
+                LevelE-&gt;LevelD: End
+            else FontMake
+                LevelE-&gt;&gt;LevelD: By Designspace
+            end
+        end
+    end
+</pre></div>
+diagram: #006, ∞0.001, mermaid, Work Breakdown Structure of Advent for Kerning.</p>
+<hr />
+<h3 id="introduction-phase-introduction-planning-phase-safe-planning-work-planning-task-assignments"><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Work Planning / Task Assignments</strong><a class="headerlink" href="#introduction-phase-introduction-planning-phase-safe-planning-work-planning-task-assignments" title="Permanent link"></a></h3>
+<ul>
+<li><strong>Assumptions Research</strong>:<ul>
+<li>VivaRado, Andreas Kalpakidis (∞3,4)</li>
+</ul>
+</li>
+<li><strong>Docs Update</strong>:<ul>
+<li>VivaRado, Andreas Kalpakidis (∞3,4):<ul>
+<li>Identify Dependencies</li>
+<li>Identify Resource Requirements</li>
+</ul>
+</li>
+<li>VivaRado, Madina Akhmatova (∞3,4)</li>
+</ul>
+</li>
+<li><strong>Advent</strong>:<ul>
+<li><strong>Design</strong><ul>
+<li>VivaRado, Andreas Kalpakidis (∞1,2,3,4)</li>
+</ul>
+</li>
+<li><strong>Componentization</strong><ul>
+<li>VivaRado, Andreas Kalpakidis (∞3,4)</li>
+<li>Michael La Gatutta (∞3)</li>
+</ul>
+</li>
+<li><strong>Kerning</strong><ul>
+<li>VivaRado, Andreas Kalpakidis (∞3,4):<ul>
+<li>Build</li>
+<li>Test</li>
+</ul>
+</li>
+<li>Michael La Gatutta (∞3):<ul>
+<li>Best Practices</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>VRD TYPL</strong>:<ul>
+<li>VivaRado, Andreas Kalpakidis (∞3,4):<ul>
+<li>Build</li>
+<li>Test</li>
+</ul>
+</li>
+<li>VivaRado, Madina Akhmatova (∞3,4):<ul>
+<li>Compression Logic</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<hr />
+<h3 id="introduction-phase-introduction-planning-phase-safe-planning-work-planning-dependencies"><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Work Planning / Dependencies</strong><a class="headerlink" href="#introduction-phase-introduction-planning-phase-safe-planning-work-planning-dependencies" title="Permanent link"></a></h3>
+<p>For the kerning we depend on TypeFacet Autokern.</p>
+<hr />
+<h3 id="introduction-phase-introduction-planning-phase-safe-planning-schedule-planning"><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Schedule Planning</strong><a class="headerlink" href="#introduction-phase-introduction-planning-phase-safe-planning-schedule-planning" title="Permanent link"></a></h3>
+<p><code>{include=partials/introduction/phase_introduction/planning_phase/safe_planning/schedule_planning.md}</code></p>
+<hr />
+<h3 id="introduction-phase-introduction-planning-phase-safe-planning-schedule-planning-timeline"><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Schedule Planning / Timeline</strong><a class="headerlink" href="#introduction-phase-introduction-planning-phase-safe-planning-schedule-planning-timeline" title="Permanent link"></a></h3>
+<p><code>{include=partials/introduction/phase_introduction/planning_phase/safe_planning/schedule_planning_timeline.md}</code></p>
+<hr />
+<h3 id="introduction-phase-introduction-planning-phase-stakeholders"><strong>Introduction / Phase Introduction / Planning Phase / Stakeholders</strong><a class="headerlink" href="#introduction-phase-introduction-planning-phase-stakeholders" title="Permanent link"></a></h3>
+<p>We identify the <strong>Stakeholders</strong> by a <strong>Personnel Plan</strong> and create a <strong>Communication Plan</strong> to keep the <strong>Stakeholders</strong> informed.</p>
+<ul>
+<li>
+<p><strong>Stakeholders</strong> Components:</p>
+<ul>
+<li>Applicable Stakeholders (Concious and Unconcious Entities):<ul>
+<li>clients</li>
+<li>personell</li>
+<li>funders</li>
+<li>suppliers</li>
+<li>equipment</li>
+</ul>
+</li>
+<li>Glyph Design Team (Gdes)</li>
+<li>Kern Testing Team (KeT)</li>
+<li>Quality Assurance Team (QaT)</li>
+</ul>
+</li>
+</ul>
+<h3 id="introduction-phase-introduction-planning-phase-stakeholders-personnel-plan"><strong>Introduction / Phase Introduction / Planning Phase / Stakeholders / Personnel Plan</strong><a class="headerlink" href="#introduction-phase-introduction-planning-phase-stakeholders-personnel-plan" title="Permanent link"></a></h3>
+<ul>
+<li>Personnel Plan<ul>
+<li>Organizational Structure<ul>
+<li>team members<ul>
+<li>internal<ul>
+<li>Andreas Kalpakidis (∞1,2,3,4)</li>
+<li>Madina Akhmatova (∞3,4)</li>
+</ul>
+</li>
+<li>external<ul>
+<li>Michael La Gatutta (∞3)</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Responsibilities and Qualifications<ul>
+<li>Project Management and Accounting: Madina Akhmatova (∞3,4)</li>
+<li>Planning, Development and Design: Andreas Kalpakidis (∞3,4)</li>
+<li>Quality Assurance and Consulting: Michael La Gatutta (∞3)</li>
+<li>Acceptance: Dave Crossland (∞2,3,4)</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<hr />
+<h3 id="introduction-phase-introduction-planning-phase-stakeholders-communication-plan"><strong>Introduction / Phase Introduction / Planning Phase / Stakeholders / Communication Plan</strong><a class="headerlink" href="#introduction-phase-introduction-planning-phase-stakeholders-communication-plan" title="Permanent link"></a></h3>
+<ul>
+<li>Communication Plan<ul>
+<li>Stakeholder Feedback Mechanisms<ul>
+<li>Weekly Notifications</li>
+<li>VRD Forum</li>
+<li>Interactive Documentation</li>
+</ul>
+</li>
+<li>User Feedback Mechanisms:<ul>
+<li><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#115;&#117;&#112;&#112;&#111;&#114;&#116;&#64;&#118;&#105;&#118;&#97;&#114;&#97;&#100;&#111;&#46;&#99;&#111;&#109;">&#115;&#117;&#112;&#112;&#111;&#114;&#116;&#64;&#118;&#105;&#118;&#97;&#114;&#97;&#100;&#111;&#46;&#99;&#111;&#109;</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<hr />
+<h3 id="introduction-phase-introduction-planning-phase-quality-plan"><strong>Introduction / Phase Introduction / Planning Phase / Quality Plan</strong><a class="headerlink" href="#introduction-phase-introduction-planning-phase-quality-plan" title="Permanent link"></a></h3>
+<p>A <strong>Quality Plan</strong> describes the activities, standards, tools and processes necessary to achieve quality in the delivery of a project.</p>
+<p>We can now create a <strong>Quality Plan</strong> by identifying the valid <strong>Quality Targets</strong> we want to achieve. Identify the <strong>Quality Policies</strong> that will be required to achieve them. Identify how to do <strong>Quality Measurement</strong>. Lastly identify how to maintain quality with <strong>Quality Management</strong>.</p>
+<ul>
+<li>
+<p><strong>Quality Plan (PQP)</strong> Components:</p>
+<ol>
+<li>Quality Targets</li>
+<li>Quality Management</li>
+</ol>
+</li>
+</ul>
+<hr />
+<h3 id="introduction-phase-introduction-planning-phase-quality-plan-quality-targets"><strong>Introduction / Phase Introduction / Planning Phase / Quality Plan / Quality Targets</strong><a class="headerlink" href="#introduction-phase-introduction-planning-phase-quality-plan-quality-targets" title="Permanent link"></a></h3>
+<p><strong>Quality Targets</strong> we want to achieve and what are their <strong>Acceptance Criteria</strong>, <strong>Quality Management Procedures</strong>, for each <strong>Applicable Category</strong></p>
+<ol>
+<li>Quality Targets Components:<ul>
+<li>Acceptance criteria<ul>
+<li>Glyphs<ul>
+<li>Contour Components<ul>
+<li>Alligned Accents.</li>
+<li>Components.</li>
+</ul>
+</li>
+<li>Contour Quality<ul>
+<li>Point Minimisation.</li>
+<li>Extremas.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Kerning<ul>
+<li>Kerning Loss<ul>
+<li>No Loss on Standard Set permutations.</li>
+<li>Alpha. Order Parent Children</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Quality Management procedures<ul>
+<li>Kerning<ul>
+<li>Kerning Loss<ul>
+<li>Kern Adjust Interface Screenshots before and after compression.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ol>
+<hr />
+<h3 id="introduction-phase-introduction-planning-phase-quality-plan-quality-management"><strong>Introduction / Phase Introduction / Planning Phase / Quality Plan / Quality Management</strong><a class="headerlink" href="#introduction-phase-introduction-planning-phase-quality-plan-quality-management" title="Permanent link"></a></h3>
+<p><strong>Quality Management</strong>, the nature of the <strong>Audits</strong>, <strong>Work Verification</strong> by assigning responsible personnel for <strong>Task Fulfillment</strong> and <strong>Task Checking</strong>.</p>
+<ol>
+<li>Quality Management<ul>
+<li>Audits</li>
+<li>Tool Scheduling</li>
+<li>Work Verification<ul>
+<li>Task fulfillment responsible personnel <ul>
+<li>VivaRado</li>
+</ul>
+</li>
+<li>Task checking responsible personnel<ul>
+<li>VivaRado and Google Fonts</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ol>
+<hr /></article></body></html>

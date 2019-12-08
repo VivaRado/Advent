@@ -514,6 +514,28 @@ An example of what we are planning in terms of the new Black MO (Original Master
 
 image: #002, 0.002, svg, Advent MO and MG Masters.
 
+
+---
+
+
+#### Optical Axis
+
+The masters have been set as follows:
+
+
+| masters            | pt     |
+| -------------------| ------ |
+| thn                | 170    |
+| reg                | 55     |
+| bld                | 28     |
+| blk                | 17     |
+
+
+![adv_opsz](README/assets/media/advent_optical.svg)
+
+image: #003, 0.001, svg, Advent Optical Size Axis (opsz), chart.
+
+
 ---
 
 ### **Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Kerning**
@@ -762,6 +784,12 @@ Advent 4 with the introduction of a new axes and a new weight (wide and black), 
 		* **weight,width,ital (DEFINITIVE) [adv4\_wght\_wdth\_ital](https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/latest/adv_wght_wdth_ital.designspace)**
 			* Thin through Black, Normal through Expanded Width, Non Italic through Italic.
 			* Weight axes, Italic axes and Width axes.
+
+		* **weight,width,ital,opsz [adv4\_wght\_wdth\_ital\_opsz](https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/latest/adv_wght_wdth_ital_opsz.designspace)**
+			* Thin through Black, Normal through Expanded Width, Non Italic through Italic.
+			* Weight axes, Italic axes and Width axes.
+			* Optical Size
+
 	* Preset:
 		* **weight, pre ital [adv4\_wght\_preital](https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/latest/adv_wght_preital.designspace)**
 			* Thin through Black, Only Normal Width, Only Italic.
