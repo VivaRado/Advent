@@ -455,67 +455,85 @@ image: #001, 0.002, svg, Advent Masters and Instances sankey.
 
 #### Standard Instances
 
-| acro      | weight | name                             | master | version   |
-| --------- | ------ | -------------------------------- | ------ | --------- |
-| thn       | 100    | Thin (Hairline)                  | MO     | 3.000     |
-| reg       | 400    | Regular                          | MO     | 3.000     |
-| bld       | 700    | Bold                             | MO     | 3.000     |
-| blk       | 900    | Black (Heavy)                    | MO     | **4.000** |
-| thn-wd    | 100    | Expanded Thin (Hairline)         | MG     | **4.000** |
-| reg-wd    | 400    | Expanded Regular                 | MG     | **4.000** |
-| bld-wd    | 700    | Expanded Bold                    | MG     | **4.000** |
-| blk-wd    | 900    | Expanded Black (Heavy)           | MG     | **4.000** |
-| thn-it    | 100    | Italic Thin (Hairline)           | MG     | 3.000     |
-| reg-it    | 400    | Italic Regular                   | MG     | 3.000     |
-| bld-it    | 700    | Italic Bold                      | MG     | 3.000     |
-| blk-it    | 900    | Black (Heavy)                    | MG     | **4.000** |
-| thn-wd-it | 100    | Expanded Italic Thin (Hairline)  | MG     | **4.000** |
-| reg-wd-it | 400    | Expanded Italic Regular          | MG     | **4.000** |
-| bld-wd-it | 700    | Expanded Italic Bold             | MG     | **4.000** |
-| blk-wd-it | 900    | Expanded Black (Heavy)           | MG     | **4.000** |
+| acro      | weight | name                                   | master | version   |
+| --------- | ------ | -------------------------------------- | ------ | --------- |
+| thn       | 100    | Thin (Hairline)                        | MO     | 3.000     |
+| reg       | 400    | Regular                                | MO     | 3.000     |
+| bld       | 700    | Bold                                   | MO     | 3.000     |
+| blk       | 900    | Black (Heavy)                          | MO     | **4.000** |
+| thn-wd    | 100    | Ultra Expanded Thin (Hairline)         | MG     | **4.000** |
+| reg-wd    | 400    | Ultra Expanded Regular                 | MG     | **4.000** |
+| bld-wd    | 700    | Ultra Expanded Bold                    | MG     | **4.000** |
+| blk-wd    | 900    | Ultra Expanded Black (Heavy)           | MG     | **4.000** |
+| thn-it    | 100    | Italic Thin (Hairline)                 | MG     | 3.000     |
+| reg-it    | 400    | Italic Regular                         | MG     | 3.000     |
+| bld-it    | 700    | Italic Bold                            | MG     | 3.000     |
+| blk-it    | 900    | Black (Heavy)                          | MG     | **4.000** |
+| thn-wd-it | 100    | Ultra Expanded Italic Thin (Hairline)  | MG     | **4.000** |
+| reg-wd-it | 400    | Ultra Expanded Italic Regular          | MG     | **4.000** |
+| bld-wd-it | 700    | Ultra Expanded Italic Bold             | MG     | **4.000** |
+| blk-wd-it | 900    | Ultra Expanded Black (Heavy)           | MG     | **4.000** |
 
 
 #### Extended Instances
 
 
-| acro      | weight | name                                        | master | version   |
-| --------- | ------ | ------------------------------------------- | ------ | --------- |
-| thn       | 100    | Thin (Hairline)                             | MO     | 3.000     |
-| xlg       | 200    | Extra Light (Ultra Light)                   | MA     | **4.001** |
-| lgt       | 300    | Light                                       | MA     | **4.001** |
-| reg       | 400    | Regular                                     | MO     | 3.000     |
-| med       | 500    | Medium                                      | MA     | **4.001** |
-| smb       | 600    | Semi Bold (Demi Bold)                       | MA     | **4.001** |
-| bld       | 700    | Bold                                        | MO     | 3.000     |
-| xbd       | 800    | Extra Bold (Ultra Bold)                     | MA     | **4.001** |
-| blk       | 900    | Black (Heavy)                               | MO     | **4.000** |
-| thn-wd    | 100    | Expanded Thin (Hairline)                    | MG     | **4.000** |
-| xlg-wd    | 200    | Expanded Extra Light (Ultra Light)          | MA     | **4.001** |
-| lgt-wd    | 300    | Expanded Light                              | MA     | **4.001** |
-| reg-wd    | 400    | Expanded Regular                            | MG     | **4.000** |
-| med-wd    | 500    | Expanded Medium                             | MA     | **4.001** |
-| smb-wd    | 600    | Expanded Semi Bold (Demi Bold)              | MA     | **4.001** |
-| bld-wd    | 700    | Expanded Bold                               | MG     | **4.000** |
-| xbd-wd    | 800    | Expanded Extra Bold (Ultra Bold)            | MA     | **4.001** |
-| blk-wd    | 900    | Expanded Black (Heavy)                      | MG     | **4.000** |
-| thn-it    | 100    | Italic Thin (Hairline)                      | MG     | 3.000     |
-| xlg-it    | 200    | Italic Extra Light (Ultra Light)            | MA     | **4.001** |
-| lgt-it    | 300    | Italic Light                                | MA     | **4.001** |
-| reg-it    | 400    | Italic Regular                              | MG     | 3.000     |
-| med-it    | 500    | Italic Medium                               | MA     | **4.001** |
-| smb-it    | 600    | Italic Semi Bold (Demi Bold)                | MA     | **4.001** |
-| bld-it    | 700    | Italic Bold                                 | MG     | 3.000     |
-| xbd-it    | 800    | Extra Bold (Ultra Bold)                     | MA     | **4.001** |
-| blk-it    | 900    | Black (Heavy)                               | MG     | **4.000** |
-| thn-wd-it | 100    | Expanded Italic Thin (Hairline)             | MG     | **4.000** |
-| xlg-wd-it | 200    | Expanded Italic Extra Light (Ultra Light)   | MA     | **4.001** |
-| lgt-wd-it | 300    | Expanded Italic Light                       | MA     | **4.001** |
-| reg-wd-it | 400    | Expanded Italic Regular                     | MG     | **4.000** |
-| med-wd-it | 500    | Expanded Italic Medium                      | MA     | **4.001** |
-| smb-wd-it | 600    | Expanded Italic Semi Bold (Demi Bold)       | MA     | **4.001** |
-| bld-wd-it | 700    | Expanded Italic Bold                        | MG     | **4.000** |
-| xbd-wd-it | 800    | Expanded Extra Bold (Ultra Bold)            | MA     | **4.001** |
-| blk-wd-it | 900    | Expanded Black (Heavy)                      | MG     | **4.000** |
+| acro      | weight | name                                            | master | version   |
+| --------- | ------ | ----------------------------------------------- | ------ | --------- |
+| thn       | 100    | Thin (Hairline)                                 | MO     | 3.000     |
+| xlg       | 200    | Extra Light (Ultra Light)                       | MA     | **4.001** |
+| lgt       | 300    | Light                                           | MA     | **4.001** |
+| reg       | 400    | Regular                                         | MO     | 3.000     |
+| med       | 500    | Medium                                          | MA     | **4.001** |
+| smb       | 600    | Semi Bold (Demi Bold)                           | MA     | **4.001** |
+| bld       | 700    | Bold                                            | MO     | 3.000     |
+| xbd       | 800    | Extra Bold (Ultra Bold)                         | MA     | **4.001** |
+| blk       | 900    | Black (Heavy)                                   | MO     | **4.000** |
+| thn-ex    | 100    | Expanded Thin (Hairline)                        | MG     | **4.000** |
+| xlg-ex    | 200    | Expanded Extra Light (Ultra Light)              | MA     | **4.001** |
+| lgt-ex    | 300    | Expanded Light                                  | MA     | **4.001** |
+| reg-ex    | 400    | Expanded Regular                                | MG     | **4.000** |
+| med-ex    | 500    | Expanded Medium                                 | MA     | **4.001** |
+| smb-ex    | 600    | Expanded Semi Bold (Demi Bold)                  | MA     | **4.001** |
+| bld-ex    | 700    | Expanded Bold                                   | MG     | **4.000** |
+| xbd-ex    | 800    | Expanded Extra Bold (Ultra Bold)                | MA     | **4.001** |
+| blk-ex    | 900    | Expanded Black (Heavy)                          | MG     | **4.000** |
+| thn-ux    | 100    | Ultra Expanded Thin (Hairline)                  | MG     | **4.000** |
+| xlg-ux    | 200    | Ultra Expanded Extra Light (Ultra Light)        | MA     | **4.001** |
+| lgt-ux    | 300    | Ultra Expanded Light                            | MA     | **4.001** |
+| reg-ux    | 400    | Ultra Expanded Regular                          | MG     | **4.000** |
+| med-ux    | 500    | Ultra Expanded Medium                           | MA     | **4.001** |
+| smb-ux    | 600    | Ultra Expanded Semi Bold (Demi Bold)            | MA     | **4.001** |
+| bld-ux    | 700    | Ultra Expanded Bold                             | MG     | **4.000** |
+| xbd-ux    | 800    | Ultra Expanded Extra Bold (Ultra Bold)          | MA     | **4.001** |
+| blk-ux    | 900    | Ultra Expanded Black (Heavy)                    | MG     | **4.000** |
+| thn-it    | 100    | Italic Thin (Hairline)                          | MG     | 3.000     |
+| xlg-it    | 200    | Italic Extra Light (Ultra Light)                | MA     | **4.001** |
+| lgt-it    | 300    | Italic Light                                    | MA     | **4.001** |
+| reg-it    | 400    | Italic Regular                                  | MG     | 3.000     |
+| med-it    | 500    | Italic Medium                                   | MA     | **4.001** |
+| smb-it    | 600    | Italic Semi Bold (Demi Bold)                    | MA     | **4.001** |
+| bld-it    | 700    | Italic Bold                                     | MG     | 3.000     |
+| xbd-it    | 800    | Extra Bold (Ultra Bold)                         | MA     | **4.001** |
+| blk-it    | 900    | Black (Heavy)                                   | MG     | **4.000** |
+| thn-ex-it | 100    | Expanded Italic Thin (Hairline)                 | MG     | **4.000** |
+| xlg-ex-it | 200    | Expanded Italic Extra Light (Ultra Light)       | MA     | **4.001** |
+| lgt-ex-it | 300    | Expanded Italic Light                           | MA     | **4.001** |
+| reg-ex-it | 400    | Expanded Italic Regular                         | MG     | **4.000** |
+| med-ex-it | 500    | Expanded Italic Medium                          | MA     | **4.001** |
+| smb-ex-it | 600    | Expanded Italic Semi Bold (Demi Bold)           | MA     | **4.001** |
+| bld-ex-it | 700    | Expanded Italic Bold                            | MG     | **4.000** |
+| xbd-ex-it | 800    | Expanded Extra Bold (Ultra Bold)                | MA     | **4.001** |
+| blk-ex-it | 900    | Expanded Black (Heavy)                          | MG     | **4.000** |
+| thn-ux-it | 100    | Ultra Expanded Italic Thin (Hairline)           | MG     | **4.000** |
+| xlg-ux-it | 200    | Ultra Expanded Italic Extra Light (Ultra Light) | MA     | **4.001** |
+| lgt-ux-it | 300    | Ultra Expanded Italic Light                     | MA     | **4.001** |
+| reg-ux-it | 400    | Ultra Expanded Italic Regular                   | MG     | **4.000** |
+| med-ux-it | 500    | Ultra Expanded Italic Medium                    | MA     | **4.001** |
+| smb-ux-it | 600    | Ultra Expanded Italic Semi Bold (Demi Bold)     | MA     | **4.001** |
+| bld-ux-it | 700    | Ultra Expanded Italic Bold                      | MG     | **4.000** |
+| xbd-ux-it | 800    | Ultra Expanded Extra Bold (Ultra Bold)          | MA     | **4.001** |
+| blk-ux-it | 900    | Ultra Expanded Black (Heavy)                    | MG     | **4.000** |
 
 
 #### Axes
@@ -808,7 +826,7 @@ The delivered font files are provided in UFO, OTF, EFO and VAR TTF
 
 [All the above files are available here](https://github.com/VivaRado/Advent/blob/master/font_source/UFOs).
 
-To keep things simple for the initial release, we don't generate intermediate instances as standalone OTFs, this brings the total of available weights deriving from only the masters to 16. If any intermediate instances offered are present they may be lagging behind those main 16. The available OTF files are 16 for Standard release and 36 for Extended Realease. For all other formats we offer only the standard release.
+To keep things simple for the initial release, we don't generate intermediate instances as standalone OTFs, this brings the total of available weights deriving from only the masters to 16. If any intermediate instances offered are present they may be lagging behind those main 16. The available OTF files are 16 for Standard release and 54 for Extended Realease. For all other formats we offer only the standard release.
 
 ---
 
