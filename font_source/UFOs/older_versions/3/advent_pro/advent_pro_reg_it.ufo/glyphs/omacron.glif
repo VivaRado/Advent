@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="omacron" format="1">
-  <advance width="429"/>
-  <unicode hex="014D"/>
-  <outline>
-    <component base="o"/>
-    <component base="overscore" yxScale="-0.2125" xOffset="73.5605" yOffset="-35"/>
-  </outline>
-</glyph>

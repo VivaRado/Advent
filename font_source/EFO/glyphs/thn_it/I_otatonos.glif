@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Iotatonos" format="1">
-  <advance width="162"/>
-  <unicode hex="038A"/>
-  <outline>
-    <component base="I"/>
-    <component base="tonoscomb" xOffset="-105.619" yOffset="110"/>
-  </outline>
-</glyph>
