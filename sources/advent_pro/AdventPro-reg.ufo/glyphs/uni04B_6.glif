@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04B6" format="1">
+  <advance width="543" height="962"/>
+  <unicode hex="04B6"/>
+  <outline>
+    <component base="uni0427"/>
+    <contour>
+      <point x="443" y="57" type="line"/>
+      <point x="523" y="57" type="line"/>
+      <point x="523" y="-105" type="line"/>
+      <point x="475" y="-105" type="line"/>
+      <point x="467" y="0" type="line"/>
+      <point x="443" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>1</real>
+    <real>0.6</real>
+    <real>0.741</real>
+    <real>1</real>
+  </array>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>angle</key>
+      <real>90</real>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>134.44</real>
+      <key>y</key>
+      <real>0</real>
+    </dict>
+    <dict>
+      <key>angle</key>
+      <real>0</real>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>0</real>
+      <key>y</key>
+      <real>567</real>
+    </dict>
+  </array>
+  </dict>
+  </lib>
+</glyph>

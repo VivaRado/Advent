@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="w_w_w" format="1">
+  <advance width="2948" height="962"/>
+  <outline>
+    <component base="w" xOffset="5.064"/>
+    <component base="w" xOffset="953.609"/>
+    <component base="w" xOffset="1901.65"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>1</real>
+    <real>0.6</real>
+    <real>0.741</real>
+    <real>1</real>
+  </array>
+  </dict>
+  </lib>
+</glyph>

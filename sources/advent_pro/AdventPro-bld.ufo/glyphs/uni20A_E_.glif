@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni20AE" format="1">
+  <advance width="409" height="962"/>
+  <unicode hex="20AE"/>
+  <outline>
+    <component base="T" xOffset="-10"/>
+    <contour>
+      <point x="333" y="413" type="line"/>
+      <point x="369" y="333" type="line"/>
+      <point x="77" y="201" type="line"/>
+      <point x="40" y="282" type="line"/>
+    </contour>
+    <contour>
+      <point x="333" y="561" type="line"/>
+      <point x="369" y="481" type="line"/>
+      <point x="77" y="349" type="line"/>
+      <point x="40" y="430" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>1</real>
+    <real>0.6</real>
+    <real>0.741</real>
+    <real>1</real>
+  </array>
+  </dict>
+  </lib>
+</glyph>

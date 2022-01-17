@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kcommaaccent" format="1">
+  <advance height="962" width="475"/>
+  <unicode hex="0137"/>
+  <outline>
+    <component base="commaturnedbelowcomb" xOffset="104" yOffset="5"/>
+    <component base="k"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.976</real>
+        <real>1.0</real>
+        <real>0.6</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>
