@@ -80,6 +80,7 @@ Advent Pro is a modern display typeface, designed in 2007, this is the new versi
 *  Dave Crossland
 *  Michael LaGattuta <mjlagattuta@gmail.com>
 *  Behdad Esfahbod
+*  Marc Foley <m.foley.88@gmail.com>
 
 ---
 
