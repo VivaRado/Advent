@@ -1,0 +1,2361 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
+		<title></title>
+		<link rel="icon" href="assets/media/thumb.ico">
+		<link rel="stylesheet" type="text/css" href="assets/css/style.css">
+		<link rel="stylesheet" type="text/css" href="assets/css/code_native.css">
+		<script type="text/javascript" src="assets/js/mermaid.js"></script>
+		<script type="text/javascript" src="assets/js/jq.js"></script>
+		<script type="text/javascript" src="assets/js/domtoimage.js"></script><script type="text/javascript" src="assets/js/rasterizer_script.js"></script>
+		<script type="text/javascript" src="assets/js/webfont.js"></script>
+		<script type="text/javascript" src="assets/js/snap.svg-min.js"></script>
+		<script type="text/javascript" src="assets/js/raphael.min.js"></script>
+		<script type="text/javascript" src="assets/js/underscore-min.js"></script>
+		<script type="text/javascript" src="assets/js/sequence-diagram.js"></script>
+		<script type="text/javascript" src="assets/js/flowchart.js"></script>
+		<script type="text/javascript" src="assets/js/script.js"></script>
+	</head>
+	<body class="markdown">
+		<article class="markdown-body" id="body"><h2><strong>Preface</strong></h2>
+
+<p><strong>Advent</strong> is a project of <strong>VivaRado</strong>, thanks goes to all the contributors, <strong>Google Fonts</strong> and all the people who use it!</p>
+
+<p><img src="assets/media/adventprovar_2020.gif" alt="Screenshot" /></p>
+
+<div class="sidebar">
+
+<h3><strong>Contents</strong></h3>
+
+<ol>
+<li><strong>Preface</strong></li>
+<li><strong>Introduction</strong>
+<ol>
+<li><strong>Profile</strong></li>
+<li><strong>Project Overview</strong>
+<ol>
+<li><strong>Background</strong></li>
+<li><strong>Need</strong></li>
+</ol></li>
+<li><strong>Organisational Documents</strong></li>
+<li><strong>Phase Introduction</strong>
+<ol>
+<li><strong>Initiation Phase</strong>
+<ol>
+<li><strong>Business Case</strong>
+<ol>
+<li><strong>Solution Options</strong></li>
+<li><strong>Strategic case</strong></li>
+<li><strong>Management case</strong>
+<ol>
+<li><strong>Achievements Plan</strong></li>
+</ol></li>
+</ol></li>
+<li><strong>Project Charter</strong>
+<ol>
+<li><strong>Project Introduction</strong>
+<ol>
+<li><strong>Project Statements</strong></li>
+</ol></li>
+<li><strong>Project Goals</strong> <!-- Added #0.002--></li>
+<li><strong>Deliverables</strong></li>
+<li><strong>Duration</strong> <!-- Added #0.002--></li>
+</ol></li>
+</ol></li>
+<li><strong>Planning Phase</strong>
+<ol>
+<li><strong>Safe Planning</strong>
+<ol>
+<li><strong>Project Plan</strong>
+<ol>
+<li><strong>Design</strong></li>
+<li><strong>Production</strong></li>
+<li><strong>Masters and Instances</strong></li>
+<li><strong>Kerning</strong></li>
+<li><strong>Components</strong></li>
+<li><strong>Scripts</strong></li>
+<li><strong>Glyphs</strong></li>
+<li><strong>Features</strong></li>
+<li><strong>Hinting</strong></li>
+<li><strong>Delivery</strong></li>
+<li><strong>Usage</strong></li>
+</ol></li>
+<li><strong>Work Planning</strong>
+<ol>
+<li><strong>Task Assignments</strong></li>
+<li><strong>Dependencies</strong></li>
+</ol></li>
+<li><strong>Schedule Planning</strong>
+<ol>
+<li><strong>Timeline</strong></li>
+</ol></li>
+</ol></li>
+<li><strong>Stakeholders</strong>
+<ol>
+<li><strong>Personnel Plan</strong></li>
+<li><strong>Communication Plan</strong></li>
+</ol></li>
+<li><strong>Quality Plan</strong>
+<ol>
+<li><strong>Quality Targets</strong></li>
+<li><strong>Quality Management</strong></li>
+</ol></li>
+</ol></li>
+</ol></li>
+</ol></li>
+</ol>
+
+<h3>Glossary</h3>
+
+<ol>
+<li><strong>Glossary</strong></li>
+</ol>
+
+<h3>Reference</h3>
+
+<ol>
+<li><strong>Reference</strong></li>
+</ol>
+
+</div>
+
+<h2><strong>Introduction</strong></h2>
+
+<p>Advent Pro is a modern display typeface, designed in 2007, this is the new version (4 of 2019-2020) that is delivered as a variable font, along with the classic formats. It supports 14 weights including italics. It is currently maintained and released by VivaRado, by it's original designer Andreas Kalpakidis. What is unique about this version is that thanks to the strict requirements of the Variable Format, all the glyph contours have been reworked, with amazing attention to quality. Then we compressed the kerning to a great degree making the font superbly kerned and compact at the same time.</p>
+
+<h4>Contributors:</h4>
+
+<ul>
+<li>VivaRado <a rel="noopener" target="_blank" href="&#x6d;&#x61;&#105;&#x6c;&#x74;&#x6f;&#x3a;&#x73;&#117;&#x70;&#112;&#111;&#x72;&#116;&#x40;&#x76;&#x69;&#x76;&#x61;&#114;&#97;&#100;o&#x2e;&#x63;&#x6f;&#109;">&#x73;&#117;&#x70;&#112;&#111;&#x72;&#116;&#x40;&#x76;&#x69;&#x76;&#x61;&#114;&#97;&#100;o&#x2e;&#x63;&#x6f;&#109;</a></li>
+<li>Andreas Kalpakidis</li>
+<li>Madina Akhmatova</li>
+<li>Dave Crossland</li>
+<li>Michael LaGattuta <a rel="noopener" target="_blank" href="&#109;&#x61;&#105;&#x6c;&#116;&#x6f;&#x3a;&#109;&#106;&#x6c;&#97;&#103;&#x61;&#x74;&#x74;&#117;&#x74;&#97;&#x40;g&#109;&#97;&#105;&#x6c;&#x2e;&#x63;&#x6f;&#109;">&#109;&#106;&#x6c;&#97;&#103;&#x61;&#x74;&#x74;&#117;&#x74;&#97;&#x40;g&#109;&#97;&#105;&#x6c;&#x2e;&#x63;&#x6f;&#109;</a></li>
+<li>Behdad Esfahbod</li>
+</ul>
+
+<hr />
+
+<h3><strong>Introduction / Profile</strong></h3>
+
+<ul>
+<li>Company: VivaRado LLP</li>
+<li>Designer: Andreas Kalpakidis</li>
+<li>Twitter: <a rel="noopener" target="_blank" href="https://twitter.com/VivaRado">@vivarado</a></li>
+<li>Google Group:<a rel="noopener" target="_blank" href="https://groups.google.com/a/vivarado.com/forum/#!forum/typography">VivaRado Typography Google Group</a></li>
+</ul>
+
+<hr />
+
+<h3><strong>Introduction / Project Overview</strong></h3>
+
+<ul>
+<li><p>Project Overview</p>
+
+<ul>
+<li>background</li>
+<li>need</li>
+<li>scope</li>
+<li>activities</li>
+<li>important dates or deadlines</li>
+</ul></li>
+<li><p>Project Name: Advent Pro Variable</p></li>
+<li>Type family name: Advent Pro Var (Advent Professional Variable)</li>
+<li>Proposal Date: 22/08/2018</li>
+</ul>
+
+<hr />
+
+<h3><strong>Introduction / Project Overview / Background</strong></h3>
+
+<p>Advent was originally designed during a two year period by Andreas Kalpakidis, in Athens and later in Komotini, Greece during 2006 to 2007. It was an attempt to break some of the Greek script rules and some of the Latin script rules on letterform grouping. All the letters have been in a sense simplified, and Greek Letters where fitted into Latin groups visually. The overall designed was intended to be light, the font is not intended for text but for headlines, logos, and other short message formats as a display font.</p>
+
+<hr />
+
+<h3><strong>Introduction / Project Overview / Need</strong></h3>
+
+<p>During 2007 there was a common problem of lack of Greek fonts, even though some agencies took this as an opportunity, Advent was released for free. It was a project that never intended to be something other than an expression of a minimal typographic style.</p>
+
+<hr />
+
+<h3><strong>Introduction / Organisational Documents</strong></h3>
+
+<p>Documentation Types:</p>
+
+<ul>
+<li>HTML - Responsive preview in HTML format - At README directory</li>
+<li>Standard Repository README - At the root of the repository</li>
+<li>PDF - At the root of the repository</li>
+</ul>
+
+<p>Features:</p>
+
+<ul>
+<li>Responsive Interface</li>
+<li>Synchronized Sidebar</li>
+<li>Hashtag Navigation</li>
+<li>PDF with TOC and Cover</li>
+</ul>
+
+<p>Drawbacks:</p>
+
+<ul>
+<li>Graphs and Diagrams will not work in github and bitbucket preview, but are still readable.</li>
+<li>Graphs and Diagrams will not work in PDF will be assessed.</li>
+</ul>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction</strong></h3>
+
+<p><strong>Initiation Phase</strong>:</p>
+
+<p>This documentation being part of VivaRado ORGDOC has been implemented over the old advent documentation. Advent itself since 2007 had no real repository or vendor entity other than it was on release by multiple websites for free fonts.</p>
+
+<hr />
+
+<p><strong>Planning Phase</strong>:</p>
+
+<p>All the information on how Advent was updated, produced and offered.</p>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Initiation Phase</strong></h3>
+
+<p><strong>Business Case</strong>:</p>
+
+<p>What are the benefits we are trying to get from the project and justification of the decision. It encapsulates the research done to see if the project is worth doing.</p>
+
+<hr />
+
+<ul>
+<li><p><strong>Initiation Phase</strong> Components ∞0.001:</p>
+
+<ol>
+<li><strong>Business Case</strong>:
+<ul>
+<li>Strategic case</li>
+<li>Management case</li>
+</ul></li>
+</ol></li>
+</ul>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Initiation Phase / Business Case</strong></h3>
+
+<p>A business case captures the reasoning for initiating the redesign and variation of Advent.</p>
+
+<ul>
+<li><strong>Business Case</strong> Components ∞0.003:
+<ol>
+<li><strong>Solution Options</strong></li>
+<li><strong>Strategic case</strong></li>
+<li><strong>Management case</strong></li>
+</ol></li>
+</ul>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Initiation Phase / Business Case / Solution Options</strong></h3>
+
+<p>Identified Solution Options:</p>
+
+<ul>
+<li>Update the old Advent Font to Variable.</li>
+<li>Redesign the old Advent Font to Variable and Include Italics.</li>
+</ul>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Initiation Phase / Business Case / Strategic case</strong></h3>
+
+<p>During the initiation of the redesign of Advent, VivaRado as the current vendor, had to undergo a tool design process, as there was a clear need for faster integration of the new design, we realised that we needed a tool to somehow control the decentralised, but very helpful UFO format.</p>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Initiation Phase / Business Case / Management case</strong></h3>
+
+<p>The management case tests the feasibility of the preferred option, in terms of its deliverability within various tolerances. </p>
+
+<h4>Achievability:</h4>
+
+<p>By implementing a set of scripts that are now part of VRD TYPL. We could manage a set of UFOs by combining the repeated parts, and keeping them as intact as possible in terms of the UFO format, we introduced internally the EFO as a pseudoformat that allows for implementation of scripts on a whole family of weights. This allowed us to overcome the decentralisation of UFOs and move forward and produce Advent successfully.</p>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Initiation Phase / Business Case / Management case / Achievements Plan</strong></h3>
+
+<ol>
+<li><strong>Milestones</strong>
+<ol>
+<li>VRD TYPL</li>
+<li>VRD TYPL / TypeFacet Integration</li>
+<li>Fontmake Kerning Bug Solution</li>
+</ol></li>
+<li><strong>Dependencies</strong>
+<ol>
+<li>UFO</li>
+<li>TypeFacet Autokern</li>
+<li>Fontmake</li>
+</ol></li>
+<li><strong>Skillset Requirements</strong>
+<ol>
+<li>Variable Font comprehension.</li>
+<li>Python Programming</li>
+<li>Web Application Development</li>
+<li>Type Design</li>
+<li>Kerning Classification</li>
+<li>Kerning Compression</li>
+</ol></li>
+</ol>
+
+<h4>Fontbakery Gave us a Cupcake:</h4>
+
+<pre><code>       .,@@'
+    .@@@@..@@@@.
+  .@@,  .@ .  .@@, 
+.@@.@`  ,.@.,'  '@@@
+@    "@'      '@"  @
+:@@@..@. ,@..@.@@.,@
+  \\ ||@@' |||| //
+   || |||| ||| ||
+    \\ ||| || //
+     ||||||||||
+
+ Advent Cupcake Day
+   April 13 2019
+
+</code></pre>
+
+<p>Image CupCake, Actual Cupcake Fairly Larger. Objects in ANSI are larger than they appear.</p>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Initiation Phase / Project Charter</strong></h3>
+
+<ul>
+<li><strong>Project Charter</strong> Components ∞0.002:
+<ul>
+<li>Project Introduction</li>
+<li>Project Goals</li>
+<li>Deliverables</li>
+<li>Duration</li>
+</ul></li>
+</ul>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Initiation Phase / Project Charter / Project Introduction</strong></h3>
+
+<ul>
+<li><p><strong>Project Introduction</strong> Components ∞0.002:</p>
+
+<ul>
+<li>Project Name</li>
+<li>Project Statements
+<ul>
+<li>Vision Statement</li>
+<li>Mission Statement</li>
+</ul></li>
+<li>Project Definition
+<ul>
+<li>Problem </li>
+<li>Opportunity</li>
+</ul></li>
+</ul></li>
+</ul>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Initiation Phase / Project Charter / Project Introduction / Project Statements</strong></h3>
+
+<h4>Vision Statement:</h4>
+
+<p>Contribution to libre great typography.</p>
+
+<h4>Mission Statement:</h4>
+
+<p>To expand our ideas about typography and contribute to language.</p>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Initiation Phase / Project Charter / Project Introduction / Project Definition</strong></h3>
+
+<ul>
+<li><p><strong>Problem</strong> Components ∞0.001:</p>
+
+<ul>
+<li>Problematic Vectors</li>
+<li>Dirty Contours</li>
+<li>Old Format</li>
+</ul></li>
+<li><p><strong>Opportunity</strong> Components ∞0.001:</p>
+
+<ul>
+<li>New Variable Font Format</li>
+<li>Cleaner Contrours</li>
+<li>Compression Concepts</li>
+<li>Lighter Offering</li>
+</ul></li>
+</ul>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Initiation Phase / Project Charter / Project Goals</strong></h3>
+
+<ul>
+<li>Goals for ∞ 3.000:
+<ul>
+<li>To bring an updated Advent Pro to the Variable format, </li>
+<li>Add Italics Axes</li>
+<li>Add Weight Axes</li>
+</ul></li>
+<li>Goals for ∞ 4.000:
+<ul>
+<li>Add Cyrillic</li>
+<li>Add Width Axes</li>
+<li>Add Optical Size Axes</li>
+</ul></li>
+</ul>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Initiation Phase / Project Charter / Deliverables</strong></h3>
+
+<ul>
+<li><strong>Deliverables</strong> Components ∞0.001:
+<ul>
+<li>Advent Pro Variable:
+<ul>
+<li>Variation Weight Axes</li>
+<li>Variation Italic Axes</li>
+</ul></li>
+<li>Advent Pro 14 Weights:
+<ul>
+<li>Classic Formats (TTF, OTF, ...)</li>
+</ul></li>
+<li>VRD-Typography-Library:
+<ul>
+<li>EFO to UFOs</li>
+<li>UFOs to EFO</li>
+<li>EFO to VAR</li>
+<li>Kerning Extract Similarity (SIMEX)</li>
+<li>Kerning Autokern</li>
+<li>Kerning Compress FlatD</li>
+<li>Componentize EFO</li>
+<li>Kerning Adjust UI</li>
+</ul></li>
+</ul></li>
+</ul>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Initiation Phase / Project Charter / Duration</strong></h3>
+
+<ul>
+<li><p><strong>Duration</strong> of Advent ∞3.000:</p>
+
+<ul>
+<li>22/08/2018 to 16/02/2019</li>
+</ul></li>
+<li><p><strong>Duration</strong> of Advent ∞4.000:</p>
+
+<ul>
+<li>April 1st 2019 to December 20th 2019</li>
+</ul></li>
+</ul>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase</strong></h3>
+
+<p>The Planning Phase, is where the project solution is further developed in as much detail as possible and the steps necessary to meet the project’s objectives.</p>
+
+<p>The Planning Phase consists of:</p>
+
+<ol>
+<li><strong>Safe Planning</strong></li>
+<li><strong>Stakeholders</strong></li>
+<li><strong>Quality Plan (PQP)</strong></li>
+</ol>
+
+<p>At this point, the project would have been planned in detail and is ready to be executed.</p>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning</strong></h3>
+
+<p>The project's <strong>Work Planning / Project Plan</strong> is created outlining the activities, tasks, dependencies, and timeframes.</p>
+
+<ul>
+<li><p><strong>Safe Planning</strong> Components (Scope Management): </p>
+
+<ul>
+<li>Projeect Plan:</li>
+<li>Work Planning:
+<ul>
+<li>Tasks Assignments</li>
+<li>Dependencies</li>
+</ul></li>
+<li>Schedule Planning.
+<ul>
+<li>Timeline</li>
+</ul></li>
+</ul></li>
+</ul>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan</strong></h3>
+
+<p>Decide on the encoding sets and supported language scripts. Decide and plan the weights and how you will generate each weight. Understand the procedures and steps. Calculate or keep track of timelines, steps procedures and pitfalls.</p>
+
+<ol>
+<li><strong>Project Plan</strong> Components ∞0.001:
+<ol>
+<li><strong>Design</strong></li>
+<li><strong>Production</strong></li>
+<li><strong>Masters and Instances</strong></li>
+<li><strong>Kerning</strong></li>
+<li><strong>Components</strong></li>
+<li><strong>Language Scripts and Glyph Range</strong></li>
+<li><strong>Features</strong></li>
+<li><strong>Delivery</strong></li>
+</ol></li>
+</ol>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Design</strong></h3>
+
+<p>Advent originally featured 7 weights of geometric sharp curved high rise forms and modernized Greek Letters. This realease features 14 weights, the original updated and improved forms along with italics.</p>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Production</strong></h3>
+
+<p>To produce the font, Illustrator and Fontlab was used originally in 2007, updating to Advent  Pro Variable in 2018, a set of scripts for Adobe Illustrator (JSX) and Fontlab (Python) where written, additionally python scripts and bash, for the composition and kerning. Later on VRD Typography Library was introduced allowing for easier modifications to the font by utilizing a new format - a container for UFO, called the EFO. VRD TYPL for kerning - and compression and Googles fontmake to compile the final variable font. </p>
+
+<p>Work was done on a Linux box with VirtualBox running Windows 8 and Mac OSX Lion.</p>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Masters and Instances</strong></h3>
+
+<p>The diagram shows the Original Masters (MO), Generated Masters (MG) that get adjusted manually and the automatically generated instances (MA).</p>
+
+<p><img src="assets/media/advent_masters_sankey.svg" alt="Masters and Instances" /></p>
+
+<p>image: #001, 0.002, svg, Advent Masters and Instances sankey.</p>
+
+<hr />
+
+<h4>Masters</h4>
+
+<table>
+<thead>
+<tr>
+  <th>name</th>
+  <th>weight</th>
+  <th>size</th>
+  <th>version</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Thin Normal</td>
+  <td>100</td>
+  <td>8pt, 24pt, 144pt</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>Regular Normal</td>
+  <td>400</td>
+  <td>8pt, 24pt, 144pt</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>Bold Normal</td>
+  <td>700</td>
+  <td>8pt, 24pt, 144pt</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>Black Normal</td>
+  <td>900</td>
+  <td>8pt, 24pt, 144pt</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>Thin Wide</td>
+  <td>100</td>
+  <td>8pt, 24pt, 144pt</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>Regular Wide</td>
+  <td>400</td>
+  <td>8pt, 24pt, 144pt</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>Bold Wide</td>
+  <td>700</td>
+  <td>8pt, 24pt, 144pt</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>Black Wide</td>
+  <td>900</td>
+  <td>8pt, 24pt, 144pt</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>Thin Italic Normal</td>
+  <td>100</td>
+  <td>8pt, 24pt, 144pt</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>Regular Italic Normal</td>
+  <td>400</td>
+  <td>8pt, 24pt, 144pt</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>Bold Italic Normal</td>
+  <td>700</td>
+  <td>8pt, 24pt, 144pt</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>Black Italic Normal</td>
+  <td>900</td>
+  <td>8pt, 24pt, 144pt</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>Thin Italic Wide</td>
+  <td>100</td>
+  <td>8pt, 24pt, 144pt</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>Regular Italic Wide</td>
+  <td>400</td>
+  <td>8pt, 24pt, 144pt</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>Bold Italic Wide</td>
+  <td>700</td>
+  <td>8pt, 24pt, 144pt</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>Black Italic Wide</td>
+  <td>900</td>
+  <td>8pt, 24pt, 144pt</td>
+  <td><strong>4.000</strong></td>
+</tr>
+</tbody>
+</table>
+
+<h4>Standard Instances</h4>
+
+<table>
+<thead>
+<tr>
+  <th>acro</th>
+  <th>weight</th>
+  <th>name</th>
+  <th>master</th>
+  <th>version</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>thn</td>
+  <td>100</td>
+  <td>Thin (Hairline)</td>
+  <td>MO</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>reg</td>
+  <td>400</td>
+  <td>Regular</td>
+  <td>MO</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>bld</td>
+  <td>700</td>
+  <td>Bold</td>
+  <td>MO</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>blk</td>
+  <td>900</td>
+  <td>Black (Heavy)</td>
+  <td>MO</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>thn-wd</td>
+  <td>100</td>
+  <td>Ultra Expanded Thin (Hairline)</td>
+  <td>MG</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>reg-wd</td>
+  <td>400</td>
+  <td>Ultra Expanded Regular</td>
+  <td>MG</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>bld-wd</td>
+  <td>700</td>
+  <td>Ultra Expanded Bold</td>
+  <td>MG</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>blk-wd</td>
+  <td>900</td>
+  <td>Ultra Expanded Black (Heavy)</td>
+  <td>MG</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>thn-it</td>
+  <td>100</td>
+  <td>Italic Thin (Hairline)</td>
+  <td>MG</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>reg-it</td>
+  <td>400</td>
+  <td>Italic Regular</td>
+  <td>MG</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>bld-it</td>
+  <td>700</td>
+  <td>Italic Bold</td>
+  <td>MG</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>blk-it</td>
+  <td>900</td>
+  <td>Black (Heavy)</td>
+  <td>MG</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>thn-wd-it</td>
+  <td>100</td>
+  <td>Ultra Expanded Italic Thin (Hairline)</td>
+  <td>MG</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>reg-wd-it</td>
+  <td>400</td>
+  <td>Ultra Expanded Italic Regular</td>
+  <td>MG</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>bld-wd-it</td>
+  <td>700</td>
+  <td>Ultra Expanded Italic Bold</td>
+  <td>MG</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>blk-wd-it</td>
+  <td>900</td>
+  <td>Ultra Expanded Black (Heavy)</td>
+  <td>MG</td>
+  <td><strong>4.000</strong></td>
+</tr>
+</tbody>
+</table>
+
+<h4>Extended Instances</h4>
+
+<table>
+<thead>
+<tr>
+  <th>acro</th>
+  <th>weight</th>
+  <th>name</th>
+  <th>master</th>
+  <th>version</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>thn</td>
+  <td>100</td>
+  <td>Thin (Hairline)</td>
+  <td>MO</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>xlg</td>
+  <td>200</td>
+  <td>Extra Light (Ultra Light)</td>
+  <td>MA</td>
+  <td><strong>4.001</strong></td>
+</tr>
+<tr>
+  <td>lgt</td>
+  <td>300</td>
+  <td>Light</td>
+  <td>MA</td>
+  <td><strong>4.001</strong></td>
+</tr>
+<tr>
+  <td>reg</td>
+  <td>400</td>
+  <td>Regular</td>
+  <td>MO</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>med</td>
+  <td>500</td>
+  <td>Medium</td>
+  <td>MA</td>
+  <td><strong>4.001</strong></td>
+</tr>
+<tr>
+  <td>smb</td>
+  <td>600</td>
+  <td>Semi Bold (Demi Bold)</td>
+  <td>MA</td>
+  <td><strong>4.001</strong></td>
+</tr>
+<tr>
+  <td>bld</td>
+  <td>700</td>
+  <td>Bold</td>
+  <td>MO</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>xbd</td>
+  <td>800</td>
+  <td>Extra Bold (Ultra Bold)</td>
+  <td>MA</td>
+  <td><strong>4.001</strong></td>
+</tr>
+<tr>
+  <td>blk</td>
+  <td>900</td>
+  <td>Black (Heavy)</td>
+  <td>MO</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>thn-ex</td>
+  <td>100</td>
+  <td>Expanded Thin (Hairline)</td>
+  <td>MG</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>xlg-ex</td>
+  <td>200</td>
+  <td>Expanded Extra Light (Ultra Light)</td>
+  <td>MA</td>
+  <td><strong>4.001</strong></td>
+</tr>
+<tr>
+  <td>lgt-ex</td>
+  <td>300</td>
+  <td>Expanded Light</td>
+  <td>MA</td>
+  <td><strong>4.001</strong></td>
+</tr>
+<tr>
+  <td>reg-ex</td>
+  <td>400</td>
+  <td>Expanded Regular</td>
+  <td>MG</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>med-ex</td>
+  <td>500</td>
+  <td>Expanded Medium</td>
+  <td>MA</td>
+  <td><strong>4.001</strong></td>
+</tr>
+<tr>
+  <td>smb-ex</td>
+  <td>600</td>
+  <td>Expanded Semi Bold (Demi Bold)</td>
+  <td>MA</td>
+  <td><strong>4.001</strong></td>
+</tr>
+<tr>
+  <td>bld-ex</td>
+  <td>700</td>
+  <td>Expanded Bold</td>
+  <td>MG</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>xbd-ex</td>
+  <td>800</td>
+  <td>Expanded Extra Bold (Ultra Bold)</td>
+  <td>MA</td>
+  <td><strong>4.001</strong></td>
+</tr>
+<tr>
+  <td>blk-ex</td>
+  <td>900</td>
+  <td>Expanded Black (Heavy)</td>
+  <td>MG</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>thn-ux</td>
+  <td>100</td>
+  <td>Ultra Expanded Thin (Hairline)</td>
+  <td>MG</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>xlg-ux</td>
+  <td>200</td>
+  <td>Ultra Expanded Extra Light (Ultra Light)</td>
+  <td>MA</td>
+  <td><strong>4.001</strong></td>
+</tr>
+<tr>
+  <td>lgt-ux</td>
+  <td>300</td>
+  <td>Ultra Expanded Light</td>
+  <td>MA</td>
+  <td><strong>4.001</strong></td>
+</tr>
+<tr>
+  <td>reg-ux</td>
+  <td>400</td>
+  <td>Ultra Expanded Regular</td>
+  <td>MG</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>med-ux</td>
+  <td>500</td>
+  <td>Ultra Expanded Medium</td>
+  <td>MA</td>
+  <td><strong>4.001</strong></td>
+</tr>
+<tr>
+  <td>smb-ux</td>
+  <td>600</td>
+  <td>Ultra Expanded Semi Bold (Demi Bold)</td>
+  <td>MA</td>
+  <td><strong>4.001</strong></td>
+</tr>
+<tr>
+  <td>bld-ux</td>
+  <td>700</td>
+  <td>Ultra Expanded Bold</td>
+  <td>MG</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>xbd-ux</td>
+  <td>800</td>
+  <td>Ultra Expanded Extra Bold (Ultra Bold)</td>
+  <td>MA</td>
+  <td><strong>4.001</strong></td>
+</tr>
+<tr>
+  <td>blk-ux</td>
+  <td>900</td>
+  <td>Ultra Expanded Black (Heavy)</td>
+  <td>MG</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>thn-it</td>
+  <td>100</td>
+  <td>Italic Thin (Hairline)</td>
+  <td>MG</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>xlg-it</td>
+  <td>200</td>
+  <td>Italic Extra Light (Ultra Light)</td>
+  <td>MA</td>
+  <td><strong>4.001</strong></td>
+</tr>
+<tr>
+  <td>lgt-it</td>
+  <td>300</td>
+  <td>Italic Light</td>
+  <td>MA</td>
+  <td><strong>4.001</strong></td>
+</tr>
+<tr>
+  <td>reg-it</td>
+  <td>400</td>
+  <td>Italic Regular</td>
+  <td>MG</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>med-it</td>
+  <td>500</td>
+  <td>Italic Medium</td>
+  <td>MA</td>
+  <td><strong>4.001</strong></td>
+</tr>
+<tr>
+  <td>smb-it</td>
+  <td>600</td>
+  <td>Italic Semi Bold (Demi Bold)</td>
+  <td>MA</td>
+  <td><strong>4.001</strong></td>
+</tr>
+<tr>
+  <td>bld-it</td>
+  <td>700</td>
+  <td>Italic Bold</td>
+  <td>MG</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>xbd-it</td>
+  <td>800</td>
+  <td>Extra Bold (Ultra Bold)</td>
+  <td>MA</td>
+  <td><strong>4.001</strong></td>
+</tr>
+<tr>
+  <td>blk-it</td>
+  <td>900</td>
+  <td>Black (Heavy)</td>
+  <td>MG</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>thn-ex-it</td>
+  <td>100</td>
+  <td>Expanded Italic Thin (Hairline)</td>
+  <td>MG</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>xlg-ex-it</td>
+  <td>200</td>
+  <td>Expanded Italic Extra Light (Ultra Light)</td>
+  <td>MA</td>
+  <td><strong>4.001</strong></td>
+</tr>
+<tr>
+  <td>lgt-ex-it</td>
+  <td>300</td>
+  <td>Expanded Italic Light</td>
+  <td>MA</td>
+  <td><strong>4.001</strong></td>
+</tr>
+<tr>
+  <td>reg-ex-it</td>
+  <td>400</td>
+  <td>Expanded Italic Regular</td>
+  <td>MG</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>med-ex-it</td>
+  <td>500</td>
+  <td>Expanded Italic Medium</td>
+  <td>MA</td>
+  <td><strong>4.001</strong></td>
+</tr>
+<tr>
+  <td>smb-ex-it</td>
+  <td>600</td>
+  <td>Expanded Italic Semi Bold (Demi Bold)</td>
+  <td>MA</td>
+  <td><strong>4.001</strong></td>
+</tr>
+<tr>
+  <td>bld-ex-it</td>
+  <td>700</td>
+  <td>Expanded Italic Bold</td>
+  <td>MG</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>xbd-ex-it</td>
+  <td>800</td>
+  <td>Expanded Extra Bold (Ultra Bold)</td>
+  <td>MA</td>
+  <td><strong>4.001</strong></td>
+</tr>
+<tr>
+  <td>blk-ex-it</td>
+  <td>900</td>
+  <td>Expanded Black (Heavy)</td>
+  <td>MG</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>thn-ux-it</td>
+  <td>100</td>
+  <td>Ultra Expanded Italic Thin (Hairline)</td>
+  <td>MG</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>xlg-ux-it</td>
+  <td>200</td>
+  <td>Ultra Expanded Italic Extra Light (Ultra Light)</td>
+  <td>MA</td>
+  <td><strong>4.001</strong></td>
+</tr>
+<tr>
+  <td>lgt-ux-it</td>
+  <td>300</td>
+  <td>Ultra Expanded Italic Light</td>
+  <td>MA</td>
+  <td><strong>4.001</strong></td>
+</tr>
+<tr>
+  <td>reg-ux-it</td>
+  <td>400</td>
+  <td>Ultra Expanded Italic Regular</td>
+  <td>MG</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>med-ux-it</td>
+  <td>500</td>
+  <td>Ultra Expanded Italic Medium</td>
+  <td>MA</td>
+  <td><strong>4.001</strong></td>
+</tr>
+<tr>
+  <td>smb-ux-it</td>
+  <td>600</td>
+  <td>Ultra Expanded Italic Semi Bold (Demi Bold)</td>
+  <td>MA</td>
+  <td><strong>4.001</strong></td>
+</tr>
+<tr>
+  <td>bld-ux-it</td>
+  <td>700</td>
+  <td>Ultra Expanded Italic Bold</td>
+  <td>MG</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>xbd-ux-it</td>
+  <td>800</td>
+  <td>Ultra Expanded Extra Bold (Ultra Bold)</td>
+  <td>MA</td>
+  <td><strong>4.001</strong></td>
+</tr>
+<tr>
+  <td>blk-ux-it</td>
+  <td>900</td>
+  <td>Ultra Expanded Black (Heavy)</td>
+  <td>MG</td>
+  <td><strong>4.000</strong></td>
+</tr>
+</tbody>
+</table>
+
+<h4>Axes</h4>
+
+<p>Weight:</p>
+
+<table>
+<thead>
+<tr>
+  <th>Value</th>
+  <th>Name</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>100</td>
+  <td>Thin</td>
+</tr>
+<tr>
+  <td>200</td>
+  <td>Extra Light</td>
+</tr>
+<tr>
+  <td>300</td>
+  <td>Light</td>
+</tr>
+<tr>
+  <td>400</td>
+  <td>Regular</td>
+</tr>
+<tr>
+  <td>500</td>
+  <td>Medium</td>
+</tr>
+<tr>
+  <td>600</td>
+  <td>Semi Bold</td>
+</tr>
+<tr>
+  <td>700</td>
+  <td>Bold</td>
+</tr>
+<tr>
+  <td>800</td>
+  <td>Extra Bold</td>
+</tr>
+<tr>
+  <td>900</td>
+  <td>Black</td>
+</tr>
+</tbody>
+</table>
+
+<p>Italic:</p>
+
+<table>
+<thead>
+<tr>
+  <th>Value</th>
+  <th>Name</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>0</td>
+  <td>Plain</td>
+</tr>
+<tr>
+  <td>1</td>
+  <td>Italic</td>
+</tr>
+</tbody>
+</table>
+
+<p>Width:</p>
+
+<table>
+<thead>
+<tr>
+  <th>Value</th>
+  <th>Name</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>100</td>
+  <td>Normal</td>
+</tr>
+<tr>
+  <td>200</td>
+  <td>Expanded</td>
+</tr>
+</tbody>
+</table>
+
+<p>Axes Design Parameters</p>
+
+<pre><code>Weight:
+
+Thin=100, "Extra Light"=200, Light=300, (Regular)=400, Medium=500, "Semi Bold"=600, Bold=700, "Extra Bold"=800, Black=900
+
+Italic:
+
+(Plain)=0, Italic=1
+
+Width:
+
+(Normal)=100, Expanded=200
+
+
+</code></pre>
+
+<p>Variable Flavors</p>
+
+<table>
+<thead>
+<tr>
+  <th>axes</th>
+  <th>version</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>weight axes only</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>italic axes with weight axes</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>weight and italic axes</td>
+  <td>3.000</td>
+</tr>
+<tr>
+  <td>weight and width</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>width axes only</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>italic axes with weight axes and width axes</td>
+  <td><strong>4.000</strong></td>
+</tr>
+<tr>
+  <td>optical size</td>
+  <td><strong>4.000</strong></td>
+</tr>
+</tbody>
+</table>
+
+<hr />
+
+<h4>Optical Axis</h4>
+
+<p>The masters have been set as follows:</p>
+
+<table>
+<thead>
+<tr>
+  <th>masters</th>
+  <th>pt</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>thn</td>
+  <td>170</td>
+</tr>
+<tr>
+  <td>reg</td>
+  <td>55</td>
+</tr>
+<tr>
+  <td>bld</td>
+  <td>28</td>
+</tr>
+<tr>
+  <td>blk</td>
+  <td>17</td>
+</tr>
+</tbody>
+</table>
+
+<p><img src="assets/media/advent_optical.svg" alt="adv_opsz" /></p>
+
+<p>image: #003, 0.001, svg, Advent Optical Size Axis (opsz), chart.</p>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Kerning</strong></h3>
+
+<p>With the help of Typefacet Integrated Autokern, we have obtained the first layer of kerning for the upright bold.
+By using VRD TYPL Kerning Adjust, 
+we made the corrections, and the rest of the optimisations required per weight.</p>
+
+<p>We have Classified our glyphs in a way where no kerning loss is observed. By dividing by Language Set, without language intrusion between classes.
+Small Case and Capitals are also non intruding. This increases size minimally but maintains kerning pair loss at zero.</p>
+
+<p>During the process we attempted to maintain the Italics width according to the contour. This created a larger alteration size and jittering italics transition due to changing width - even if the kerning was precise. We eventually opted for the slant-to-right-side-corner and maintained the regular kerning along to the italics and smoother animation on Italics.</p>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Kerning / Standard Sets</strong></h3>
+
+<p>All the letter combinations have been kerned but we also perform testing afterwards, for various reasons (Ommited) some kerning pairs are not included. This brings us to testing the kerning on a specific set of letters, the other letters are left to maintain the mechanical, automated kerning.</p>
+
+<p>VivaRado standard kerning sets are defined as follows:</p>
+
+<ul>
+<li><p>Letter Based(LB):</p>
+
+<ul>
+<li>Latin Capitals(LBLC):
+<ul>
+<li><code>A B C D E F G H I J K L M N O P Q R S T U V W X Y Z</code></li>
+</ul></li>
+<li>Latin SmallCase(LBLS):
+<ul>
+<li><code>a b c d e f g h i j k l m n o p q r s t u v w x y</code></li>
+</ul></li>
+<li>Greek (GREEK UNICODES)(LBGC):
+<ul>
+<li><code>Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω</code></li>
+</ul></li>
+<li>Greek SmallCase(LBGS):
+<ul>
+<li><code>α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ σ ς τ υ φ χ ψ ω</code></li>
+</ul></li>
+<li>Numbers(LBNU):
+<ul>
+<li><code>0 1 2 3 4 5 6 7 8 9</code></li>
+</ul></li>
+</ul></li>
+<li><p>Resulting Permutations that have been Adjusted:</p>
+
+<ul>
+<li><p>Letter Based Permutations (LB):</p>
+
+<ul>
+<li>Latin VS Latin Capitals Letter Based Permutation (LBLCLC)</li>
+<li>Latin VS Latin SmallCase Letter Based Permutation (LBLSLS)</li>
+<li><p>Latin Capitals VS Latin SmallCase Letter Based Permutation (LBLCLS)</p></li>
+<li><p>Greek VS Greek Capitals Letter Based Permutation (LBGCGC)</p></li>
+<li>Greek VS Greek SmallCase Letter Based Permutation (LBGSGS)</li>
+<li>Greek Capitals VS Greek SmallCase Letter Based Permutation (LBGCGS)</li>
+</ul></li>
+</ul></li>
+<li><p>Letter to Letter Adjustments:</p>
+
+<ul>
+<li>These are small adjustments due to design quirks, and when we decide that a glyph doesn't fit into classes or the class is not satisfying the kerning requirements completely.</li>
+</ul></li>
+<li>Ommited:
+<ul>
+<li>Cross Language System Kerning (grek to latn and latn to grek).</li>
+<li>Greek "sigma1" on the Left Side for all Greek.</li>
+</ul></li>
+</ul>
+
+<p>Version &gt;4.000 is pending Cyrillic Kerning.</p>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Kerning / Results</strong></h3>
+
+<p>The resulting kerning is:</p>
+
+<p><code>{'GG': 4458, 'GL': 761, 'LG': 708, 'LL': 166}</code></p>
+
+<p>Total Pairs: <code>6093</code></p>
+
+<p>More information in: <a rel="noopener" target="_blank" href="https://github.com/VivaRado/Advent/blob/master/docs/kerning_adjustments/kerning_pair_details">Kerning Pair Details</a></p>
+
+<p><strong>If you notice a possible kerning improvement we would like to hear about it.</strong></p>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Components</strong></h3>
+
+<p>Components are created by first running VRD/TYPL/SIMEX to obtain a component similarity index, then VRD/TYPL/COMPONENTS to Componentize the EFO,
+later you can export to Componentized UFOs.</p>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Scripts</strong></h3>
+
+<p>At this moment advent supports Latin, and Greek Encoding as ∞3.000.</p>
+
+<ul>
+<li><p><strong>Version ∞3.000</strong>:</p>
+
+<ul>
+<li><p><strong>Current Character Support:</strong></p>
+
+<ul>
+<li><em>Latin</em></li>
+<li><em>Extended Latin</em></li>
+<li><em>Greek</em></li>
+<li><em>Baltic</em></li>
+<li><em>Turkish</em></li>
+</ul></li>
+<li><p><strong>Intended Character Support:</strong></p>
+
+<ul>
+<li>The Proposed Encoding/Glyph List: /encoding<em>list/suggested</em>encoding.py</li>
+<li>Current Encoding/Glyph List: /encoding<em>list/current</em>encoding.enc</li>
+</ul></li>
+</ul></li>
+<li><p><strong>Version ∞4.000</strong>:</p>
+
+<ul>
+<li><em>Google Latin Plus</em></li>
+<li><em>Google Cyrillic Plus</em></li>
+<li><em>Google Greek</em></li>
+<li><em>Opentype Features Glyphs</em></li>
+</ul></li>
+</ul>
+
+<p><a rel="noopener" target="_blank" href="https://github.com/googlefonts/gftools/tree/master/Lib/gftools/encodings">Encoding NAM Files</a></p>
+
+<hr />
+
+<h4>Script Expansion</h4>
+
+<p>During script expansion (SE), we have a NAM file, with unicode and name information <a rel="noopener" target="_blank" href="README/plans/ADV3_SeC_integration">located here</a>. And the appropriate MO PDF files for each weight or MO. The work takes place per MO or weight, per glyph and the appropriate procedues take place. The MG (Generated Masters) don't need new vectors, just adjustments so those masters don't have PDF files with vectors. The task is then to position the vectors in the font. While working with the plans we update them to reflect the given changes. At the same time we repair any notable contour fixes, width fixes and whatever we see that is out of order.</p>
+
+<p>We have divided the vector integration work to given procedures:</p>
+
+<ul>
+<li>GP (Glyph Placement)</li>
+<li>WA (Width Adjustment)</li>
+<li>GF (Glyph Fix)</li>
+</ul>
+
+<hr />
+
+<p><strong>Glyph Placement</strong>:</p>
+
+<p>When dealing with a MO (Original Master), we initially position the vectors in the font, without any worry for width. Glyph Placement also deals with assigning components.</p>
+
+<p><strong>Width Adjustment</strong>:</p>
+
+<p>This deals with the adjustment of the glyph width where we determine if we have similar looking glyphs and transfer the width to the newly added glyph.</p>
+
+<p><strong>Glyph Fix</strong>:</p>
+
+<p>This is intended for the MG (Generated Masters), like italics or wide version where we keep the original glyphs but adjust them after applying an effect like slant or width.</p>
+
+<h4>Glyph Distributor</h4>
+
+<p>For integrating the glyphs to the EFO we use the Glyph Distributor, it is responsible for taking glif files from provided UFO and placing it to the appropriate EFO directory. Updating the glyphlib and the contents file.</p>
+
+<hr />
+
+<p>From the ADV3<em>SeC</em>integration file:</p>
+
+<pre><code>1024 0x0400 Ѐ CYRILLIC CAPITAL LETTER IE WITH GRAVE False
+    GP_MG (thn,reg,bld), 
+    WA_MO (thn,reg,bld), 
+    GF_MG (thn_it,reg_it,bld_it), 
+    WA_MG (thn_it,reg_it,bld_it)
+</code></pre>
+
+<p>We can then see that this glyph has been updated with the following procedures:</p>
+
+<ul>
+<li>GP_MG (Glyph Placement):
+<ul>
+<li>Component from existing glyphs like "E". This glyph has been placed for three Generated Masters (thn,reg,bld)</li>
+</ul></li>
+<li>WA_MO (Width Adjustment):
+<ul>
+<li>Widths (bearings) have been adjusted. This glyph widths have been adjusted for three Original Masters (thn,reg,bld)</li>
+</ul></li>
+<li>GF<em>MG (Glyph Fix):
+<ul>
+<li>This glyph was fixed after application of an effect like slant or width. This glyph has been fixed for three Generated Masters (thn<em>it,reg</em>it,bld</em>it)</li>
+</ul></li>
+<li>WA<em>MG (Width Adjustment):
+<ul>
+<li>Widths (bearings) have been adjusted. This glyph widths have been adjusted for three Generated Masters (thn<em>it,reg</em>it,bld</em>it)</li>
+</ul></li>
+</ul>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Glyphs</strong></h3>
+
+<ul>
+<li><p><strong>Version ∞3.000</strong>:</p>
+
+<p>The glyph range is ≃ 391</p></li>
+<li><p><strong>Version ∞4.000</strong>:</p>
+
+<p>The glyph range is ≃ 647</p></li>
+</ul>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Features</strong></h3>
+
+<p>Advent features at this moment include:</p>
+
+<ul>
+<li><p>liga:</p>
+
+<ul>
+<li>sub f l by fl;</li>
+<li>sub f i by fi;</li>
+<li>sub f f l by ffl;</li>
+<li>sub f t by ft;</li>
+<li>sub t t by t_t;</li>
+<li>sub w w w by w<em>w</em>w;</li>
+<li>sub gamma gamma by gamma_gamma;</li>
+<li>sub gamma kappa by gamma_kappa;</li>
+<li>sub lambda lambda by lambda_lambda;</li>
+</ul></li>
+</ul>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Hinting</strong></h3>
+
+<p>TrueType Hints</p>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Delivery</strong></h3>
+
+<p>Advent Pro Variable is delivered in 4 weight, 8 italic and 4 width Masters, variable formats come in flavors with segmented axes and a definitive version which includes all axes (wght,wdth,ital).</p>
+
+<p>The delivered font files are provided in UFO, OTF, EFO and VAR TTF</p>
+
+<p><a rel="noopener" target="_blank" href="https://github.com/VivaRado/Advent/blob/master/font_source/UFOs">All the above files are available here</a>.</p>
+
+<p>To keep things simple for the initial release, we don't generate intermediate instances as standalone OTFs, this brings the total of available weights deriving from only the masters to 16. If any intermediate instances offered are present they may be lagging behind those main 16. The available OTF files are 16 for Standard release and 54 for Extended Release. For all other formats we offer only the standard release.</p>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Usage</strong></h3>
+
+<p><a rel="noopener" target="_blank" href="https://github.com/VivaRado/Advent/blob/master/font_source/VAR">Variable format versions</a>.</p>
+
+<h4><strong>To compile from UFO</strong></h4>
+
+<p><code>fontmake -o variable -m '/font.designspace' --output-path '/adventpro-VF.ttf'</code></p>
+
+<h4><strong>Or from EFO</strong></h4>
+
+<p><code>python3 '/efo_to_var.py' -s '/font_source/EFO' -o '/adventpro-VF.ttf'</code></p>
+
+<h4><strong>Compiled Using</strong></h4>
+
+<pre><code>fonttools==4.0.0
+cu2qu==1.6.6
+ufo2ft==2.9.0
+defcon==0.6.0
+</code></pre>
+
+<h4><strong>Compiling specific flavor</strong></h4>
+
+<p>Advent 4 with the introduction of a new axes and a new weight (wide and black), comes in flavored designspace files where those masters are partitioned. You can find the designspaces for advent 4 in <code>font_source/UFOs</code> labeled as <strong>adv4</strong>.</p>
+
+<ul>
+<li><p><strong>Designspace Flavors:</strong></p>
+
+<ul>
+<li><p>Active:</p>
+
+<ul>
+<li><p><strong>weight <a rel="noopener" target="_blank" href="https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/latest/adv_wght.designspace">adv4_wght</a></strong></p>
+
+<ul>
+<li>Thin through Black, Only Normal Width, Only Non Italic.</li>
+<li>Weight axes only.</li>
+</ul></li>
+<li><p><strong>weight and width <a rel="noopener" target="_blank" href="https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/latest/adv_wght_wdth.designspace">adv4_wght_wdth</a></strong></p>
+
+<ul>
+<li>Thin through Black, Normal through Expanded Width, Only Non Italic.</li>
+<li>Weight axes and Width axes.</li>
+</ul></li>
+<li><p><strong>weight and ital <a rel="noopener" target="_blank" href="https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/latest/adv_wght_ital.designspace">adv4_wght_ital</a></strong></p>
+
+<ul>
+<li>Thin through Black, Only Normal Width, Non Italic through Italic.</li>
+<li>Weight axes and Italic axes.</li>
+</ul></li>
+<li><p><strong>weight,width,ital (DEFINITIVE) <a rel="noopener" target="_blank" href="https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/latest/adv_wght_wdth_ital.designspace">adv4_wght_wdth_ital</a></strong></p>
+
+<ul>
+<li>Thin through Black, Normal through Expanded Width, Non Italic through Italic.</li>
+<li>Weight axes, Italic axes and Width axes.</li>
+</ul></li>
+<li><p><strong>weight,width,ital,opsz <a rel="noopener" target="_blank" href="https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/latest/adv_wght_wdth_ital_opsz.designspace">adv4_wght_wdth_ital_opsz</a></strong></p>
+
+<ul>
+<li>Thin through Black, Normal through Expanded Width, Non Italic through Italic.</li>
+<li>Weight axes, Italic axes and Width axes.</li>
+<li>Optical Size</li>
+</ul></li>
+</ul></li>
+<li><p>Preset:</p>
+
+<ul>
+<li><p><strong>weight, pre ital <a rel="noopener" target="_blank" href="https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/latest/adv_wght_preital.designspace">adv4_wght_preital</a></strong></p>
+
+<ul>
+<li>Thin through Black, Only Normal Width, Only Italic.</li>
+<li>Weight axes but instances are preset to italic.</li>
+</ul></li>
+<li><p><strong>weight, pre width <a rel="noopener" target="_blank" href="https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/latest/adv_wght_prewdth.designspace">adv4_wght_prewdth</a></strong></p>
+
+<ul>
+<li>Thin through Black, Only Expanded Width, Only Non Italic.</li>
+<li>Weight axes but instances are preset to Expanded Width.</li>
+</ul></li>
+<li><p><strong>weight, pre width, pre ital <a rel="noopener" target="_blank" href="https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/latest/adv_wght_prewdth_preital.designspace">adv4_wght_prewdth_preital</a></strong></p>
+
+<ul>
+<li>Thin through Black, Only Expanded Width, Only Italic.</li>
+<li>Weight axes but instances are preset to Expanded Width and are preset to Italic.</li>
+</ul></li>
+<li><p><strong>weight and width, pre italic <a rel="noopener" target="_blank" href="https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/latest/adv_wght_wdth_preital.designspace">adv4_wght_wdth_preital</a></strong></p>
+
+<ul>
+<li>Thin through Black, Normal through Expanded Width, Only Non Italic.</li>
+<li>Weight axes and Width axes but instances are preset to Italic.</li>
+</ul></li>
+<li><p><strong>weight and ital, pre width <a rel="noopener" target="_blank" href="https://github.com/VivaRado/Advent/blob/master/font_source/UFOs/latest/adv_wght_ital_prewdth.designspace">adv4_wght_ital_prewdth</a></strong></p>
+
+<ul>
+<li>Thin through Black, Only Expanded Width, Non Italic through Italic.</li>
+<li>Weight axes and Italic axes but instances are preset to Expanded Width.</li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ul>
+
+<h4><strong>Compiling Everything</strong></h4>
+
+<p>You can find <code>font_source/compile_latest_variable_flavors.sh</code>, By modifying to your needs, you can compile each of the above versions.</p>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Work Planning</strong></h3>
+
+<h4>Kerning Work Breakdown Structure</h4>
+
+<pre><span></span><code class='codehilite mermaid'>sequenceDiagram
+    loop Advent
+        LevelA-&gt;&gt;LevelB: Advent Work Plan
+        alt Glyphs
+            alt Design
+                LevelB--&gt;LevelC: Cleaning and optimizing
+            end
+            alt Components
+                alt Generate groups.PLIST
+                    LevelC-&gt;&gt;LevelE: SIMEX to 100%
+                    alt Componentize Glyphs
+                         LevelD--&gt;LevelE: According to SIMEX 100%
+                    end
+                    alt Anchoring
+                         LevelD--&gt;LevelE: According to Anchors.JSON
+                    end
+                end
+            end
+        end
+        alt Kern
+            LevelB--&gt;LevelC: Flat Kerning
+            alt Run Autokern
+                LevelC-&gt;&gt;LevelE: Autokern Settings
+            end
+            LevelB--&gt;LevelC: Compressed Kerning
+                alt Generate groups.PLIST
+                    LevelC-&gt;&gt;LevelE: SIMEX to 80%
+                    alt Review groups.PLIST
+                        LevelD--&gt;LevelE: Best Practices
+                        alt Quality Targets
+                            LevelD--&gt;LevelE: No Cross Script
+                            LevelD--&gt;LevelE: Alpha. Order Parent Children
+                        end
+                    end    
+                    alt Compress Flat Kerning
+                        LevelD--&gt;LevelE: According to groups.PLIST
+                    end                  
+            end
+            LevelB--&gt;LevelC: Tested Kerning
+            alt Kern Adjust UI
+                LevelC-&gt;&gt;LevelE: According to LB Permutations
+                alt Review, Adjust
+                    LevelD--&gt;LevelE: Quality Targets
+                    alt Quality Targets
+                        LevelD--&gt;LevelE: No Kerning Loss
+                    end
+                end    
+                alt Compress Flat Kerning
+                    LevelD--&gt;LevelE: According to groups.PLIST
+                    LevelD--&gt;LevelE: According to adjustments.JSON
+                end                  
+            end                  
+        end
+        alt Variable
+            LevelC--&gt;LevelD: Export Variable
+            alt EFO to VAR
+                LevelE-&gt;LevelD: End
+            else FontMake
+                LevelE-&gt;&gt;LevelD: By Designspace
+            end
+        end
+    end
+</code></pre>
+
+<p>diagram: #006, ∞0.001, mermaid, Work Breakdown Structure of Advent for Kerning.</p>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Work Planning / Task Assignments</strong></h3>
+
+<ul>
+<li><strong>Assumptions Research</strong>:
+<ul>
+<li>VivaRado, Andreas Kalpakidis (∞3,4)</li>
+</ul></li>
+<li><strong>Docs Update</strong>:
+<ul>
+<li>VivaRado, Andreas Kalpakidis (∞3,4):
+<ul>
+<li>Identify Dependencies</li>
+<li>Identify Resource Requirements</li>
+</ul></li>
+<li>VivaRado, Madina Akhmatova (∞3,4)</li>
+</ul></li>
+<li><strong>Advent</strong>:
+<ul>
+<li><strong>Design</strong>
+<ul>
+<li>VivaRado, Andreas Kalpakidis (∞1,2,3,4)</li>
+</ul></li>
+<li><strong>Componentization</strong>
+<ul>
+<li>VivaRado, Andreas Kalpakidis (∞3,4)</li>
+<li>Michael La Gatutta (∞3)</li>
+</ul></li>
+<li><strong>Kerning</strong>
+<ul>
+<li>VivaRado, Andreas Kalpakidis (∞3,4):
+<ul>
+<li>Build</li>
+<li>Test</li>
+</ul></li>
+<li>Michael La Gatutta (∞3):
+<ul>
+<li>Best Practices</li>
+</ul></li>
+</ul></li>
+</ul></li>
+<li><strong>VRD TYPL</strong>:
+<ul>
+<li>VivaRado, Andreas Kalpakidis (∞3,4):
+<ul>
+<li>Build</li>
+<li>Test</li>
+</ul></li>
+<li>VivaRado, Madina Akhmatova (∞3,4):
+<ul>
+<li>Compression Logic</li>
+</ul></li>
+</ul></li>
+</ul>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Work Planning / Dependencies</strong></h3>
+
+<p>For the kerning we depend on TypeFacet Autokern.</p>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Schedule Planning</strong></h3>
+
+<p>Overview:</p>
+
+<p><strong>2019-06-12</strong>:</p>
+
+<p>We are preparing our approval documents for our stakeholders to review, for Script Extension to Cyrillic for version 3.</p>
+
+<p><strong>2019-07-06</strong>:</p>
+
+<p>We have a layout for the plan of Script Extension and Master Extension that will take place between 2019-04-27 until 2019-06-02.</p>
+
+<p>We will initially design and integrate the Cyrillic to Advent∞3, to 3 Original Masters (MO) and 3 Generated Master (MG). The design and integration for Advent∞3 SeC will take approximately 11 days. At this point Advent∞3 will be available with Cyrillic at 7 Instances of Upright and 7 Instances of Italic.</p>
+
+<p>After that we will branch and update the Advent∞3 to Advent∞4: 3 MO and 3 MG with additional Masters 1 MO and 9 MG, Initially we will do a Master Extension for all the new masters. That will cover the Black, Wide axes and Wide Italic and result to Advent∞4. Approximately by the end of July.</p>
+
+<p>The planning is for alphabetic glyphs and does not include any calculation of additional glyphs of any form. We will have to review the progress and update accordingly. After the review of the plan and assignment of additional tasks for fulfilment of additional glyphs, kerning and arbitrary corrections, Advent∞4 will be available with Cyrillic at 18 Instances of Upright and Upright Wide, 18 Instances of Italic and Italic Wide, total of 36 Instances.</p>
+
+<p><strong>2019-11-23</strong>:</p>
+
+<p>We have just finished the main work on all the wide masters from thin, regular, bold and finally black. This means that it is time for minor adjustments and iterations on these masters, after this we can conclude the work by generating the italics for those masters.</p>
+
+<pre><span></span><code class='codehilite mermaid'>gantt
+dateFormat  YYYY-MM-DD
+title Advent Schedule
+section Advent 3
+#ADV-0001 Advent 3:                                                  done, des1,  2018-08-22, 2019-02-16
+#ADV-0003 Advent 3 PR:                                               done, des2,  2019-02-16, 2019-04-01
+#ADV-0004 Advent 4 Planning:                                               des3,  after des2, 2019-04-30
+#ADV-0004-0001:                                                      done, des4,  2019-03-31, 2h
+ADV-0004-0002 Compare NAM:                                           done, des5,  2019-04-09, 2h
+ADV-0004-0003 MI Map:                                                done, des6,  2019-04-10, 2h
+ADV-0004-0005 Autokern Reintegration to TYPL - Standalone Repo:      done, des8,  2019-04-12, 6h
+ADV-0004-0006 Cupcake Day!:                                          done, des9,  2019-04-13, 2h
+
+ADV-0004-0007-0001 Advent 3 and 4 Master Planning:                         des10, 2019-04-14, 2019-04-25
+
+ADV-0003-0008-0001 Advent 3 Script Extension Cyrillic (SeC) Planning:      des27, 2019-04-26, 2h
+ADV-0004-0007-0001 Advent 4 Master Extension Latin (MaE) Planning:         des28, 2019-04-27, 2h
+ADV-0004-0008-0001 Advent 4 Script Extension Cyrillic (SeC) Planning:      des28, 2019-04-27, 1h
+#
+section Advent 3 SE Cyrillic
+
+ADV-0003-0008-0001 Advent 3 SE Cyrillic:                             crit, des29, 2019-04-27, 23d
+    ADV-0003-0008-0001-0001 Advent SeC MO:                           done, des30, 2019-04-27,  9d
+        SeC MO 1 reg (04/27 to 04/30):                               done, des39, 2019-04-27,  3d
+            MO reg Capital:                                          done, des31, 2019-04-27,  5h
+            MO reg Capital 39/39:                                    done, des31, 2019-04-28,  5h
+            MO reg SmallCase 9/45:                                   done, des31, 2019-04-28,  1h
+            MO reg SmallCase 45/45:                                  done, des62, 2019-04-29,  4h
+        3 SeC MO 2 thn (04/30 to 05/03):                             done, des40, after des39, 3d
+            MO thn Capital 15/39, SmallCase 17/45:                   done, des63, 2019-05-01,  4h
+            MO thn Capital 39/39, SmallCase 45/45:                   done, des64, 2019-05-02,  2h
+        3 SeC MO 3 bld:                                              done, des41, after des40, 3d
+            MO bld Capital 39/39, SmallCase 45/45:                   done, des65, 2019-05-05,  5h
+
+    ADV-0003-0008-0001-0002 Advent SeC MO Integration of vectors:    done, des58, after des30, 11d
+        3 SeC MO 1 thn:                                              done, des64, after des30, 3d
+            MO thn Capitals:                                         done, des59, 2019-05-07,  5h
+            MO thn LowerCase:                                        done, des62, 2019-05-08,  5h
+            MO thn Complete:                                         done, des63, 2019-05-09,  6h
+        3 SeC MO 2 reg:                                              done, des65, after des64, 3d
+            MO reg 16/39 Capitals:                                   done, des59, 2019-05-09,  6h
+            MO reg Capitals:                                         done, des67, 2019-05-10,  6h
+            MO reg Complete:                                         done, des68, 2019-05-11,  8h
+        3 SeC MO 3 bld:                                              done, des66, after des65, 5d
+            MO bld 24/39 Capitals:                                   done, des69, 2019-05-14,  4h
+            MO bld All Capitals:                                     done, des70, 2019-05-15,  2h
+            MO bld Complete:                                         done, des71, 2019-05-16,  5h
+
+    ADV-0003-0008-0001-0001 SeC MG:                                  done, des32, after des58, 4d
+        3 SeC MG 1 reg_it:                                           done, des42, after des58, 1d
+        3 SeC MG 2 bld_it:                                           done, des43, after des42, 1d
+        3 SeC MG 3 thn_it:                                           done, des44, after des43, 1d
+        SeC MG fixes:                                                done, des72, after des44, 1d
+
+    ADV-0003-0003-0001 Preview and Approval Documents:                     des77, 2019-06-12,  2d
+    #ADV-0003-0004-0001 EFO Build for Version 3:                           des76, after des77, 10d
+    #ADV-0003-0004-0001-0001 EFO Glyph Distributor:                        des78, after des77, 10d
+
+    #ADV-0003-0005-0001 Kerning Planning SeC:                              des73, after des76, 2d
+    #    Kerning Pairs and Grouping:                                       des74, after des76, 1d
+    #    Kerning Compression:                                              des75, after des74, 1d
+#
+section 4 Master Extension All Scripts
+
+ADV-0004-0007-0001 4 Master Extension:                              crit, des33, 2019-07-06, 150d
+    ADV-0004-0007-0001 MaE MO:                                      done, des76, 2019-07-06, 2019-08-19
+        4 MaE MO 4 blk:                                             done, des77, 2019-07-06, 2019-08-19
+    ADV-0004-0007-0001 MaE MG blk_it:                               done, des78, after des77, 2d
+        4 MaE MO 4 blk_it:                                          done, des79, after des77, 2d
+    ADV-0004-0007-0001 MaE MG wd:                                   done, des34, after des79, 95d
+        4 MaE MG 1 thn_wd:                                          done, des45, after des79, 7d
+        4 MaE MG 2 reg_wd:                                          done, des46, after des45, 10d
+        4 MaE MG 3 bld_wd:                                          done, des47, after des46, 30d
+        4 MaE MG 4 blk_wd:                                          done, des57, after des47, 48d
+    ADV-0004-0007-0001 MaE MG wd_it:                                done, des35, after des57, 8d
+        4 MaE MG 1 reg_wd_it:                                       done, des48, after des57, 2d
+        4 MaE MG 2 thn_wd_it:                                       done, des49, after des48, 2d
+        4 MaE MG 3 bld_wd_it:                                       done, des50, after des49, 2d
+        4 MaE MG 4 blk_wd_it:                                       done, des51, after des50, 2d
+</code></pre>
+
+<ul>
+<li><p>Current:</p>
+
+<ul>
+<li><strong>ADV-0003</strong> / from February 02 2019 to April 01 2019:
+<ul>
+<li><strong>Advent PR ∞3.000</strong>
+<ul>
+<li>We are waiting for PR to Google Fonts.</li>
+</ul></li>
+</ul></li>
+<li><strong>ADV-0004</strong> / After PR in April 2019:
+<ul>
+<li><strong>Advent ∞4.000</strong></li>
+</ul></li>
+<li><strong>ADV-0004 Advent ∞4.000 Planning</strong> / After PR whole April 2019:
+<ul>
+<li>Planning for ∞4.000: 
+<ul>
+<li>Project Goals</li>
+<li>Duration
+<ul>
+<li>Alphabetic Glyphs:
+<ul>
+<li>Script Extension:
+<ul>
+<li>Advent 3 SE Cyrillic 11 days</li>
+<li>Advent 4 SE Cyrillic 10 days</li>
+</ul></li>
+<li>Master Extension
+<ul>
+<li>Advent 4 ME Latin and Greek 11 days</li>
+</ul></li>
+</ul></li>
+</ul></li>
+<li>Masters and Instances
+<ul>
+<li>Masters and Instances Map</li>
+</ul></li>
+<li>Scripts
+<ul>
+<li>Encoding NAM Files</li>
+</ul></li>
+<li>Glyphs</li>
+<li>Personnel Plan</li>
+</ul></li>
+</ul></li>
+</ul></li>
+<li><p>Completed:</p>
+
+<ul>
+<li><strike><strong>ADV-0001</strong> / July 01 2018 to 2019-02-16</strike>:
+<ul>
+<li>Advent  ∞3.000 Delivered.</li>
+</ul></li>
+<li><strong>ADV-0004</strong>:
+<ul>
+<li><strike><strong>ADV-0004-0002 Compare Current Encoding Support against NAM</strong></strike> 2019-04-09 2h</li>
+<li><strike><strong>ADV-0004-0003 Masters and Instances Map</strong></strike> 2019-04-10 4h</li>
+<li><strike><strong>ADV-0004-0005 Autokern Reintegration to TYPL</strong></strike> 2019-04-12 6h</li>
+<li><strike><strong>ADV-0004-0006 Advent Fontbakery Cupcake Day!</strong></strike> 2019-04-13 2h</li>
+<li><strike><strong>ADV-0004-0007-0001 Advent Master Planning</strong></strike> 2019-04-14 2h
+<ul>
+<li>Master Planning MA and MG added to README/plans</li>
+</ul></li>
+</ul></li>
+<li><strong>ADV-0003-0008</strong>:
+<ul>
+<li><strike><strong>ADV-0003-0008-0001-0001 Advent SeC MO</strong></strike></li>
+</ul></li>
+</ul></li>
+</ul>
+
+<p>Task Codes:</p>
+
+<ul>
+<li>ADV-∞-0002: Encodings</li>
+<li>ADV-∞-0003: Information Architecture
+<ul>
+<li>ADV-∞-0003-0001: Preview and Approval Documents</li>
+</ul></li>
+<li>ADV-∞-0004: EFO
+<ul>
+<li>ADV-∞-0004-0001: EFO Build
+<ul>
+<li>ADV-∞-0004-0001-0001: EFO Glyph Distributor</li>
+</ul></li>
+</ul></li>
+<li>ADV-∞-0005: Kerning
+<ul>
+<li>ADV-∞-0005-0001: Kerning Planning</li>
+</ul></li>
+<li>ADV-∞-0006: Mentions</li>
+<li>ADV-∞-0007: Masters
+<ul>
+<li>ADV-∞-0007-0001: Master Planning</li>
+<li>ADV-∞-0007-0002: Master Extension</li>
+</ul></li>
+<li>ADV-∞-0008: Script Extension
+<ul>
+<li>ADV-∞-0008-0001: Cyrillic Script Extension (SeC)
+<ul>
+<li>ADV-∞-0008-0001-0001: 
+SeC Capitals, SeC SmallCase MO and MG</li>
+<li>ADV-∞-0008-0001-0002: SeC integration of vectors to the font.</li>
+</ul></li>
+</ul></li>
+</ul>
+
+<p>Task Codes Versioned:</p>
+
+<ul>
+<li>ADV-0003: Advent 3
+<ul>
+<li>ADV-0003-0007: Masters
+<ul>
+<li>ADV-0003-0007-0001: Master Planning</li>
+</ul></li>
+<li>ADV-0003-0008: Script Extension
+<ul>
+<li>ADV-0003-0008-0001: Cyrillic Script Extension (SeC)
+<ul>
+<li>ADV-0003-0008-0001-0001: SeC Capitals MO and MG</li>
+<li>ADV-0003-0008-0001-0002: SeC SmallCase MO and MG</li>
+</ul></li>
+</ul></li>
+<li>ADV-0003-0004: EFO
+<ul>
+<li>ADV-0003-0004-0001: EFO Build for Version 3
+<ul>
+<li>ADV-0003-0004-0001-0001: EFO Glyph Distributor</li>
+</ul></li>
+</ul></li>
+<li>ADV-0003-0003: Information Architecture
+<ul>
+<li>ADV-0003-0003-0001: Preview and Approval Documents</li>
+</ul></li>
+</ul></li>
+<li>ADV-0004: Advent 4
+<ul>
+<li>ADV-0004-0002: Encodings</li>
+<li>ADV-0004-0003: Information Architecture</li>
+<li>ADV-0004-0004: EFO</li>
+<li>ADV-0004-0005: Kerning
+<ul>
+<li>ADV-0004-0005-0001: Kerning Planning</li>
+</ul></li>
+<li>ADV-0004-0007: Masters
+<ul>
+<li>ADV-0004-0007-0001: Master Planning</li>
+<li>ADV-0004-0007-0002: Master Extension</li>
+</ul></li>
+<li>ADV-0004-0008: Script Extension
+<ul>
+<li>ADV-0004-0008-0001: Cyrillic Script Extension (SeC)
+<ul>
+<li>ADV-0004-0008-0001-0001: SeC Capitals, SmallCase MO and MG</li>
+<li>ADV-0004-0008-0001-0002: SeC integration of vectors to the font.</li>
+</ul></li>
+<li>ADV-0004-0008-0001: Cyrillic Script Extension (SeC)</li>
+</ul></li>
+</ul></li>
+</ul>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Safe Planning / Schedule Planning / Timeline</strong></h3>
+
+<ul>
+<li>July 01 2018: Start of Redesign</li>
+<li>January 28 2019: Final Kerning for CB for G and L.</li>
+<li>January 31 2019: Contour Fixes, Updates for all weights and anchor alignments.</li>
+<li>February 16 2019: Updated to match contour optimisations of <a rel="noopener" target="_blank" href="https://github.com/mjlagattuta/Advent-Pro">mjlagattuta fork</a>, Updated sources. Observe process at <a rel="noopener" target="_blank" href="https://github.com/VivaRado/Advent/issues/13">Advent Third Pickup +</a></li>
+<li>February 17 2019: Updated to match Kerning Classification optimisations of <a rel="noopener" target="_blank" href="https://github.com/mjlagattuta/Advent-Pro">mjlagattuta fork</a>. Further Classification updates, reduction of kerning pairs by 307, Updated sources. Observe process at <a rel="noopener" target="_blank" href="https://github.com/VivaRado/Advent/issues/13">Advent Third Pickup +</a></li>
+<li>March 23 2019: Documentation Restructure, according to VivaRado ORGDOC.</li>
+<li>April 01 2019: Initiation of planning for Advent 4.</li>
+<li>April 14 2019: Standalone repo for autokern in python3 and 2.</li>
+<li>April 27 2019: Plan for delivery of Advent 4</li>
+<li>April 29 2019: ADV-0003-0008-0001-0001 SeC MO 1 reg</li>
+<li>November 23 2019: ADV-0004-0007-0001 MaE MG wd</li>
+</ul>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Stakeholders</strong></h3>
+
+<p>We identify the <strong>Stakeholders</strong> by a <strong>Personnel Plan</strong> and create a <strong>Communication Plan</strong> to keep the <strong>Stakeholders</strong> informed.</p>
+
+<ul>
+<li><p><strong>Stakeholders</strong> Components:</p>
+
+<ul>
+<li>Applicable Stakeholders (Concious and Unconcious Entities):
+<ul>
+<li>clients</li>
+<li>personell</li>
+<li>funders</li>
+<li>suppliers</li>
+<li>equipment</li>
+</ul></li>
+<li>Glyph Design Team (Gdes)</li>
+<li>Kern Testing Team (KeT)</li>
+<li>Quality Assurance Team (QaT)</li>
+</ul></li>
+</ul>
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Stakeholders / Personnel Plan</strong></h3>
+
+<ul>
+<li>Personnel Plan
+<ul>
+<li>Organizational Structure
+<ul>
+<li>team members
+<ul>
+<li>internal
+<ul>
+<li>Andreas Kalpakidis (∞1,2,3,4)</li>
+<li>Madina Akhmatova (∞3,4)</li>
+</ul></li>
+<li>external
+<ul>
+<li>Michael La Gatutta (∞3)</li>
+</ul></li>
+</ul></li>
+</ul></li>
+<li>Responsibilities and Qualifications
+<ul>
+<li>Project Management and Accounting: Madina Akhmatova (∞3,4)</li>
+<li>Planning, Development and Design: Andreas Kalpakidis (∞3,4)</li>
+<li>Quality Assurance and Consulting: Michael La Gatutta (∞3)</li>
+<li>Acceptance: Dave Crossland (∞2,3,4)</li>
+</ul></li>
+</ul></li>
+</ul>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Stakeholders / Communication Plan</strong></h3>
+
+<ul>
+<li>Communication Plan
+<ul>
+<li>Stakeholder Feedback Mechanisms
+<ul>
+<li>Weekly Notifications</li>
+<li>VRD Forum</li>
+<li>Interactive Documentation</li>
+</ul></li>
+<li>User Feedback Mechanisms:
+<ul>
+<li><a rel="noopener" target="_blank" href="&#x6d;&#x61;i&#x6c;&#116;&#x6f;&#58;&#x73;&#117;&#x70;p&#111;&#114;&#x74;&#x40;&#x76;&#x69;&#x76;&#97;&#x72;&#97;&#x64;&#x6f;&#46;&#x63;&#111;m">&#x73;&#117;&#x70;p&#111;&#114;&#x74;&#x40;&#x76;&#x69;&#x76;&#97;&#x72;&#97;&#x64;&#x6f;&#46;&#x63;&#111;m</a></li>
+</ul></li>
+</ul></li>
+</ul>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Quality Plan</strong></h3>
+
+<p>A <strong>Quality Plan</strong> describes the activities, standards, tools and processes necessary to achieve quality in the delivery of a project.</p>
+
+<p>We can now create a <strong>Quality Plan</strong> by identifying the valid <strong>Quality Targets</strong> we want to achieve. Identify the <strong>Quality Policies</strong> that will be required to achieve them. Identify how to do <strong>Quality Measurement</strong>. Lastly identify how to maintain quality with <strong>Quality Management</strong>.</p>
+
+<ul>
+<li><p><strong>Quality Plan (PQP)</strong> Components:</p>
+
+<ol>
+<li>Quality Targets</li>
+<li>Quality Management</li>
+</ol></li>
+</ul>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Quality Plan / Quality Targets</strong></h3>
+
+<p><strong>Quality Targets</strong> we want to achieve and what are their <strong>Acceptance Criteria</strong>, <strong>Quality Management Procedures</strong>, for each <strong>Applicable Category</strong></p>
+
+<ol>
+<li>Quality Targets Components:
+<ul>
+<li>Acceptance criteria
+<ul>
+<li>Glyphs
+<ul>
+<li>Contour Components
+<ul>
+<li>Alligned Accents.</li>
+<li>Components.</li>
+</ul></li>
+<li>Contour Quality
+<ul>
+<li>Point Minimisation.</li>
+<li>Extremas.</li>
+</ul></li>
+</ul></li>
+<li>Kerning
+<ul>
+<li>Kerning Loss
+<ul>
+<li>No Loss on Standard Set permutations.</li>
+<li>Alpha. Order Parent Children</li>
+</ul></li>
+</ul></li>
+</ul></li>
+<li>Quality Management procedures
+<ul>
+<li>Kerning
+<ul>
+<li>Kerning Loss
+<ul>
+<li>Kern Adjust Interface Screenshots before and after compression.</li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ol>
+
+<hr />
+
+<h3><strong>Introduction / Phase Introduction / Planning Phase / Quality Plan / Quality Management</strong></h3>
+
+<p><strong>Quality Management</strong>, the nature of the <strong>Audits</strong>, <strong>Work Verification</strong> by assigning responsible personnel for <strong>Task Fulfillment</strong> and <strong>Task Checking</strong>.</p>
+
+<ol>
+<li>Quality Management
+<ul>
+<li>Audits</li>
+<li>Tool Scheduling</li>
+<li>Work Verification
+<ul>
+<li>Task fulfillment responsible personnel 
+<ul>
+<li>VivaRado</li>
+</ul></li>
+<li>Task checking responsible personnel
+<ul>
+<li>VivaRado and Google Fonts</li>
+</ul></li>
+</ul></li>
+</ul></li>
+</ol>
+
+<hr />
+
+<h3><strong>Glossary</strong></h3>
+
+<p><strong>LB</strong>: Letter Based, Alphabet / Complete Range.</p>
+
+<p><strong>LBLCLC</strong>: Letter Based Latin Capital to Latin Capital</p>
+
+<p><strong>LBLSLS</strong>: Letter Based Latin Small Case to Latin Small Case</p>
+
+<p><strong>LBLCLS</strong>: Letter Based Latin Capital to Latin Small Case</p>
+
+<p><strong>LBGCGC</strong>: Greek VS Greek Capitals Letter Based Permutation</p>
+
+<p><strong>LBGSGS</strong>: Greek VS Greek SmallCase Letter Based Permutation</p>
+
+<p><strong>LBGCGS</strong>: Greek Capitals VS Greek SmallCase Letter Based Permutation</p>
+
+<p><strong>MO</strong>: Master Original, a master created entirely manually.</p>
+
+<p><strong>MG</strong>: Master Generated, a master automatically generated and manually fixed.</p>
+
+<p><strong>MA</strong>: Master Automated, completely automatically generated.</p>
+
+<p><strong>SE</strong>: Script Extension.</p>
+
+<p><strong>SeC</strong>: Script Extension Cyrillic.</p>
+
+<p><strong>ME</strong>: Master Extension.</p>
+
+<p><strong>MeL</strong>: Master Extension Latin.</p>
+
+<hr />
+
+<h3><strong>Reference</strong></h3>
+
+<p>VRD TYPL/kerning_adjust.py: <a rel="noopener" target="_blank" href="https://github.com/VivaRado/VRD-Typography-Library/tree/master/Lib/kerning_adjust">VRD-Typography-Library-Kerning-Adjust</a></p>
+
+<p>VRD TYPL/kerning_autokern.py: <a rel="noopener" target="_blank" href="https://github.com/VivaRado/VRD-Typography-Library/tree/master/Lib/kerning">VRD-Typography-Library-Autokern</a></p>
+
+<p>charlesmchen TypeFacet Autokern: <a rel="noopener" target="_blank" href="https://github.com/charlesmchen/typefacet">TypeFacet Autokern</a></p>
+
+<hr />
+</article>
+	</body>
+</html>

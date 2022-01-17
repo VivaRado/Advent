@@ -1,0 +1,12 @@
+
+-  July 01 2018: Start of Redesign
+-  January 28 2019: Final Kerning for CB for G and L.
+-  January 31 2019: Contour Fixes, Updates for all weights and anchor alignments.
+-  February 16 2019: Updated to match contour optimisations of [mjlagattuta fork](https://github.com/mjlagattuta/Advent-Pro), Updated sources. Observe process at [Advent Third Pickup +](https://github.com/VivaRado/Advent/issues/13)
+-  February 17 2019: Updated to match Kerning Classification optimisations of [mjlagattuta fork](https://github.com/mjlagattuta/Advent-Pro). Further Classification updates, reduction of kerning pairs by 307, Updated sources. Observe process at [Advent Third Pickup +](https://github.com/VivaRado/Advent/issues/13)
+-  March 23 2019: Documentation Restructure, according to VivaRado ORGDOC.
+-  April 01 2019: Initiation of planning for Advent 4.
+-  April 14 2019: Standalone repo for autokern in python3 and 2.
+-  April 27 2019: Plan for delivery of Advent 4
+-  April 29 2019: ADV-0003-0008-0001-0001 SeC MO 1 reg
+-  November 23 2019: ADV-0004-0007-0001 MaE MG wd

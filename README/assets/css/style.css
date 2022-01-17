@@ -9,7 +9,7 @@ html, body {
 }
 body {
 	overflow-x: hidden;
-	padding-bottom: 500px !important;
+	padding-bottom: 1000px !important;
 }
 .markdown hr::after, .markdown::after {
 	clear: both
@@ -353,6 +353,9 @@ body {
 .markdown table tr:nth-child(2n) {
 	background-color: #f6f8fa
 }
+
+.hide_head + table thead {display: none;}
+
 .markdown img {
 	max-width: 100%;
 	box-sizing: content-box;
@@ -561,12 +564,17 @@ body {
 }
 
 
+.fix_sidebar li p {
+	margin-bottom: 0;
+}
+
 .fix_sidebar .sidebar {
 
 	line-height: 1rem;
 	height: 100%;
 	overflow: auto;
 	padding: 1rem;
+	clear: both;
 }
 
 .fix_sidebar .sidebar > h3{
@@ -624,7 +632,48 @@ body.mobile.sidebar_open .fix_sidebar .sidebar{
 	-webkit-transition: opacity 0.5s; 
 	transition: opacity 0.5s;
 }
+/**/
+.lang_controls  {
+    line-height: 1rem;
+    height: auto;
+    padding: 1rem;
+    clear: both;
+    position: relative;
+    float: left;
+    width: 100%;
+}
 
+.lang_controls .lang_btn{
+	float: left;
+	display: inline-block;
+	padding: 0.5em;
+	background: #eee;
+	text-transform: uppercase;
+	border-radius: 0.2rem;
+	margin-right: 0.5rem;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #eee;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+.lang_controls .lang_btn:hover{
+	border-color: #eee;
+	background: #fff;
+}
+
+.lang_controls .lang_btn.active_lang{
+	border-color: #ccc;
+}
+.lang_controls .lang_btn.active_lang:hover{}
+
+[data-language].hidden{
+	display: none;
+}
+[data-language].active_lang_content{
+	display: block;
+}
 /**/
 h3 strong,
 h2 strong {
@@ -774,9 +823,7 @@ h2 strong {
 }
 /* mermaid */
 
-.codehilite.mermaid .section.section1,
-.codehilite.mermaid .section.section3,
-.codehilite.mermaid .section.section5 {
+.codehilite.mermaid .section {
     fill: transparent !important;
 }
 
@@ -959,3 +1006,66 @@ h2 strong {
 	}
 }
 
+/* Enumerated Ordered Lists*/
+
+.enum_counter {
+	position: static;
+	display: inline-block;
+	padding-left: 0.5rem;
+	display: inline-block;
+	color: #999;
+
+}
+
+.enum ol{
+	list-style-type: none;
+	counter-reset: item;
+	/*margin: 0;*/
+	padding-left: 1rem;
+	/*float: left;*/
+	display: inline-block;
+	clear: both;
+	/*float: left;*/
+
+	clear: both;
+	width: 100%;
+}
+
+.enum ol > li{
+	display: table;
+	counter-increment: item;
+	/*margin-bottom: 0.2em;*/
+	width: 100%;
+	float: left;
+	display: inline-block; 
+}
+
+.enum ol > li:before {
+	content: counters(item, ".") ".	";
+	display: table-cell;
+	padding-right: 0.8em;    
+	float: left;
+	font-weight: bold;
+	color: #999;
+	line-height: 1.35rem;
+}
+
+
+.fix_sidebar ol > li:before{
+	position: relative;
+	height: inherit;
+	line-height: 2.3em;
+	float: left;
+}
+
+.markdown li > p {
+	margin-top: 0;
+}
+
+.enum li ol > li {
+	margin: 0;
+}
+
+.enum li ol > li:before {
+	content: counters(item, ".") "	";
+}

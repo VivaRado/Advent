@@ -93,3 +93,94 @@ h6 {
   font-size: .85em !important
 }
 */
+
+table {
+  border-spacing: 0;
+  border-collapse: collapse;
+  display: block;
+  width: 100%;
+  overflow: auto
+}
+table td, table th {
+  padding: 6px 13px;
+  border: 1px solid #dfe2e5
+}
+table tr {
+  background-color: #fff;
+  border-top: 1px solid #c6cbd1
+}
+table tr:nth-child(2n) {
+  background-color: #f6f8fa
+}
+img {
+  max-width: 100%;
+  box-sizing: content-box;
+  background-color: #fff;
+  min-width: 40%;
+}
+
+.hide_head + table thead {display: none;}
+
+/* Enumerated Ordered Lists*/
+
+.enum_counter {
+  position: static;
+  display: inline-block;
+  padding-left: 0.5rem;
+  display: inline-block;
+  color: #999;
+
+}
+
+ol{
+  list-style-type: none;
+  counter-reset: item;
+  /*margin: 0;*/
+  padding-left: 1rem;
+  /*float: left;*/
+  display: inline-block;
+  clear: both;
+  /*float: left;*/
+
+  clear: both;
+  width: 100%;
+}
+
+ol > li{
+  display: table;
+  counter-increment: item;
+  /*margin-bottom: 0.2em;*/
+  width: 100%;
+  float: left;
+  display: inline-block; 
+}
+
+ol > li:before {
+  content: counters(item, ".") ". ";
+  display: table-cell;
+  padding-right: 0.8em;    
+  float: left;
+  font-weight: bold;
+  color: #999;
+  /*line-height: 1.35rem;*/
+}
+
+
+.fix_sidebar ol > li:before{
+  position: relative;
+  height: inherit;
+  line-height: 2.3em;
+  float: left;
+}
+
+.markdown li > p {
+  margin-top: 0;
+}
+
+li ol > li {
+  margin: 0;
+}
+
+li ol > li:before {
+  content: counters(item, ".") "  ";
+}

@@ -3,12 +3,12 @@
 **Advent** is a project of **VivaRado**, thanks goes to all the contributors, **Google Fonts** and all the people who use it!
 
 
-![Screenshot](README/assets/media/adventprovar_2020.gif)
+![Screenshot](assets/media/adventprovar_2020.gif)
 
 
 
 
-
+<div markdown='1' class="sidebar">
 
 ### **Contents**
 
@@ -29,9 +29,9 @@
             1.  **Project Charter**
                 1.  **Project Introduction**
                     1.  **Project Statements**
-                1.  **Project Goals** 
+                1.  **Project Goals** <!-- Added #0.002-->
                 1.  **Deliverables**
-                1.  **Duration** 
+                1.  **Duration** <!-- Added #0.002-->
         1.  **Planning Phase**
             1.  **Safe Planning**
                 1.  **Project Plan**
@@ -43,6 +43,7 @@
                     1.  **Scripts**
                     1.  **Glyphs**
                     1.  **Features**
+                    1.  **Hinting**
                     1.  **Delivery**
                     1.  **Usage**
                 1.  **Work Planning**
@@ -65,7 +66,7 @@
 
 1.  **Reference**
 
-
+</div>
 
 ##  **Introduction**
 
@@ -73,11 +74,11 @@ Advent Pro is a modern display typeface, designed in 2007, this is the new versi
 
 #### Contributors:
 
-*  VivaRado 
+*  VivaRado <support@vivarado.com>
 *  Andreas Kalpakidis
 *  Madina Akhmatova
 *  Dave Crossland
-*  Michael LaGattuta 
+*  Michael LaGattuta <mjlagattuta@gmail.com>
 *  Behdad Esfahbod
 
 ---
@@ -426,7 +427,7 @@ Work was done on a Linux box with VirtualBox running Windows 8 and Mac OSX Lion.
 The diagram shows the Original Masters (MO), Generated Masters (MG) that get adjusted manually and the automatically generated instances (MA).
 
 
-![Masters and Instances](README/assets/media/advent_masters_sankey.svg)
+![Masters and Instances](assets/media/advent_masters_sankey.svg)
 
 image: #001, 0.002, svg, Advent Masters and Instances sankey.
 
@@ -616,7 +617,7 @@ The masters have been set as follows:
 | blk                | 17     |
 
 
-![adv_opsz](README/assets/media/advent_optical.svg)
+![adv_opsz](assets/media/advent_optical.svg)
 
 image: #003, 0.001, svg, Advent Optical Size Axis (opsz), chart.
 
@@ -826,7 +827,7 @@ The delivered font files are provided in UFO, OTF, EFO and VAR TTF
 
 [All the above files are available here](https://github.com/VivaRado/Advent/blob/master/font_source/UFOs).
 
-To keep things simple for the initial release, we don't generate intermediate instances as standalone OTFs, this brings the total of available weights deriving from only the masters to 16. If any intermediate instances offered are present they may be lagging behind those main 16. The available OTF files are 16 for Standard release and 54 for Extended Realease. For all other formats we offer only the standard release.
+To keep things simple for the initial release, we don't generate intermediate instances as standalone OTFs, this brings the total of available weights deriving from only the masters to 16. If any intermediate instances offered are present they may be lagging behind those main 16. The available OTF files are 16 for Standard release and 54 for Extended Release. For all other formats we offer only the standard release.
 
 ---
 
@@ -1275,7 +1276,7 @@ We identify the **Stakeholders** by a **Personnel Plan** and create a **Communic
 		*  VRD Forum
 		*  Interactive Documentation
 	*  User Feedback Mechanisms:
-		*  
+		*  <support@vivarado.com>
 
 ---
 
