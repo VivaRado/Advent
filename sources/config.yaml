@@ -1,0 +1,8 @@
+sources:
+  - AdventPro.designspace
+axisOrder:
+  - wdth
+  - wght
+  - ital
+familyName: Advent Pro
+includeSourceFixes: true
