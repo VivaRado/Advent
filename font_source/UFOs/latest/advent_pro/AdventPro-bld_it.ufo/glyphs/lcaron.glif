@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="lcaron" format="1">
-  <advance width="195" height="962"/>
+<glyph name="lcaron" format="2">
+  <advance width="195"/>
   <unicode hex="013E"/>
   <outline>
     <component base="caroncomb" xOffset="-5" yOffset="145"/>
@@ -8,13 +8,8 @@
   </outline>
   <lib>
   <dict>
-  <key>com.typemytype.robofont.mark</key>
-  <array>
-    <real>0.976</real>
-    <real>1</real>
-    <real>0.6</real>
-    <real>1</real>
-  </array>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
   </dict>
   </lib>
 </glyph>

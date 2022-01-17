@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="psi" format="1">
-  <advance width="594" height="962"/>
+<glyph name="psi" format="2">
+  <advance width="594"/>
   <unicode hex="03C8"/>
   <outline>
     <contour>
@@ -42,13 +42,8 @@
   </outline>
   <lib>
   <dict>
-  <key>com.typemytype.robofont.mark</key>
-  <array>
-    <real>1</real>
-    <real>0.6</real>
-    <real>0.6</real>
-    <real>1</real>
-  </array>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,1</string>
   </dict>
   </lib>
 </glyph>

@@ -1,20 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni040D" format="1">
-  <advance width="823" height="962"/>
+<glyph name="uni040D" format="2">
+  <advance width="823"/>
   <unicode hex="040D"/>
   <outline>
-    <component base="gravecomb" xOffset="276.5" yOffset="149"/>
+    <component base="gravecomb" xOffset="277" yOffset="149"/>
     <component base="uni0418"/>
   </outline>
   <lib>
   <dict>
-  <key>com.typemytype.robofont.mark</key>
-  <array>
-    <real>0.976</real>
-    <real>1</real>
-    <real>0.6</real>
-    <real>1</real>
-  </array>
+  <key>com.fontlab.recipe</key>
+  <string>Ѝ</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
   </dict>
   </lib>
 </glyph>

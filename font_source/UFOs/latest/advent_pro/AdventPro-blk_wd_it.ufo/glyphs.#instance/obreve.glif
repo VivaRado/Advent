@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="obreve" format="2">
+  <advance width="644"/>
+  <outline>
+    <contour>
+      <point x="436" y="185" type="line"/>
+      <point x="412" y="69"/>
+      <point x="335" y="-10"/>
+      <point x="213" y="-10" type="curve" smooth="yes"/>
+      <point x="84" y="-10"/>
+      <point x="44" y="77"/>
+      <point x="66" y="185" type="curve"/>
+      <point x="95" y="316" type="line" smooth="yes"/>
+      <point x="122" y="443"/>
+      <point x="204" y="512"/>
+      <point x="324" y="512" type="curve" smooth="yes"/>
+      <point x="442" y="512"/>
+      <point x="490" y="438"/>
+      <point x="465" y="316" type="curve"/>
+    </contour>
+    <contour>
+      <point x="446" y="320" type="line" smooth="yes"/>
+      <point x="471" y="435"/>
+      <point x="418" y="494"/>
+      <point x="323" y="494" type="curve" smooth="yes"/>
+      <point x="210" y="494"/>
+      <point x="138" y="427"/>
+      <point x="116" y="320" type="curve"/>
+      <point x="86" y="185" type="line"/>
+      <point x="66" y="86"/>
+      <point x="99" y="8"/>
+      <point x="212" y="8" type="curve" smooth="yes"/>
+      <point x="327" y="8"/>
+      <point x="396" y="84"/>
+      <point x="417" y="185" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="478.205" y="704" type="line"/>
+      <point x="477.205" y="697" type="line"/>
+      <point x="464.205" y="635"/>
+      <point x="403.205" y="584"/>
+      <point x="340.205" y="584" type="curve" smooth="yes"/>
+      <point x="279.205" y="584"/>
+      <point x="238.205" y="634"/>
+      <point x="251.205" y="697" type="curve"/>
+      <point x="253.205" y="704" type="line"/>
+      <point x="275.205" y="704" type="line"/>
+      <point x="273.205" y="697" type="line"/>
+      <point x="263.205" y="648"/>
+      <point x="288.205" y="606"/>
+      <point x="345.205" y="606" type="curve" smooth="yes"/>
+      <point x="396.205" y="606"/>
+      <point x="442.205" y="649"/>
+      <point x="456.205" y="697" type="curve" smooth="yes"/>
+      <point x="458.205" y="704" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>ŏ</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

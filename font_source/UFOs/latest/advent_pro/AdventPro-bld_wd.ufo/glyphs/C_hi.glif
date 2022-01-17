@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Chi" format="1">
-  <advance width="802" height="962"/>
+<glyph name="Chi" format="2">
+  <advance width="802"/>
   <unicode hex="03A7"/>
   <outline>
     <contour>
@@ -18,66 +18,14 @@
       <point x="196" y="700" type="line"/>
     </contour>
   </outline>
+  <guideline angle="121.5" x="468.457" y="0"/>
+  <guideline angle="58.5" x="163.249" y="0"/>
+  <guideline angle="58.5" x="26.5" y="0"/>
+  <guideline angle="121.5" x="602.756" y="1"/>
   <lib>
   <dict>
-  <key>com.typemytype.robofont.mark</key>
-  <array>
-    <real>1</real>
-    <real>0.6</real>
-    <real>0.741</real>
-    <real>1</real>
-  </array>
-  <key>com.typemytype.robofont.guides</key>
-  <array>
-    <dict>
-      <key>angle</key>
-      <real>121.5</real>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>468.46</real>
-      <key>y</key>
-      <real>0</real>
-    </dict>
-    <dict>
-      <key>angle</key>
-      <real>58.5</real>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>163.25</real>
-      <key>y</key>
-      <real>0</real>
-    </dict>
-    <dict>
-      <key>angle</key>
-      <real>58.5</real>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>26.5</real>
-      <key>y</key>
-      <real>0</real>
-    </dict>
-    <dict>
-      <key>angle</key>
-      <real>121.5</real>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>602.76</real>
-      <key>y</key>
-      <real>1</real>
-    </dict>
-  </array>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
   </dict>
   </lib>
 </glyph>

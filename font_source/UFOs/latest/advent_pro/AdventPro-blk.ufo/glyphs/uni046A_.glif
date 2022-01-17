@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni046A" format="1">
-  <advance width="668" height="962"/>
+<glyph name="uni046A" format="2">
+  <advance width="668"/>
   <unicode hex="046A"/>
   <outline>
     <contour>
@@ -39,30 +39,11 @@
       <point x="297" y="540" type="line"/>
     </contour>
   </outline>
+  <guideline angle="0" x="0" y="748"/>
   <lib>
   <dict>
-  <key>com.typemytype.robofont.mark</key>
-  <array>
-    <real>1</real>
-    <real>0.6</real>
-    <real>0.741</real>
-    <real>1</real>
-  </array>
-  <key>com.typemytype.robofont.guides</key>
-  <array>
-    <dict>
-      <key>angle</key>
-      <real>0</real>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>0</real>
-      <key>y</key>
-      <real>748</real>
-    </dict>
-  </array>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
   </dict>
   </lib>
 </glyph>

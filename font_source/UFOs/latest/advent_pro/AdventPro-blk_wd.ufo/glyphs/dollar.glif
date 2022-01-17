@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dollar" format="1">
-  <advance width="819" height="962"/>
+<glyph name="dollar" format="2">
+  <advance width="819"/>
   <unicode hex="0024"/>
   <outline>
     <component base="S" xOffset="2.2848"/>
@@ -13,13 +13,8 @@
   </outline>
   <lib>
   <dict>
-  <key>com.typemytype.robofont.mark</key>
-  <array>
-    <real>0.6</real>
-    <real>1</real>
-    <real>0.929</real>
-    <real>1</real>
-  </array>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
   </dict>
   </lib>
 </glyph>

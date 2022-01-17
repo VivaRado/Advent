@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
   <key>ascender</key>
@@ -11,20 +11,69 @@
   <key>descender</key>
   <integer>-232</integer>
   <key>familyName</key>
-  <string>Advent Pro</string>
+  <string>AdventPro</string>
+  <key>guidelines</key>
+  <array>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>m</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>26</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>90</integer>
+    <key>name</key>
+    <string>f.2</string>
+    <key>x</key>
+    <integer>359</integer>
+    <key>y</key>
+    <integer>0</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>90</integer>
+    <key>name</key>
+    <string>f.2.1.1</string>
+    <key>x</key>
+    <integer>225</integer>
+    <key>y</key>
+    <integer>0</integer>
+  </dict>
+  </array>
   <key>italicAngle</key>
-  <integer>0</integer>
+  <integer>-12</integer>
+  <key>openTypeGaspRangeRecords</key>
+  <array>
+  <dict>
+    <key>rangeGaspBehavior</key>
+      <array>
+        <integer>0</integer>
+        <integer>1</integer>
+        <integer>2</integer>
+        <integer>3</integer>
+      </array>
+    <key>rangeMaxPPEM</key>
+    <integer>65535</integer>
+  </dict>
+  </array>
   <key>openTypeHeadCreated</key>
-  <string>2019/02/13 16:12:40</string>
+  <string>2019/02/13 12:12:40</string>
   <key>openTypeHeadFlags</key>
   <array>
   </array>
   <key>openTypeHheaAscender</key>
   <integer>964</integer>
+  <key>openTypeHheaCaretOffset</key>
+  <integer>-0</integer>
   <key>openTypeHheaDescender</key>
   <integer>-232</integer>
   <key>openTypeHheaLineGap</key>
-  <integer>0</integer>
+  <integer>-0</integer>
   <key>openTypeNameDesigner</key>
   <string>VivaRado, Andreas Kalpakidis</string>
   <key>openTypeNameDesignerURL</key>
@@ -34,7 +83,7 @@
   <key>openTypeNameManufacturerURL</key>
   <string>www.vivarado.com</string>
   <key>openTypeNamePreferredFamilyName</key>
-  <string>Advent Pro</string>
+  <string>AdventPro</string>
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Ultra Expanded Italic</string>
   <key>openTypeNameVersion</key>
@@ -48,6 +97,19 @@
     <integer>7</integer>
     <integer>29</integer>
   </array>
+  <key>openTypeOS2Panose</key>
+  <array>
+    <integer>0</integer>
+    <integer>0</integer>
+    <integer>0</integer>
+    <integer>0</integer>
+    <integer>0</integer>
+    <integer>0</integer>
+    <integer>0</integer>
+    <integer>0</integer>
+    <integer>0</integer>
+    <integer>0</integer>
+  </array>
   <key>openTypeOS2Selection</key>
   <array>
     <integer>7</integer>
@@ -57,7 +119,7 @@
   <key>openTypeOS2StrikeoutSize</key>
   <integer>50</integer>
   <key>openTypeOS2SubscriptXOffset</key>
-  <integer>0</integer>
+  <integer>-0</integer>
   <key>openTypeOS2SubscriptXSize</key>
   <integer>650</integer>
   <key>openTypeOS2SubscriptYOffset</key>
@@ -65,7 +127,7 @@
   <key>openTypeOS2SubscriptYSize</key>
   <integer>600</integer>
   <key>openTypeOS2SuperscriptXOffset</key>
-  <integer>0</integer>
+  <integer>-0</integer>
   <key>openTypeOS2SuperscriptXSize</key>
   <integer>650</integer>
   <key>openTypeOS2SuperscriptYOffset</key>
@@ -81,7 +143,7 @@
   <key>openTypeOS2TypoDescender</key>
   <integer>-232</integer>
   <key>openTypeOS2TypoLineGap</key>
-  <integer>0</integer>
+  <integer>-0</integer>
   <key>openTypeOS2UnicodeRanges</key>
   <array>
     <integer>0</integer>
@@ -89,6 +151,7 @@
     <integer>2</integer>
     <integer>7</integer>
     <integer>9</integer>
+    <integer>31</integer>
   </array>
   <key>openTypeOS2VendorID</key>
   <string>VRD</string>
@@ -116,17 +179,17 @@
   <key>postscriptForceBold</key>
   <false/>
   <key>postscriptFullName</key>
-  <string>Advent Pro Ultra Expanded Italic</string>
+  <string>AdventPro Ultra Expanded Italic</string>
   <key>postscriptIsFixedPitch</key>
   <false/>
   <key>postscriptUnderlinePosition</key>
-  <integer>-75</integer>
+  <integer>-100</integer>
   <key>postscriptUnderlineThickness</key>
   <integer>50</integer>
   <key>postscriptWeightName</key>
   <string>Regular</string>
   <key>styleMapFamilyName</key>
-  <string>Advent Pro UltExp</string>
+  <string>AdventPro UltExp</string>
   <key>styleMapStyleName</key>
   <string>italic</string>
   <key>styleName</key>
@@ -137,9 +200,9 @@
   <integer>1</integer>
   <key>versionMinor</key>
   <integer>0</integer>
-  <key>year</key>
-  <integer>2018</integer>
   <key>xHeight</key>
   <integer>501</integer>
+  <key>year</key>
+  <integer>2018</integer>
 </dict>
 </plist>

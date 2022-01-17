@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni20B4" format="1">
-  <advance width="762" height="962"/>
+<glyph name="uni20B4" format="2">
+  <advance width="762"/>
   <unicode hex="20B4"/>
   <outline>
     <contour>
@@ -50,42 +50,12 @@
       <point x="328" y="680"/>
     </contour>
   </outline>
+  <guideline angle="90" x="459.98" y="0"/>
+  <guideline angle="0" x="0" y="586"/>
   <lib>
   <dict>
-  <key>com.typemytype.robofont.mark</key>
-  <array>
-    <real>0.6</real>
-    <real>1</real>
-    <real>0.929</real>
-    <real>1</real>
-  </array>
-  <key>com.typemytype.robofont.guides</key>
-  <array>
-    <dict>
-      <key>angle</key>
-      <real>90</real>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>459.98</real>
-      <key>y</key>
-      <real>0</real>
-    </dict>
-    <dict>
-      <key>angle</key>
-      <real>0</real>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>0</real>
-      <key>y</key>
-      <real>586</real>
-    </dict>
-  </array>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
   </dict>
   </lib>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni04F5" format="1">
-  <advance width="626" height="962"/>
+<glyph name="uni04F5" format="2">
+  <advance width="626"/>
   <unicode hex="04F5"/>
   <outline>
     <component base="dieresiscomb" xOffset="154.645" yOffset="-84"/>
@@ -8,13 +8,10 @@
   </outline>
   <lib>
   <dict>
-  <key>com.typemytype.robofont.mark</key>
-  <array>
-    <real>0.976</real>
-    <real>1</real>
-    <real>0.6</real>
-    <real>1</real>
-  </array>
+  <key>com.fontlab.recipe</key>
+  <string>ӵ</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
   </dict>
   </lib>
 </glyph>

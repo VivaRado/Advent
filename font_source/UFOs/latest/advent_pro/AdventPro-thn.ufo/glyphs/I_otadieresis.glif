@@ -1,34 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Iotadieresis" format="1">
-  <advance width="163" height="962"/>
+<glyph name="Iotadieresis" format="2">
+  <advance width="163"/>
   <unicode hex="03AA"/>
   <outline>
     <component base="Idieresis"/>
   </outline>
+  <guideline angle="0" x="0" y="817"/>
   <lib>
   <dict>
-  <key>com.typemytype.robofont.mark</key>
-  <array>
-    <real>0.976</real>
-    <real>1</real>
-    <real>0.6</real>
-    <real>1</real>
-  </array>
-  <key>com.typemytype.robofont.guides</key>
-  <array>
-    <dict>
-      <key>angle</key>
-      <real>0</real>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>0</real>
-      <key>y</key>
-      <real>817</real>
-    </dict>
-  </array>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
   </dict>
   </lib>
 </glyph>

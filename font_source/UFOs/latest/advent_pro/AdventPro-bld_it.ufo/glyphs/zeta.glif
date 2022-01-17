@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="zeta" format="1">
-  <advance width="439" height="962"/>
+<glyph name="zeta" format="2">
+  <advance width="439"/>
   <unicode hex="03B6"/>
+  <anchor x="303" y="775" name="top"/>
   <outline>
     <contour>
       <point x="544" y="600" type="line"/>
@@ -37,30 +38,11 @@
       <point x="518" y="700" type="line"/>
     </contour>
   </outline>
+  <guideline angle="78" x="49.1689" y="100"/>
   <lib>
   <dict>
-  <key>com.typemytype.robofont.mark</key>
-  <array>
-    <real>1</real>
-    <real>0.6</real>
-    <real>0.741</real>
-    <real>1</real>
-  </array>
-  <key>com.typemytype.robofont.guides</key>
-  <array>
-    <dict>
-      <key>angle</key>
-      <real>78.</real>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>49.17</real>
-      <key>y</key>
-      <real>100</real>
-    </dict>
-  </array>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
   </dict>
   </lib>
 </glyph>

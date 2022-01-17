@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Ldot" format="1">
-  <advance width="610" height="962"/>
+<glyph name="Ldot" format="2">
+  <advance width="610"/>
   <unicode hex="013F"/>
   <outline>
     <component base="dotaccentcomb" xOffset="231" yOffset="-361"/>
@@ -8,13 +8,8 @@
   </outline>
   <lib>
   <dict>
-  <key>com.typemytype.robofont.mark</key>
-  <array>
-    <real>1</real>
-    <real>0.6</real>
-    <real>0.741</real>
-    <real>1</real>
-  </array>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
   </dict>
   </lib>
 </glyph>

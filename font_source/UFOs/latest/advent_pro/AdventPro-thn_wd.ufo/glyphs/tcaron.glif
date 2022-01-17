@@ -1,20 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="tcaron" format="1">
-  <advance width="327" height="962"/>
+<glyph name="tcaron" format="2">
+  <advance width="327"/>
   <unicode hex="0165"/>
   <outline>
-    <component base="caroncomb" xOffset="-83.5" yOffset="145"/>
+    <component base="caroncomb" xOffset="190" yOffset="145"/>
     <component base="t"/>
   </outline>
   <lib>
   <dict>
-  <key>com.typemytype.robofont.mark</key>
-  <array>
-    <real>0.976</real>
-    <real>1</real>
-    <real>0.6</real>
-    <real>1</real>
-  </array>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
   </dict>
   </lib>
 </glyph>

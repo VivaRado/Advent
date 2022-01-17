@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni20B4" format="1">
-  <advance width="546" height="962"/>
+<glyph name="uni20B4" format="2">
+  <advance width="546"/>
   <unicode hex="20B4"/>
   <outline>
     <contour>
@@ -50,90 +50,16 @@
       <point x="278" y="542"/>
     </contour>
   </outline>
+  <guideline angle="90" x="57.5232" y="0"/>
+  <guideline angle="0" x="0" y="586"/>
+  <guideline angle="90" x="482.011" y="0"/>
+  <guideline angle="0" x="0" y="586"/>
+  <guideline angle="90" x="498.028" y="0"/>
+  <guideline angle="0" x="0" y="586"/>
   <lib>
   <dict>
-  <key>com.typemytype.robofont.mark</key>
-  <array>
-    <real>0.6</real>
-    <real>1</real>
-    <real>0.929</real>
-    <real>1</real>
-  </array>
-  <key>com.typemytype.robofont.guides</key>
-  <array>
-    <dict>
-      <key>angle</key>
-      <real>90</real>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>57.52</real>
-      <key>y</key>
-      <real>0</real>
-    </dict>
-    <dict>
-      <key>angle</key>
-      <real>0</real>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>0</real>
-      <key>y</key>
-      <real>586</real>
-    </dict>
-    <dict>
-      <key>angle</key>
-      <real>90</real>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>482.01</real>
-      <key>y</key>
-      <real>0</real>
-    </dict>
-    <dict>
-      <key>angle</key>
-      <real>0</real>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>0</real>
-      <key>y</key>
-      <real>586</real>
-    </dict>
-    <dict>
-      <key>angle</key>
-      <real>90</real>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>498.03</real>
-      <key>y</key>
-      <real>0</real>
-    </dict>
-    <dict>
-      <key>angle</key>
-      <real>0</real>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>0</real>
-      <key>y</key>
-      <real>586</real>
-    </dict>
-  </array>
+  <key>public.markColor</key>
+  <string>0.6,1,0.602,1</string>
   </dict>
   </lib>
 </glyph>

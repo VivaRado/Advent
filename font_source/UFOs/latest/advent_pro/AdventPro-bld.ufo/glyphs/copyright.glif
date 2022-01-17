@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="copyright" format="1">
-  <advance width="785" height="962"/>
+<glyph name="copyright" format="2">
+  <advance width="785"/>
   <unicode hex="00A9"/>
   <outline>
     <contour>
@@ -37,14 +37,20 @@
     </contour>
     <contour>
       <point x="520" y="332" type="line"/>
-      <point x="521" y="332"/>
-      <point x="471" y="351"/>
+      <point x="489.901" y="344.226"/>
+      <point x="455.488" y="351"/>
       <point x="423" y="351" type="curve" smooth="yes"/>
-      <point x="358" y="351"/>
-      <point x="321" y="324"/>
+      <point x="389.077" y="351"/>
+      <point x="362.78" y="343.646"/>
+      <point x="345.389" y="326.948" type="curve" smooth="yes"/>
+      <point x="329.458" y="311.65"/>
+      <point x="321" y="288.511"/>
       <point x="321" y="256" type="curve" smooth="yes"/>
-      <point x="321" y="194"/>
-      <point x="347" y="164"/>
+      <point x="321" y="221.579"/>
+      <point x="329.014" y="197.021"/>
+      <point x="346.752" y="181.984" type="curve" smooth="yes"/>
+      <point x="360.965" y="169.936"/>
+      <point x="381.421" y="164"/>
       <point x="409" y="164" type="curve" smooth="yes"/>
       <point x="473" y="164"/>
       <point x="546" y="187"/>
@@ -53,11 +59,17 @@
       <point x="517" y="70"/>
       <point x="461" y="56"/>
       <point x="408" y="56" type="curve" smooth="yes"/>
-      <point x="286" y="56"/>
-      <point x="211" y="126"/>
+      <point x="354.578" y="56"/>
+      <point x="310.169" y="69.4218"/>
+      <point x="277.122" y="94.922" type="curve" smooth="yes"/>
+      <point x="234.698" y="127.657"/>
+      <point x="211" y="180.297"/>
       <point x="211" y="250" type="curve" smooth="yes"/>
-      <point x="211" y="377"/>
-      <point x="280" y="457"/>
+      <point x="211" y="310.301"/>
+      <point x="226.556" y="360.006"/>
+      <point x="256.597" y="395.583" type="curve" smooth="yes"/>
+      <point x="289.826" y="434.934"/>
+      <point x="340.776" y="457"/>
       <point x="408" y="457" type="curve" smooth="yes"/>
       <point x="458" y="457"/>
       <point x="508" y="442"/>
@@ -66,13 +78,8 @@
   </outline>
   <lib>
   <dict>
-  <key>com.typemytype.robofont.mark</key>
-  <array>
-    <real>1</real>
-    <real>0.6</real>
-    <real>0.741</real>
-    <real>1</real>
-  </array>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
   </dict>
   </lib>
 </glyph>

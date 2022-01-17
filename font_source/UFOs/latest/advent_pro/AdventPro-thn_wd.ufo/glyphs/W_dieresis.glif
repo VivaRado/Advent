@@ -1,20 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Wdieresis" format="1">
-  <advance width="1078" height="962"/>
+<glyph name="Wdieresis" format="2">
+  <advance width="1078"/>
   <unicode hex="1E84"/>
   <outline>
-    <component base="dieresiscomb" xOffset="405.5" yOffset="110"/>
+    <component base="dieresiscomb" xOffset="406" yOffset="110"/>
     <component base="W"/>
   </outline>
   <lib>
   <dict>
-  <key>com.typemytype.robofont.mark</key>
-  <array>
-    <real>0.976</real>
-    <real>1</real>
-    <real>0.6</real>
-    <real>1</real>
-  </array>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
   </dict>
   </lib>
 </glyph>

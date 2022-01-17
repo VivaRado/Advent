@@ -1,35 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Idieresis" format="1">
-  <advance width="187" height="962"/>
+<glyph name="Idieresis" format="2">
+  <advance width="187"/>
   <unicode hex="00CF"/>
   <outline>
     <component base="dieresiscomb" xOffset="-23" yOffset="110"/>
     <component base="I"/>
   </outline>
+  <guideline angle="90" x="114.521" y="0"/>
   <lib>
   <dict>
-  <key>com.typemytype.robofont.mark</key>
-  <array>
-    <real>0.976</real>
-    <real>1</real>
-    <real>0.6</real>
-    <real>1</real>
-  </array>
-  <key>com.typemytype.robofont.guides</key>
-  <array>
-    <dict>
-      <key>angle</key>
-      <real>90</real>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>114.52</real>
-      <key>y</key>
-      <real>0</real>
-    </dict>
-  </array>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
   </dict>
   </lib>
 </glyph>

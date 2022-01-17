@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="grave" format="1">
-  <advance width="267" height="962"/>
+<glyph name="grave" format="2">
+  <advance width="267"/>
   <unicode hex="0060"/>
   <outline>
     <contour>
@@ -15,4 +15,10 @@
       <point x="264" y="730"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.6,0.997,1,1</string>
+  </dict>
+  </lib>
 </glyph>

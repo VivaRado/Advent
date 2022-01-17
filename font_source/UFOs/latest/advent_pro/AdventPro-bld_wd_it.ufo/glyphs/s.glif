@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="s" format="1">
-  <advance width="610" height="962"/>
+<glyph name="s" format="2">
+  <advance width="610"/>
   <unicode hex="0073"/>
+  <anchor x="327" y="589" name="top"/>
   <outline>
     <contour>
       <point x="549" y="386" type="line"/>
@@ -38,42 +39,12 @@
       <point x="610" y="478" type="curve"/>
     </contour>
   </outline>
+  <guideline angle="90" x="-349.807" y="0"/>
+  <guideline angle="0" x="0" y="345"/>
   <lib>
   <dict>
-  <key>com.typemytype.robofont.mark</key>
-  <array>
-    <real>1</real>
-    <real>0.6</real>
-    <real>0.741</real>
-    <real>1</real>
-  </array>
-  <key>com.typemytype.robofont.guides</key>
-  <array>
-    <dict>
-      <key>angle</key>
-      <real>90</real>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>-349.81</real>
-      <key>y</key>
-      <real>0</real>
-    </dict>
-    <dict>
-      <key>angle</key>
-      <real>0</real>
-      <key>isGlobal</key>
-      <false/>
-      <key>magnetic</key>
-      <integer>5</integer>
-      <key>x</key>
-      <real>0</real>
-      <key>y</key>
-      <real>345</real>
-    </dict>
-  </array>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
   </dict>
   </lib>
 </glyph>
