@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lslash" format="2">
   <advance width="734"/>
+  <outline>
+    <contour>
+      <point x="61" y="238" type="line"/>
+      <point x="22" y="360" type="line"/>
+      <point x="535" y="513" type="line"/>
+      <point x="576" y="393" type="line"/>
+    </contour>
+    <contour>
+      <point x="163.75" y="0" type="line"/>
+      <point x="163.75" y="700" type="line"/>
+      <point x="343.75" y="700" type="line"/>
+      <point x="343.75" y="160" type="line"/>
+      <point x="706.75" y="160" type="line"/>
+      <point x="706.75" y="0" type="line"/>
+    </contour>
+  </outline>
   <lib>
   <dict>
   <key>public.markColor</key>

@@ -86,7 +86,37 @@
     <key>name</key>
     <string>f.7.1</string>
     <key>x</key>
-    <integer>639</integer>
+    <integer>55</integer>
+    <key>y</key>
+    <integer>0</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>90</integer>
+    <key>name</key>
+    <string>f</string>
+    <key>x</key>
+    <integer>454</integer>
+    <key>y</key>
+    <integer>0</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>90</integer>
+    <key>name</key>
+    <string>f.1</string>
+    <key>x</key>
+    <integer>770</integer>
+    <key>y</key>
+    <integer>0</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>90</integer>
+    <key>name</key>
+    <string>f.2</string>
+    <key>x</key>
+    <integer>615</integer>
     <key>y</key>
     <integer>0</integer>
   </dict>

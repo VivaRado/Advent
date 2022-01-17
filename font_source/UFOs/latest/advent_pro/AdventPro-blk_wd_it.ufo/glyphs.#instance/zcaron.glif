@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="zcaron" format="2">
   <advance width="615"/>
+  <outline>
+    <contour>
+      <point x="509.561" y="676" type="line"/>
+      <point x="336.561" y="558" type="line"/>
+      <point x="214.561" y="679" type="line"/>
+      <point x="301.561" y="755" type="line"/>
+      <point x="363.561" y="694" type="line"/>
+      <point x="457.561" y="756" type="line"/>
+    </contour>
+    <contour>
+      <point x="498" y="501" type="line"/>
+      <point x="464" y="337" type="line"/>
+      <point x="303" y="170" type="line"/>
+      <point x="437.787" y="169" type="line"/>
+      <point x="402" y="0" type="line"/>
+      <point x="33" y="0" type="line"/>
+      <point x="69" y="170" type="line"/>
+      <point x="229" y="336" type="line"/>
+      <point x="113.213" y="337" type="line"/>
+      <point x="148" y="501" type="line"/>
+    </contour>
+  </outline>
   <lib>
   <dict>
   <key>public.markColor</key>

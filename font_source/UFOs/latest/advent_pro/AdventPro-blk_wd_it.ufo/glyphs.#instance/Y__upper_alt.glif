@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Y_upper_alt" format="2">
   <advance width="736"/>
+  <outline>
+    <contour>
+      <point x="402" y="316" type="line"/>
+      <point x="335" y="0" type="line"/>
+      <point x="157" y="0" type="line"/>
+      <point x="224" y="316" type="line"/>
+      <point x="159" y="700" type="line"/>
+      <point x="356" y="700" type="line"/>
+      <point x="349" y="484" type="line"/>
+      <point x="434" y="700" type="line"/>
+      <point x="632" y="700" type="line"/>
+    </contour>
+  </outline>
   <lib>
   <dict>
   <key>public.markColor</key>

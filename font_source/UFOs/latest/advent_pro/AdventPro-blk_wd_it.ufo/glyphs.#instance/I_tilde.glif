@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Itilde" format="2">
   <advance width="341"/>
+  <outline>
+    <contour>
+      <point x="274.5" y="890" type="line"/>
+      <point x="371.5" y="890" type="line"/>
+      <point x="371.5" y="852" type="line" smooth="yes"/>
+      <point x="371.5" y="802"/>
+      <point x="347.5" y="754"/>
+      <point x="279.5" y="754" type="curve" smooth="yes"/>
+      <point x="251.5" y="754"/>
+      <point x="234.5" y="760"/>
+      <point x="220.5" y="766" type="curve"/>
+      <point x="214.5" y="768"/>
+      <point x="194.5" y="777"/>
+      <point x="188.5" y="780" type="curve" smooth="yes"/>
+      <point x="178.5" y="785"/>
+      <point x="168.5" y="788"/>
+      <point x="161.5" y="788" type="curve" smooth="yes"/>
+      <point x="146.5" y="788"/>
+      <point x="146.5" y="778"/>
+      <point x="146.5" y="767" type="curve" smooth="yes"/>
+      <point x="146.5" y="753" type="line"/>
+      <point x="49.5" y="753" type="line"/>
+      <point x="49.5" y="771" type="line" smooth="yes"/>
+      <point x="49.5" y="810"/>
+      <point x="52.5" y="859"/>
+      <point x="103.5" y="882" type="curve" smooth="yes"/>
+      <point x="126.5" y="892"/>
+      <point x="156.5" y="897"/>
+      <point x="199.5" y="880" type="curve" smooth="yes"/>
+      <point x="212.5" y="875"/>
+      <point x="218.5" y="871"/>
+      <point x="232.5" y="865" type="curve" smooth="yes"/>
+      <point x="241.5" y="861"/>
+      <point x="248.5" y="857"/>
+      <point x="260.5" y="857" type="curve" smooth="yes"/>
+      <point x="274.5" y="857"/>
+      <point x="274.5" y="868"/>
+      <point x="274.5" y="877" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="20" y="552" type="line"/>
+      <point x="20" y="700" type="line"/>
+      <point x="302" y="700" type="line"/>
+      <point x="302" y="0" type="line"/>
+      <point x="122" y="0" type="line"/>
+      <point x="122" y="550" type="line"/>
+    </contour>
+  </outline>
   <lib>
   <dict>
   <key>public.markColor</key>

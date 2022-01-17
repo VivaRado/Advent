@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni040D" format="2">
   <advance width="824"/>
+  <outline>
+    <contour>
+      <point x="484.931" y="884" type="curve" smooth="yes"/>
+      <point x="491.056" y="767" type="line"/>
+      <point x="402.056" y="767" type="line"/>
+      <point x="364.301" y="834" type="line" smooth="yes"/>
+      <point x="349.041" y="861"/>
+      <point x="352.458" y="910"/>
+      <point x="397.923" y="931" type="curve" smooth="yes"/>
+      <point x="446.813" y="954"/>
+      <point x="483.372" y="919"/>
+    </contour>
+    <contour>
+      <point x="190" y="700" type="line"/>
+      <point x="370" y="700" type="line"/>
+      <point x="306" y="400" type="line"/>
+      <point x="504" y="700" type="line"/>
+      <point x="684" y="700" type="line"/>
+      <point x="535" y="0" type="line"/>
+      <point x="355" y="0" type="line"/>
+      <point x="416" y="285" type="line"/>
+      <point x="221" y="0" type="line"/>
+      <point x="41" y="0" type="line"/>
+    </contour>
+  </outline>
   <lib>
   <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Ѝ</string>
   <key>public.markColor</key>
   <string>1,0.6,0.994,1</string>
   </dict>

@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedbl" format="2">
   <advance width="284"/>
+  <outline>
+    <contour>
+      <point x="156" y="705" type="line"/>
+      <point x="172" y="781"/>
+      <point x="293" y="781"/>
+      <point x="277" y="705" type="curve"/>
+      <point x="234" y="589" type="line"/>
+      <point x="149" y="589" type="line"/>
+    </contour>
+    <contour>
+      <point x="306" y="705" type="line"/>
+      <point x="322" y="781"/>
+      <point x="443" y="781"/>
+      <point x="427" y="705" type="curve"/>
+      <point x="384" y="589" type="line"/>
+      <point x="299" y="589" type="line"/>
+    </contour>
+  </outline>
   <lib>
   <dict>
   <key>public.markColor</key>

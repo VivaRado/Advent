@@ -1,8 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04F4" format="2">
   <advance width="711"/>
+  <outline>
+    <contour>
+      <point x="346.169" y="897" type="curve" smooth="yes"/>
+      <point x="390.169" y="897"/>
+      <point x="417.169" y="861"/>
+      <point x="408.169" y="819" type="curve" smooth="yes"/>
+      <point x="399.169" y="776"/>
+      <point x="356.169" y="740"/>
+      <point x="312.169" y="740" type="curve" smooth="yes"/>
+      <point x="269.169" y="740"/>
+      <point x="241.169" y="776"/>
+      <point x="250.169" y="819" type="curve" smooth="yes"/>
+      <point x="259.169" y="861"/>
+      <point x="303.169" y="897"/>
+    </contour>
+    <contour>
+      <point x="524.169" y="896" type="curve" smooth="yes"/>
+      <point x="567.169" y="896"/>
+      <point x="595.169" y="861"/>
+      <point x="586.169" y="819" type="curve" smooth="yes"/>
+      <point x="577.169" y="776"/>
+      <point x="534.169" y="741"/>
+      <point x="491.169" y="741" type="curve" smooth="yes"/>
+      <point x="447.169" y="741"/>
+      <point x="421.169" y="776"/>
+      <point x="430.169" y="819" type="curve" smooth="yes"/>
+      <point x="439.169" y="861"/>
+      <point x="480.169" y="896"/>
+    </contour>
+    <contour>
+      <point x="616" y="700" type="line"/>
+      <point x="467" y="0" type="line"/>
+      <point x="287" y="0" type="line"/>
+      <point x="333" y="217" type="line"/>
+      <point x="299" y="206"/>
+      <point x="272" y="203"/>
+      <point x="233" y="203" type="curve" smooth="yes"/>
+      <point x="146" y="203"/>
+      <point x="78" y="259"/>
+      <point x="106" y="391" type="curve" smooth="yes"/>
+      <point x="172" y="700" type="line"/>
+      <point x="352" y="700" type="line"/>
+      <point x="291" y="416" type="line" smooth="yes"/>
+      <point x="284" y="382"/>
+      <point x="293" y="364"/>
+      <point x="324" y="364" type="curve" smooth="yes"/>
+      <point x="346" y="364"/>
+      <point x="369" y="384"/>
+      <point x="374" y="409" type="curve" smooth="yes"/>
+      <point x="436" y="700" type="line"/>
+    </contour>
+  </outline>
   <lib>
   <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Ӵ</string>
   <key>public.markColor</key>
   <string>1,0.6,0.994,1</string>
   </dict>

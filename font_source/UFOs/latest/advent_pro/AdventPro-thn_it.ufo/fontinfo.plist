@@ -44,6 +44,26 @@
     <key>y</key>
     <integer>584</integer>
   </dict>
+  <dict>
+    <key>angle</key>
+    <integer>78</integer>
+    <key>name</key>
+    <string>f</string>
+    <key>x</key>
+    <real>50.1165</real>
+    <key>y</key>
+    <integer>0</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>90</integer>
+    <key>name</key>
+    <string>f.1</string>
+    <key>x</key>
+    <integer>548</integer>
+    <key>y</key>
+    <integer>0</integer>
+  </dict>
   </array>
   <key>italicAngle</key>
   <integer>-12</integer>

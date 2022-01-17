@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Pi" format="2">
   <advance width="729"/>
+  <outline>
+    <contour>
+      <point x="508" y="0" type="line"/>
+      <point x="508" y="540" type="line"/>
+      <point x="221" y="540" type="line"/>
+      <point x="221" y="0" type="line"/>
+      <point x="41" y="0" type="line"/>
+      <point x="41" y="700" type="line"/>
+      <point x="689" y="700" type="line"/>
+      <point x="689" y="0" type="line"/>
+    </contour>
+  </outline>
   <lib>
   <dict>
   <key>public.markColor</key>

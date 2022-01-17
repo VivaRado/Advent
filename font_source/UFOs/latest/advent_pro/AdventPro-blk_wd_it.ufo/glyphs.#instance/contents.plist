@@ -170,6 +170,8 @@
   <string>O_dieresis.glif</string>
   <key>Ograve</key>
   <string>O_grave.glif</string>
+  <key>Ohm</key>
+  <string>O_hm.glif</string>
   <key>Ohungarumlaut</key>
   <string>O_hungarumlaut.glif</string>
   <key>Omacron</key>
@@ -548,6 +550,8 @@
   <string>ij.glif</string>
   <key>imacron</key>
   <string>imacron.glif</string>
+  <key>increment</key>
+  <string>increment.glif</string>
   <key>iogonek</key>
   <string>iogonek.glif</string>
   <key>iota</key>
@@ -720,6 +724,8 @@
   <string>scircumflex.glif</string>
   <key>scommaaccent</key>
   <string>scommaaccent.glif</string>
+  <key>section</key>
+  <string>section.glif</string>
   <key>semicolon</key>
   <string>semicolon.glif</string>
   <key>seven</key>

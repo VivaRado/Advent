@@ -1,8 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04E3" format="2">
   <advance width="684"/>
+  <outline>
+    <contour>
+      <point x="496.063" y="749" type="line"/>
+      <point x="470.063" y="625" type="line"/>
+      <point x="248.063" y="625" type="line"/>
+      <point x="274.063" y="749" type="line"/>
+    </contour>
+    <contour>
+      <point x="325" y="500" type="line"/>
+      <point x="291" y="341" type="line"/>
+      <point x="370" y="500" type="line"/>
+      <point x="550" y="500" type="line"/>
+      <point x="444" y="-1" type="line"/>
+      <point x="264" y="-1" type="line"/>
+      <point x="297" y="156" type="line"/>
+      <point x="219" y="-1" type="line"/>
+      <point x="39" y="-1" type="line"/>
+      <point x="145" y="500" type="line"/>
+    </contour>
+  </outline>
   <lib>
   <dict>
+  <key>com.fontlab.recipe</key>
+  <string>ӣ</string>
   <key>public.markColor</key>
   <string>1,0.6,0.994,1</string>
   </dict>

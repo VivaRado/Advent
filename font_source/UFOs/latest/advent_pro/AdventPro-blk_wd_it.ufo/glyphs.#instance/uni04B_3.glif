@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04B3" format="2">
   <advance width="791"/>
+  <outline>
+    <contour>
+      <point x="387" y="149" type="line"/>
+      <point x="565" y="149" type="line"/>
+      <point x="506" y="-125" type="line"/>
+      <point x="355" y="-125" type="line"/>
+      <point x="361" y="0" type="line"/>
+      <point x="355" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="347.874" y="395" type="line"/>
+      <point x="418" y="501" type="line"/>
+      <point x="620" y="500" type="line"/>
+      <point x="413.937" y="242" type="line"/>
+      <point x="511" y="0" type="line"/>
+      <point x="330" y="-1" type="line"/>
+      <point x="300.913" y="96" type="line"/>
+      <point x="234" y="0" type="line"/>
+      <point x="34" y="-1" type="line"/>
+      <point x="236.401" y="263" type="line"/>
+      <point x="135" y="501" type="line"/>
+      <point x="320" y="501" type="line"/>
+    </contour>
+  </outline>
   <lib>
   <dict>
   <key>public.markColor</key>

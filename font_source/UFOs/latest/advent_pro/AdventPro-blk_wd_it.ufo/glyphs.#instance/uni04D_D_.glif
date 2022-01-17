@@ -1,8 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04DD" format="2">
   <advance width="833"/>
+  <outline>
+    <contour>
+      <point x="328.145" y="704" type="curve" smooth="yes"/>
+      <point x="372.145" y="704"/>
+      <point x="399.145" y="668"/>
+      <point x="390.145" y="626" type="curve" smooth="yes"/>
+      <point x="381.145" y="583"/>
+      <point x="338.145" y="547"/>
+      <point x="294.145" y="547" type="curve" smooth="yes"/>
+      <point x="251.145" y="547"/>
+      <point x="223.145" y="583"/>
+      <point x="232.145" y="626" type="curve" smooth="yes"/>
+      <point x="241.145" y="668"/>
+      <point x="285.145" y="704"/>
+    </contour>
+    <contour>
+      <point x="506.145" y="703" type="curve" smooth="yes"/>
+      <point x="549.145" y="703"/>
+      <point x="577.145" y="668"/>
+      <point x="568.145" y="626" type="curve" smooth="yes"/>
+      <point x="559.145" y="583"/>
+      <point x="516.145" y="548"/>
+      <point x="473.145" y="548" type="curve" smooth="yes"/>
+      <point x="429.145" y="548"/>
+      <point x="403.145" y="583"/>
+      <point x="412.145" y="626" type="curve" smooth="yes"/>
+      <point x="421.145" y="668"/>
+      <point x="462.145" y="703"/>
+    </contour>
+    <contour>
+      <point x="723" y="500" type="line"/>
+      <point x="623" y="249" type="line"/>
+      <point x="612" y="0" type="line"/>
+      <point x="437" y="0" type="line"/>
+      <point x="457" y="169" type="line"/>
+      <point x="443" y="169" type="line"/>
+      <point x="407" y="0" type="line"/>
+      <point x="227" y="0" type="line"/>
+      <point x="263" y="169" type="line"/>
+      <point x="250" y="169" type="line"/>
+      <point x="199" y="0" type="line"/>
+      <point x="16" y="0" type="line"/>
+      <point x="118" y="248" type="line"/>
+      <point x="126" y="500" type="line"/>
+      <point x="307" y="500" type="line"/>
+      <point x="283" y="326" type="line"/>
+      <point x="296" y="326" type="line"/>
+      <point x="333" y="500" type="line"/>
+      <point x="513" y="500" type="line"/>
+      <point x="476" y="326" type="line"/>
+      <point x="490" y="326" type="line"/>
+      <point x="543" y="500" type="line"/>
+    </contour>
+  </outline>
   <lib>
   <dict>
+  <key>com.fontlab.recipe</key>
+  <string>ӝ</string>
   <key>public.markColor</key>
   <string>1,0.6,0.994,1</string>
   </dict>

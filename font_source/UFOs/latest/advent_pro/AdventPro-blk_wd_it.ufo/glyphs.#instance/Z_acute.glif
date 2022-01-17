@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Zacute" format="2">
   <advance width="804"/>
+  <outline>
+    <contour>
+      <point x="543.883" y="815" type="curve" smooth="yes"/>
+      <point x="477.883" y="748" type="line"/>
+      <point x="388.883" y="748" type="line"/>
+      <point x="444.883" y="865" type="line" smooth="yes"/>
+      <point x="460.883" y="900"/>
+      <point x="512.883" y="935"/>
+      <point x="551.883" y="912" type="curve" smooth="yes"/>
+      <point x="588.883" y="891"/>
+      <point x="570.883" y="842"/>
+    </contour>
+    <contour>
+      <point x="190" y="700" type="line"/>
+      <point x="656" y="700" type="line"/>
+      <point x="618" y="520" type="line"/>
+      <point x="294.838" y="192.991" type="line"/>
+      <point x="281" y="180" type="line"/>
+      <point x="554.787" y="179" type="line"/>
+      <point x="517" y="0" type="line"/>
+      <point x="27" y="0" type="line"/>
+      <point x="64" y="175.955" type="line"/>
+      <point x="390.524" y="506.363" type="line"/>
+      <point x="405" y="520" type="line"/>
+      <point x="152.213" y="521" type="line"/>
+    </contour>
+  </outline>
   <lib>
   <dict>
   <key>public.markColor</key>

@@ -653,6 +653,10 @@
     <string>ebreve</string>
     <string>ibreve</string>
     <string>obreve</string>
+    <string>guillemotleft</string>
+    <string>section</string>
+    <string>Ohm</string>
+    <string>increment</string>
   </array>
 </dict>
 </plist>

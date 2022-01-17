@@ -50,6 +50,16 @@
     <key>y</key>
     <real>569.514</real>
   </dict>
+  <dict>
+    <key>angle</key>
+    <integer>90</integer>
+    <key>name</key>
+    <string>f</string>
+    <key>x</key>
+    <integer>378</integer>
+    <key>y</key>
+    <integer>0</integer>
+  </dict>
   </array>
   <key>italicAngle</key>
   <integer>0</integer>

@@ -3,56 +3,56 @@
   <advance width="644"/>
   <outline>
     <contour>
-      <point x="436" y="185" type="line"/>
-      <point x="412" y="69"/>
-      <point x="335" y="-10"/>
-      <point x="213" y="-10" type="curve" smooth="yes"/>
-      <point x="84" y="-10"/>
-      <point x="44" y="77"/>
-      <point x="66" y="185" type="curve"/>
-      <point x="95" y="316" type="line" smooth="yes"/>
-      <point x="122" y="443"/>
-      <point x="204" y="512"/>
-      <point x="324" y="512" type="curve" smooth="yes"/>
-      <point x="442" y="512"/>
-      <point x="490" y="438"/>
-      <point x="465" y="316" type="curve"/>
+      <point x="457" y="185" type="line" smooth="yes"/>
+      <point x="432" y="67"/>
+      <point x="350" y="-10"/>
+      <point x="223" y="-10" type="curve" smooth="yes"/>
+      <point x="85" y="-10"/>
+      <point x="45" y="67"/>
+      <point x="70" y="185" type="curve" smooth="yes"/>
+      <point x="98" y="317" type="line" smooth="yes"/>
+      <point x="124" y="439"/>
+      <point x="209" y="512"/>
+      <point x="337" y="512" type="curve" smooth="yes"/>
+      <point x="458" y="512"/>
+      <point x="511" y="439"/>
+      <point x="485" y="317" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="446" y="320" type="line" smooth="yes"/>
-      <point x="471" y="435"/>
-      <point x="418" y="494"/>
-      <point x="323" y="494" type="curve" smooth="yes"/>
-      <point x="210" y="494"/>
-      <point x="138" y="427"/>
-      <point x="116" y="320" type="curve"/>
-      <point x="86" y="185" type="line"/>
-      <point x="66" y="86"/>
-      <point x="99" y="8"/>
-      <point x="212" y="8" type="curve" smooth="yes"/>
-      <point x="327" y="8"/>
-      <point x="396" y="84"/>
-      <point x="417" y="185" type="curve" smooth="yes"/>
+      <point x="304" y="311" type="line" smooth="yes"/>
+      <point x="307" y="325"/>
+      <point x="305" y="333"/>
+      <point x="296" y="333" type="curve" smooth="yes"/>
+      <point x="287" y="333"/>
+      <point x="280" y="325"/>
+      <point x="277" y="311" type="curve" smooth="yes"/>
+      <point x="252" y="191" type="line"/>
+      <point x="249" y="179"/>
+      <point x="251" y="169"/>
+      <point x="261" y="169" type="curve" smooth="yes"/>
+      <point x="270" y="169"/>
+      <point x="276" y="178"/>
+      <point x="279" y="191" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="478.205" y="704" type="line"/>
-      <point x="477.205" y="697" type="line"/>
-      <point x="464.205" y="635"/>
-      <point x="403.205" y="584"/>
-      <point x="340.205" y="584" type="curve" smooth="yes"/>
-      <point x="279.205" y="584"/>
-      <point x="238.205" y="634"/>
-      <point x="251.205" y="697" type="curve"/>
-      <point x="253.205" y="704" type="line"/>
-      <point x="275.205" y="704" type="line"/>
-      <point x="273.205" y="697" type="line"/>
-      <point x="263.205" y="648"/>
-      <point x="288.205" y="606"/>
-      <point x="345.205" y="606" type="curve" smooth="yes"/>
-      <point x="396.205" y="606"/>
-      <point x="442.205" y="649"/>
-      <point x="456.205" y="697" type="curve" smooth="yes"/>
-      <point x="458.205" y="704" type="line"/>
+      <point x="516.491" y="733" type="line"/>
+      <point x="514.491" y="724" type="line" smooth="yes"/>
+      <point x="498.491" y="650"/>
+      <point x="422.491" y="587"/>
+      <point x="347.491" y="587" type="curve" smooth="yes"/>
+      <point x="270.491" y="587"/>
+      <point x="220.491" y="650"/>
+      <point x="236.491" y="724" type="curve" smooth="yes"/>
+      <point x="238.491" y="733" type="line"/>
+      <point x="358.491" y="733" type="line"/>
+      <point x="357.491" y="729" type="line"/>
+      <point x="355.491" y="719"/>
+      <point x="362.491" y="708"/>
+      <point x="373.491" y="708" type="curve" smooth="yes"/>
+      <point x="384.491" y="708"/>
+      <point x="395.491" y="719"/>
+      <point x="397.491" y="729" type="curve"/>
+      <point x="398.491" y="733" type="line"/>
     </contour>
   </outline>
   <lib>

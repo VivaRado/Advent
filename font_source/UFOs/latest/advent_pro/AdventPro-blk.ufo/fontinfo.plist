@@ -64,6 +64,36 @@
     <key>y</key>
     <integer>0</integer>
   </dict>
+  <dict>
+    <key>angle</key>
+    <integer>90</integer>
+    <key>name</key>
+    <string>f.1</string>
+    <key>x</key>
+    <integer>454</integer>
+    <key>y</key>
+    <integer>0</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>90</integer>
+    <key>name</key>
+    <string>f.3</string>
+    <key>x</key>
+    <integer>513</integer>
+    <key>y</key>
+    <integer>0</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>90</integer>
+    <key>name</key>
+    <string>f.4</string>
+    <key>x</key>
+    <integer>419</integer>
+    <key>y</key>
+    <integer>0</integer>
+  </dict>
   </array>
   <key>italicAngle</key>
   <integer>0</integer>

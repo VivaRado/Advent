@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ncaron" format="2">
   <advance width="824"/>
+  <outline>
+    <contour>
+      <point x="560" y="861" type="line"/>
+      <point x="412" y="743" type="line"/>
+      <point x="264" y="864" type="line"/>
+      <point x="335" y="940" type="line"/>
+      <point x="410" y="879" type="line"/>
+      <point x="491" y="941" type="line"/>
+    </contour>
+    <contour>
+      <point x="782" y="700" type="line"/>
+      <point x="782" y="0" type="line"/>
+      <point x="592" y="0" type="line"/>
+      <point x="216" y="443" type="line"/>
+      <point x="216" y="-1" type="line"/>
+      <point x="41" y="0" type="line"/>
+      <point x="41" y="700" type="line"/>
+      <point x="216" y="700" type="line"/>
+      <point x="604" y="245" type="line"/>
+      <point x="604" y="700" type="line"/>
+    </contour>
+  </outline>
   <lib>
   <dict>
   <key>public.markColor</key>
