@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcommaaccent" format="2">
+  <advance width="261"/>
+  <outline>
+    <contour>
+      <point x="41" y="0" type="line"/>
+      <point x="190" y="700" type="line"/>
+      <point x="369" y="700" type="line"/>
+      <point x="220" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="17.0628" y="-211" type="line"/>
+      <point x="33.0628" y="-198"/>
+      <point x="41.0628" y="-188"/>
+      <point x="47.0628" y="-178" type="curve"/>
+      <point x="14.0628" y="-169"/>
+      <point x="-4.93722" y="-140"/>
+      <point x="3.06278" y="-104" type="curve" smooth="yes"/>
+      <point x="12.0628" y="-61"/>
+      <point x="54.0628" y="-26"/>
+      <point x="98.0628" y="-26" type="curve" smooth="yes"/>
+      <point x="139.063" y="-26"/>
+      <point x="166.063" y="-61"/>
+      <point x="157.063" y="-104" type="curve" smooth="yes"/>
+      <point x="135.063" y="-206"/>
+      <point x="40.0628" y="-233"/>
+      <point x="42.0628" y="-233" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  </dict>
+  </lib>
+</glyph>

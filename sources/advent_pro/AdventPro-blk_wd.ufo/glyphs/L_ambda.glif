@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lambda" format="2">
+  <advance width="783"/>
+  <unicode hex="039B"/>
+  <outline>
+    <contour>
+      <point x="395" y="562" type="line"/>
+      <point x="205" y="0" type="line"/>
+      <point x="20" y="0" type="line"/>
+      <point x="255" y="700" type="line"/>
+      <point x="529" y="700" type="line"/>
+      <point x="763" y="0" type="line"/>
+      <point x="581" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

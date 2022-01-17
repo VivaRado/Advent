@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="racute" format="2">
+  <advance width="528"/>
+  <outline>
+    <contour>
+      <point x="330.498" y="625" type="curve" smooth="yes"/>
+      <point x="264.498" y="558" type="line"/>
+      <point x="175.498" y="558" type="line"/>
+      <point x="231.498" y="675" type="line" smooth="yes"/>
+      <point x="247.498" y="710"/>
+      <point x="299.498" y="745"/>
+      <point x="338.498" y="722" type="curve" smooth="yes"/>
+      <point x="375.498" y="701"/>
+      <point x="357.498" y="652"/>
+    </contour>
+    <contour>
+      <point x="406" y="319" type="line"/>
+      <point x="406" y="319"/>
+      <point x="396" y="326"/>
+      <point x="373" y="326" type="curve" smooth="yes"/>
+      <point x="344" y="326"/>
+      <point x="314" y="318"/>
+      <point x="282" y="298" type="curve"/>
+      <point x="219" y="0" type="line"/>
+      <point x="39" y="0" type="line"/>
+      <point x="145" y="501" type="line"/>
+      <point x="325" y="501" type="line"/>
+      <point x="321" y="481" type="line"/>
+      <point x="348" y="503"/>
+      <point x="379" y="516"/>
+      <point x="407" y="516" type="curve" smooth="yes"/>
+      <point x="427" y="516"/>
+      <point x="442" y="509"/>
+      <point x="454" y="501" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  </dict>
+  </lib>
+</glyph>

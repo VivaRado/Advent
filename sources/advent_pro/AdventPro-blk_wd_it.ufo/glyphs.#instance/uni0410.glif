@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0410" format="2">
+  <advance width="798"/>
+  <outline>
+    <contour>
+      <point x="522" y="0" type="line"/>
+      <point x="331" y="0" type="line"/>
+      <point x="342" y="115" type="line"/>
+      <point x="251" y="115" type="line"/>
+      <point x="215" y="0" type="line"/>
+      <point x="24" y="0" type="line"/>
+      <point x="283" y="700" type="line"/>
+      <point x="558" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="301" y="272" type="line"/>
+      <point x="360" y="272" type="line"/>
+      <point x="389" y="552" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>А</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ocircumflex" format="2">
+  <advance width="644"/>
+  <outline>
+    <contour>
+      <point x="457" y="185" type="line" smooth="yes"/>
+      <point x="432" y="67"/>
+      <point x="350" y="-10"/>
+      <point x="223" y="-10" type="curve" smooth="yes"/>
+      <point x="85" y="-10"/>
+      <point x="45" y="67"/>
+      <point x="70" y="185" type="curve" smooth="yes"/>
+      <point x="98" y="317" type="line" smooth="yes"/>
+      <point x="124" y="439"/>
+      <point x="209" y="512"/>
+      <point x="337" y="512" type="curve" smooth="yes"/>
+      <point x="458" y="512"/>
+      <point x="511" y="439"/>
+      <point x="485" y="317" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="304" y="311" type="line" smooth="yes"/>
+      <point x="307" y="325"/>
+      <point x="305" y="333"/>
+      <point x="296" y="333" type="curve" smooth="yes"/>
+      <point x="287" y="333"/>
+      <point x="280" y="325"/>
+      <point x="277" y="311" type="curve" smooth="yes"/>
+      <point x="252" y="191" type="line"/>
+      <point x="249" y="179"/>
+      <point x="251" y="169"/>
+      <point x="261" y="169" type="curve" smooth="yes"/>
+      <point x="270" y="169"/>
+      <point x="276" y="178"/>
+      <point x="279" y="191" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="499.561" y="635" type="line"/>
+      <point x="412.561" y="559" type="line"/>
+      <point x="350.561" y="620" type="line"/>
+      <point x="256.561" y="558" type="line"/>
+      <point x="204.561" y="638" type="line"/>
+      <point x="377.561" y="756" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zdotaccent" format="2">
+  <advance width="615"/>
+  <outline>
+    <contour>
+      <point x="373.87" y="714" type="curve" smooth="yes"/>
+      <point x="421.87" y="714"/>
+      <point x="455.87" y="678"/>
+      <point x="444.87" y="629" type="curve" smooth="yes"/>
+      <point x="433.87" y="579"/>
+      <point x="384.87" y="540"/>
+      <point x="336.87" y="540" type="curve" smooth="yes"/>
+      <point x="286.87" y="540"/>
+      <point x="255.87" y="579"/>
+      <point x="266.87" y="629" type="curve" smooth="yes"/>
+      <point x="277.87" y="678"/>
+      <point x="323.87" y="714"/>
+    </contour>
+    <contour>
+      <point x="498" y="501" type="line"/>
+      <point x="464" y="337" type="line"/>
+      <point x="303" y="170" type="line"/>
+      <point x="437.787" y="169" type="line"/>
+      <point x="402" y="0" type="line"/>
+      <point x="33" y="0" type="line"/>
+      <point x="69" y="170" type="line"/>
+      <point x="229" y="336" type="line"/>
+      <point x="113.213" y="337" type="line"/>
+      <point x="148" y="501" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  </dict>
+  </lib>
+</glyph>

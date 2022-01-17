@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0497" format="2">
+  <advance width="533"/>
+  <unicode hex="0497"/>
+  <outline>
+    <component base="uni0436"/>
+    <contour>
+      <point x="451" y="57" type="line"/>
+      <point x="519" y="57" type="line"/>
+      <point x="519" y="-105" type="line"/>
+      <point x="473" y="-105" type="line"/>
+      <point x="463" y="0" type="line"/>
+      <point x="451" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>ж</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>
