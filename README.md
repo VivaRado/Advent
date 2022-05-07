@@ -3,7 +3,7 @@
 **Advent** is a project of **VivaRado**, thanks goes to all the contributors, **Google Fonts** and all the people who use it!
 
 
-![Screenshot](assets/media/adventprovar_2020.gif)
+![Screenshot](README/assets/media/adventprovar_2020.gif)
 
 
 ##  **Introduction**
@@ -368,7 +368,7 @@ Work was done on a Linux box with VirtualBox running Windows 8 and Mac OSX Lion.
 The diagram shows the Original Masters (MO), Generated Masters (MG) that get adjusted manually and the automatically generated instances (MA).
 
 
-![Masters and Instances](assets/media/advent_masters_sankey.svg)
+![Masters and Instances](README/assets/media/advent_masters_sankey.svg)
 
 image: #001, 0.002, svg, Advent Masters and Instances sankey.
 
@@ -558,7 +558,7 @@ The masters have been set as follows:
 | blk                | 17     |
 
 
-![adv_opsz](assets/media/advent_optical.svg)
+![adv_opsz](README/assets/media/advent_optical.svg)
 
 image: #003, 0.001, svg, Advent Optical Size Axis (opsz), chart.
 
