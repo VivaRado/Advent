@@ -8,7 +8,7 @@
 
 ##  **Introduction**
 
-Advent Pro is a modern display typeface, designed in 2007, this is the new version (4 of 2019-2020) that is delivered as a variable font, along with the classic formats. It supports 14 weights including italics. It is currently maintained and released by VivaRado, by it's original designer Andreas Kalpakidis. What is unique about this version is that thanks to the strict requirements of the Variable Format, all the glyph contours have been reworked, with amazing attention to quality. Then we compressed the kerning to a great degree making the font superbly kerned and compact at the same time.
+Advent Pro is a modern display typeface, designed in 2007, now delivered as a variable font, along with the classic formats. Ships in 14 weights including italics, wide and wide italics. Maintained and released by VivaRado with the original designer Andreas Kalpakidis on board, consulting is also provided by experts from Google. The strict requirements of the Variable Format pushed us to carefully rework all the glyph contours and by using home made kerning compression algorithms along with hand adjusted details we achieved superb tight kerning.
 
 If you need a font, use #AdventPro, everything else is your mind playing tricks on you.
 
