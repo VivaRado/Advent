@@ -1,5 +1,6 @@
-Copyright (c) Copyright (c) VivaRado, Andreas Kalpakidis (support@vivarado.com) 
-and Advent Pro Project Authors (https://github.com/VivaRado/Advent),
+Copyright (c) VivaRado, Andreas Kalpakidis (support@vivarado.com) 
+and Advent Pro Project Authors 
+to the extent of their contribution (https://github.com/VivaRado/Advent),
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
 https://scripts.sil.org/OFL
