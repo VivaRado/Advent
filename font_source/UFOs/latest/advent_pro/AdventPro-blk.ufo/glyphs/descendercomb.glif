@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="descendercomb" format="2">
-  <advance width="250"/>
+  <advance width="250" height="962"/>
   <outline>
     <contour>
       <point x="62" y="9" type="line"/>
@@ -22,7 +22,7 @@
   <lib>
   <dict>
   <key>public.markColor</key>
-  <string>1,0.6,0.994,1</string>
+  <string>1,0.6,0.994,0</string>
   </dict>
   </lib>
 </glyph>

@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni045B" format="2">
-  <advance width="464"/>
+  <advance width="464" height="962"/>
   <unicode hex="045B"/>
   <outline>
     <component base="hbar"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.recipe</key>
-  <string>ћ</string>
   <key>public.markColor</key>
-  <string>0.604,0.6,1,1</string>
+  <string>0.604,0.6,1,0</string>
   </dict>
   </lib>
 </glyph>

@@ -7,7 +7,7 @@
   <key>capHeight</key>
   <integer>700</integer>
   <key>copyright</key>
-  <string>Copyright (c) 2019 VivaRado Andreas Kalpakidis (support@vivarado.com)</string>
+  <string>Copyright (c) VivaRado, Andreas Kalpakidis (support@vivarado.com) and Advent Pro Project Authors (https://github.com/VivaRado/Advent)</string>
   <key>descender</key>
   <integer>-232</integer>
   <key>familyName</key>
@@ -42,16 +42,6 @@
   </dict>
   <dict>
     <key>angle</key>
-    <integer>0</integer>
-    <key>name</key>
-    <string>f1.1</string>
-    <key>x</key>
-    <integer>0</integer>
-    <key>y</key>
-    <real>569.514</real>
-  </dict>
-  <dict>
-    <key>angle</key>
     <integer>90</integer>
     <key>name</key>
     <string>f</string>
@@ -60,9 +50,19 @@
     <key>y</key>
     <integer>0</integer>
   </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>f1.1</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>570</integer>
+  </dict>
   </array>
   <key>italicAngle</key>
-  <integer>0</integer>
+  <integer>-0</integer>
   <key>openTypeGaspRangeRecords</key>
   <array>
   <dict>
@@ -78,18 +78,18 @@
   </dict>
   </array>
   <key>openTypeHeadCreated</key>
-  <string>2019/02/13 12:12:40</string>
+  <string>2019/02/13 11:12:40</string>
   <key>openTypeHeadFlags</key>
   <array>
   </array>
   <key>openTypeHheaAscender</key>
   <integer>964</integer>
   <key>openTypeHheaCaretOffset</key>
-  <integer>-0</integer>
+  <integer>0</integer>
   <key>openTypeHheaDescender</key>
   <integer>-232</integer>
   <key>openTypeHheaLineGap</key>
-  <integer>-0</integer>
+  <integer>0</integer>
   <key>openTypeNameDesigner</key>
   <string>VivaRado, Andreas Kalpakidis</string>
   <key>openTypeNameDesignerURL</key>
@@ -135,7 +135,7 @@
   <key>openTypeOS2StrikeoutSize</key>
   <integer>50</integer>
   <key>openTypeOS2SubscriptXOffset</key>
-  <integer>-0</integer>
+  <integer>0</integer>
   <key>openTypeOS2SubscriptXSize</key>
   <integer>650</integer>
   <key>openTypeOS2SubscriptYOffset</key>
@@ -143,7 +143,7 @@
   <key>openTypeOS2SubscriptYSize</key>
   <integer>600</integer>
   <key>openTypeOS2SuperscriptXOffset</key>
-  <integer>-0</integer>
+  <integer>0</integer>
   <key>openTypeOS2SuperscriptXSize</key>
   <integer>650</integer>
   <key>openTypeOS2SuperscriptYOffset</key>
@@ -159,7 +159,7 @@
   <key>openTypeOS2TypoDescender</key>
   <integer>-232</integer>
   <key>openTypeOS2TypoLineGap</key>
-  <integer>-0</integer>
+  <integer>0</integer>
   <key>openTypeOS2UnicodeRanges</key>
   <array>
     <integer>0</integer>
@@ -213,7 +213,7 @@
   <key>unitsPerEm</key>
   <integer>1000</integer>
   <key>versionMajor</key>
-  <integer>1</integer>
+  <integer>2</integer>
   <key>versionMinor</key>
   <integer>0</integer>
   <key>xHeight</key>

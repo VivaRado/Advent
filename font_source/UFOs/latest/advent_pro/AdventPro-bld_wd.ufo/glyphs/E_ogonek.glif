@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Eogonek" format="2">
-  <advance width="580"/>
+  <advance width="580" height="962"/>
   <unicode hex="0118"/>
   <outline>
     <component base="ogonekcomb" xOffset="357.5" yOffset="-5"/>
@@ -9,7 +9,7 @@
   <lib>
   <dict>
   <key>public.markColor</key>
-  <string>1,0.6,0.994,1</string>
+  <string>1,0.6,0.994,0</string>
   </dict>
   </lib>
 </glyph>

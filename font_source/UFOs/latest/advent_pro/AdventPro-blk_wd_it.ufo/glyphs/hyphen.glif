@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hyphen" format="2">
-  <advance width="394"/>
+  <advance width="394" height="962"/>
   <unicode hex="002D"/>
   <outline>
     <contour>
@@ -13,7 +13,7 @@
   <lib>
   <dict>
   <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
+  <string>0.6,0.997,1,0</string>
   </dict>
   </lib>
 </glyph>

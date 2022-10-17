@@ -1,0 +1,108 @@
+1651908691469	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiled0rIts"
+1651908691846	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiled0rIts/search.json.mozlz4", (void 0)))
+1651908692901	Marionette	INFO	Listening on port 36975
+1651908693014	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/message-groups Signature failed  InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups local data was corrupted
+console.warn: services.settings: main/message-groups Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/message-groups Signature failed again InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups Signature failed  InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups local data was corrupted
+console.warn: services.settings: main/message-groups Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/message-groups Signature failed again InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+console.error: services.settings: 
+  main/whats-new-panel local data was corrupted
+console.warn: services.settings: main/whats-new-panel Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/whats-new-panel Signature failed again InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+1651908715473	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8pH8DO"
+1651908715731	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8pH8DO/search.json.mozlz4", (void 0)))
+1651908716831	Marionette	INFO	Listening on port 35675
+1651908716915	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/message-groups Signature failed  InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups local data was corrupted
+console.warn: services.settings: main/message-groups Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/message-groups Signature failed again InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups Signature failed  InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups local data was corrupted
+console.warn: services.settings: main/message-groups Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/message-groups Signature failed again InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+console.error: services.settings: 
+  main/whats-new-panel local data was corrupted
+console.warn: services.settings: main/whats-new-panel Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/whats-new-panel Signature failed again InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+1651908722995	Marionette	INFO	Stopped listening on port 35675
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: services.settings: 
+  main/public-suffix-list Signature failed  InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  main/public-suffix-list local data was corrupted
+console.warn: services.settings: main/public-suffix-list Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/public-suffix-list Signature failed again InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/public-suffix-list)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:137:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+console.error: services.settings: 
+  main/whats-new-panel local data was corrupted
+console.warn: services.settings: main/whats-new-panel Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/whats-new-panel Signature failed again InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/whats-new-panel)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:137:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+console.error: services.settings: 
+  main/message-groups Signature failed  InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  main/message-groups local data was corrupted
+console.warn: services.settings: main/message-groups Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/message-groups Signature failed again InvalidSignatureError: Invalid content signature (main/message-groups)
+console.error: services.settings: 
+  Message: InvalidSignatureError: Invalid content signature (main/message-groups)
+  Stack:
+    InvalidSignatureError@resource://services-settings/RemoteSettingsClient.jsm:137:5
+_validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:875:13
+
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/search-config Signature failed  InvalidSignatureError: Invalid content signature (main/search-config)
+console.error: services.settings: 
+  main/search-config local data was corrupted
+console.warn: services.settings: main/search-config Signature verified failed. Retry from scratch
+1651910534367	Marionette	INFO	Stopped listening on port 36975
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]

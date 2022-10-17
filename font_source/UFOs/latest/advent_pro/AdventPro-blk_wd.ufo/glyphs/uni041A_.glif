@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni041A" format="2">
-  <advance width="745"/>
+  <advance width="745" height="962"/>
   <unicode hex="041A"/>
   <outline>
     <component base="K"/>
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.recipe</key>
-  <string>К</string>
   <key>public.markColor</key>
-  <string>0.604,0.6,1,1</string>
+  <string>0.604,0.6,1,0</string>
   </dict>
   </lib>
 </glyph>

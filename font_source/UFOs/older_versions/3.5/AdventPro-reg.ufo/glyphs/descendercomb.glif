@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="descendercomb" format="2">
+  <advance width="267"/>
+  <outline>
+    <contour>
+      <point x="85" y="11" type="line"/>
+      <point x="129" y="8" type="line"/>
+      <point x="129" y="3" type="line"/>
+      <point x="194" y="-109" type="line" smooth="yes"/>
+      <point x="235" y="-180"/>
+      <point x="184" y="-258"/>
+      <point x="96" y="-227" type="curve" smooth="yes"/>
+      <point x="-8" y="-190" type="line"/>
+      <point x="10" y="-151" type="line"/>
+      <point x="107" y="-185" type="line" smooth="yes"/>
+      <point x="156" y="-202"/>
+      <point x="183" y="-169"/>
+      <point x="156" y="-123" type="curve" smooth="yes"/>
+      <point x="85" y="2" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  </dict>
+  </lib>
+</glyph>

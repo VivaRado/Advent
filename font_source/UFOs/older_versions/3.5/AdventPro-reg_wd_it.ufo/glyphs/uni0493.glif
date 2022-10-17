@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0493" format="2">
+  <advance width="469"/>
+  <unicode hex="0493"/>
+  <outline>
+    <component base="uni0433" xOffset="17.5"/>
+    <contour>
+      <point x="63" y="303" type="line"/>
+      <point x="499" y="303" type="line"/>
+      <point x="487" y="245" type="line"/>
+      <point x="51" y="245" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

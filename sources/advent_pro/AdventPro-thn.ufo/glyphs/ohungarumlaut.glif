@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ohungarumlaut" format="2">
-  <advance width="427"/>
+  <advance width="427" height="962"/>
   <unicode hex="0151"/>
   <outline>
     <component base="hungarumlautcomb" xOffset="79" yOffset="-15"/>
@@ -9,7 +9,7 @@
   <lib>
   <dict>
   <key>public.markColor</key>
-  <string>1,0.6,0.994,1</string>
+  <string>1,0.6,0.994,0</string>
   </dict>
   </lib>
 </glyph>

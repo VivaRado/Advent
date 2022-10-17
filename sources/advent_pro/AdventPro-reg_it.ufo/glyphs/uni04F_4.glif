@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04F4" format="2">
-  <advance width="489"/>
+  <advance width="489" height="962"/>
   <unicode hex="04F4"/>
   <outline>
     <component base="dieresiscomb" xOffset="131" yOffset="111"/>
@@ -8,10 +8,8 @@
   </outline>
   <lib>
   <dict>
-  <key>com.fontlab.recipe</key>
-  <string>Ӵ</string>
   <key>public.markColor</key>
-  <string>1,0.6,0.994,1</string>
+  <string>1,0.6,0.994,0</string>
   </dict>
   </lib>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0455" format="2">
-  <advance width="417"/>
+  <advance width="417" height="962"/>
   <unicode hex="0455"/>
   <outline>
     <component base="s"/>
@@ -9,10 +9,8 @@
   <guideline angle="0" x="0" y="345"/>
   <lib>
   <dict>
-  <key>com.fontlab.recipe</key>
-  <string>ѕ</string>
   <key>public.markColor</key>
-  <string>0.604,0.6,1,1</string>
+  <string>0.604,0.6,1,0</string>
   </dict>
   </lib>
 </glyph>

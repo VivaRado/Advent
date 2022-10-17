@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gdotaccent" format="2">
-  <advance width="654"/>
+  <advance width="654" height="962"/>
   <unicode hex="0121"/>
   <outline>
     <component base="dotaccentcomb" xOffset="145.394" yOffset="-104"/>
@@ -9,7 +9,7 @@
   <lib>
   <dict>
   <key>public.markColor</key>
-  <string>1,0.6,0.994,1</string>
+  <string>1,0.6,0.994,0</string>
   </dict>
   </lib>
 </glyph>

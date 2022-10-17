@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tilde" format="2">
-  <advance width="401"/>
+  <advance width="401" height="962"/>
   <unicode hex="02DC"/>
   <outline>
     <contour>
@@ -45,7 +45,7 @@
   <lib>
   <dict>
   <key>public.markColor</key>
-  <string>0.6,0.997,1,1</string>
+  <string>0.6,0.997,1,0</string>
   </dict>
   </lib>
 </glyph>

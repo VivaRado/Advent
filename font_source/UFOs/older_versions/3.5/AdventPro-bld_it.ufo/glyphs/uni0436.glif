@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0436" format="2">
+  <advance width="533"/>
+  <unicode hex="0436"/>
+  <outline>
+    <contour>
+      <point x="629" y="500" type="line"/>
+      <point x="486" y="249" type="line"/>
+      <point x="518" y="0" type="line"/>
+      <point x="389" y="0" type="line"/>
+      <point x="392" y="204" type="line"/>
+      <point x="368" y="204" type="line"/>
+      <point x="324" y="0" type="line"/>
+      <point x="214" y="0" type="line"/>
+      <point x="258" y="204" type="line"/>
+      <point x="239" y="204" type="line"/>
+      <point x="156" y="0" type="line"/>
+      <point x="16" y="0" type="line"/>
+      <point x="160" y="248" type="line"/>
+      <point x="126" y="500" type="line"/>
+      <point x="265" y="500" type="line"/>
+      <point x="256" y="295" type="line"/>
+      <point x="277" y="295" type="line"/>
+      <point x="321" y="500" type="line"/>
+      <point x="431" y="500" type="line"/>
+      <point x="387" y="295" type="line"/>
+      <point x="408" y="295" type="line"/>
+      <point x="492" y="500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>ж</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

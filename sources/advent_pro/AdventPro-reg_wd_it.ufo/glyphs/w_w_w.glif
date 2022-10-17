@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="w_w_w" format="2">
-  <advance width="2948"/>
+  <advance width="2948" height="962"/>
   <outline>
     <component base="w" xOffset="5.064"/>
     <component base="w" xOffset="953.609"/>
@@ -9,7 +9,7 @@
   <lib>
   <dict>
   <key>public.markColor</key>
-  <string>0.604,0.6,1,1</string>
+  <string>0.604,0.6,1,0</string>
   </dict>
   </lib>
 </glyph>

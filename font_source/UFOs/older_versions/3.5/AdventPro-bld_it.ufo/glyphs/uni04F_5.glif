@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04F5" format="2">
+  <advance width="461"/>
+  <unicode hex="04F5"/>
+  <outline>
+    <component base="dieresiscomb" xOffset="100" yOffset="-84"/>
+    <component base="uni0447"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>ӵ</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  </dict>
+  </lib>
+</glyph>

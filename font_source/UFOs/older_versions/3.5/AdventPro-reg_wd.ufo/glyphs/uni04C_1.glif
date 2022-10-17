@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04C1" format="2">
+  <advance width="997"/>
+  <unicode hex="04C1"/>
+  <outline>
+    <component base="brevecomb" xOffset="362.5" yOffset="150"/>
+    <component base="uni0416"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Ӂ</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  </dict>
+  </lib>
+</glyph>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lambda_lambda" format="2">
-  <advance width="835"/>
+  <advance width="835" height="962"/>
   <outline>
     <component base="lambda" xOffset="317.5"/>
     <contour>
@@ -29,7 +29,7 @@
   <lib>
   <dict>
   <key>public.markColor</key>
-  <string>0.604,0.6,1,1</string>
+  <string>0.604,0.6,1,0</string>
   </dict>
   </lib>
 </glyph>

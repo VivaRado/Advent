@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Idieresis" format="2">
-  <advance width="163"/>
+  <advance width="163" height="962"/>
   <unicode hex="00CF"/>
   <outline>
     <component base="dieresiscomb" xOffset="-5" yOffset="110"/>
@@ -10,7 +10,7 @@
   <lib>
   <dict>
   <key>public.markColor</key>
-  <string>1,0.6,0.994,1</string>
+  <string>1,0.6,0.994,0</string>
   </dict>
   </lib>
 </glyph>

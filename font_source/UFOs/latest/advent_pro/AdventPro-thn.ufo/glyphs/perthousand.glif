@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="perthousand" format="2">
-  <advance width="1056"/>
+  <advance width="1056" height="962"/>
   <unicode hex="2030"/>
   <outline>
     <contour>

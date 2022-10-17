@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="iotadieresistonos" format="2">
-  <advance width="258"/>
+  <advance width="258" height="962"/>
   <unicode hex="0390"/>
   <outline>
     <component base="dieresistonoscomb" xOffset="-25" yOffset="-84"/>
@@ -10,7 +10,7 @@
   <lib>
   <dict>
   <key>public.markColor</key>
-  <string>1,0.6,0.994,1</string>
+  <string>1,0.6,0.994,0</string>
   </dict>
   </lib>
 </glyph>

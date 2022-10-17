@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="y_lower_alt" format="2">
-  <advance width="486"/>
+  <advance width="486" height="962"/>
   <unicode hex="9998"/>
   <outline>
     <contour>
@@ -17,7 +17,7 @@
   <lib>
   <dict>
   <key>public.markColor</key>
-  <string>0.604,0.6,1,1</string>
+  <string>0.604,0.6,1,0</string>
   </dict>
   </lib>
 </glyph>

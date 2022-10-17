@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Abreve" format="2">
-  <advance width="793"/>
+  <advance width="793" height="962"/>
   <unicode hex="0102"/>
   <outline>
     <component base="brevecomb" xOffset="291.883" yOffset="150"/>
@@ -9,7 +9,7 @@
   <lib>
   <dict>
   <key>public.markColor</key>
-  <string>1,0.6,0.994,1</string>
+  <string>1,0.6,0.994,0</string>
   </dict>
   </lib>
 </glyph>

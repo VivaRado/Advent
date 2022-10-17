@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0405" format="2">
+  <advance width="546"/>
+  <unicode hex="0405"/>
+  <outline>
+    <component base="S"/>
+  </outline>
+  <guideline angle="90" x="57.5232" y="0"/>
+  <guideline angle="0" x="0" y="586"/>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Ѕ</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>
