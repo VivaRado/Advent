@@ -130,4 +130,171 @@
 			</location>
 		</source>
 	</sources>
+
+	<instances>
+		<instance name="Advent Pro Thin" familyname="Advent Pro" stylename="Thin">
+			<location>
+				<dimension name="Weight" xvalue="100" />
+				<dimension name="Width" xvalue="100" />
+				<dimension name="Italic" xvalue="0" />
+			</location>
+			<kerning/>
+			<info/>
+		</instance>
+		<instance name="Advent Pro ExtraLight" familyname="Advent Pro" stylename="ExtraLight">
+			<location>
+				<dimension name="Weight" xvalue="200" />
+				<dimension name="Width" xvalue="100" />
+				<dimension name="Italic" xvalue="0" />
+			</location>
+			<kerning/>
+			<info/>
+		</instance>
+		<instance name="Advent Pro Light" familyname="Advent Pro" stylename="Light">
+			<location>
+				<dimension name="Weight" xvalue="300" />
+				<dimension name="Width" xvalue="100" />
+				<dimension name="Italic" xvalue="0" />
+			</location>
+			<kerning/>
+			<info/>
+		</instance>
+		<instance name="Advent Pro Regular" familyname="Advent Pro" stylename="Regular">
+			<location>
+				<dimension name="Weight" xvalue="400" />
+				<dimension name="Width" xvalue="100" />
+				<dimension name="Italic" xvalue="0" />
+			</location>
+			<kerning/>
+			<info/>
+		</instance>
+		<instance name="Advent Pro Medium" familyname="Advent Pro" stylename="Medium">
+			<location>
+				<dimension name="Weight" xvalue="500" />
+				<dimension name="Width" xvalue="100" />
+				<dimension name="Italic" xvalue="0" />
+			</location>
+			<kerning/>
+			<info/>
+		</instance>
+		<instance name="Advent Pro SemiBold" familyname="Advent Pro" stylename="SemiBold">
+			<location>
+				<dimension name="Weight" xvalue="600" />
+				<dimension name="Width" xvalue="100" />
+				<dimension name="Italic" xvalue="0" />
+			</location>
+			<kerning/>
+			<info/>
+		</instance>
+		<instance name="Advent Pro Bold" familyname="Advent Pro" stylename="Bold">
+			<location>
+				<dimension name="Weight" xvalue="700" />
+				<dimension name="Width" xvalue="100" />
+				<dimension name="Italic" xvalue="0" />
+			</location>
+			<kerning/>
+			<info/>
+		</instance>
+		<instance name="Advent Pro ExtraBold" familyname="Advent Pro" stylename="ExtraBold">
+			<location>
+				<dimension name="Weight" xvalue="800" />
+				<dimension name="Width" xvalue="100" />
+				<dimension name="Italic" xvalue="0" />
+			</location>
+			<kerning/>
+			<info/>
+		</instance>
+		<instance name="Advent Pro Black" familyname="Advent Pro" stylename="Black">
+			<location>
+				<dimension name="Weight" xvalue="900" />
+				<dimension name="Width" xvalue="100" />
+				<dimension name="Italic" xvalue="0" />
+			</location>
+			<kerning/>
+			<info/>
+		</instance>
+
+		<instance name="Advent Pro Thin Italic" familyname="Advent Pro" stylename="Thin Italic">
+			<location>
+				<dimension name="Weight" xvalue="100" />
+				<dimension name="Width" xvalue="100" />
+				<dimension name="Italic" xvalue="1" />
+			</location>
+			<kerning/>
+			<info/>
+		</instance>
+		<instance name="Advent Pro ExtraLight Italic" familyname="Advent Pro" stylename="ExtraLight Italic">
+			<location>
+				<dimension name="Weight" xvalue="200" />
+				<dimension name="Width" xvalue="100" />
+				<dimension name="Italic" xvalue="1" />
+			</location>
+			<kerning/>
+			<info/>
+		</instance>
+		<instance name="Advent Pro Light Italic" familyname="Advent Pro" stylename="Light Italic">
+			<location>
+				<dimension name="Weight" xvalue="300" />
+				<dimension name="Width" xvalue="100" />
+				<dimension name="Italic" xvalue="1" />
+			</location>
+			<kerning/>
+			<info/>
+		</instance>
+		<instance name="Advent Pro Italic" familyname="Advent Pro" stylename="Italic">
+			<location>
+				<dimension name="Weight" xvalue="400" />
+				<dimension name="Width" xvalue="100" />
+				<dimension name="Italic" xvalue="1" />
+			</location>
+			<kerning/>
+			<info/>
+		</instance>
+		<instance name="Advent Pro Medium Italic" familyname="Advent Pro" stylename="Medium Italic">
+			<location>
+				<dimension name="Weight" xvalue="500" />
+				<dimension name="Width" xvalue="100" />
+				<dimension name="Italic" xvalue="1" />
+			</location>
+			<kerning/>
+			<info/>
+		</instance>
+		<instance name="Advent Pro SemiBold Italic" familyname="Advent Pro" stylename="SemiBold Italic">
+			<location>
+				<dimension name="Weight" xvalue="600" />
+				<dimension name="Width" xvalue="100" />
+				<dimension name="Italic" xvalue="1" />
+			</location>
+			<kerning/>
+			<info/>
+		</instance>
+		<instance name="Advent Pro Bold Italic" familyname="Advent Pro" stylename="Bold Italic">
+			<location>
+				<dimension name="Weight" xvalue="700" />
+				<dimension name="Width" xvalue="100" />
+				<dimension name="Italic" xvalue="1" />
+			</location>
+			<kerning/>
+			<info/>
+		</instance>
+		<instance name="Advent Pro ExtraBold Italic" familyname="Advent Pro" stylename="ExtraBold Italic">
+			<location>
+				<dimension name="Weight" xvalue="800" />
+				<dimension name="Width" xvalue="100" />
+				<dimension name="Italic" xvalue="1" />
+			</location>
+			<kerning/>
+			<info/>
+		</instance>
+		<instance name="Advent Pro Black Italic" familyname="Advent Pro" stylename="Black Italic">
+			<location>
+				<dimension name="Weight" xvalue="900" />
+				<dimension name="Width" xvalue="100" />
+				<dimension name="Italic" xvalue="1" />
+			</location>
+			<kerning/>
+			<info/>
+		</instance>
+	</instances>
+
 </designspace>
