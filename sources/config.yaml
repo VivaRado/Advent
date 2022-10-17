@@ -5,4 +5,10 @@ axisOrder:
   - wght
   - ital
 familyName: Advent Pro
+
 includeSourceFixes: true
+buildOTF: false
+buildTTF: true
+buildWebfont: false
+buildStatic: false
+buildVariable: true
