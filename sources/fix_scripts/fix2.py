@@ -13,3 +13,5 @@ for font in fonts:
     f.info.openTypeNameLicenseURL = "https://scripts.sil.org/OFL"
     f.info.openTypeNameVersion = "Version 2.0"
     f.info.openTypeOS2Type = [0]
+
+    f.save()
