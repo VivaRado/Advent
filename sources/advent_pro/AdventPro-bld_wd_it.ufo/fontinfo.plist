@@ -195,9 +195,7 @@
   <key>openTypeOS2SuperscriptYSize</key>
   <integer>600</integer>
   <key>openTypeOS2Type</key>
-  <array>
-    <integer>2</integer>
-  </array>
+  <array/>
   <key>openTypeOS2TypoAscender</key>
   <integer>962</integer>
   <key>openTypeOS2TypoDescender</key>
