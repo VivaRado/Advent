@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tbar" format="2">
+  <advance width="362" height="962"/>
+  <unicode hex="0167"/>
+  <outline>
+    <component base="t" xOffset="27"/>
+    <contour>
+      <point x="316" y="179" type="line"/>
+      <point x="1" y="179" type="line"/>
+      <point x="1" y="295" type="line"/>
+      <point x="316" y="295" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,0</string>
+  </dict>
+  </lib>
+</glyph>

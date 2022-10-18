@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Icircumflex" format="2">
+  <advance width="204" height="962"/>
+  <unicode hex="00CE"/>
+  <outline>
+    <component base="circumflexcomb" xOffset="61.8835" yOffset="150"/>
+    <component base="I"/>
+  </outline>
+  <guideline angle="90" x="111.454" y="0"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,0</string>
+  </dict>
+  </lib>
+</glyph>

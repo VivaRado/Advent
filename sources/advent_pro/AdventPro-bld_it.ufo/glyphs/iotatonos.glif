@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iotatonos" format="2">
+  <advance width="190" height="962"/>
+  <unicode hex="03AF"/>
+  <outline>
+    <component base="dotlessi"/>
+    <contour>
+      <point x="313" y="638" type="curve" smooth="yes"/>
+      <point x="239" y="563" type="line"/>
+      <point x="194" y="563" type="line"/>
+      <point x="250" y="679" type="line"/>
+      <point x="260" y="703"/>
+      <point x="293" y="725"/>
+      <point x="321" y="708" type="curve" smooth="yes"/>
+      <point x="343" y="694"/>
+      <point x="336" y="661"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,0</string>
+  </dict>
+  </lib>
+</glyph>

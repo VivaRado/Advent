@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="w_w_w" format="2">
+  <advance width="1954" height="962"/>
+  <outline>
+    <component base="w" xOffset="6.4572"/>
+    <component base="w" xOffset="569.028"/>
+    <component base="w" xOffset="1131.6"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,0</string>
+  </dict>
+  </lib>
+</glyph>

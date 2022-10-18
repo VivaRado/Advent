@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Theta" format="2">
+  <advance width="495" height="962"/>
+  <unicode hex="0398"/>
+  <outline>
+    <component base="O"/>
+    <contour>
+      <point x="142" y="430" type="line"/>
+      <point x="352" y="430" type="line"/>
+      <point x="352" y="274" type="line"/>
+      <point x="142" y="274" type="line"/>
+    </contour>
+  </outline>
+  <guideline angle="0" x="0" y="340"/>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,0</string>
+  </dict>
+  </lib>
+</glyph>
