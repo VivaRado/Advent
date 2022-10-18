@@ -32,37 +32,7 @@
         <key>x</key>
         <integer>0</integer>
         <key>y</key>
-        <integer>-19</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>90</integer>
-        <key>name</key>
-        <string>f.1</string>
-        <key>x</key>
-        <integer>770</integer>
-        <key>y</key>
-        <integer>0</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>90</integer>
-        <key>name</key>
-        <string>f.3</string>
-        <key>x</key>
-        <integer>582</integer>
-        <key>y</key>
-        <integer>0</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>90</integer>
-        <key>name</key>
-        <string>f</string>
-        <key>x</key>
-        <integer>454</integer>
-        <key>y</key>
-        <integer>0</integer>
+        <integer>513</integer>
       </dict>
       <dict>
         <key>angle</key>
@@ -70,17 +40,7 @@
         <key>name</key>
         <string>f.7.1</string>
         <key>x</key>
-        <integer>260</integer>
-        <key>y</key>
-        <integer>0</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>90</integer>
-        <key>name</key>
-        <string>f.2</string>
-        <key>x</key>
-        <integer>197</integer>
+        <integer>-44</integer>
         <key>y</key>
         <integer>0</integer>
       </dict>
@@ -90,9 +50,19 @@
         <key>name</key>
         <string>f.7</string>
         <key>x</key>
-        <real>55.2</real>
+        <real>105.2</real>
         <key>y</key>
         <integer>0</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>name</key>
+        <string>f</string>
+        <key>x</key>
+        <integer>0</integer>
+        <key>y</key>
+        <integer>360</integer>
       </dict>
     </array>
     <key>italicAngle</key>

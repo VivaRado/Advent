@@ -28,36 +28,6 @@
         <key>angle</key>
         <integer>90</integer>
         <key>name</key>
-        <string>f</string>
-        <key>x</key>
-        <integer>203</integer>
-        <key>y</key>
-        <integer>0</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>90</integer>
-        <key>name</key>
-        <string>f.1</string>
-        <key>x</key>
-        <integer>475</integer>
-        <key>y</key>
-        <integer>0</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>90</integer>
-        <key>name</key>
-        <string>f.2</string>
-        <key>x</key>
-        <integer>359</integer>
-        <key>y</key>
-        <integer>0</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>90</integer>
-        <key>name</key>
         <string>f.2.1.1</string>
         <key>x</key>
         <integer>51</integer>
@@ -66,13 +36,13 @@
       </dict>
       <dict>
         <key>angle</key>
-        <integer>90</integer>
-        <key>name</key>
-        <string>f.3</string>
-        <key>x</key>
-        <integer>387</integer>
-        <key>y</key>
         <integer>0</integer>
+        <key>name</key>
+        <string>f</string>
+        <key>x</key>
+        <integer>0</integer>
+        <key>y</key>
+        <integer>360</integer>
       </dict>
     </array>
     <key>italicAngle</key>

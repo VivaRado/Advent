@@ -13,7 +13,7 @@
       <key>com.fontlab.layer.service</key>
       <false/>
       <key>com.fontlab.layer.visible</key>
-      <true/>
+      <false/>
       <key>com.fontlab.layer.wireframe</key>
       <false/>
     </dict>

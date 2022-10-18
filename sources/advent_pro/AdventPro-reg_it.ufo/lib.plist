@@ -459,7 +459,6 @@
       <string>gamma_kappa</string>
       <string>lambda_lambda</string>
       <string>sigma_tau</string>
-      <string>uni00A0</string>
       <string>uni0400</string>
       <string>uni0401</string>
       <string>uni0402</string>
@@ -657,6 +656,13 @@
       <string>section</string>
       <string>Ohm</string>
       <string>increment</string>
+      <string>uni00B7</string>
+      <string>uni1E9E</string>
+      <string>uni2013</string>
+      <string>uni2014</string>
+      <string>uni2212</string>
+      <string>uni00BA</string>
+      <string>uni00A0</string>
     </array>
   </dict>
 </plist>

@@ -6,6 +6,10 @@
 ![Screenshot](README/assets/media/adventprovar_2020.gif)
 
 
+
+
+
+
 ##  **Introduction**
 
 Advent Pro is a modern display typeface, designed in 2007, this is the new version (4 of 2019-2020) that is delivered as a variable font, along with the classic formats. It supports 14 weights including italics. It is currently maintained and released by VivaRado, by it's original designer Andreas Kalpakidis. What is unique about this version is that thanks to the strict requirements of the Variable Format, all the glyph contours have been reworked, with amazing attention to quality. Then we compressed the kerning to a great degree making the font superbly kerned and compact at the same time.
@@ -21,10 +25,15 @@ If you need a font, use #AdventPro, everything else is your mind playing tricks 
 *  Michael LaGattuta <mjlagattuta@gmail.com>
 *  Behdad Esfahbod
 *  Marc Foley <m.foley.88@gmail.com>
+*  Yanone <post@yanone.de>
 
 ---
 
-### **Introduction / Profile**
+### **Profile**
+<sub>Introduction / Profile</sub>
+
+<br>
+
 
 *   Company: VivaRado LLP
 *   Designer: Andreas Kalpakidis
@@ -35,7 +44,11 @@ If you need a font, use #AdventPro, everything else is your mind playing tricks 
 ---
 
 
-### **Introduction / Project Overview**
+### **Project Overview**
+<sub>Introduction / Project Overview</sub>
+
+<br>
+
 
 *  Project Overview
 	*  background
@@ -50,13 +63,21 @@ If you need a font, use #AdventPro, everything else is your mind playing tricks 
 
 ---
 
-### **Introduction / Project Overview / Background**
+### **Background**
+<sub>Introduction / Project Overview / Background</sub>
+
+<br>
+
 
 Advent was originally designed during a two year period by Andreas Kalpakidis, in Athens and later in Komotini, Greece during 2006 to 2007. It was an attempt to break some of the Greek script rules and some of the Latin script rules on letterform grouping. All the letters have been in a sense simplified, and Greek Letters where fitted into Latin groups visually. The overall designed was intended to be light, the font is not intended for text but for headlines, logos, and other short message formats as a display font.
 
 ---
 
-### **Introduction / Project Overview / Need**
+### **Need**
+<sub>Introduction / Project Overview / Need</sub>
+
+<br>
+
 
 During 2007 there was a common problem of lack of Greek fonts, even though some agencies took this as an opportunity, Advent was released for free. It was a project that never intended to be something other than an expression of a minimal typographic style.
 
@@ -65,7 +86,11 @@ During 2007 there was a common problem of lack of Greek fonts, even though some 
 ---
 
 
-### **Introduction / Organisational Documents**
+### **Organisational Documents**
+<sub>Introduction / Organisational Documents</sub>
+
+<br>
+
 
 Documentation Types:
 
@@ -88,7 +113,11 @@ Drawbacks:
 
 ---
 
-### **Introduction / Phase Introduction**
+### **Phase Introduction**
+<sub>Introduction / Phase Introduction</sub>
+
+<br>
+
 
 **Initiation Phase**:
 
@@ -104,7 +133,11 @@ All the information on how Advent was updated, produced and offered.
 
 ---
 
-### **Introduction / Phase Introduction / Initiation Phase**
+### **Initiation Phase**
+<sub>Introduction / Phase Introduction / Initiation Phase</sub>
+
+<br>
+
 
 **Business Case**:
 
@@ -121,7 +154,11 @@ What are the benefits we are trying to get from the project and justification of
 
 ---
 
-### **Introduction / Phase Introduction / Initiation Phase / Business Case**
+### **Business Case**
+<sub>Introduction / Phase Introduction / Initiation Phase / Business Case</sub>
+
+<br>
+
 
 A business case captures the reasoning for initiating the redesign and variation of Advent.
 
@@ -133,7 +170,11 @@ A business case captures the reasoning for initiating the redesign and variation
 
 ---
 
-### **Introduction / Phase Introduction / Initiation Phase / Business Case / Solution Options**
+### **Solution Options**
+<sub>Introduction / Phase Introduction / Initiation Phase / Business Case / Solution Options</sub>
+
+<br>
+
 
 Identified Solution Options:
 	
@@ -142,13 +183,21 @@ Identified Solution Options:
 
 ---
 
-### **Introduction / Phase Introduction / Initiation Phase / Business Case / Strategic case**
+### **Strategic case**
+<sub>Introduction / Phase Introduction / Initiation Phase / Business Case / Strategic case</sub>
+
+<br>
+
 
 During the initiation of the redesign of Advent, VivaRado as the current vendor, had to undergo a tool design process, as there was a clear need for faster integration of the new design, we realised that we needed a tool to somehow control the decentralised, but very helpful UFO format.
 
 ---
 
-### **Introduction / Phase Introduction / Initiation Phase / Business Case / Management case**
+### **Management case**
+<sub>Introduction / Phase Introduction / Initiation Phase / Business Case / Management case</sub>
+
+<br>
+
 
 The management case tests the feasibility of the preferred option, in terms of its deliverability within various tolerances. 
 
@@ -159,7 +208,11 @@ By implementing a set of scripts that are now part of VRD TYPL. We could manage 
 
 ---
 
-### **Introduction / Phase Introduction / Initiation Phase / Business Case / Management case / Achievements Plan**
+### **Achievements Plan**
+<sub>Introduction / Phase Introduction / Initiation Phase / Business Case / Management case / Achievements Plan</sub>
+
+<br>
+
 
 1.  **Milestones**
 	1.  VRD TYPL
@@ -202,7 +255,11 @@ Image CupCake, Actual Cupcake Fairly Larger. Objects in ANSI are larger than the
 
 ---
 
-### **Introduction / Phase Introduction / Initiation Phase / Project Charter**
+### **Project Charter**
+<sub>Introduction / Phase Introduction / Initiation Phase / Project Charter</sub>
+
+<br>
+
 
 
 *  **Project Charter** Components ∞0.002:
@@ -213,7 +270,11 @@ Image CupCake, Actual Cupcake Fairly Larger. Objects in ANSI are larger than the
 
 ---
 
-### **Introduction / Phase Introduction / Initiation Phase / Project Charter / Project Introduction**
+### **Project Introduction**
+<sub>Introduction / Phase Introduction / Initiation Phase / Project Charter / Project Introduction</sub>
+
+<br>
+
 
 *  **Project Introduction** Components ∞0.002:
 
@@ -227,7 +288,11 @@ Image CupCake, Actual Cupcake Fairly Larger. Objects in ANSI are larger than the
 
 ---
 
-### **Introduction / Phase Introduction / Initiation Phase / Project Charter / Project Introduction / Project Statements**
+### **Project Statements**
+<sub>Introduction / Phase Introduction / Initiation Phase / Project Charter / Project Introduction / Project Statements</sub>
+
+<br>
+
 
 ####  Vision Statement:
 	
@@ -241,7 +306,11 @@ To expand our ideas about typography and contribute to language.
 ---
 
 
-### **Introduction / Phase Introduction / Initiation Phase / Project Charter / Project Introduction / Project Definition**
+### **Project Definition**
+<sub>Introduction / Phase Introduction / Initiation Phase / Project Charter / Project Introduction / Project Definition</sub>
+
+<br>
+
 
 *  **Problem** Components ∞0.001:
 	*  Problematic Vectors
@@ -256,7 +325,11 @@ To expand our ideas about typography and contribute to language.
 
 ---
 
-### **Introduction / Phase Introduction / Initiation Phase / Project Charter / Project Goals**
+### **Project Goals**
+<sub>Introduction / Phase Introduction / Initiation Phase / Project Charter / Project Goals</sub>
+
+<br>
+
 
 *  Goals for ∞ 3.000:
 	*  To bring an updated Advent Pro to the Variable format, 
@@ -270,7 +343,11 @@ To expand our ideas about typography and contribute to language.
 ---
 
 
-### **Introduction / Phase Introduction / Initiation Phase / Project Charter / Deliverables**
+### **Deliverables**
+<sub>Introduction / Phase Introduction / Initiation Phase / Project Charter / Deliverables</sub>
+
+<br>
+
 
 *  **Deliverables** Components ∞0.001:
 	*  Advent Pro Variable:
@@ -291,7 +368,11 @@ To expand our ideas about typography and contribute to language.
 	
 ---
 
-### **Introduction / Phase Introduction / Initiation Phase / Project Charter / Duration**
+### **Duration**
+<sub>Introduction / Phase Introduction / Initiation Phase / Project Charter / Duration</sub>
+
+<br>
+
 
 *  **Duration** of Advent ∞3.000:
 	*  22/08/2018 to 16/02/2019
@@ -302,7 +383,11 @@ To expand our ideas about typography and contribute to language.
 ---
 
 
-### **Introduction / Phase Introduction / Planning Phase**
+### **Planning Phase**
+<sub>Introduction / Phase Introduction / Planning Phase</sub>
+
+<br>
+
 
 The Planning Phase, is where the project solution is further developed in as much detail as possible and the steps necessary to meet the project’s objectives.
 
@@ -317,7 +402,11 @@ At this point, the project would have been planned in detail and is ready to be 
 
 ---
 
-### **Introduction / Phase Introduction / Planning Phase / Safe Planning**
+### **Safe Planning**
+<sub>Introduction / Phase Introduction / Planning Phase / Safe Planning</sub>
+
+<br>
+
 
 The project's **Work Planning / Project Plan** is created outlining the activities, tasks, dependencies, and timeframes.
 
@@ -333,7 +422,11 @@ The project's **Work Planning / Project Plan** is created outlining the activiti
 
 ---
 
-### **Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan**
+### **Project Plan**
+<sub>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan</sub>
+
+<br>
+
 
 Decide on the encoding sets and supported language scripts. Decide and plan the weights and how you will generate each weight. Understand the procedures and steps. Calculate or keep track of timelines, steps procedures and pitfalls.
 
@@ -349,13 +442,21 @@ Decide on the encoding sets and supported language scripts. Decide and plan the 
 
 ---
 
-### **Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Design**
+### **Design**
+<sub>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Design</sub>
+
+<br>
+
 
 Advent originally featured 7 weights of geometric sharp curved high rise forms and modernized Greek Letters. This realease features 14 weights, the original updated and improved forms along with italics.
 
 ---
 
-### **Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Production**
+### **Production**
+<sub>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Production</sub>
+
+<br>
+
 
 To produce the font, Illustrator and Fontlab was used originally in 2007, updating to Advent  Pro Variable in 2018, a set of scripts for Adobe Illustrator (JSX) and Fontlab (Python) where written, additionally python scripts and bash, for the composition and kerning. Later on VRD Typography Library was introduced allowing for easier modifications to the font by utilizing a new format - a container for UFO, called the EFO. VRD TYPL for kerning - and compression and Googles fontmake to compile the final variable font. 
 
@@ -363,7 +464,11 @@ Work was done on a Linux box with VirtualBox running Windows 8 and Mac OSX Lion.
 
 ---
 
-### **Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Masters and Instances**
+### **Masters and Instances**
+<sub>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Masters and Instances</sub>
+
+<br>
+
 
 The diagram shows the Original Masters (MO), Generated Masters (MG) that get adjusted manually and the automatically generated instances (MA).
 
@@ -565,7 +670,11 @@ image: #003, 0.001, svg, Advent Optical Size Axis (opsz), chart.
 
 ---
 
-### **Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Kerning**
+### **Kerning**
+<sub>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Kerning</sub>
+
+<br>
+
 
 With the help of Typefacet Integrated Autokern, we have obtained the first layer of kerning for the upright bold.
 By using VRD TYPL Kerning Adjust, 
@@ -578,7 +687,11 @@ During the process we attempted to maintain the Italics width according to the c
 
 ---
 
-### **Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Kerning / Standard Sets**
+### **Standard Sets**
+<sub>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Kerning / Standard Sets</sub>
+
+<br>
+
 
 All the letter combinations have been kerned but we also perform testing afterwards, for various reasons (Ommited) some kerning pairs are not included. This brings us to testing the kerning on a specific set of letters, the other letters are left to maintain the mechanical, automated kerning.
 
@@ -620,7 +733,11 @@ Version >4.000 is pending Cyrillic Kerning.
 
 ---
 
-### **Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Kerning / Results**
+### **Results**
+<sub>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Kerning / Results</sub>
+
+<br>
+
 
 The resulting kerning is:
 
@@ -635,14 +752,22 @@ More information in: [Kerning Pair Details](https://github.com/VivaRado/Advent/b
 
 ---
 
-### **Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Components**
+### **Components**
+<sub>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Components</sub>
+
+<br>
+
 
 Components are created by first running VRD/TYPL/SIMEX to obtain a component similarity index, then VRD/TYPL/COMPONENTS to Componentize the EFO,
 later you can export to Componentized UFOs.
 
 ---
 
-### **Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Scripts**
+### **Scripts**
+<sub>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Scripts</sub>
+
+<br>
+
 
 At this moment advent supports Latin, and Greek Encoding as ∞3.000.
 
@@ -724,7 +849,11 @@ We can then see that this glyph has been updated with the following procedures:
 
 ---
 
-### **Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Glyphs**
+### **Glyphs**
+<sub>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Glyphs</sub>
+
+<br>
+
 
 *  **Version ∞3.000**:
 	
@@ -736,7 +865,11 @@ We can then see that this glyph has been updated with the following procedures:
 
 ---
 
-### **Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Features**
+### **Features**
+<sub>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Features</sub>
+
+<br>
+
 
 Advent features at this moment include:
 
@@ -754,13 +887,21 @@ Advent features at this moment include:
 
 ---
 
-### **Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Hinting**
+### **Hinting**
+<sub>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Hinting</sub>
+
+<br>
+
 
 TrueType Hints
 
 ---
 
-### **Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Delivery**
+### **Delivery**
+<sub>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Delivery</sub>
+
+<br>
+
 
 Advent Pro Variable is delivered in 4 weight, 8 italic and 4 width Masters, variable formats come in flavors with segmented axes and a definitive version which includes all axes (wght,wdth,ital).
 
@@ -772,19 +913,26 @@ To keep things simple for the initial release, we don't generate intermediate in
 
 ---
 
-### **Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Usage**
+### **Usage**
+<sub>Introduction / Phase Introduction / Planning Phase / Safe Planning / Project Plan / Usage</sub>
+
+<br>
+
 
 [Variable format versions](https://github.com/VivaRado/Advent/blob/master/font_source/VAR).
 
 #### **To compile from UFO**
 
+
 ```fontmake -o variable -m '/font.designspace' --output-path '/adventpro-VF.ttf'```
 
 #### **Or from EFO**
 
+
 ```python3 '/efo_to_var.py' -s '/font_source/EFO' -o '/adventpro-VF.ttf'```
 
 #### **Compiled Using**
+
 
 ```
 fonttools==4.0.0
@@ -794,6 +942,7 @@ defcon==0.6.0
 ```
 
 #### **Compiling specific flavor**
+
 
 Advent 4 with the introduction of a new axes and a new weight (wide and black), comes in flavored designspace files where those masters are partitioned. You can find the designspaces for advent 4 in ```font_source/UFOs``` labeled as **adv4**.
 
@@ -843,12 +992,17 @@ Advent 4 with the introduction of a new axes and a new weight (wide and black), 
 
 #### **Compiling Everything**
 
+
 You can find ```font_source/compile_latest_variable_flavors.sh```, By modifying to your needs, you can compile each of the above versions.
 
 
 ---
 
-### **Introduction / Phase Introduction / Planning Phase / Safe Planning / Work Planning**
+### **Work Planning**
+<sub>Introduction / Phase Introduction / Planning Phase / Safe Planning / Work Planning</sub>
+
+<br>
+
 
 
 
@@ -924,7 +1078,11 @@ diagram: #006, ∞0.001, mermaid, Work Breakdown Structure of Advent for Kerning
 ---
 
 
-### **Introduction / Phase Introduction / Planning Phase / Safe Planning / Work Planning / Task Assignments**
+### **Task Assignments**
+<sub>Introduction / Phase Introduction / Planning Phase / Safe Planning / Work Planning / Task Assignments</sub>
+
+<br>
+
 
 *  **Assumptions Research**:
 	*  VivaRado, Andreas Kalpakidis (∞3,4)
@@ -954,13 +1112,21 @@ diagram: #006, ∞0.001, mermaid, Work Breakdown Structure of Advent for Kerning
 
 ---
 
-### **Introduction / Phase Introduction / Planning Phase / Safe Planning / Work Planning / Dependencies**
+### **Dependencies**
+<sub>Introduction / Phase Introduction / Planning Phase / Safe Planning / Work Planning / Dependencies</sub>
+
+<br>
+
 
 For the kerning we depend on TypeFacet Autokern.
 
 ---
 
-### **Introduction / Phase Introduction / Planning Phase / Safe Planning / Schedule Planning**
+### **Schedule Planning**
+<sub>Introduction / Phase Introduction / Planning Phase / Safe Planning / Schedule Planning</sub>
+
+<br>
+
 
 Overview:
 
@@ -1155,7 +1321,11 @@ Task Codes Versioned:
 
 ---
 
-### **Introduction / Phase Introduction / Planning Phase / Safe Planning / Schedule Planning / Timeline**
+### **Timeline**
+<sub>Introduction / Phase Introduction / Planning Phase / Safe Planning / Schedule Planning / Timeline</sub>
+
+<br>
+
 
 
 -  July 01 2018: Start of Redesign
@@ -1174,7 +1344,11 @@ Task Codes Versioned:
 ---
 
 
-### **Introduction / Phase Introduction / Planning Phase / Stakeholders**
+### **Stakeholders**
+<sub>Introduction / Phase Introduction / Planning Phase / Stakeholders</sub>
+
+<br>
+
 
 We identify the **Stakeholders** by a **Personnel Plan** and create a **Communication Plan** to keep the **Stakeholders** informed.
 
@@ -1191,7 +1365,11 @@ We identify the **Stakeholders** by a **Personnel Plan** and create a **Communic
 	*  Kern Testing Team (KeT)
 	*  Quality Assurance Team (QaT)
 
-### **Introduction / Phase Introduction / Planning Phase / Stakeholders / Personnel Plan**
+### **Personnel Plan**
+<sub>Introduction / Phase Introduction / Planning Phase / Stakeholders / Personnel Plan</sub>
+
+<br>
+
 
 *  Personnel Plan
 	*  Organizational Structure
@@ -1209,7 +1387,11 @@ We identify the **Stakeholders** by a **Personnel Plan** and create a **Communic
 
 ---
 
-### **Introduction / Phase Introduction / Planning Phase / Stakeholders / Communication Plan**
+### **Communication Plan**
+<sub>Introduction / Phase Introduction / Planning Phase / Stakeholders / Communication Plan</sub>
+
+<br>
+
 
 *  Communication Plan
 	*  Stakeholder Feedback Mechanisms
@@ -1222,7 +1404,11 @@ We identify the **Stakeholders** by a **Personnel Plan** and create a **Communic
 ---
 
 
-### **Introduction / Phase Introduction / Planning Phase / Quality Plan**
+### **Quality Plan**
+<sub>Introduction / Phase Introduction / Planning Phase / Quality Plan</sub>
+
+<br>
+
 
 A **Quality Plan** describes the activities, standards, tools and processes necessary to achieve quality in the delivery of a project.
 
@@ -1236,7 +1422,11 @@ We can now create a **Quality Plan** by identifying the valid **Quality Targets*
 
 ---
 
-### **Introduction / Phase Introduction / Planning Phase / Quality Plan / Quality Targets**
+### **Quality Targets**
+<sub>Introduction / Phase Introduction / Planning Phase / Quality Plan / Quality Targets</sub>
+
+<br>
+
 
 **Quality Targets** we want to achieve and what are their **Acceptance Criteria**, **Quality Management Procedures**, for each **Applicable Category**
 
@@ -1260,7 +1450,11 @@ We can now create a **Quality Plan** by identifying the valid **Quality Targets*
 
 ---
 
-### **Introduction / Phase Introduction / Planning Phase / Quality Plan / Quality Management**
+### **Quality Management**
+<sub>Introduction / Phase Introduction / Planning Phase / Quality Plan / Quality Management</sub>
+
+<br>
+
 
 **Quality Management**, the nature of the **Audits**, **Work Verification** by assigning responsible personnel for **Task Fulfillment** and **Task Checking**.
 
@@ -1277,6 +1471,7 @@ We can now create a **Quality Plan** by identifying the valid **Quality Targets*
 ---
 
 ### **Glossary**
+
 
 **LB**: Letter Based, Alphabet / Complete Range.
 
@@ -1308,6 +1503,7 @@ We can now create a **Quality Plan** by identifying the valid **Quality Targets*
 
 ---
 ### **Reference**
+
 
 VRD TYPL/kerning_adjust.py: [VRD-Typography-Library-Kerning-Adjust](https://github.com/VivaRado/VRD-Typography-Library/tree/master/Lib/kerning_adjust)
 

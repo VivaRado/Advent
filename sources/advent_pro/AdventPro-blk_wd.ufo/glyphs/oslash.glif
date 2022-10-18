@@ -6,8 +6,10 @@
     <component base="o"/>
     <contour>
       <point x="569" y="514" type="line"/>
+      <point x="366.683" y="240.841" type="line"/>
       <point x="216" y="-20" type="line"/>
       <point x="87" y="-20" type="line"/>
+      <point x="294.188" y="268.378" type="line"/>
       <point x="437" y="514" type="line"/>
     </contour>
   </outline>

@@ -25,12 +25,12 @@
       <point x="328" y="666" type="curve"/>
       <point x="343" y="709" type="line"/>
       <point x="424" y="709"/>
-      <point x="484" y="701"/>
-      <point x="519" y="678" type="curve"/>
-      <point x="556" y="656"/>
-      <point x="571" y="616"/>
+      <point x="483.485" y="700.197"/>
+      <point x="519" y="678" type="curve" smooth="yes"/>
+      <point x="555.503" y="655.185"/>
+      <point x="571.249" y="615.946"/>
       <point x="558" y="555" type="curve" smooth="yes"/>
-      <point x="546" y="501"/>
+      <point x="546.249" y="500.945"/>
       <point x="535" y="445"/>
     </contour>
     <contour>
@@ -49,4 +49,10 @@
       <point x="450" y="429" type="curve"/>
     </contour>
   </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.6,0.6,0</string>
+  </dict>
+  </lib>
 </glyph>

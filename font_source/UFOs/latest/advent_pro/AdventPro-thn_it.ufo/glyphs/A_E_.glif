@@ -13,10 +13,10 @@
       <point x="865" y="700" type="line"/>
       <point x="861" y="680" type="line"/>
       <point x="548" y="680" type="line"/>
-      <point x="492" y="414" type="line"/>
-      <point x="720" y="414" type="line"/>
-      <point x="708" y="394" type="line"/>
-      <point x="487" y="394" type="line"/>
+      <point x="469.144" y="300" type="line"/>
+      <point x="697.144" y="300" type="line"/>
+      <point x="685.144" y="280" type="line"/>
+      <point x="464.144" y="280" type="line"/>
       <point x="408" y="20" type="line"/>
       <point x="721" y="20" type="line"/>
       <point x="716" y="0" type="line"/>
@@ -28,6 +28,7 @@
       <point x="447" y="680" type="line"/>
     </contour>
   </outline>
+  <guideline angle="0" x="0" y="300"/>
   <lib>
   <dict>
   <key>public.markColor</key>

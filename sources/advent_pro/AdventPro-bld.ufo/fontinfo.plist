@@ -36,33 +36,13 @@
       </dict>
       <dict>
         <key>angle</key>
-        <integer>90</integer>
-        <key>name</key>
-        <string>f.1</string>
-        <key>x</key>
-        <integer>513</integer>
-        <key>y</key>
         <integer>0</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>90</integer>
-        <key>name</key>
-        <string>f.2</string>
-        <key>x</key>
-        <integer>398</integer>
-        <key>y</key>
-        <integer>0</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>90</integer>
         <key>name</key>
         <string>f</string>
         <key>x</key>
-        <integer>51</integer>
-        <key>y</key>
         <integer>0</integer>
+        <key>y</key>
+        <integer>360</integer>
       </dict>
     </array>
     <key>italicAngle</key>

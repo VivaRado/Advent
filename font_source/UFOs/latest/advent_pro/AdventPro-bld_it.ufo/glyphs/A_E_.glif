@@ -5,8 +5,8 @@
   <outline>
     <contour>
       <point x="388" y="0" type="line"/>
-      <point x="429" y="194" type="line"/>
-      <point x="264" y="194" type="line"/>
+      <point x="452.851" y="307" type="line"/>
+      <point x="329.298" y="307" type="line"/>
       <point x="151" y="0" type="line"/>
       <point x="21" y="0" type="line"/>
       <point x="442" y="700" type="line"/>
@@ -22,12 +22,13 @@
       <point x="721" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="326" y="301" type="line"/>
-      <point x="452" y="301" type="line"/>
+      <point x="391.298" y="414" type="line"/>
+      <point x="475.851" y="414" type="line"/>
       <point x="513" y="590" type="line"/>
       <point x="493" y="590" type="line"/>
     </contour>
   </outline>
+  <guideline angle="0" x="0" y="300"/>
   <lib>
   <dict>
   <key>public.markColor</key>
