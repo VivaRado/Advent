@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04D0" format="2">
-  <advance width="795" height="962"/>
+  <advance width="795"/>
   <unicode hex="04D0"/>
   <outline>
     <component base="Abreve"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Ӑ</string>
   <key>public.markColor</key>
-  <string>1,0.6,0.994,0</string>
+  <string>1,0.6,0.994,1</string>
   </dict>
   </lib>
 </glyph>

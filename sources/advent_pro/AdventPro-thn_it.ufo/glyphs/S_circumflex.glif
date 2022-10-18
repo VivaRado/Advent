@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Scircumflex" format="2">
-  <advance width="525" height="962"/>
+  <advance width="525"/>
   <unicode hex="015C"/>
   <outline>
     <component base="circumflexcomb" xOffset="160" yOffset="150"/>
@@ -9,7 +9,7 @@
   <lib>
   <dict>
   <key>public.markColor</key>
-  <string>1,0.6,0.994,0</string>
+  <string>1,0.6,0.994,1</string>
   </dict>
   </lib>
 </glyph>

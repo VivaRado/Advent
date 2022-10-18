@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni045E" format="2">
-  <advance width="714" height="962"/>
+  <advance width="714"/>
   <unicode hex="045E"/>
   <outline>
     <component base="brevecomb" xOffset="213.273" yOffset="-34"/>
@@ -8,8 +8,10 @@
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.recipe</key>
+  <string>ў</string>
   <key>public.markColor</key>
-  <string>1,0.6,0.994,0</string>
+  <string>1,0.6,0.994,1</string>
   </dict>
   </lib>
 </glyph>

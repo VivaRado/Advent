@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04AA" format="2">
-  <advance width="603" height="962"/>
+  <advance width="603"/>
   <unicode hex="04AA"/>
   <outline>
     <component base="descendercomb" xOffset="169.287" yOffset="-1"/>
@@ -9,7 +9,7 @@
   <lib>
   <dict>
   <key>public.markColor</key>
-  <string>0.604,0.6,1,0</string>
+  <string>0.604,0.6,1,1</string>
   </dict>
   </lib>
 </glyph>

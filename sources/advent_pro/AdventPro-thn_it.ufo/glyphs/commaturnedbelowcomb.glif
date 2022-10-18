@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="commaturnedbelowcomb" format="2">
-  <advance width="267" height="962"/>
+  <advance width="267"/>
   <outline>
     <contour>
       <point x="74" y="-167" type="line"/>
@@ -24,7 +24,7 @@
   <lib>
   <dict>
   <key>public.markColor</key>
-  <string>0.6,0.997,1,0</string>
+  <string>0.6,0.997,1,1</string>
   </dict>
   </lib>
 </glyph>

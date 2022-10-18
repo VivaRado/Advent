@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni041C" format="2">
+  <advance width="920"/>
+  <outline>
+    <contour>
+      <point x="370" y="700" type="line"/>
+      <point x="388" y="373" type="line"/>
+      <point x="549" y="700" type="line"/>
+      <point x="728" y="700" type="line"/>
+      <point x="609" y="0" type="line"/>
+      <point x="429" y="0" type="line"/>
+      <point x="482" y="249" type="line"/>
+      <point x="371" y="0" type="line"/>
+      <point x="248" y="0" type="line"/>
+      <point x="245" y="250" type="line"/>
+      <point x="192" y="0" type="line"/>
+      <point x="11" y="0" type="line"/>
+      <point x="190" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>М</string>
+  <key>public.markColor</key>
+  <string>0.604,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

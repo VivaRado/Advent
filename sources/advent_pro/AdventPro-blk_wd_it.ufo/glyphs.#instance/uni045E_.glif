@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni045E" format="2">
+  <advance width="725"/>
+  <outline>
+    <contour>
+      <point x="561.773" y="699" type="line"/>
+      <point x="559.773" y="690" type="line" smooth="yes"/>
+      <point x="543.773" y="616"/>
+      <point x="467.773" y="553"/>
+      <point x="392.773" y="553" type="curve" smooth="yes"/>
+      <point x="315.773" y="553"/>
+      <point x="265.773" y="616"/>
+      <point x="281.773" y="690" type="curve" smooth="yes"/>
+      <point x="283.773" y="699" type="line"/>
+      <point x="403.773" y="699" type="line"/>
+      <point x="402.773" y="695" type="line"/>
+      <point x="400.773" y="685"/>
+      <point x="407.773" y="674"/>
+      <point x="418.773" y="674" type="curve" smooth="yes"/>
+      <point x="429.773" y="674"/>
+      <point x="440.773" y="685"/>
+      <point x="442.773" y="695" type="curve"/>
+      <point x="443.773" y="699" type="line"/>
+    </contour>
+    <contour>
+      <point x="56" y="-209" type="line"/>
+      <point x="158" y="-3" type="line"/>
+      <point x="126" y="500" type="line"/>
+      <point x="310" y="500" type="line"/>
+      <point x="303" y="274" type="line"/>
+      <point x="392" y="500" type="line"/>
+      <point x="582" y="500" type="line"/>
+      <point x="240" y="-209" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>ў</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  </dict>
+  </lib>
+</glyph>

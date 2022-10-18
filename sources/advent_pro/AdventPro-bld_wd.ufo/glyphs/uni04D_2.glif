@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni04D2" format="2">
-  <advance width="793" height="962"/>
+  <advance width="793"/>
   <unicode hex="04D2"/>
   <outline>
     <component base="Adieresis"/>
   </outline>
   <lib>
   <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Ӓ</string>
   <key>public.markColor</key>
-  <string>1,0.6,0.994,0</string>
+  <string>1,0.6,0.994,1</string>
   </dict>
   </lib>
 </glyph>

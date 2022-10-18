@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04C1" format="2">
+  <advance width="1054"/>
+  <outline>
+    <contour>
+      <point x="680.458" y="881" type="line"/>
+      <point x="678.458" y="872" type="line" smooth="yes"/>
+      <point x="662.458" y="798"/>
+      <point x="586.458" y="735"/>
+      <point x="511.458" y="735" type="curve" smooth="yes"/>
+      <point x="434.458" y="735"/>
+      <point x="384.458" y="798"/>
+      <point x="400.458" y="872" type="curve" smooth="yes"/>
+      <point x="402.458" y="881" type="line"/>
+      <point x="522.458" y="881" type="line"/>
+      <point x="521.458" y="877" type="line"/>
+      <point x="519.458" y="867"/>
+      <point x="526.458" y="856"/>
+      <point x="537.458" y="856" type="curve" smooth="yes"/>
+      <point x="548.458" y="856"/>
+      <point x="559.458" y="867"/>
+      <point x="561.458" y="877" type="curve"/>
+      <point x="562.458" y="881" type="line"/>
+    </contour>
+    <contour>
+      <point x="519" y="0" type="line"/>
+      <point x="514" y="254" type="line"/>
+      <point x="502" y="254" type="line"/>
+      <point x="448" y="0" type="line"/>
+      <point x="269" y="0" type="line"/>
+      <point x="323" y="254" type="line"/>
+      <point x="311" y="254" type="line"/>
+      <point x="198" y="0" type="line"/>
+      <point x="18" y="0" type="line"/>
+      <point x="175" y="351" type="line"/>
+      <point x="178" y="700" type="line"/>
+      <point x="355" y="700" type="line"/>
+      <point x="350" y="432" type="line"/>
+      <point x="361" y="432" type="line"/>
+      <point x="418" y="700" type="line"/>
+      <point x="597" y="700" type="line"/>
+      <point x="540" y="432" type="line"/>
+      <point x="551" y="432" type="line"/>
+      <point x="660" y="700" type="line"/>
+      <point x="841" y="700" type="line"/>
+      <point x="692" y="351" type="line"/>
+      <point x="702" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.fontlab.recipe</key>
+  <string>Ӂ</string>
+  <key>public.markColor</key>
+  <string>1,0.6,0.994,1</string>
+  </dict>
+  </lib>
+</glyph>
