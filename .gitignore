@@ -19,8 +19,8 @@ temp/
 .DS_Store
 /font_source/EFO/groups/_old*
 /font_source/EFO/groups/_old/
-/font_source/UFOs/older_versions*
-/font_source/UFOs/older_versions/
+
+/font_source/UFOs/older_versions
 
 README/*.py
 README/__pycache__
