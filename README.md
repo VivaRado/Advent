@@ -3,12 +3,12 @@
 **Advent** is a project of **VivaRado**, thanks goes to all the contributors, **Google Fonts** and all the people who use it!
 
 
-![Screenshot](assets/media/adventprovar_2020.gif)
+![Screenshot](README/assets/media/adventprovar_2020.gif)
 
 
 ##  **Introduction**
 
-Advent Pro is a modern display typeface, designed in 2007, this is the new version (4 of 2019-2020) that is delivered as a variable font, along with the classic formats. It supports 14 weights including italics. It is currently maintained and released by VivaRado, by it's original designer Andreas Kalpakidis. What is unique about this version is that thanks to the strict requirements of the Variable Format, all the glyph contours have been reworked, with amazing attention to quality. Then we compressed the kerning to a great degree making the font superbly kerned and compact at the same time.
+Advent Pro is a modern display typeface, designed in 2007, now delivered as a variable font, along with the classic formats. Ships in 14 weights including italics, wide and wide italics. Maintained and released by VivaRado with the original designer Andreas Kalpakidis on board, consulting is also provided by experts from Google. The strict requirements of the Variable Format pushed us to carefully rework all the glyph contours and by using home made kerning compression algorithms along with manual adjustments we achieved superb tight kerning.
 
 If you need a font, use #AdventPro, everything else is your mind playing tricks on you.
 
@@ -368,7 +368,7 @@ Work was done on a Linux box with VirtualBox running Windows 8 and Mac OSX Lion.
 The diagram shows the Original Masters (MO), Generated Masters (MG) that get adjusted manually and the automatically generated instances (MA).
 
 
-![Masters and Instances](assets/media/advent_masters_sankey.svg)
+![Masters and Instances](README/assets/media/advent_masters_sankey.svg)
 
 image: #001, 0.002, svg, Advent Masters and Instances sankey.
 
@@ -558,7 +558,7 @@ The masters have been set as follows:
 | blk                | 17     |
 
 
-![adv_opsz](assets/media/advent_optical.svg)
+![adv_opsz](README/assets/media/advent_optical.svg)
 
 image: #003, 0.001, svg, Advent Optical Size Axis (opsz), chart.
 

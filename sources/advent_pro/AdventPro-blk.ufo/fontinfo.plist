@@ -7,7 +7,7 @@
   <key>capHeight</key>
   <integer>700</integer>
   <key>copyright</key>
-  <string>Copyright (c) 2019 VivaRado Andreas Kalpakidis (support@vivarado.com)</string>
+  <string>Copyright 2018 The Advent Pro Project Authors (https://github.com/VivaRado/Advent)</string>
   <key>descender</key>
   <integer>-232</integer>
   <key>familyName</key>
@@ -124,6 +124,10 @@
   <integer>-232</integer>
   <key>openTypeHheaLineGap</key>
   <integer>-0</integer>
+  <key>openTypeNameLicense</key>
+  <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL</string>
+  <key>openTypeNameLicenseURL</key>
+  <string>https://scripts.sil.org/OFL</string>
   <key>openTypeNameDesigner</key>
   <string>VivaRado, Andreas Kalpakidis</string>
   <key>openTypeNameDesignerURL</key>
@@ -137,7 +141,7 @@
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Bold</string>
   <key>openTypeNameVersion</key>
-  <string>1.0</string>
+  <string>Version 2.100</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -245,9 +249,9 @@
   <key>unitsPerEm</key>
   <integer>1000</integer>
   <key>versionMajor</key>
-  <integer>1</integer>
+  <integer>2</integer>
   <key>versionMinor</key>
-  <integer>0</integer>
+  <integer>100</integer>
   <key>xHeight</key>
   <integer>501</integer>
   <key>year</key>
