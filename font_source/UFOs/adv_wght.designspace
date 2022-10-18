@@ -4,7 +4,7 @@
 		</axis>
 	</axes>
 	<sources>
-		<source familyname="Advent Pro" filename="advent_pro/AdventPro-thn.ufo" name="master_0">
+		<source familyname="Advent Pro" filename="adventpro/AdventPro-thn.ufo" name="master_0">
 			<lib copy="1" />
 			<info copy="1" />
 			<kerning copy="1" />
@@ -12,17 +12,17 @@
 				<dimension name="Weight" xvalue="100" />
 			</location>
 		</source>
-		<source familyname="Advent Pro" filename="advent_pro/AdventPro-reg.ufo" name="master_1">
+		<source familyname="Advent Pro" filename="adventpro/AdventPro-reg.ufo" name="master_1">
 			<location>
 				<dimension name="Weight" xvalue="400" />
 			</location>
 		</source>
-		<source familyname="Advent Pro" filename="advent_pro/AdventPro-bld.ufo" name="master_2">
+		<source familyname="Advent Pro" filename="adventpro/AdventPro-bld.ufo" name="master_2">
 			<location>
 				<dimension name="Weight" xvalue="700" />
 			</location>
 		</source>
-		<source familyname="Advent Pro" filename="advent_pro/AdventPro-blk.ufo" name="master_3">
+		<source familyname="Advent Pro" filename="adventpro/AdventPro-blk.ufo" name="master_3">
 			<location>
 				<dimension name="Weight" xvalue="900" />
 			</location>
