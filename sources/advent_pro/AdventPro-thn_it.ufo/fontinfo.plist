@@ -7,7 +7,7 @@
   <key>capHeight</key>
   <integer>700</integer>
   <key>copyright</key>
-  <string>Copyright (c) 2019 VivaRado Andreas Kalpakidis (support@vivarado.com)</string>
+  <string>Copyright 2018 The Advent Pro Project Authors (https://github.com/googlefonts/Advent)</string>
   <key>descender</key>
   <integer>-232</integer>
   <key>familyName</key>
@@ -107,7 +107,7 @@
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Thin Italic</string>
   <key>openTypeNameVersion</key>
-  <string>1.0</string>
+  <string>3.000</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
