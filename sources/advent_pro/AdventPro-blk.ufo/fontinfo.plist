@@ -11,7 +11,7 @@
   <key>descender</key>
   <integer>-232</integer>
   <key>familyName</key>
-  <string>AdventPro</string>
+  <string>Advent Pro</string>
   <key>guidelines</key>
   <array>
   <dict>
@@ -137,7 +137,7 @@
   <key>openTypeNameManufacturerURL</key>
   <string>www.vivarado.com</string>
   <key>openTypeNamePreferredFamilyName</key>
-  <string>AdventPro</string>
+  <string>Advent Pro</string>
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Bold</string>
   <key>openTypeNameVersion</key>
@@ -231,7 +231,7 @@
   <key>postscriptForceBold</key>
   <false/>
   <key>postscriptFullName</key>
-  <string>AdventPro Bold</string>
+  <string>Advent Pro Bold</string>
   <key>postscriptIsFixedPitch</key>
   <false/>
   <key>postscriptUnderlinePosition</key>
@@ -241,7 +241,7 @@
   <key>postscriptWeightName</key>
   <string>Bold</string>
   <key>styleMapFamilyName</key>
-  <string>AdventPro</string>
+  <string>Advent Pro</string>
   <key>styleMapStyleName</key>
   <string>regular</string>
   <key>styleName</key>
