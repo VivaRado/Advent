@@ -1,8 +1,8 @@
 <designspace format="3">
 	<axes>
-		<axis default="400" maximum="900" minimum="100" name="Weight" tag="wght">
-		</axis>
 		<axis default="100" maximum="200" minimum="100" name="Width" tag="wdth">
+		</axis>
+		<axis default="400" maximum="900" minimum="100" name="Weight" tag="wght">
 		</axis>
 		<axis default="0" maximum="1" minimum="0" name="Italic" tag="ital">
 		</axis>
