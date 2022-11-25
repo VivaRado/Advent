@@ -4,7 +4,6 @@
 <dict>
 	<key>public.glyphOrder</key>
 	<array>
-		<string>.notdef</string>
 		<string>A</string>
 		<string>Aacute</string>
 		<string>Abreve</string>

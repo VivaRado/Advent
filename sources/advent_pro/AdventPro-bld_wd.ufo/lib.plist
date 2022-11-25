@@ -19,7 +19,6 @@
   </dict>
   <key>public.glyphOrder</key>
   <array>
-    <string>.notdef</string>
     <string>NULL</string>
     <string>CR</string>
     <string>space</string>
