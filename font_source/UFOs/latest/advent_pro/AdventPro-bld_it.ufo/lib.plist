@@ -656,6 +656,10 @@
     <string>section</string>
     <string>Ohm</string>
     <string>increment</string>
+    <string>ordmasculine</string>
+    <string>periodcentered</string>
+    <string>endash</string>
+    <string>emdash</string>
   </array>
 </dict>
 </plist>

@@ -1276,5 +1276,13 @@
   <string>zero.glif</string>
   <key>zeta</key>
   <string>zeta.glif</string>
+  <key>endash</key>
+  <string>endash.glif</string>
+  <key>emdash</key>
+  <string>emdash.glif</string>
+  <key>ordmasculine</key>
+  <string>ordmasculine.glif</string>
+  <key>periodcentered</key>
+  <string>periodcentered.glif</string>
 </dict>
 </plist>
