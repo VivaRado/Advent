@@ -21,6 +21,7 @@ If you need a font, use #AdventPro, everything else is your mind playing tricks 
 *  Michael LaGattuta <mjlagattuta@gmail.com>
 *  Behdad Esfahbod
 *  Marc Foley <m.foley.88@gmail.com>
+*  Yanone
 
 ---
 
